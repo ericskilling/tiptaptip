@@ -1,0 +1,26 @@
+---
+title: 'TTT 154: The Hunger'
+date: '2010-04-12T04:44:52+00:00'
+authors: ["eric", "rachelle"]
+categories:
+- episodes
+tags:
+- podcast
+- yyc
+cover:
+  alt: dog
+  image: /images/dog.jpg
+podcast_file: http://media.libsyn.com/media/tiptaptip/ttt154.mp3
+url: /2010/04/ttt-154-the-hunger/
+---
+![](/images/dog.jpg)
+
+Hot diggity dog!
+
+**Episode Links:**
+
+- Lena - Satellite (Germany's Eurovision 2010 entry)
+- Malcolm Lincoln - Siren (Estonia's Eurovision 2010 entry)
+- [Give me a motherfucking cheeseburger](http://worldstarhiphop.com/videos/video.php?v=wshhHv4DfzeY6B0cxJ5c)
+
+

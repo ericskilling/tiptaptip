@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ducky-Idol on Tip Tap Tip</title>
+    <link>http://localhost:1313/tags/ducky-idol/</link>
+    <description>Recent content in Ducky-Idol on Tip Tap Tip</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Feb 2009 05:25:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ducky-idol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTT 59: We&#39;re Done Professionally</title>
+      <link>http://localhost:1313/2009/02/ttt-59-were-done-professionally/</link>
+      <pubDate>Sat, 07 Feb 2009 05:25:12 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/2009/02/ttt-59-were-done-professionally/</guid> 
+      <description>&lt;p&gt;We managed to snag our friend Shane for this episode on the promise of free dinner. Sure, it was just sloppy joes but a meals a meal.
+&lt;strong&gt;Guest:&lt;/strong&gt; Shane
+&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://duckyspub.com/idol/index.htm&#34;&gt;Ducky&amp;rsquo;s Idol&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

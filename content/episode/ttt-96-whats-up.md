@@ -1,0 +1,27 @@
+---
+title: 'TTT 96: What''s Up?'
+date: '2009-07-11T04:53:32+00:00'
+authors: ["eric", "rachelle"]
+categories:
+- episodes
+tags:
+- bang-bang-lady
+- podcast
+- yyc
+cover:
+  alt: whatsup
+  image: /images/whatsup.jpg
+podcast_file: http://media.libsyn.com/media/tiptaptip/ttt96.mp3
+url: /2009/07/ttt-96-whats-up/
+---
+![whatsup](/images/whatsup.jpg)
+
+What goes around comes around. And what goes around that gets us in FFWD Weekly.
+
+**Episode Links**
+
+- [Bang Bang Lady](http://www.bangbanglady.com/)
+- Eddie Murphy - Whatzupwitu
+- FFWD Weekly
+
+

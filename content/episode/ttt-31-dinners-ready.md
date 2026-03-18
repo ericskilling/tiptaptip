@@ -1,0 +1,23 @@
+---
+title: 'TTT 31: Dinner''s Ready'
+date: '2008-10-07T03:42:47+00:00'
+authors: ["eric", "rachelle"]
+categories:
+- episodes
+tags:
+- beverly-hills-chihuahua
+- podcast
+- yyc
+cover:
+  alt: dinner-is-ready
+  image: /images/dinner-is-ready1.jpg
+podcast_file: http://archive.org/download/ttt31/ttt31.mp3
+url: /2008/10/ttt-31-dinners-ready/
+---
+Eric & Rachelle record this episode while waiting for dinner to arrive. It does and the episode continues and we discuss things like British boobs and why dummies have made a movie about a talking chihuahua number one this week.
+**Episode Links:**
+
+- [What we ate](http://www.manies.ca/)
+- [Beverly Hills Chihuahua](http://disney.go.com/disneypictures/beverlyhillschihuahua/)
+
+Download the episode

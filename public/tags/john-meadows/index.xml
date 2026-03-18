@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>John-Meadows on Tip Tap Tip</title>
+    <link>http://localhost:1313/tags/john-meadows/</link>
+    <description>Recent content in John-Meadows on Tip Tap Tip</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Nov 2010 05:07:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/john-meadows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTT 196: Birdfeeder</title>
+      <link>http://localhost:1313/2010/10/ttt-196-birdfeeder/</link>
+      <pubDate>Mon, 01 Nov 2010 05:07:35 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/2010/10/ttt-196-birdfeeder/</guid> 
+      <description>&lt;p&gt;Feed me!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip Tap Tip Song Contest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to feature your musical ability on our show. Remix or re-record our theme in any style and we&amp;rsquo;ll play it. Best entry wins a surprise package from us. Send your MP3 to &lt;a href=&#34;mailto:info@tiptaptip.com&#34;&gt;info@tiptaptip.com&lt;/a&gt; &lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caligula Trailer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/images/tiptaptipjm.mp3&#34;&gt;Tip Tap Tip song contest entry by John Meadows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

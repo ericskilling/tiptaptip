@@ -1,0 +1,25 @@
+---
+title: 'TTT 305: The Shit Shack'
+date: '2012-05-03T04:47:14+00:00'
+authors: ["eric", "rachelle"]
+categories:
+- episodes
+tags:
+- fashion-shack
+- podcast
+- second-rule
+- yyc
+cover:
+  alt: shack
+  image: /images/shack.jpg
+podcast_file: https://archive.org/download/tiptaptip/ttt305.mp3
+url: /2012/05/ttt-305-the-shit-shack/
+---
+How's it going y'all? We here at the Tip Tap Tip Shit Shack are back with another episode. We gots folks dying, dolphins raping, and young 'uns being right stupid. Yup!
+
+**Episode Links:**
+
+- 3 Second Rule
+- Fashion Shack
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Killing-Machine on Tip Tap Tip</title>
+    <link>http://localhost:1313/tags/killing-machine/</link>
+    <description>Recent content in Killing-Machine on Tip Tap Tip</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Dec 2008 05:24:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/killing-machine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTT 48: Swordplay</title>
+      <link>http://localhost:1313/2008/12/ttt-48-swordplay/</link>
+      <pubDate>Wed, 17 Dec 2008 05:24:59 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/2008/12/ttt-48-swordplay/</guid> 
+      <description>&lt;p&gt;A live show always seems like a good idea until you get weirded out by the idea that people are actually listening to you live. Funny how that works.
+&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.engadget.com/2008/12/08/the-hovering-multiple-kill-vehicle-is-simply-a-waking-nightmare/&#34;&gt;Killing Machine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+title: "Tip Tap Tip"
+baseURL: "https://tiptaptip.com"
+theme: "castanet"
+
+params:
+  # Add this line to tell Castanet to treat 'posts' as podcast episodes
+  mainSections: ["posts"]
+  description: "A podcast about technology, geek culture, and Eurovision."
+  
+  # Castanet REQUIRES this block to render the sidebar
+  authors:
+    eric:
+      name: "Eric"
+      thumbnail: "/images/eric.jpg"
+      bio: "Graphic designer and co-host."
+    rachelle:
+      name: "Rachelle"
+      thumbnail: "/images/rachelle.jpg"
+      bio: "Artist and co-host."
+
+  # Podcast specific settings for the RSS feed
+  itunes_categories:
+    - "Technology"
+  itunes_explicit: "yes"
+  itunes_author: "Eric & Rachelle"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sunset-Daze on Tip Tap Tip</title>
+    <link>http://localhost:1313/tags/sunset-daze/</link>
+    <description>Recent content in Sunset-Daze on Tip Tap Tip</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jun 2010 04:24:51 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sunset-daze/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTT 164: Rugged Good Looks</title>
+      <link>http://localhost:1313/2010/06/ttt-164-rugged-good-looks/</link>
+      <pubDate>Thu, 03 Jun 2010 04:24:51 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/2010/06/ttt-164-rugged-good-looks/</guid> 
+      <description>&lt;p&gt;Shake your money maker.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/2010/05/on-podfading/&#34;&gt;Tip Tap Tip: on Podfading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sunset Daze&lt;/li&gt;
+&lt;li&gt;Ladies: Your rack will look great in our shirt&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

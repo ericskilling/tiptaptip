@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on Tip Tap Tip</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Tip Tap Tip</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Aug 2014 22:36:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 23 Aug 2014 22:36:36 +0000</pubDate>
+       <guid isPermaLink="false">https://tiptaptip.com/?page_id=2316</guid> 
+      <description>&lt;p&gt;&lt;strong&gt;Call Us! ‪ &lt;a href=&#34;tel:310-584-7827%E2%80%AC&#34;&gt;310-584-7827‬&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Have something you want to say? Send it here!&lt;/p&gt;
+&lt;p&gt;[contact-form &lt;a href=&#34;mailto:to=&#39;info@tiptaptip.com&#34;&gt;to=&#39;info@tiptaptip.com&lt;/a&gt;&amp;rsquo; subject=&amp;lsquo;Contact Form from Tip Tap Tip website&amp;rsquo;][contact-field label=&amp;lsquo;Name&amp;rsquo; type=&amp;lsquo;name&amp;rsquo; required=&amp;lsquo;1&amp;rsquo;/][contact-field label=&amp;lsquo;Email&amp;rsquo; type=&amp;lsquo;email&amp;rsquo; required=&amp;lsquo;1&amp;rsquo;/][contact-field label=&amp;lsquo;Website&amp;rsquo; type=&amp;lsquo;url&amp;rsquo;/][contact-field label=&amp;lsquo;Comment&amp;rsquo; type=&amp;lsquo;textarea&amp;rsquo; required=&amp;lsquo;1&amp;rsquo;/][/contact-form]&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>The Hosts</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 25 Jan 2009 02:20:39 +0000</pubDate>
+       <guid isPermaLink="false">https://tiptaptip.com/?page_id=2</guid> 
+      <description>&lt;p&gt;&lt;strong&gt;Eric&lt;/strong&gt; - Eric has been involved in a variety of different media before creating Tip Tap Tip. He was the co-editor of the popular Calgary-based magazine Squidmail with Joel Jackson during the 1990&amp;rsquo;s, and is also a co-host of &lt;a href=&#34;http://thesaladyears.wordpress.com/&#34;&gt;The Salad Years&lt;/a&gt;. Twitter - &lt;a href=&#34;http://twitter.com/ericskilling&#34;&gt;@ericskilling&lt;/a&gt; Mastodon - &lt;a href=&#34;https://mastodon.online/@ericskilling&#34;&gt;ericskilling@mastodon.online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rachelle&lt;/strong&gt; - When she isn&amp;rsquo;t busting Eric&amp;rsquo;s balls on the show or encouraging him to don a leather daddy get-up, Rachelle is busy making art and taking care of raising their two young children. Rachelle&amp;rsquo;s art can be viewed on Instagram &lt;a href=&#34;https://instagram.com/artmom_artmom&#34;&gt;@artmom_artmom&lt;/a&gt; or her website &lt;a href=&#34;https://rachelleskillingart.wordpress.com/&#34;&gt;rachelleskilling.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

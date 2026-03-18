@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sticky-Wicky on Tip Tap Tip</title>
+    <link>http://localhost:1313/tags/sticky-wicky/</link>
+    <description>Recent content in Sticky-Wicky on Tip Tap Tip</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jul 2010 04:34:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sticky-wicky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTT 176: The Other C-Word</title>
+      <link>http://localhost:1313/2010/07/ttt-176-the-other-c-word/</link>
+      <pubDate>Wed, 28 Jul 2010 04:34:01 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/2010/07/ttt-176-the-other-c-word/</guid> 
+      <description>&lt;p&gt;&amp;ldquo;You know one morning you&amp;rsquo;re going to wake up and I&amp;rsquo;m going to punch you in the face.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bison attack&lt;/li&gt;
+&lt;li&gt;Sticky Wicky&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
