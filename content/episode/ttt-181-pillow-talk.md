@@ -1,18 +1,15 @@
 ---
 title: 'TTT 181: Pillow Talk'
 date: '2010-08-26T04:50:27+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - herman-head
 - podcast
 - yyc
-cover:
-  alt: pillow
-  image: /images/pillow.jpg
+episode_image: "/images/pillow.jpg"
+thumbnail: "/images/pillow.jpg"
+images: ["/images/pillow.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt181.mp3
-url: /2010/08/ttt-181-pillow-talk/
 ---
 [![](/images/pillow.jpg)](/images/pillow.jpg)
 

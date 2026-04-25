@@ -1,18 +1,15 @@
 ---
 title: 'TTT 265: Imperfect Strangers'
 date: '2011-09-12T04:38:30+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - tv
 - yyc
-cover:
-  alt: imperfect
-  image: /images/imperfect.jpg
+episode_image: "/images/imperfect.jpg"
+thumbnail: "/images/imperfect.jpg"
+images: ["/images/imperfect.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt265.mp3
-url: /2011/09/ttt-265-imperfect-strangers/
 ---
 We're joined at Tip Tap Tip HQ by Leslie and Chris. Leslie sets us straight when it comes to reality TV. Chris has our back when the judgement day comes.
 

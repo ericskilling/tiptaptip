@@ -1,18 +1,15 @@
 ---
 title: 'TTT 292: Skin Tight'
 date: '2012-02-23T05:24:38+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - denmark
 - podcast
 - yyc
-cover:
-  alt: skin
-  image: /images/skin.jpg
+episode_image: "/images/skin.jpg"
+thumbnail: "/images/skin.jpg"
+images: ["/images/skin.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt292.mp3
-url: /2012/02/ttt-292-skin-tight/
 ---
 More Eurovision stuff. If you're sick of it just skip this episode and the one after this for three months. After that we'll talk about all the dumb shit we usually do.
 

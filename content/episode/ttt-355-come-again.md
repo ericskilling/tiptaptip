@@ -1,18 +1,15 @@
 ---
 title: 'TTT 355: Come Again?'
 date: '2013-07-01T00:14:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - aspergers
 - podcast
 - yyc
-cover:
-  alt: comeagain
-  image: /images/comeagain.jpg
+episode_image: "/images/comeagain.jpg"
+thumbnail: "/images/comeagain.jpg"
+images: ["/images/comeagain.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt355.mp3
-url: /2013/06/ttt-355-come-again/
 ---
 It's hot in Tip Tap Tip HQ. The action here is hotter. Rachelle goes over the results of Eric's Asperger Test. We also discuss racist kids show and the menace known as raves. Woo Hoo!
 

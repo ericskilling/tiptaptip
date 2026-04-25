@@ -1,17 +1,14 @@
 ---
 title: 'TTT 316: Mr. Car Is A Total Pervert'
 date: '2012-07-09T13:18:24+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: mistercar
-  image: /images/mistercar.jpg
+episode_image: "/images/mistercar.jpg"
+thumbnail: "/images/mistercar.jpg"
+images: ["/images/mistercar.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt316.mp3
-url: /2012/07/ttt-316-mr-car-is-a-total-pervert/
 ---
 **Guest Hosts:** Chris, Arielle
 

@@ -1,14 +1,11 @@
 ---
 title: 'TTT 545: Barbarism Begins At Home'
 date: '2023-06-19T00:52:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: home
-  image: /images/home.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/home.jpg"
+thumbnail: "/images/home.jpg"
+images: ["/images/home.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt545.mp3
-url: /2023/06/ttt-545-barbarism-begins-at-home/
 ---
 Still recording on an old mic as our studio setup is blocked by boxes and junk. Deal with it.
 

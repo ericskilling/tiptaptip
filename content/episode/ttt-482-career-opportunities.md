@@ -1,14 +1,11 @@
 ---
 title: 'TTT 482: Career Opportunities'
 date: '2018-07-15T06:00:36+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: career
-  image: /images/career.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/career.jpg"
+thumbnail: "/images/career.jpg"
+images: ["/images/career.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt482.mp3
-url: /2018/07/ttt-482-career-opportunities/
 ---
 Eric & Rachelle talk interesting career opportunities we need to get involved with; recipes; steroids and why they're misunderstood; how zombies aren't really adapted for brain-eating as much as the movies portray and more. Join us for the fun!
 

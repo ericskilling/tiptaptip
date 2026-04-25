@@ -1,17 +1,14 @@
 ---
 title: 'TTT 158: Taking One For The Team'
 date: '2010-04-29T04:38:58+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: mslk
-  image: /images/mslk.jpg
+episode_image: "/images/mslk.jpg"
+thumbnail: "/images/mslk.jpg"
+images: ["/images/mslk.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt158.mp3
-url: /2010/04/ttt-158-taking-one-for-the-team/
 ---
 ![](/images/mslk.jpg)
 

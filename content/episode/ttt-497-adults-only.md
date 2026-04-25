@@ -1,14 +1,11 @@
 ---
 title: 'TTT 497: Adults Only'
 date: '2019-05-20T05:34:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: adults
-  image: /images/adults.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/adults.jpg"
+thumbnail: "/images/adults.jpg"
+images: ["/images/adults.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt497.mp3
-url: /2019/05/ttt-497-adults-only/
 ---
 Well that's it. Eurovision is done for another year. That's not all we talk about though. There's also IKEA podcasts (awesome), Mike Love popping off (Brilliant) and a Game of Thrones Petition (Frig Off Already). All this and more from Calgary's funnest podcast!
 

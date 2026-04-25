@@ -1,14 +1,11 @@
 ---
 title: 'TTT 538: Bored To Tears'
 date: '2022-07-03T21:22:48+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: tears
-  image: /images/tears.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/tears.jpg"
+thumbnail: "/images/tears.jpg"
+images: ["/images/tears.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt538.mp3
-url: /2022/07/ttt-538-bored-to-tears/
 ---
 Sometimes life isn't very exciting and you have to embrace the boring. Local news, the weather, our summer plans. You bored yet? No. Wait to you hear this. Our kids join us so it is a bit chaotic but that's the norm these days so deal with it. Eric tries his best to keep it somewhat on track. He also crawled back to Twitter because he really wants to french kiss Elon or something.
 

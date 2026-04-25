@@ -1,14 +1,11 @@
 ---
 title: 'TTT 454: Life Lessons'
 date: '2017-03-14T02:41:25+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: lessons
-  image: /images/lessons.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/lessons.jpg"
+thumbnail: "/images/lessons.jpg"
+images: ["/images/lessons.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt454.mp3
-url: /2017/03/ttt-454-life-lessons/
 ---
 In which Eric & Rachelle discuss:
 

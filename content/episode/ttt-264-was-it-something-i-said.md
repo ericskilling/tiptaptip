@@ -1,18 +1,15 @@
 ---
 title: 'TTT 264: Was It Something I Said?'
 date: '2011-09-05T06:28:42+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - coffee-jerks
 - podcast
 - yyc
-cover:
-  alt: something
-  image: /images/something.jpg
+episode_image: "/images/something.jpg"
+thumbnail: "/images/something.jpg"
+images: ["/images/something.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt264.mp3
-url: /2011/09/ttt-264-was-it-something-i-said/
 ---
 Eric's survived two driving lessons and he has no idea how he's done it. Susie and Scott join us again to talk about this and that. Rachelle begins her driving tomorrow. Hopefully we'll be alive on Wednesday.  No promises though.
 

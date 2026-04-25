@@ -1,18 +1,15 @@
 ---
 title: 'TTT 274: Chocolate & Peanut Butter'
 date: '2011-10-24T03:58:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - cecelia-cassini
 - podcast
 - yyc
-cover:
-  alt: sweep
-  image: /images/sweep.jpg
+episode_image: "/images/sweep.jpg"
+thumbnail: "/images/sweep.jpg"
+images: ["/images/sweep.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt274.mp3
-url: /2011/10/ttt-274-chocolate-peanut-butter/
 ---
 Back with a regular length episode because we give a shit. It's good. It really is. Rachelle thinks Eric should stop doing certain things all the time. Listen to find out.
 

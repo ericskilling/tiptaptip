@@ -1,18 +1,15 @@
 ---
 title: 'TTT 231: Here Come The Judges'
 date: '2011-04-07T04:23:09+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - richard-simmons
 - yyc
-cover:
-  alt: herecomes
-  image: /images/herecomes.jpg
+episode_image: "/images/herecomes.jpg"
+thumbnail: "/images/herecomes.jpg"
+images: ["/images/herecomes.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt231.mp3
-url: /2011/04/ttt-231-here-come-the-judges/
 ---
 You're sentenced to back rubs!
 

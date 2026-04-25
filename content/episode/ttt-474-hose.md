@@ -1,14 +1,11 @@
 ---
 title: 'TTT 474: Hose Down'
 date: '2018-03-05T02:39:20+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: down
-  image: /images/down.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/down.jpg"
+thumbnail: "/images/down.jpg"
+images: ["/images/down.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt474.mp3
-url: /2018/03/ttt-474-hose/
 ---
 Eric and Rachelle take it easy on a Saturday while other parents are getting freaky and weird. Sipping tea and casual conversation, that's how we do it. Until of course Rachelle starts coming up with semi-legal business plans. It's all good until someone has to hose it off.
 

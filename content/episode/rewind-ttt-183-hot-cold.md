@@ -1,17 +1,14 @@
 ---
 title: 'REWIND - TTT 183: Hot Or Cold'
 date: '2014-12-28T19:23:36+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - family
 - pizza-cake
-cover:
-  alt: hotcold
-  image: /images/hotcold.jpg
+episode_image: "/images/hotcold.jpg"
+thumbnail: "/images/hotcold.jpg"
+images: ["/images/hotcold.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt183rewind.mp3
-url: /2014/12/rewind-ttt-183-hot-cold/
 ---
 We're taking a little break over Christmas and New Years because it gets crazy busy buying gifts, visiting friends and family, planning parties, baking stuff, eating stuff. You get the picture.
 

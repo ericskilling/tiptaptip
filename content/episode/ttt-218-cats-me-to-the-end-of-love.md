@@ -1,18 +1,15 @@
 ---
 title: 'TTT 218: Cats Me To The End Of Love'
 date: '2011-02-17T05:38:59+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: cats
-  image: /images/cats.jpg
+episode_image: "/images/cats.jpg"
+thumbnail: "/images/cats.jpg"
+images: ["/images/cats.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt218.mp3
-url: /2011/02/ttt-218-cats-me-to-the-end-of-love/
 ---
 Three times a RealDoll.
 

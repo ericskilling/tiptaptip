@@ -1,14 +1,11 @@
 ---
 title: 'TTT 455: Left Behind'
 date: '2017-03-31T01:22:32+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: leftbehind
-  image: /images/leftbehind.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/leftbehind.jpg"
+thumbnail: "/images/leftbehind.jpg"
+images: ["/images/leftbehind.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt455.mp3
-url: /2017/03/ttt-455-left-behind/
 ---
 In which Eric & Rachelle discuss:
 

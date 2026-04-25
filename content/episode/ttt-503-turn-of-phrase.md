@@ -1,14 +1,11 @@
 ---
 title: 'TTT 503: Turn of Phrase'
 date: '2019-09-16T23:13:14+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: busy
-  image: /images/busy.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/busy.jpg"
+thumbnail: "/images/busy.jpg"
+images: ["/images/busy.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt503.mp3
-url: /2019/09/ttt-503-turn-of-phrase/
 ---
 Eric & Rachelle have been busy little bees lately preparing for Rachelle's upcoming art show. Somehow Tip Tap Tip has gotten roped into it. You'll have to listen to find out how. Also, we revisit a creep that we talked about in Episode 1. In the 10 years since, he's still up to no good. Bonus Life Tip: Infants are not carry on baggage.
 

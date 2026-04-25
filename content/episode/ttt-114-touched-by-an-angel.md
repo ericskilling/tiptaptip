@@ -1,17 +1,14 @@
 ---
 title: 'TTT 114: Touched By An Angel'
 date: '2009-09-26T05:57:22+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: superawesome
-  image: /images/superawesome.jpg
+episode_image: "/images/superawesome.jpg"
+thumbnail: "/images/superawesome.jpg"
+images: ["/images/superawesome.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt114.mp3
-url: /2009/09/ttt-114-touched-by-an-angel/
 ---
 Tip Tap Tip Assemble!
 

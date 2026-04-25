@@ -1,14 +1,11 @@
 ---
 title: 'TTT 483: That Happy Feeling'
 date: '2018-09-03T23:05:31+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: happyfeel
-  image: /images/happyfeel.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/happyfeel.jpg"
+thumbnail: "/images/happyfeel.jpg"
+images: ["/images/happyfeel.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt483.mp3
-url: /2018/09/ttt-483-that-happy-feeling/
 ---
 We're back after a summer break. We have lots to talk about what we've been up to. Also, Eric drops a bombshell and we go over a few of our listeners favourite moments.
 

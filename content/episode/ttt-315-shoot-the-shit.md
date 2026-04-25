@@ -1,18 +1,15 @@
 ---
 title: 'TTT 315: Shoot The Shit'
 date: '2012-07-04T12:17:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - limited-release-podcast
 - podcast
 - yyc
-cover:
-  alt: limitedreleasepodcast
-  image: /images/limitedreleasepodcast.jpg
+episode_image: "/images/limitedreleasepodcast.jpg"
+thumbnail: "/images/limitedreleasepodcast.jpg"
+images: ["/images/limitedreleasepodcast.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt315.mp3
-url: /2012/07/ttt-315-shoot-the-shit/
 ---
 **Guest Hosts:** Nick, Candice
 

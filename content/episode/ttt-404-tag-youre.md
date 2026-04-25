@@ -1,17 +1,14 @@
 ---
 title: 'TTT 404: Tag! You''re It!'
 date: '2015-01-19T05:19:22+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - bryan-adams
 - fun
-cover:
-  alt: tag_youre_it2
-  image: /images/tag_youre_it2.jpg
+episode_image: "/images/tag_youre_it2.jpg"
+thumbnail: "/images/tag_youre_it2.jpg"
+images: ["/images/tag_youre_it2.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt404.mp3
-url: /2015/01/ttt-404-tag-youre/
 ---
 The world is a scary place - especially to adults. When we think about all the dumb things we did as kids, it's surprising we made it out alive. Also, Rachelle goes to Bryan Adams and a strange Eurovision coincidence. All this and more. We are Calgary's only podcast!
 

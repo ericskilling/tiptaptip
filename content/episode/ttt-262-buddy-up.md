@@ -1,18 +1,15 @@
 ---
 title: 'TTT 262: Buddy Up'
 date: '2011-08-29T04:19:59+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - sleazy-slide
 - yyc
-cover:
-  alt: buddy
-  image: /images/buddy.jpg
+episode_image: "/images/buddy.jpg"
+thumbnail: "/images/buddy.jpg"
+images: ["/images/buddy.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt262.mp3
-url: /2011/08/ttt-262-buddy-up/
 ---
 Rachelle beat Eric on the written exam in driving school.  He's a bit bitter. Okay a lot. Topics include donut mafia, big fucking diamonds and the Sleazy Slide. Time to buddy up and listen to the show.
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 130: Close Encounters'
 date: '2009-12-10T05:30:24+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: potato
-  image: /images/potato1.jpg
+episode_image: "/images/potato1.jpg"
+thumbnail: "/images/potato1.jpg"
+images: ["/images/potato1.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt130.mp3
-url: /2009/12/ttt-130-close-encounters/
 ---
 Stuff happens.
 

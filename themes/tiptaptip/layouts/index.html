@@ -1,0 +1,89 @@
+{{ define "main" }}
+  {{ if and (isset .Site.Params "show_next_upcoming") (eq .Site.Params.show_next_upcoming "true") (ge (len (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "==" true )) 1) }}
+  <div class="terminal-box" data-title="NEXT UP">
+    <div class="up_next_container">
+      <span class="prompt">$</span> Next Episode: <a href="{{ range first 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections).ByDate ".Params.upcoming" "==" true ) }}{{ .Permalink }}{{ end }}">{{ range first 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections).ByDate ".Params.upcoming" "==" true ) }}{{ .Title }}{{ end }}</a> - Scheduled for {{ range first 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections).ByDate ".Params.upcoming" "==" true ) }}{{ dateFormat "Jan 2, 2006" .Date }}{{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <section class="episode-list">
+    {{- if (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
+    {{- $paginator := .Paginate (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true ) }}
+    {{- $list := (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true ) -}}
+    {{- $len := (len $list) -}}
+    
+    <div class="terminal-box" data-title="EPISODES">
+      {{- range $paginator.Pages -}}
+      <article class="episode-item">
+        <div class="episode-header">
+          <span class="episode-prompt">></span>
+          {{ if and (isset $.Site.Params "episode_number_style") (.Params.episode) }}
+            {{ if eq $.Site.Params.episode_number_style "parens" }}
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ with $.Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h2>
+            {{ else if eq $.Site.Params.episode_number_style "brackets" }}
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a> [{{ with $.Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h2>
+            {{ else if eq $.Site.Params.episode_number_style "dash" }}
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ with $.Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h2>
+            {{ else }}
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ with $.Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h2>
+            {{ end }}
+          {{ else }}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          {{ end }}
+          <span class="episode-date">// Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</span>
+        </div>
+        
+        <div class="episode-content">
+          {{- if .Params.episode_image -}}
+          <div class="episode-image">
+            <a href="{{ .Permalink }}"><img src="{{ .Params.episode_image | absURL }}" alt="{{ .Title }}" /></a>
+          </div>
+          {{- end -}}
+          <p class="episode-description">{{ .Description | markdownify | truncate 300 " " }}<a href="{{ .Permalink }}">[Read More]</a></p>
+        </div>
+        
+        {{- with .Params.podcast_file -}}
+        <div class="wui-player" data-audio-url="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ $.Site.Params.media_prefix }}{{ . }}{{ end }}">
+          <div class="wui-player-inner">
+            <div class="wui-player-status">
+              <span class="wui-icon">▶</span>
+              <span class="wui-title">{{ $.Title }}</span>
+            </div>
+            <div class="wui-progress-container">
+              <span class="wui-time current">[00:00]</span>
+              <div class="wui-progress">
+                <div class="wui-progress-fill"></div>
+              </div>
+              <span class="wui-time total">[--:--]</span>
+            </div>
+          </div>
+          <audio preload="metadata">
+            {{ if hasPrefix . "http" }}
+            <source src="{{ . }}" type="audio/mpeg">
+            {{ else }}
+            <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mpeg">
+            {{ end }}
+          </audio>
+        </div>
+        {{- end -}}
+      </article>
+      {{- end -}}
+    </div>
+
+    {{- if gt $paginator.TotalPages 1 -}}
+    <nav class="pagination">
+      <span class="pagination-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+      <div class="pagination-links">
+        {{ if $paginator.HasPrev }}
+          <a href="{{ $paginator.Prev.URL }}" class="btn">&lt;&lt; Previous</a>
+        {{ end }}
+        {{ if $paginator.HasNext }}
+          <a href="{{ $paginator.Next.URL }}" class="btn">Next &gt;&gt;</a>
+        {{ end }}
+      </div>
+    </nav>
+    {{- end -}}
+    {{- end -}}
+  </section>
+{{ end }}

@@ -1,16 +1,13 @@
 ---
 title: 'TTT 435: Vintage Violence'
 date: '2016-04-26T00:28:21+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: violence
-  image: /images/violence.jpg
+episode_image: "/images/violence.jpg"
+thumbnail: "/images/violence.jpg"
+images: ["/images/violence.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt435.mp3
-url: /2016/04/ttt-435-vintage-violence/
 ---
 Rachelle goes to a vintage sale; Eric wants to shoot arrows into wall. Also, it's Eurovision scandal involving Romania. Lastly, you can apparently trade girl guide cookie money and a monkey for sexual favours. The barter system is alive and well!
 

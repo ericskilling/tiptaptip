@@ -1,16 +1,13 @@
 ---
 title: 'TTT 424: Buy And Sell'
 date: '2016-04-19T01:38:17+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: buyandsell
-  image: /images/buyandsell.jpg
+episode_image: "/images/buyandsell.jpg"
+thumbnail: "/images/buyandsell.jpg"
+images: ["/images/buyandsell.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt434.mp3
-url: /2016/04/ttt-424-buy-sell/
 ---
 Let's make a deal? I give you some chickens and you do my yard work forever. No good? How about you go screw yourself?
 

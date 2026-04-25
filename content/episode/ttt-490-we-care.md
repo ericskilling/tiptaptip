@@ -1,14 +1,11 @@
 ---
 title: 'TTT 490: We Care'
 date: '2019-01-19T08:37:56+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: care
-  image: /images/care.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/care.jpg"
+thumbnail: "/images/care.jpg"
+images: ["/images/care.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt490.mp3
-url: /2019/01/ttt-490-we-care/
 ---
 Welcome to Y2K19. It's great here in our underground bunker. We've got supplies for year and a podcasting rig that will survive the next 1000 or so years. Since we have your attention, listen to us as we:
 

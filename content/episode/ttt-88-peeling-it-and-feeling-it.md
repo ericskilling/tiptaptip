@@ -1,19 +1,16 @@
 ---
 title: 'TTT 88: Peeling It And Feeling It'
 date: '2009-06-02T04:28:25+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - axe
 - janice-dickinson-life
 - podcast
 - yyc
-cover:
-  alt: burn
-  image: /images/burn.jpg
+episode_image: "/images/burn.jpg"
+thumbnail: "/images/burn.jpg"
+images: ["/images/burn.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt88.mp3
-url: /2009/06/ttt-88-peeling-it-and-feeling-it/
 ---
 Ouch, motherfucker!
 

@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/new-kids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TTT 22: Calgary&#39;s Next Top Podcast</title>
-      <link>http://localhost:1313/2008/09/ttt-22-calgarys-next-top-podcast/</link>
+      <link>http://localhost:1313/episode/ttt-22-calgarys-next-top-podcast/</link>
       <pubDate>Fri, 05 Sep 2008 04:50:58 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:1313/2008/09/ttt-22-calgarys-next-top-podcast/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/episode/ttt-22-calgarys-next-top-podcast/</guid> 
       <description>&lt;p&gt;Tip Tap Tip gives you their rundown on the premier of America&amp;rsquo;s Next Top Model. In addition, Eric plays singalong to the new New Kids single &amp;ldquo;Summertime&amp;rdquo; while Rachelle watches in awe while eating icing.&lt;/p&gt;
 &lt;p&gt;Download the episode&lt;/p&gt;</description>
     </item>

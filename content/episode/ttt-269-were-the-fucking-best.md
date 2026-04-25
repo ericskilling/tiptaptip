@@ -1,17 +1,14 @@
 ---
 title: 'TTT 269: We''re The Fucking Best!'
 date: '2011-09-29T04:23:19+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: thefuckingbest
-  image: /images/thefuckingbest.jpg
+episode_image: "/images/thefuckingbest.jpg"
+thumbnail: "/images/thefuckingbest.jpg"
+images: ["/images/thefuckingbest.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt269.mp3
-url: /2011/09/ttt-269-were-the-fucking-best/
 ---
 Sometimes life serves you up a big helping of shit salad. Well we just had seconds and tears or not we're are ready to do the show anyways. That's why we're the fucking best! Other podcasts would have thrown in the towel 150 episodes ago. We're either to dumb or stubborn to quit. So like it or not, here's another episode.
 

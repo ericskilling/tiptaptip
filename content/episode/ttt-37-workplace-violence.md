@@ -1,17 +1,14 @@
 ---
 title: 'TTT 37: Workplace Violence'
 date: '2008-11-03T09:21:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: workplace
-  image: /images/workplace1.jpg
+episode_image: "/images/workplace1.jpg"
+thumbnail: "/images/workplace1.jpg"
+images: ["/images/workplace1.jpg"]
 podcast_file: http://archive.org/download/ttt37/ttt37.mp3
-url: /2008/11/ttt-37-workplace-violence/
 ---
 Live from a Vancouver hotel room!!!
 

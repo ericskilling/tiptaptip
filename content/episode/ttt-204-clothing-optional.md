@@ -1,17 +1,14 @@
 ---
 title: 'TTT 204: Clothing Optional'
 date: '2010-12-16T04:14:00+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: nudisttt
-  image: /images/nudisttt.jpg
+episode_image: "/images/nudisttt.jpg"
+thumbnail: "/images/nudisttt.jpg"
+images: ["/images/nudisttt.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt204.mp3
-url: /2010/12/ttt-204-clothing-optional/
 ---
 Cover up!
 

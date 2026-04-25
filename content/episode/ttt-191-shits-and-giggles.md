@@ -1,17 +1,14 @@
 ---
 title: 'TTT 191: Shits And Giggles'
 date: '2010-10-14T04:48:11+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: shits
-  image: /images/shits.jpg
+episode_image: "/images/shits.jpg"
+thumbnail: "/images/shits.jpg"
+images: ["/images/shits.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt191.mp3
-url: /2010/10/ttt-191-shits-and-giggles/
 ---
 Gurgle. Gurgle.
 

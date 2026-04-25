@@ -1,18 +1,15 @@
 ---
 title: 'TTT 360: Meet And Greet'
 date: '2013-08-18T20:58:50+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - tan-mom
 - yyc
-cover:
-  alt: meet-and-greet
-  image: /images/meet-and-greet.jpg
+episode_image: "/images/meet-and-greet.jpg"
+thumbnail: "/images/meet-and-greet.jpg"
+images: ["/images/meet-and-greet.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt360.mp3
-url: /2013/08/ttt-360-meet-and-greet/
 ---
 ![meet-and-greet](/images/meet-and-greet.jpg)
 

@@ -1,14 +1,11 @@
 ---
 title: 'TTT 546: Space Is The Place'
 date: '2023-07-16T23:47:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: space
-  image: /images/space.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/space.jpg"
+thumbnail: "/images/space.jpg"
+images: ["/images/space.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt546.mp3
-url: /2023/07/ttt-546-space-is-the-place/
 ---
 Space is weird. Space is dangerous. The only people who seem to go there in their dick rockets are bored billionaires. There's plenty to keep me entertained down here so send me a postcard from space if you think it's important.
 

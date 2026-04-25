@@ -1,17 +1,14 @@
 ---
 title: 'TTT 294: Ignorance Is Fun'
 date: '2012-03-05T05:28:19+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: ignorance
-  image: /images/ignorance.jpg
+episode_image: "/images/ignorance.jpg"
+thumbnail: "/images/ignorance.jpg"
+images: ["/images/ignorance.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt294.mp3
-url: /2012/03/ttt-294-ignorance-is-fun/
 ---
 We're happy to be stupid! More Eurovision songs. Also,  an awful Pee Wee Herman XXX trailer. Other stuff.
 

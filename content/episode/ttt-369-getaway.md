@@ -1,17 +1,14 @@
 ---
 title: 'TTT 369: Getaway'
 date: '2013-11-24T22:01:51+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: getaway_small
-  image: /images/getaway_small.jpg
+episode_image: "/images/getaway_small.jpg"
+thumbnail: "/images/getaway_small.jpg"
+images: ["/images/getaway_small.jpg"]
 podcast_file: http://archive.org/download/ttt369/ttt369.m4a
-url: /2013/11/ttt-369-getaway/
 ---
 Another mix because why not. Yeah!
 

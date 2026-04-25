@@ -1,18 +1,15 @@
 ---
 title: 'TTT 366: All Day, Every Day'
 date: '2013-10-20T21:08:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - pale-tone
 - podcast
 - yyc
-cover:
-  alt: alldayeveryday
-  image: /images/alldayeveryday.jpg
+episode_image: "/images/alldayeveryday.jpg"
+thumbnail: "/images/alldayeveryday.jpg"
+images: ["/images/alldayeveryday.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt366.mp3
-url: /2013/10/ttt-366-day-every-day/
 ---
 ![alldayeveryday](/images/alldayeveryday.jpg)
 

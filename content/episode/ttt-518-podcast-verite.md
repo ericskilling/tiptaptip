@@ -1,14 +1,11 @@
 ---
 title: 'TTT 518: Podcast Vérité'
 date: '2020-09-07T23:24:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: verite
-  image: /images/verite.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/verite.jpg"
+thumbnail: "/images/verite.jpg"
+images: ["/images/verite.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt518.mp3
-url: /2020/09/ttt-518-podcast-verite/
 ---
 Eric & Rachelle spend some time discussing their latest obsessions. It could be Fortnite or hair videos. Also, we check in on John Cage's comedic masterpiece and strengthen the case for us getting chickens.
 

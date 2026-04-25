@@ -1,14 +1,11 @@
 ---
 title: 'TTT 515: The Carnival is Over'
 date: '2020-08-03T04:55:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: over
-  image: /images/over.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/over.jpg"
+thumbnail: "/images/over.jpg"
+images: ["/images/over.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt515.mp3
-url: /2020/08/ttt-515-the-carnival-is-over/
 ---
 Hi! Remember us? It's Eric & Rachelle. You may know us as the semi-frequent hosts of Tip Tap Tip. We're here to tell you what we've been up to the last two months. It involves a lot of money and destroying things. Also, don't take all the good french fries. Deal? Thanks!
 

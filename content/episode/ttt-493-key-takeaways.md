@@ -1,14 +1,11 @@
 ---
 title: 'TTT 493: Key Takeaways'
 date: '2019-03-11T01:40:33+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: take
-  image: /images/take.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/take.jpg"
+thumbnail: "/images/take.jpg"
+images: ["/images/take.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt493.mp3
-url: /2019/03/ttt-493-key-takeaways/
 ---
 Eric & Rachelle join you in this in this fun episode. We also discuss our favourite things; what women are doing to their eyebrows in 2019; and what Utah is now allowing adults to do. Eurovision songs from Netherlands, Iceland, Belgium, and Serbia round out this episode. Rachelle has an interesting read into the entry from Serbia.
 

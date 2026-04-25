@@ -1,14 +1,11 @@
 ---
 title: 'TTT 519: Pizza Party'
 date: '2020-10-18T23:24:44+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: pizza
-  image: /images/pizza.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/pizza.jpg"
+thumbnail: "/images/pizza.jpg"
+images: ["/images/pizza.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt519.mp3
-url: /2020/10/ttt-519-pizza-party/
 ---
 It's Winter! Let's get snuggly. In this episode Eric & Rachelle get excited about typical homeowner stuff like appliances; brainstorm custom license plates; and welcome their new furry houseguest.
 

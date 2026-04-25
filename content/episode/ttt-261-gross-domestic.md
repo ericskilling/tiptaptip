@@ -1,9 +1,7 @@
 ---
 title: 'TTT 261: Gross Domestic'
 date: '2011-08-25T04:17:11+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - betty-white
 - paris-hilton
@@ -11,11 +9,10 @@ tags:
 - upside-down-yoga
 - worst-movie-ever
 - yyc
-cover:
-  alt: gross
-  image: /images/gross.jpg
+episode_image: "/images/gross.jpg"
+thumbnail: "/images/gross.jpg"
+images: ["/images/gross.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt261.mp3
-url: /2011/08/ttt-261-gross-domestic/
 ---
 Steve Jobs retires. Rachelle doesn't care about "that Microsoft guy" anyways. Also Betty White is the best and Paris Hilton is the worst according to Ipsos-Reid. Eric does things too.
 

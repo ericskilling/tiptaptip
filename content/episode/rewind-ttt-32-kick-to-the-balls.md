@@ -1,19 +1,16 @@
 ---
 title: 'REWIND - TTT 32: Kick To The Balls'
 date: '2010-11-22T01:53:58+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - bas-rutten
 - podcast
 - vacation
 - yyc
-cover:
-  alt: balls
-  image: /images/balls.jpg
+episode_image: "/images/balls.jpg"
+thumbnail: "/images/balls.jpg"
+images: ["/images/balls.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt32rewind.mp3
-url: /2010/11/rewind-ttt-32-kick-to-the-balls/
 ---
 Boom!
 

@@ -1,19 +1,16 @@
 ---
 title: 'TTT 117: Too Slow!'
 date: '2009-10-11T04:53:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - scarborough-dude
 - sherlock-holmes
 - yyc
-cover:
-  alt: HFE_Too_Slow_4
-  image: /images/HFE_Too_Slow_4.JPG
+episode_image: "/images/HFE_Too_Slow_4.JPG"
+thumbnail: "/images/HFE_Too_Slow_4.JPG"
+images: ["/images/HFE_Too_Slow_4.JPG"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt117.mp3
-url: /2009/10/ttt-117-too-slow/
 ---
 Want some apples?
 

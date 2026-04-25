@@ -1,14 +1,11 @@
 ---
 title: 'TTT 471: Cause For Concern'
 date: '2018-01-21T06:55:21+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: concern
-  image: /images/concern.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/concern.jpg"
+thumbnail: "/images/concern.jpg"
+images: ["/images/concern.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt471.mp3
-url: /2018/01/ttt-471-cause-concern/
 ---
 It's Rachelle's first studio show in a while. We're joined by our friend Neal and discuss buying new cars; the first Eurovision song of this year; Fabio; rapping dentists; water you shouldn't be drinking and more!
 

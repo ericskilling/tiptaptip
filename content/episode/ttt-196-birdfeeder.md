@@ -1,19 +1,16 @@
 ---
 title: 'TTT 196: Birdfeeder'
 date: '2010-11-01T05:07:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - caligula-trailer
 - john-meadows
 - podcast
 - yyc
-cover:
-  alt: horsebird
-  image: /images/horsebird.jpg
+episode_image: "/images/horsebird.jpg"
+thumbnail: "/images/horsebird.jpg"
+images: ["/images/horsebird.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt196.mp3
-url: /2010/10/ttt-196-birdfeeder/
 ---
 Feed me!
 

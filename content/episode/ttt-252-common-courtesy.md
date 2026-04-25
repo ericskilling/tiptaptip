@@ -1,19 +1,16 @@
 ---
 title: 'TTT 252: Common Courtesy'
 date: '2011-07-07T04:27:09+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - sage-theatre
 - sandra-bullock
 - yyc
-cover:
-  alt: common
-  image: /images/common.jpg
+episode_image: "/images/common.jpg"
+thumbnail: "/images/common.jpg"
+images: ["/images/common.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt252.mp3
-url: /2011/07/ttt-252-common-courtesy/
 ---
 Mind your manners.
 

@@ -1,18 +1,15 @@
 ---
 title: 'TTT 310: Close Calls With White Walls'
 date: '2012-06-07T02:11:26+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - us
 - yyc
-cover:
-  alt: walls
-  image: /images/walls.jpg
+episode_image: "/images/walls.jpg"
+thumbnail: "/images/walls.jpg"
+images: ["/images/walls.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt310.mp3
-url: /2012/06/ttt-310-close-calls-with-white-walls/
 ---
 **Guest Hosts: Joel, Keith**
 

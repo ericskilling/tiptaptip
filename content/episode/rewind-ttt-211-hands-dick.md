@@ -1,18 +1,15 @@
 ---
 title: 'REWIND - TTT 211: All Hands On Dick'
 date: '2015-01-04T19:23:38+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - crazy-facts
 - kate-hudson
 - sea-captain-date
-cover:
-  alt: dick
-  image: /images/dick.jpg
+episode_image: "/images/dick.jpg"
+thumbnail: "/images/dick.jpg"
+images: ["/images/dick.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt211rewind.mp3
-url: /2015/01/rewind-ttt-211-hands-dick/
 ---
 We're taking a little break over Christmas and New Years because it gets crazy busy buying gifts, visiting friends and family, planning parties, baking stuff, eating stuff. You get the picture.
 

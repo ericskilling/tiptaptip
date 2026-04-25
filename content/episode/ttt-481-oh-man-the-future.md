@@ -1,14 +1,11 @@
 ---
 title: 'TTT 481: Oh Man, The Future!'
 date: '2018-06-28T23:26:01+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: thefuture
-  image: /images/thefuture.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/thefuture.jpg"
+thumbnail: "/images/thefuture.jpg"
+images: ["/images/thefuture.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt481.mp3
-url: /2018/06/ttt-481-oh-man-the-future/
 ---
 Eric & Rachelle are skeptical about what the future holds — especially if it has all the time traveling weirdo we talked about. Seriously, though. What is it about 2018 that has all these future nerds landing here and making shitty YouTube videos? Also, Rachelle has a Missed Connection and some startling off-season Eurovision news.
 

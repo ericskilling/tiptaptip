@@ -1,17 +1,14 @@
 ---
 title: 'TTT 121: At The Hop'
 date: '2009-10-28T04:18:40+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: bunny
-  image: /images/bunny.jpg
+episode_image: "/images/bunny.jpg"
+thumbnail: "/images/bunny.jpg"
+images: ["/images/bunny.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt121.mp3
-url: /2009/10/ttt-121-at-the-hop/
 ---
 ![bunny](/images/bunny.jpg)
 

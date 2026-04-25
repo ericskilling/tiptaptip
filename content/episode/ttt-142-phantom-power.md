@@ -1,17 +1,14 @@
 ---
 title: 'TTT 142: Phantom Power'
 date: '2010-02-04T06:53:05+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: phantom
-  image: /images/phantom.jpg
+episode_image: "/images/phantom.jpg"
+thumbnail: "/images/phantom.jpg"
+images: ["/images/phantom.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt142.mp3
-url: /2010/02/ttt-142-phantom-power/
 ---
 Turn me on.
 

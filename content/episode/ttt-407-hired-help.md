@@ -1,16 +1,13 @@
 ---
 title: 'TTT 407: Hired Help'
 date: '2015-03-01T22:58:16+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: hired-help
-  image: /images/hired-help.jpg
+episode_image: "/images/hired-help.jpg"
+thumbnail: "/images/hired-help.jpg"
+images: ["/images/hired-help.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt407a.mp3
-url: /2015/03/ttt-407-hired-help/
 ---
 Rachelle has been up to a lot. She has brought home weird things that creep Eric out. She also a plan that will redefine how her and Eric relate to each other. Plus more Eurovision updates. Surprise!
 

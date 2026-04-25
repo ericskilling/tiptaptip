@@ -1,14 +1,11 @@
 ---
 title: 'TTT 506: Spending Habits'
 date: '2019-12-02T02:11:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: spend
-  image: /images/spend.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/spend.jpg"
+thumbnail: "/images/spend.jpg"
+images: ["/images/spend.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt506.mp3
-url: /2019/12/ttt-506-spending-habits/
 ---
 Christmas is creeping up again and we're not happy about it all. It's time to smash the capitalist Christmas machine once and for all and bring it back to basics — getting wrecked with the ones we love.
 

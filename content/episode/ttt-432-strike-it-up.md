@@ -1,16 +1,13 @@
 ---
 title: 'TTT 432: Strike It Up'
 date: '2016-03-22T00:58:32+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: strikeitup
-  image: /images/strikeitup.jpg
+episode_image: "/images/strikeitup.jpg"
+thumbnail: "/images/strikeitup.jpg"
+images: ["/images/strikeitup.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt432.mp3
-url: /2016/03/ttt-432-strike-it-up/
 ---
 Live from the road as we do occasionally. It's like you're really there.
 

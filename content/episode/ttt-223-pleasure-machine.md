@@ -1,18 +1,15 @@
 ---
 title: 'TTT 223: Pleasure Machine'
 date: '2011-03-07T05:26:24+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: front
-  image: /images/front.jpg
+episode_image: "/images/front.jpg"
+thumbnail: "/images/front.jpg"
+images: ["/images/front.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt223.mp3
-url: /2011/03/ttt-223-pleasure-machine/
 ---
 Long Live The Revolution.
 

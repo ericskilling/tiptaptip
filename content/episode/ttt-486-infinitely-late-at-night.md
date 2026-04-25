@@ -1,14 +1,11 @@
 ---
 title: 'TTT 486: Infinitely Late at Night'
 date: '2018-10-21T22:36:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: latenight
-  image: /images/latenight.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/latenight.jpg"
+thumbnail: "/images/latenight.jpg"
+images: ["/images/latenight.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt486.mp3
-url: /2018/10/ttt-486-infinitely-late-at-night/
 ---
 Quiet! Don't wake anyone up. In this super-later (Eric & Rachelle both had to have a naps first), your hosts discover that;
 

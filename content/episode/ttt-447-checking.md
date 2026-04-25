@@ -1,16 +1,13 @@
 ---
 title: 'TTT 447: Checking Out'
 date: '2016-11-24T01:54:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: checkingout
-  image: /images/checkingout.jpg
+episode_image: "/images/checkingout.jpg"
+thumbnail: "/images/checkingout.jpg"
+images: ["/images/checkingout.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt447.mp3
-url: /2016/11/ttt-447-checking/
 ---
 New all-fabric format / Political talk / Old news / Tobler- oh no! / Ecosexuals / Entertaining pets / Christmas!
 

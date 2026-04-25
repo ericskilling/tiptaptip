@@ -1,17 +1,14 @@
 ---
 title: On Podfading
 date: '2010-06-01T00:59:17+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - fun
 - podcast
 - yyc
-cover:
-  alt: wife
-  image: /images/wife.jpg
-url: /2010/05/on-podfading/
+episode_image: "/images/wife.jpg"
+thumbnail: "/images/wife.jpg"
+images: ["/images/wife.jpg"]
 ---
 I was recently lent a book by a fellow [podcaster](http://www.atomicsuburbia.com/) called [Tricks of the Podcasting Masters](http://www.amazon.com/Tricks-Podcasting-Masters-Rob-Walch/dp/B003D3OGF6/ref=sr_1_18?ie=UTF8&s=books&qid=1275354326&sr=8-18). While a bit dated in terms of technology, but it did provide some insights from fellow podcasters about how they achieved success in the early, heady days of podcasting circa 2005.
 

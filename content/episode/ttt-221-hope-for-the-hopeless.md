@@ -1,17 +1,14 @@
 ---
 title: 'TTT 221: Hope For The Hopeless'
 date: '2011-02-28T01:43:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: moldova
-  image: /images/moldova.jpg
+episode_image: "/images/moldova.jpg"
+thumbnail: "/images/moldova.jpg"
+images: ["/images/moldova.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt221.mp3
-url: /2011/02/ttt-221-hope-for-the-hopeless/
 ---
 Moldova or bust!
 

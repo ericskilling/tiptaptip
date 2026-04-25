@@ -1,17 +1,14 @@
 ---
 title: 'TTT 371: Christmas Miracle'
 date: '2013-12-23T06:42:30+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: Gift
-  image: /images/christmasmiracle.jpg
+episode_image: "/images/christmasmiracle.jpg"
+thumbnail: "/images/christmasmiracle.jpg"
+images: ["/images/christmasmiracle.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt371.mp3
-url: /2013/12/ttt-371-christmas-miracle/
 ---
 In this episode recorded from the road, Rachelle and Eric discuss Eurovision, Edmontonians, and the miracle of Christmas. Thanks!
 

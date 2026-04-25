@@ -1,17 +1,14 @@
 ---
 title: 'TTT 256: Ik Hou Van Jou'
 date: '2011-08-04T03:55:48+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: ikhouvanjou
-  image: /images/ikhouvanjou.jpg
+episode_image: "/images/ikhouvanjou.jpg"
+thumbnail: "/images/ikhouvanjou.jpg"
+images: ["/images/ikhouvanjou.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt256.mp3
-url: /2011/08/ttt-256-ik-hou-van-jou/
 ---
 Uh-oh!
 

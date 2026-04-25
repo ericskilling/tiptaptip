@@ -1,18 +1,15 @@
 ---
 title: 'TTT 77: Say My Name'
 date: '2009-04-17T04:33:30+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - atomic-suburbia
 - podcast
 - yyc
-cover:
-  alt: beyonce-knowles-3
-  image: /images/beyonce-knowles-3.jpg
+episode_image: "/images/beyonce-knowles-3.jpg"
+thumbnail: "/images/beyonce-knowles-3.jpg"
+images: ["/images/beyonce-knowles-3.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt77.mp3
-url: /2009/04/ttt-77-say-my-name/
 ---
 Eric promises he won't say Rachelle's name on Twitter again. Especially when it comes to her napping.
 

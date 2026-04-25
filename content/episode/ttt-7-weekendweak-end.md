@@ -1,19 +1,16 @@
 ---
 title: 'TTT 7: Weekend/Weak End'
 date: '2008-07-22T04:42:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - fun
 - podcast
 - ramada-hotel-calgary
 - yyc
-cover:
-  alt: p-29091-39021-smallpet
-  image: /images/p-29091-39021-smallpet1.jpg
+episode_image: "/images/p-29091-39021-smallpet1.jpg"
+thumbnail: "/images/p-29091-39021-smallpet1.jpg"
+images: ["/images/p-29091-39021-smallpet1.jpg"]
 podcast_file: http://www.archive.org/download/Ttt7WeekendweakEnd/ttt7.mp3
-url: /2008/07/ttt-7-weekendweak-end/
 ---
 Seriously, someone give me a hamburger already!
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 328: For Lack Of Trying'
 date: '2012-11-02T04:38:09+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: littlethings
-  image: /images/littlethings.jpg
+episode_image: "/images/littlethings.jpg"
+thumbnail: "/images/littlethings.jpg"
+images: ["/images/littlethings.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt328.mp3
-url: /2012/11/ttt-328-for-lack-of-trying/
 ---
 Between the Ewoks and the upcoming election we got all your bases covered.
 

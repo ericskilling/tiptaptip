@@ -1,18 +1,15 @@
 ---
 title: 'TTT 356: Take It Easy'
 date: '2013-07-08T02:47:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - photo-ming-xia
 - podcast
 - yyc
-cover:
-  alt: take_it_easy
-  image: /images/take_it_easy.jpg
+episode_image: "/images/take_it_easy.jpg"
+thumbnail: "/images/take_it_easy.jpg"
+images: ["/images/take_it_easy.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt356.mp3
-url: /2013/07/ttt-356-take-it-easy/
 ---
 Recorded on the road back from our trip out of town this weekend. Start a game. Forget a game. Rachelle asks a bunch of questions. Eric is the worst backseat driver in the world. Recorded on the Tip Tap Tip mobile setup so expect nothing but pristine sound.
 

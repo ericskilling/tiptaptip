@@ -1,14 +1,11 @@
 ---
 title: 'TTT 477: Self-Control'
 date: '2018-04-30T03:27:24+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: control
-  image: /images/control.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/control.jpg"
+thumbnail: "/images/control.jpg"
+images: ["/images/control.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt477.mp3
-url: /2018/04/ttt-477-self-control/
 ---
 We're back in Tip Tap Tip Studio A and ready to party. As long as we're in bed by 9: 30. Listen as Eric gets annoyed by the slightest noise; Rachelle is perplexed by face-punching; and we get real sensual on Craigslist. All this plus Eurovision song reviews for Lithuania, Latvia, and Ukraine.
 

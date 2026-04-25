@@ -1,16 +1,13 @@
 ---
 title: 'TTT 421: Enough Already!'
 date: '2015-08-23T02:07:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: enoughalready
-  image: /images/enoughalready.jpg
+episode_image: "/images/enoughalready.jpg"
+thumbnail: "/images/enoughalready.jpg"
+images: ["/images/enoughalready.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/Enough_Already_Eric_Skillings_Summer_2015_Mix.m4a
-url: /2015/08/ttt-421-enough-already/
 ---
 No episode this week. Don't cry. As a bonus here's a summer 2015 mix that Eric put together just in time for the end of summer 2015. Better late than never.
 

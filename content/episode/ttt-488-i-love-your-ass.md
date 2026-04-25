@@ -1,14 +1,11 @@
 ---
 title: 'TTT 488: I Love Your Ass'
 date: '2018-12-09T04:20:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: ass
-  image: /images/ass.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/ass.jpg"
+thumbnail: "/images/ass.jpg"
+images: ["/images/ass.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt488.mp3
-url: /2018/12/ttt-488-i-love-your-ass/
 ---
 It's almost Christmas and we have a lot to talk about. Everything from:
 

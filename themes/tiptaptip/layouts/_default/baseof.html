@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html itemscope lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body lang="{{ .Site.Params.Lang }}">
+  {{ partial "header.html" . }}
+  <div class="container middle_container">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
+  {{ partial "footer.html" . }}
+  {{ partial "footer_scripts.html" . }}
+</body>
+</html>

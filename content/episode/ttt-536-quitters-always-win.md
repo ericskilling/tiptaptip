@@ -1,14 +1,11 @@
 ---
 title: 'TTT 536: Quitters Always Win'
 date: '2022-05-08T23:34:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: quitter
-  image: /images/quitter.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/quitter.jpg"
+thumbnail: "/images/quitter.jpg"
+images: ["/images/quitter.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt536.mp3
-url: /2022/05/ttt-536-quitters-always-win/
 ---
 We're ready to quit! Kids soccer, social media, life. It's really all just a pile of trash. Does this make us better than the next rube? Absolutely. Because when the going gets tough, peace out.
 

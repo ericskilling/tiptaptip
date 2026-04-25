@@ -1,14 +1,11 @@
 ---
 title: 'Episode Flashback —  378: Black Is The New Black'
 date: '2018-08-19T23:50:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: blackblack
-  image: /images/blackblack.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/blackblack.jpg"
+thumbnail: "/images/blackblack.jpg"
+images: ["/images/blackblack.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt378.mp3
-url: /2018/08/episode-flashback-378-black-is-the-new-black/
 ---
 Tip Tap Tip taking a bit of a summer break for the month of August. Life is busy between kids, trips etc. It’s weird. For a summer break, it doesn’t like much of a break for us. We’re really excited to put out new episodes soon. Mostly because, Eric can’t wait to tell you what he did over the summer break. You’ll just have to wait though. Don’t worry, we’ve got older shows lined up to keep you occupied.
 

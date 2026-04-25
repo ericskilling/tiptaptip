@@ -1,17 +1,14 @@
 ---
 title: 'TTT 411: Robophobic'
 date: '2015-04-19T23:20:02+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - hearing-colours
 - human-cyborg
-cover:
-  alt: Robophobic
-  image: /images/robotfriends.jpg
+episode_image: "/images/robotfriends.jpg"
+thumbnail: "/images/robotfriends.jpg"
+images: ["/images/robotfriends.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt411.mp3
-url: /2015/04/ttt-411-robophobic/
 ---
 Eric and Rachelle look into the future and it's looking a bit robotic. We examine robot implants that aren't quite useful; Turkish mayors who do things their way; and why we think robot mania needs to take it down a notch or twelve.
 

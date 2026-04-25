@@ -1,14 +1,11 @@
 ---
 title: 'TTT 475: Making Up All Over The Place'
 date: '2018-03-26T03:54:39+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: make
-  image: /images/make.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/make.jpg"
+thumbnail: "/images/make.jpg"
+images: ["/images/make.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt475.mp3
-url: /2018/03/ttt-475-making-up-all-over-the-place/
 ---
 Eric and Rachelle get busy with stuff. In this episode: a toy review by our son; find out the contents of the mystery letter; a really bad child care giver (not us!); Katy Perry kills people. Also, Craigslist Missed Connections and Eurovision songs from Israel, The Netherlands, Bulgaria, and Belgium.
 

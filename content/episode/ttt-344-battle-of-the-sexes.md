@@ -1,17 +1,14 @@
 ---
 title: 'TTT 344: Battle Of The Sexes'
 date: '2013-03-24T22:25:18+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: battleofthesexes
-  image: /images/battleofthesexes.jpg
+episode_image: "/images/battleofthesexes.jpg"
+thumbnail: "/images/battleofthesexes.jpg"
+images: ["/images/battleofthesexes.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt344.mp3
-url: /2013/03/ttt-344-battle-of-the-sexes/
 ---
 Back and not recording in a car. I guess that's a good thing, right? Fun show with the usual Eurovision talk. Also, Lululemon's missed opportunity, dirty satanic hippies, and parenting advice. All for free. You're Welcome!
 

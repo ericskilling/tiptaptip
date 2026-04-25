@@ -1,0 +1,1444 @@
+/* Terminal/TUI Theme for tiptaptip - WebTUI Style */
+
+/* ============================================
+   CSS Variables - WebTUI Color Palette
+   ============================================ */
+:root {
+  --terminal-bg: #1e1e2e;
+  --terminal-fg: #cdd6f4;
+  --terminal-dim: #6c7086;
+  --terminal-bright: #f5e0dc;
+  --terminal-amber: #fab387;
+  --terminal-cyan: #89dceb;
+  --terminal-magenta: #f5c2e7;
+  --terminal-border: #45475a;
+  --terminal-error: #f38ba8;
+  --terminal-success: #a6e3a1;
+  --terminal-warning: #f9e2af;
+  --terminal-info: #89b4fa;
+  --terminal-bg-alt: #181825;
+  --terminal-bg-highlight: #313244;
+}
+
+/* ============================================
+   Reset & Base Styles
+   ============================================ */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: var(--terminal-bg);
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--terminal-bg);
+  color: var(--terminal-fg);
+  font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Consolas', monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ============================================
+   Typography
+   ============================================ */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--terminal-bright);
+  margin: 20px 0 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
+
+h1::before { content: '# '; color: var(--terminal-dim); }
+h2::before { content: '## '; color: var(--terminal-dim); }
+h3::before { content: '### '; color: var(--terminal-dim); }
+
+p {
+  margin: 10px 0;
+  color: var(--terminal-fg);
+}
+
+a {
+  color: var(--terminal-info);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+a:hover {
+  color: var(--terminal-cyan);
+}
+
+small {
+  color: var(--terminal-dim);
+  font-size: 12px;
+}
+
+/* ============================================
+   Container & Layout
+   ============================================ */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.middle_container {
+  padding: 20px 0;
+}
+
+/* ============================================
+   Terminal Box Component
+   ============================================ */
+.terminal-box {
+  background-color: var(--terminal-bg-alt);
+  border: 1px solid var(--terminal-border);
+  padding: 20px;
+  margin: 20px 0;
+  position: relative;
+}
+
+.terminal-box::before {
+  content: attr(data-title);
+  position: absolute;
+  top: -10px;
+  left: 15px;
+  background: var(--terminal-bg);
+  padding: 0 10px;
+  color: var(--terminal-info);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* ============================================
+   Header Styles
+   ============================================ */
+.site-header {
+  background-color: var(--terminal-bg);
+  border-bottom: 1px solid var(--terminal-dim);
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.terminal-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background: var(--terminal-bg-alt);
+  border-bottom: 1px solid var(--terminal-border);
+  gap: 15px;
+}
+
+.terminal-prompt {
+  display: none;
+}
+
+.site-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--terminal-bright) !important;
+  text-align: center;
+}
+
+.site-title:hover {
+  color: var(--terminal-cyan) !important;
+}
+
+.header-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.site-logo {
+  display: inline-block;
+  text-decoration: none;
+  border: none !important;
+  outline: none !important;
+  background: none !important;
+}
+
+.site-logo:focus,
+.site-logo:active {
+  border: none !important;
+  outline: none !important;
+  background: none !important;
+}
+
+.ascii-logo {
+  font-family: 'Fira Code', monospace;
+  font-size: 8px;
+  line-height: 1;
+  color: var(--terminal-info);
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  letter-spacing: 0;
+  display: block;
+  border: none !important;
+  overflow-x: auto;
+}
+
+.ascii-logo::-webkit-scrollbar {
+  display: none;
+}
+
+.ascii-logo {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.header-right {
+  color: var(--terminal-amber);
+  display: none;
+}
+
+/* Blinking cursor animation */
+.cursor {
+  color: var(--terminal-cyan);
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* ============================================
+   Navigation Styles
+   ============================================ */
+.site-nav {
+  padding: 10px 20px;
+  background-color: var(--terminal-bg);
+}
+
+.nav-container {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-prompt {
+  color: var(--terminal-dim);
+  font-weight: bold;
+}
+
+.site-nav a {
+  color: var(--terminal-fg);
+  padding: 5px 10px;
+  border: 1px solid transparent;
+  transition: all 0.2s;
+}
+
+.site-nav a:hover {
+  color: var(--terminal-cyan);
+  border-color: var(--terminal-border);
+  background-color: var(--terminal-bg-highlight);
+}
+
+/* ============================================
+   Episode List Styles
+   ============================================ */
+.episode-list {
+  padding: 0;
+}
+
+.episode-item {
+  border-bottom: 1px solid var(--terminal-border);
+  padding: 20px 0;
+}
+
+.episode-item:last-child {
+  border-bottom: none;
+}
+
+.episode-header {
+  margin-bottom: 10px;
+}
+
+.episode-prompt {
+  color: var(--terminal-success);
+  margin-right: 5px;
+}
+
+.episode-header h2 {
+  margin: 5px 0;
+  font-size: 1.3rem;
+}
+
+.episode-header h2::before {
+  content: none;
+}
+
+.episode-header h2 a {
+  color: var(--terminal-bright);
+}
+
+.episode-header h2 a:hover {
+  color: var(--terminal-cyan);
+}
+
+.episode-date {
+  color: var(--terminal-dim);
+  font-size: 12px;
+}
+
+.episode-content {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.episode-image {
+  flex-shrink: 0;
+  width: 150px;
+}
+
+.episode-image img {
+  width: 100%;
+  border: 1px solid var(--terminal-dim);
+  filter: grayscale(100%) brightness(0.8);
+}
+
+.episode-description {
+  flex: 1;
+  color: var(--terminal-fg);
+}
+
+.episode-player {
+  margin-top: 15px;
+  padding: 15px;
+  background-color: var(--terminal-bg);
+  border: 1px solid var(--terminal-dim);
+}
+
+.player-label,
+.video-label {
+  display: block;
+  color: var(--terminal-amber);
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+/* ============================================
+   Episode Page Styles
+   ============================================ */
+.episode-page {
+  max-width: 100%;
+}
+
+.episode-page h1::before {
+  content: none;
+}
+
+.episode-banner {
+  margin: 20px 0;
+}
+
+.episode-banner img {
+  width: 100%;
+  max-width: 600px;
+  border: 1px solid var(--terminal-dim);
+  filter: grayscale(100%) brightness(0.8);
+}
+
+.episode-page .episode-description {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: var(--terminal-bg);
+  border-left: 3px solid var(--terminal-cyan);
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--terminal-dim);
+}
+
+.show-notes {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--terminal-dim);
+}
+
+.show-notes h2::before {
+  content: none;
+}
+
+/* ============================================
+   Hosts & Guests Styles
+   ============================================ */
+.hosts-section,
+.guests-section {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--terminal-dim);
+}
+
+.hosts-section h2::before,
+.guests-section h2::before {
+  content: none;
+}
+
+.hosts-list,
+.guests-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.host-item,
+.guest-item {
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background-color: var(--terminal-bg);
+  border: 1px solid var(--terminal-dim);
+}
+
+.host-thumbnail,
+.guest-thumbnail {
+  flex-shrink: 0;
+  width: 100px;
+}
+
+.host-thumbnail img,
+.guest-thumbnail img {
+  width: 100%;
+  border: 1px solid var(--terminal-dim);
+  filter: grayscale(100%);
+}
+
+.host-info h3,
+.guest-info h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.host-info h3::before,
+.guest-info h3::before {
+  content: none;
+}
+
+/* ============================================
+   Share Section
+   ============================================ */
+.share-section {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--terminal-dim);
+}
+
+.share-label {
+  display: block;
+  color: var(--terminal-amber);
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+/* ============================================
+   Comments Section
+   ============================================ */
+.comments-section {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--terminal-dim);
+}
+
+/* ============================================
+   Episode Pager
+   ============================================ */
+.episode-pager {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--terminal-dim);
+}
+
+/* ============================================
+   Buttons
+   ============================================ */
+.btn,
+button {
+  display: inline-block;
+  padding: 8px 20px;
+  background: transparent;
+  border: 1px solid var(--terminal-border);
+  color: var(--terminal-fg);
+  font-family: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.btn:hover,
+button:hover {
+  background: var(--terminal-fg);
+  color: var(--terminal-bg);
+  box-shadow: 0 0 15px var(--terminal-fg);
+}
+
+.btn.disabled,
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn.disabled:hover,
+.btn:disabled:hover {
+  background: transparent;
+  color: var(--terminal-fg);
+  box-shadow: none;
+}
+
+/* ============================================
+   Pagination
+   ============================================ */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 30px 0;
+  padding: 15px;
+  background-color: var(--terminal-bg);
+  border: 1px solid var(--terminal-dim);
+}
+
+.pagination-info {
+  color: var(--terminal-dim);
+  font-size: 12px;
+  margin-right: 15px;
+}
+
+.pagination-links {
+  display: flex;
+  gap: 10px;
+}
+
+.pagination a {
+  padding: 5px 12px;
+  border: 1px solid var(--terminal-dim);
+  color: var(--terminal-fg);
+}
+
+.pagination a:hover,
+.pagination a.active {
+  background: var(--terminal-fg);
+  color: var(--terminal-bg);
+}
+
+/* ============================================
+   Footer Styles
+   ============================================ */
+.site-footer {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: var(--terminal-bg);
+  border-top: 1px solid var(--terminal-border);
+  text-align: center;
+}
+
+.terminal-footer {
+  padding: 10px 0;
+}
+
+.footer-text {
+  color: var(--terminal-dim);
+  font-size: 12px;
+  margin: 5px 0;
+}
+
+.footer-text::before {
+  content: '';
+}
+
+.footer-text a {
+  color: var(--terminal-info);
+}
+
+.footer-text a:hover {
+  color: var(--terminal-cyan);
+}
+
+.rss-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 20px;
+  border: 1px solid var(--terminal-success);
+  color: var(--terminal-success);
+  font-size: 14px;
+}
+
+.rss-button:hover {
+  background: var(--terminal-success);
+  color: var(--terminal-bg);
+}
+
+.rss-icon {
+  font-weight: bold;
+}
+
+/* ============================================
+   Code & Pre Styles
+   ============================================ */
+code {
+  background-color: var(--terminal-bg-alt);
+  color: var(--terminal-amber);
+  padding: 2px 6px;
+  border: 1px solid var(--terminal-dim);
+  font-family: inherit;
+}
+
+pre {
+  background-color: var(--terminal-bg-alt);
+  border: 1px solid var(--terminal-dim);
+  padding: 15px;
+  overflow-x: auto;
+  margin: 15px 0;
+}
+
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+/* ============================================
+   Lists
+   ============================================ */
+ul, ol {
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+li::before {
+  color: var(--terminal-bright);
+  margin-right: 10px;
+}
+
+/* ============================================
+   Forms
+   ============================================ */
+input, textarea, select {
+  width: 100%;
+  padding: 10px 15px;
+  background-color: var(--terminal-bg-alt);
+  border: 1px solid var(--terminal-dim);
+  color: var(--terminal-fg);
+  font-family: inherit;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: var(--terminal-bright);
+  box-shadow: 0 0 10px var(--terminal-dim);
+}
+
+input::placeholder, textarea::placeholder {
+  color: var(--terminal-dim);
+}
+
+label {
+  color: var(--terminal-cyan);
+  display: block;
+  margin-top: 15px;
+}
+
+/* ============================================
+   Audio Player Override
+   ============================================ */
+audio {
+  width: 100%;
+  margin: 10px 0;
+  filter: invert(1) hue-rotate(90deg) brightness(1.2);
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: var(--terminal-bg);
+}
+
+/* ============================================
+   Images
+   ============================================ */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--terminal-dim);
+  filter: grayscale(100%) brightness(0.8);
+}
+
+/* ============================================
+   Tables
+   ============================================ */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+}
+
+th, td {
+  border: 1px solid var(--terminal-dim);
+  padding: 10px 15px;
+  text-align: left;
+}
+
+th {
+  background-color: var(--terminal-bg-highlight);
+  color: var(--terminal-bright);
+}
+
+tr:hover {
+  background-color: var(--terminal-bg-highlight);
+}
+
+/* ============================================
+   Blockquotes
+   ============================================ */
+blockquote {
+  border-left: 3px solid var(--terminal-amber);
+  margin: 15px 0;
+  padding: 10px 20px;
+  background-color: var(--terminal-bg-alt);
+  color: var(--terminal-dim);
+  font-style: italic;
+}
+
+/* ============================================
+   Dividers
+   ============================================ */
+hr {
+  border: none;
+  border-top: 1px dashed var(--terminal-dim);
+  margin: 30px 0;
+}
+
+/* ============================================
+   Utility Classes
+   ============================================ */
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.text-left { text-align: left; }
+.text-muted { color: var(--terminal-dim); }
+.text-bright { color: var(--terminal-bright); }
+.text-amber { color: var(--terminal-amber); }
+.text-cyan { color: var(--terminal-cyan); }
+
+.mt-1 { margin-top: 10px; }
+.mt-2 { margin-top: 20px; }
+.mt-3 { margin-top: 30px; }
+.mb-1 { margin-bottom: 10px; }
+.mb-2 { margin-bottom: 20px; }
+.mb-3 { margin-bottom: 30px; }
+.p-1 { padding: 10px; }
+.p-2 { padding: 20px; }
+.p-3 { padding: 30px; }
+
+.hidden { display: none; }
+.visible { display: block; }
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+@media (max-width: 768px) {
+  body {
+    font-size: 13px;
+  }
+  
+  .container {
+    padding: 10px;
+  }
+  
+  .terminal-header {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .nav-container {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.1rem; }
+  
+  .episode-content {
+    flex-direction: column;
+  }
+  
+  .episode-image {
+    width: 100%;
+    max-width: 200px;
+  }
+  
+  .host-item,
+  .guest-item {
+    flex-direction: column;
+  }
+  
+  .host-thumbnail,
+  .guest-thumbnail {
+    width: 80px;
+  }
+  
+  .episode-pager {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .episode-pager .btn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* ============================================
+   Page-specific styles
+   ============================================ */
+.list-item {
+  padding: 15px 0;
+  border-bottom: 1px dashed var(--terminal-dim);
+}
+
+.list-item:last-child {
+  border-bottom: none;
+}
+
+.list-item h2 {
+  margin: 0 0 5px;
+  font-size: 1.2rem;
+}
+
+.list-item h2::before {
+  content: none;
+}
+
+.item-date {
+  color: var(--terminal-dim);
+  font-size: 12px;
+}
+
+/* ============================================
+   404 Page
+   ============================================ */
+.error-404 {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.error-404 h1 {
+  font-size: 3rem;
+  color: var(--terminal-error);
+}
+
+.error-404 h1::before {
+  content: 'ERROR: ';
+}
+
+.error-404 p {
+  color: var(--terminal-dim);
+}
+
+/* ============================================
+   WebTUI-Style Audio Player
+   ============================================ */
+.wui-player {
+  margin: 20px 0;
+  background-color: var(--terminal-bg-alt);
+  border: 1px solid var(--terminal-border);
+  overflow: hidden;
+}
+
+.wui-player audio {
+  display: none;
+}
+
+.wui-player-inner {
+  padding: 15px 20px;
+}
+
+.wui-player-status {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.wui-icon {
+  color: var(--terminal-success);
+  font-size: 14px;
+  cursor: pointer;
+  transition: color 0.2s;
+  user-select: none;
+}
+
+.wui-icon:hover {
+  color: var(--terminal-cyan);
+}
+
+.wui-icon.playing {
+  color: var(--terminal-cyan);
+}
+
+.wui-title {
+  color: var(--terminal-bright);
+  font-size: 13px;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.wui-progress-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.wui-time {
+  color: var(--terminal-dim);
+  font-size: 11px;
+  font-family: 'Fira Code', 'JetBrains Mono', monospace;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.wui-progress {
+  flex: 1;
+  height: 4px;
+  background-color: var(--terminal-border);
+  position: relative;
+  cursor: pointer;
+}
+
+.wui-progress-fill {
+  height: 100%;
+  background-color: var(--terminal-success);
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.wui-progress:hover .wui-progress-fill {
+  background-color: var(--terminal-cyan);
+}
+
+/* ASCII-style progress visualization */
+.wui-progress::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: repeating-linear-gradient(
+    90deg,
+    transparent,
+    transparent 4px,
+    var(--terminal-bg-alt) 4px,
+    var(--terminal-bg-alt) 8px
+  );
+  pointer-events: none;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .wui-title {
+    max-width: 200px;
+  }
+  
+  .wui-time {
+    font-size: 10px;
+  }
+}
+
+.player-label {
+  display: block;
+  color: var(--terminal-amber);
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-family: 'Fira Code', monospace;
+}
+
+.player-label::before {
+  content: '// ';
+  color: var(--terminal-dim);
+}
+
+/* Terminal-style audio player using native controls */
+audio {
+  width: 100%;
+  height: 40px;
+  margin: 10px 0;
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  border-radius: 0;
+  filter: none;
+}
+
+/* Native audio player styling */
+audio::-webkit-media-controls-panel {
+  background-color: var(--terminal-bg) !important;
+  border: none;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-mute-button {
+  background-color: var(--terminal-bg) !important;
+  filter: invert(1) hue-rotate(90deg);
+}
+
+audio::-webkit-media-controls-timeline-container {
+  background-color: var(--terminal-dim) !important;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+  color: var(--terminal-fg) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 12px !important;
+}
+
+/* MediaElement.js Custom Terminal Theme */
+.mejs-container {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border);
+  font-family: 'Fira Code', monospace !important;
+  width: 100% !important;
+  margin: 10px 0;
+}
+
+.mejs-container * {
+  font-family: 'Fira Code', monospace !important;
+}
+
+.mejs-controls {
+  background-color: var(--terminal-bg-alt) !important;
+  height: 40px !important;
+  padding: 0 10px !important;
+  border-top: 1px solid var(--terminal-dim);
+}
+
+.mejs-controls div {
+  background-color: transparent !important;
+}
+
+/* Play/Pause Button */
+.mejs-playpause-button button {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  color: var(--terminal-fg) !important;
+  width: 36px !important;
+  height: 36px !important;
+  margin: 2px 5px !important;
+  cursor: pointer;
+}
+
+.mejs-playpause-button button:hover {
+  background-color: var(--terminal-fg) !important;
+}
+
+.mejs-playpause-button button::before {
+  color: var(--terminal-fg) !important;
+  font-size: 14px !important;
+}
+
+.mejs-play button,
+.mejs-pause button {
+  background: none !important;
+  font-family: 'Fira Code', monospace !important;
+}
+
+/* Progress Bar */
+.mejs-time-rail {
+  flex-grow: 1 !important;
+  height: 20px !important;
+  padding: 10px 0 !important;
+}
+
+.mejs-time-total {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-dim) !important;
+  height: 6px !important;
+  margin: 5px 0 !important;
+}
+
+.mejs-time-loaded {
+  background-color: var(--terminal-dim) !important;
+  height: 4px !important;
+  margin: 1px 0 !important;
+}
+
+.mejs-time-current {
+  background-color: var(--terminal-fg) !important;
+  height: 4px !important;
+  margin: 1px 0 !important;
+}
+
+.mejs-time-handle {
+  background-color: var(--terminal-bright) !important;
+  border: none !important;
+  width: 10px !important;
+  height: 10px !important;
+  top: 5px !important;
+}
+
+/* Time Display */
+.mejs-time {
+  color: var(--terminal-fg) !important;
+  font-size: 12px !important;
+  padding: 0 10px !important;
+  min-width: 100px !important;
+  height: 40px !important;
+  line-height: 40px !important;
+}
+
+.mejs-duration-container,
+.mejs-currenttime-container {
+  color: var(--terminal-fg) !important;
+}
+
+/* Volume Controls */
+.mejs-volume-button {
+  min-width: 40px !important;
+}
+
+.mejs-volume-button button {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  color: var(--terminal-fg) !important;
+}
+
+.mejs-volume-button button:hover {
+  background-color: var(--terminal-fg) !important;
+}
+
+.mejs-volume-slider {
+  background-color: var(--terminal-bg-alt) !important;
+  border: 1px solid var(--terminal-border) !important;
+  height: 80px !important;
+}
+
+.mejs-volume-total {
+  background-color: var(--terminal-dim) !important;
+  width: 4px !important;
+  height: 60px !important;
+}
+
+.mejs-volume-current {
+  background-color: var(--terminal-fg) !important;
+  width: 4px !important;
+}
+
+.mejs-volume-handle {
+  background-color: var(--terminal-bright) !important;
+  width: 12px !important;
+  height: 8px !important;
+}
+
+/* Horizontal volume (alternative style) */
+.mejs-horizontal-volume-slider {
+  width: 60px !important;
+}
+
+.mejs-horizontal-volume-total {
+  background-color: var(--terminal-dim) !important;
+  height: 4px !important;
+}
+
+.mejs-horizontal-volume-current {
+  background-color: var(--terminal-fg) !important;
+  height: 4px !important;
+}
+
+.mejs-horizontal-volume-handle {
+  background-color: var(--terminal-bright) !important;
+  width: 10px !important;
+  height: 10px !important;
+}
+
+/* Fullscreen Button */
+.mejs-fullscreen-button button {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  color: var(--terminal-fg) !important;
+}
+
+.mejs-fullscreen-button button:hover {
+  background-color: var(--terminal-fg) !important;
+}
+
+/* Tooltips */
+.mejs-tooltip {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  color: var(--terminal-fg) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 11px !important;
+}
+
+/* Captions */
+.mejs-captions-layer {
+  background-color: rgba(10, 10, 10, 0.9) !important;
+  color: var(--terminal-fg) !important;
+  font-family: 'Fira Code', monospace !important;
+}
+
+.mejs-captions-text {
+  background-color: var(--terminal-bg) !important;
+  padding: 5px 10px !important;
+  font-size: 14px !important;
+}
+
+/* Loading Spinner */
+.mejs-loading span {
+  background-color: var(--terminal-fg) !important;
+}
+
+/* Posters */
+.mejs-poster {
+  background-color: var(--terminal-bg) !important;
+}
+
+/* Overlay Play Button */
+.mejs-overlay-button {
+  background-color: var(--terminal-bg) !important;
+  border: 2px solid var(--terminal-border) !important;
+  width: 60px !important;
+  height: 60px !important;
+  border-radius: 0 !important;
+}
+
+.mejs-overlay-button:hover {
+  background-color: var(--terminal-fg) !important;
+}
+
+/* Hide default MEJS button text, use terminal-style icons */
+.mejs-button > button {
+  font-size: 0 !important;
+  text-indent: -9999px !important;
+}
+
+/* Alternative: Use CSS to add play/pause symbols */
+.mejs-play > button::before {
+  content: '▶' !important;
+  font-size: 16px !important;
+  text-indent: 0 !important;
+  position: absolute !important;
+}
+
+.mejs-pause > button::before {
+  content: '⏸' !important;
+  font-size: 16px !important;
+  text-indent: 0 !important;
+  position: absolute !important;
+}
+
+/* Simple native audio controls styled for terminal */
+.episode-player audio,
+.homepage_episode audio {
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  color: var(--terminal-fg) !important;
+  font-family: 'Fira Code', monospace !important;
+  padding: 5px 10px !important;
+  width: 100% !important;
+  height: 45px !important;
+}
+
+.episode-player audio::-webkit-media-controls-panel,
+.homepage_episode audio::-webkit-media-controls-panel {
+  background: var(--terminal-bg-alt) !important;
+}
+
+.episode-player audio::-webkit-media-controls-play-button,
+.homepage_episode audio::-webkit-media-controls-play-button {
+  background-color: var(--terminal-bg) !important;
+  border: 1px solid var(--terminal-border) !important;
+  filter: invert(1);
+}
+
+.episode-player audio::-webkit-media-controls-current-time-display,
+.episode-player audio::-webkit-media-controls-time-remaining-display,
+.homepage_episode audio::-webkit-media-controls-current-time-display,
+.homepage_episode audio::-webkit-media-controls-time-remaining-display {
+  color: var(--terminal-fg) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 11px !important;
+}
+
+.episode-player audio::-webkit-media-controls-timeline,
+.homepage_episode audio::-webkit-media-controls-timeline {
+  background-color: var(--terminal-dim) !important;
+}
+
+.episode-player audio::-webkit-media-controls-volume-slider,
+.homepage_episode audio::-webkit-media-controls-volume-slider {
+  background-color: var(--terminal-dim) !important;
+}
+
+/* ============================================
+   About Page Styles
+   ============================================ */
+.about-content h2 {
+  border-bottom: 1px solid var(--terminal-border);
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+.about-content h3 {
+  color: var(--terminal-cyan);
+  font-size: 1.1rem;
+}
+
+.about-content h3::before {
+  content: '### ';
+}
+
+.about-content hr {
+  border: none;
+  border-top: 1px dashed var(--terminal-border);
+  margin: 30px 0;
+}
+
+.about-content strong {
+  color: var(--terminal-success);
+}
+
+.about-content a {
+  color: var(--terminal-info);
+}
+
+.about-content a:hover {
+  color: var(--terminal-cyan);
+}
+
+.about-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.about-content li {
+  padding: 5px 0;
+}
+
+.about-content li::before {
+  content: '• ';
+  color: var(--terminal-success);
+}
+
+/* ============================================
+   Contact Page Styles
+   ============================================ */
+.contact-content a[href^="tel:"] {
+  color: var(--terminal-success);
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.contact-content a[href^="tel:"]:hover {
+  color: var(--terminal-cyan);
+}
+
+.contact-form {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  color: var(--terminal-info);
+  margin-bottom: 8px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.form-group label::before {
+  content: '> ';
+  color: var(--terminal-dim);
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  max-width: 500px;
+  padding: 12px 15px;
+  background-color: var(--terminal-bg);
+  border: 1px solid var(--terminal-border);
+  color: var(--terminal-fg);
+  font-family: 'Fira Code', monospace;
+  font-size: 14px;
+  transition: border-color 0.2s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--terminal-success);
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: var(--terminal-dim);
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.submit-btn {
+  padding: 12px 30px;
+  background-color: transparent;
+  border: 1px solid var(--terminal-success);
+  color: var(--terminal-success);
+  font-family: 'Fira Code', monospace;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.submit-btn:hover {
+  background-color: var(--terminal-success);
+  color: var(--terminal-bg);
+}
+

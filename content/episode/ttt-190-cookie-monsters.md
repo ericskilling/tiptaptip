@@ -1,17 +1,14 @@
 ---
 title: 'TTT 190: Cookie Monsters'
 date: '2010-10-07T13:49:29+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: monsters
-  image: /images/monsters.jpg
+episode_image: "/images/monsters.jpg"
+thumbnail: "/images/monsters.jpg"
+images: ["/images/monsters.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt190.mp3
-url: /2010/10/ttt-190-cookie-monsters/
 ---
 Better than LSD
 

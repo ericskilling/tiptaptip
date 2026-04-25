@@ -1,19 +1,16 @@
 ---
 title: 'TTT 8: The Tip Tap Tip Code'
 date: '2008-07-24T05:34:30+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - seriously-vegans
 - wtf
 - yyc
-cover:
-  alt: code
-  image: /images/code1.jpg
+episode_image: "/images/code1.jpg"
+thumbnail: "/images/code1.jpg"
+images: ["/images/code1.jpg"]
 podcast_file: http://www.archive.org/download/Ttt8TheTipTapTipCode/ttt8.mp3
-url: /2008/07/ttt-8-the-tip-tap-tip-code/
 ---
 It's day 3 of the cleanse and we can barely stand it anymore. Too bad we kind of cheated and got soy chocolate milk. Eating the Soy jerky was painful though. Seriously Vegans, WTF?!
 **Episode Links:**

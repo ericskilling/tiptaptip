@@ -1,17 +1,14 @@
 ---
 title: 'TTT 359: Private Property'
 date: '2013-08-11T21:54:53+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: private_property
-  image: /images/private_property.jpg
+episode_image: "/images/private_property.jpg"
+thumbnail: "/images/private_property.jpg"
+images: ["/images/private_property.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt359.mp3
-url: /2013/08/ttt-358-private-property/
 ---
 We're back after a few weeks. We went camping and stuff. Our last show was so good it sent Rachelle to the hospital. For real! Listen to find out the details.
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 53: Lovemakers'
 date: '2009-01-09T04:52:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: mantracker
-  image: /images/mantracker1.jpg
+episode_image: "/images/mantracker1.jpg"
+thumbnail: "/images/mantracker1.jpg"
+images: ["/images/mantracker1.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt53.mp3
-url: /2009/01/ttt-53-lovemakers/
 ---
 It's hard to decide what's a better job; rapping while grilling burgers at Wendy's, being a Playboy intern or being a Mantracker. How can one ever be expected to decide something like this? We sure can't.
 **Episode Links:**

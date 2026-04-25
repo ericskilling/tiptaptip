@@ -1,17 +1,14 @@
 ---
 title: 'TTT 198: Our Love Will Not Let You Down'
 date: '2010-11-11T04:14:45+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: adonispalin
-  image: /images/adonispalin.jpg
+episode_image: "/images/adonispalin.jpg"
+thumbnail: "/images/adonispalin.jpg"
+images: ["/images/adonispalin.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt198.mp3
-url: /2010/11/ttt-198-our-love-will-not-let-you-down/
 ---
 Exciting and new.
 

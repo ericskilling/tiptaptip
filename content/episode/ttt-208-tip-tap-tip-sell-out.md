@@ -1,17 +1,14 @@
 ---
 title: 'TTT 208: Tip Tap Tip Sell Out'
 date: '2011-01-06T04:19:48+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: pegasi
-  image: /images/pegasi.jpg
+episode_image: "/images/pegasi.jpg"
+thumbnail: "/images/pegasi.jpg"
+images: ["/images/pegasi.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt208.mp3
-url: /2011/01/ttt-208-tip-tap-tip-sell-out/
 ---
 ...to the highest bidder.
 

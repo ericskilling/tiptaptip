@@ -1,17 +1,14 @@
 ---
 title: 'TTT 177: Bite Me'
 date: '2010-08-05T04:33:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: bite
-  image: /images/bite.jpg
+episode_image: "/images/bite.jpg"
+thumbnail: "/images/bite.jpg"
+images: ["/images/bite.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt177.mp3
-url: /2010/08/ttt-177-bite-me/
 ---
 Seriously, fuck those guys.
 

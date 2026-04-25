@@ -1,0 +1,175 @@
+{{ define "main" }}
+
+<div class="terminal-box episode-page" data-title="EPISODE">
+  <div class="episode-header">
+    {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+      {{ if eq .Site.Params.episode_number_style "parens" }}
+        <h1>{{ .Title }} ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h1>
+      {{ else if eq .Site.Params.episode_number_style "brackets" }}
+        <h1>{{ .Title }} [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h1>
+      {{ else if eq .Site.Params.episode_number_style "dash" }}
+        <h1>{{ .Title }} - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h1>
+      {{ else }}
+        <h1>{{ .Title }}</h1>
+      {{ end }}
+    {{ else }}
+      <h1>{{ .Title }}</h1>
+    {{ end }}
+    <span class="episode-date">// Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</span>
+  </div>
+
+  {{ if isset .Params "episode_banner" }}
+    {{ if ne .Params.episode_banner "" }}
+      <div class="episode-banner">
+        <img src="{{ .Params.episode_banner | absURL }}" alt="{{ .Title }}" />
+      </div>
+    {{ end }}
+  {{ else }}
+    {{- if isset .Params "episode_image" -}}
+      {{- if ne .Params.episode_image "" -}}
+        <div class="episode-image">
+          <img src="{{ .Params.episode_image | absURL }}" alt="{{ .Title }}" />
+        </div>
+      {{- end -}}
+    {{- end -}}
+  {{ end }}
+
+  <div class="episode-description">
+    {{ .Description | markdownify }}
+  </div>
+
+  {{- with .Params.podcast_file -}}
+    {{ if hasPrefix . "http" }}
+      {{ . | printf "<!-- AUDIO_URL: %s -->" | safeHTML }}
+    {{ else }}
+      {{ $.Site.Params.media_prefix }}{{ . | printf "<!-- AUDIO_URL: %s -->" | safeHTML }}
+    {{ end }}
+    <div class="wui-player" data-audio-url="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ $.Site.Params.media_prefix }}{{ . }}{{ end }}">
+      <div class="wui-player-inner">
+        <div class="wui-player-status">
+          <span class="wui-icon">▶</span>
+          <span class="wui-title">{{ $.Title }}</span>
+        </div>
+        <div class="wui-progress-container">
+          <span class="wui-time current">[00:00]</span>
+          <div class="wui-progress">
+            <div class="wui-progress-fill"></div>
+          </div>
+          <span class="wui-time total">[--:--]</span>
+        </div>
+      </div>
+      <audio id="player2" preload="metadata">
+        {{ if hasPrefix . "http" }}
+        <source src="{{ . }}" type="audio/mpeg">
+        {{ else }}
+        <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mpeg">
+        {{ end }}
+      </audio>
+    </div>
+  {{- end -}}
+
+  {{- with .Params.youtube -}}
+    <div class="episode-video">
+      <span class="video-label">// Video Player</span>
+      <div class="video-container">
+        <iframe src="//www.youtube.com/embed/{{ . }}" allowfullscreen></iframe>
+      </div>
+    </div>
+  {{- end -}}
+
+  <div class="show-notes">
+    <h2>// Show Notes</h2>
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.hosts }}
+  <div class="hosts-section">
+    <h2>// Hosts</h2>
+    <div class="hosts-list">
+      {{ range $name := . }}
+        {{ $.Scratch.Set "person" $name }}
+        {{- range where $.Site.Pages "Type" "host" -}}
+          {{- if eq .File.BaseFileName ($.Scratch.Get "person") -}}
+          <div class="host-item">
+            <div class="host-thumbnail">
+              {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
+                {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
+                  <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />
+                {{- else -}}
+                  <img src="{{ .Params.thumbnail | absURL}}" alt="{{ .Title }}" />
+                {{- end -}}
+              {{- else -}}
+                <img src="{{ "img/host/default-host.png" | absURL }}" alt="{{ .Title }}" />
+              {{- end -}}
+            </div>
+            <div class="host-info">
+              <h3><a href="{{ printf "host/%s/" .File.BaseFileName | absURL }}">{{ .Title }}</a></h3>
+              {{ .Content }}
+            </div>
+          </div>
+          {{- end -}}
+        {{- end -}}
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{ with .Params.guests }}
+  <div class="guests-section">
+    <h2>// Guests</h2>
+    <div class="guests-list">
+      {{ range $name := . }}
+        {{ $.Scratch.Set "person" $name }}
+        {{- range where $.Site.Pages "Type" "guest" -}}
+          {{- if eq .File.BaseFileName ($.Scratch.Get "person") -}}
+          <div class="guest-item">
+            <div class="guest-thumbnail">
+              {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
+                {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
+                  <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />
+                {{- else -}}
+                  <img src="{{ .Params.thumbnail | absURL}}" alt="{{ .Title }}" />
+                {{- end -}}
+              {{- else -}}
+                <img src="{{ "img/guest/default-guest.png" | absURL }}" alt="{{ .Title }}" />
+              {{- end -}}
+            </div>
+            <div class="guest-info">
+              <h3><a href="{{ printf "guest/%s/" .File.BaseFileName | absURL }}">{{ .Title }}</a></h3>
+              {{ .Content }}
+            </div>
+          </div>
+          {{- end -}}
+        {{- end -}}
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="share-section">
+    <span class="share-label">// Share</span>
+    <div id="share"></div>
+  </div>
+
+  {{ with .Site.Params.disqusShortname }}
+  <div class="comments-section">
+    <h2>// Comments</h2>
+    {{ partial "disqus.html" }}
+  </div>
+  {{ end }}
+
+  <nav class="episode-pager">
+    {{ if .PrevInSection }}
+      <a href="{{.PrevInSection.Permalink}}" class="btn">&lt;&lt; Previous Episode</a>
+    {{ else }}
+      <span class="btn disabled">&lt;&lt; Previous Episode</span>
+    {{ end }}
+    {{ if .NextInSection }}
+      <a href="{{.NextInSection.Permalink}}" class="btn">Next Episode &gt;&gt;</a>
+    {{ else }}
+      <span class="btn disabled">Next Episode &gt;&gt;</span>
+    {{ end }}
+  </nav>
+</div>
+
+{{ end }}

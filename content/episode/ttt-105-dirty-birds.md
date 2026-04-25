@@ -1,17 +1,14 @@
 ---
 title: 'TTT 105: Dirty Birds'
 date: '2009-08-18T04:29:09+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: birds
-  image: /images/birds.jpg
+episode_image: "/images/birds.jpg"
+thumbnail: "/images/birds.jpg"
+images: ["/images/birds.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt105.mp3
-url: /2009/08/ttt-105-dirty-birds/
 ---
 Rachelle reads from her dirty books
 

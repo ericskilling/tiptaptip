@@ -1,17 +1,14 @@
 ---
 title: 'TTT 139: We Are Not Puppets'
 date: '2010-01-23T05:53:33+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: puppets
-  image: /images/puppets1.jpg
+episode_image: "/images/puppets1.jpg"
+thumbnail: "/images/puppets1.jpg"
+images: ["/images/puppets1.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt139.mp3
-url: /2010/01/ttt-139-we-are-not-puppets/
 ---
 Pull our strings.
 

@@ -1,16 +1,13 @@
 ---
 title: 'TTT 403: Stepping Out'
 date: '2015-01-11T04:59:47+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - fun
-cover:
-  alt: partytime
-  image: /images/partytime.jpg
+episode_image: "/images/partytime.jpg"
+thumbnail: "/images/partytime.jpg"
+images: ["/images/partytime.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt403.mp3
-url: /2015/01/ttt-403-stepping/
 ---
 Sometimes you need to get out of a party or a conversation without creating too much fuss. In this episode we discuss our tips, annoyances and times where we messed up in the delicate art of conversation and being a good party guest.
 

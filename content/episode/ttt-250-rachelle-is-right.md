@@ -1,19 +1,16 @@
 ---
 title: 'TTT 250: Rachelle Is Right'
 date: '2011-06-30T04:16:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - garter-girls
 - podcast
 - yyc
-cover:
-  alt: wrong
-  image: /images/wrong.jpg
+episode_image: "/images/wrong.jpg"
+thumbnail: "/images/wrong.jpg"
+images: ["/images/wrong.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt250.mp3
-url: /2011/06/ttt-250-rachelle-is-right/
 ---
 In this episode Eric is wrong and Rachelle is right. Also, we discuss horse semen, mannequin lovers (not the cute 80's comedy kind), and what we've been up to over the last week.
 

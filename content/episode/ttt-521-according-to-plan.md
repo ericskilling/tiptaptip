@@ -1,14 +1,11 @@
 ---
 title: 'TTT 521: According To Plan'
 date: '2020-12-07T00:53:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: plan
-  image: /images/plan.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/plan.jpg"
+thumbnail: "/images/plan.jpg"
+images: ["/images/plan.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt521.mp3
-url: /2020/12/ttt-521-according-to-plan/
 ---
 Well, it's happened. Eric & Rachelle got a pet. So now Tip Tap Tip is going to an all-cat format. We hope you like cat stories, cat memes, cat songs, and cat content, because that's what we're doing from this point forward.
 

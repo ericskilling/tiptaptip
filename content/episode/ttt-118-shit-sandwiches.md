@@ -1,18 +1,15 @@
 ---
 title: 'TTT 118: Shit Sandwiches'
 date: '2009-10-16T04:37:31+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - french-vogue
 - podcast
 - yyc
-cover:
-  alt: shitsandwich
-  image: /images/shitsandwich.jpg
+episode_image: "/images/shitsandwich.jpg"
+thumbnail: "/images/shitsandwich.jpg"
+images: ["/images/shitsandwich.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt118.mp3
-url: /2009/10/ttt-118-shit-sandwiches/
 ---
 When life gives you shit, make a shit-ade
 

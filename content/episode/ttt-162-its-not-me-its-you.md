@@ -1,17 +1,14 @@
 ---
 title: 'TTT 162: It''s Not Me, It''s You'
 date: '2010-05-21T04:32:03+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: fire
-  image: /images/fire.jpg
+episode_image: "/images/fire.jpg"
+thumbnail: "/images/fire.jpg"
+images: ["/images/fire.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt162.mp3
-url: /2010/05/ttt-162-its-not-me-its-you/
 ---
 [![](/images/fire.jpg)](/images/fire.jpg) Let's have a fireside chat.
 

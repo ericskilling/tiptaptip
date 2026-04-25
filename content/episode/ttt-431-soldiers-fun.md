@@ -1,16 +1,13 @@
 ---
 title: 'TTT 431: Soldiers Of Fun'
 date: '2016-03-06T23:11:42+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: soldiers_of_fun
-  image: /images/soldiers_of_fun.jpg
+episode_image: "/images/soldiers_of_fun.jpg"
+thumbnail: "/images/soldiers_of_fun.jpg"
+images: ["/images/soldiers_of_fun.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt431.mp3
-url: /2016/03/ttt-431-soldiers-fun/
 ---
 If there's a lesson to be learned from this episode, it's that drunk parent shouldn't let theirs kids drive their car home when they're passed out in the back. Also, find out why chopping wood is good for your wood.
 

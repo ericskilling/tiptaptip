@@ -1,19 +1,16 @@
 ---
 title: 'TTT 376: Neighbourhood Watch'
 date: '2014-02-16T23:24:42+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - iceland
 - podcast
 - us
 - yyc
-cover:
-  alt: neighbourhood_watch
-  image: /images/neighbourhood_watch.jpg
+episode_image: "/images/neighbourhood_watch.jpg"
+thumbnail: "/images/neighbourhood_watch.jpg"
+images: ["/images/neighbourhood_watch.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt376.mp3
-url: /2014/02/ttt-376-neighbourhood-watch/
 ---
 Rachelle is spying on the neighbourhood because she suspects something is amiss. Eric pushes buttons - both figuratively and literally. A special guest joins us. Our guest has better microphone technique than Rachelle.
 

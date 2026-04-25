@@ -1,14 +1,11 @@
 ---
 title: 'TTT 550: Against The Rules'
 date: '2024-05-06T01:02:26+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: gravy
-  image: /images/gravy.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/gravy.jpg"
+thumbnail: "/images/gravy.jpg"
+images: ["/images/gravy.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt550.mp3
-url: /2024/05/ttt-550-against-the-rules/
 ---
 Is this the best Eurovision ever? It's certainly looking that way. We pack this episode with lots of songs from earnest ballads (Germany) to absolute craziness (Finland).
 

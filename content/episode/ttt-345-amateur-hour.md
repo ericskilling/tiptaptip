@@ -1,18 +1,15 @@
 ---
 title: 'TTT 345: Amateur Hour'
 date: '2013-03-31T03:54:26+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - eurovision-youtube-channel
 - podcast
 - yyc
-cover:
-  alt: amateur_hour
-  image: /images/amateur_hour.jpg
+episode_image: "/images/amateur_hour.jpg"
+thumbnail: "/images/amateur_hour.jpg"
+images: ["/images/amateur_hour.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt345.mp3
-url: /2013/03/ttt-345-amateur-hour/
 ---
 Eric is quietly losing his shit as the show goes off the rails. Luckily Shane and Rachelle are there to pick up the pieces. Rachelle is extra touchy. Shane is strictly business.
 

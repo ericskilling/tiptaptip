@@ -1,17 +1,14 @@
 ---
 title: 'TTT 107: Strikeout!'
 date: '2009-08-26T04:22:14+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: face
-  image: /images/face.jpg
+episode_image: "/images/face.jpg"
+thumbnail: "/images/face.jpg"
+images: ["/images/face.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt107.mp3
-url: /2009/08/ttt-107-strikeout/
 ---
 You can't hit it out of the park everytime.
 

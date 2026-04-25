@@ -1,17 +1,14 @@
 ---
 title: 'TTT 217: Give A Shit'
 date: '2011-02-14T05:21:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: sweats
-  image: /images/sweats.jpg
+episode_image: "/images/sweats.jpg"
+thumbnail: "/images/sweats.jpg"
+images: ["/images/sweats.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt217.mp3
-url: /2011/02/ttt-217-give-a-shit/
 ---
 Dress for success.
 

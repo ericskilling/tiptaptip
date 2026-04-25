@@ -1,14 +1,11 @@
 ---
 title: 'TTT 491: One-Sided Relationship'
 date: '2019-02-04T23:27:31+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: green
-  image: /images/green.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/green.jpg"
+thumbnail: "/images/green.jpg"
+images: ["/images/green.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt491.mp3
-url: /2019/02/ttt-491-one-sided-relationship/
 ---
 Eric & Rachelle realize that the show is one-sided relationship — but that's okay. Also, we catch up on:
 

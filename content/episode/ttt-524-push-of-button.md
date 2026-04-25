@@ -1,14 +1,11 @@
 ---
 title: 'TTT 524: Push of a Button'
 date: '2021-01-25T00:10:29+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: button
-  image: /images/button.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/button.jpg"
+thumbnail: "/images/button.jpg"
+images: ["/images/button.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt524.mp3
-url: /2021/01/ttt-524-push-of-button/
 ---
 Eric & Rachelle get office casual and talk about how the pandemic working from home best practices; weird relationship advice; a comedic movie (not really) and how Eric will damage his body for a laugh.
 

@@ -1,16 +1,13 @@
 ---
 title: 'TTT 422: Move It!'
 date: '2015-08-30T23:16:09+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: Move It
-  image: /images/iliketomoveit.jpg
+episode_image: "/images/iliketomoveit.jpg"
+thumbnail: "/images/iliketomoveit.jpg"
+images: ["/images/iliketomoveit.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt422.mp3
-url: /2015/08/ttt-422-move-it/
 ---
 Eric and Rachelle and moving. In this episode we discuss our past moves and the headaches associated with them. But this move is going to be 100% headache free and go totally smoothly. We guarantee it.
 

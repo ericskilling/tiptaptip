@@ -1,19 +1,16 @@
 ---
 title: 'TTT 195: Cold Leatherette'
 date: '2010-10-28T03:01:22+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcipt
 - podcast
 - snazzy-napper
 - yyc
-cover:
-  alt: leather
-  image: /images/leather.jpg
+episode_image: "/images/leather.jpg"
+thumbnail: "/images/leather.jpg"
+images: ["/images/leather.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt195.mp3
-url: /2010/10/ttt-195-cold-leatherette/
 ---
 Biff! Bang! Pow!
 

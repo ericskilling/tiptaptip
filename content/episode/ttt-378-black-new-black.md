@@ -1,18 +1,15 @@
 ---
 title: 'TTT 378: Black Is The New Black'
 date: '2014-03-02T21:22:23+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - malta
 - podcast
 - yyc
-cover:
-  alt: blackblack
-  image: /images/blackblack.jpg
+episode_image: "/images/blackblack.jpg"
+thumbnail: "/images/blackblack.jpg"
+images: ["/images/blackblack.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt378.mp3
-url: /2014/03/ttt-378-black-new-black/
 ---
 This episode is sponsored by the color black. Rachelle explains why in her 10 minute rant about how Eric is pretty dumb at things. Also, lot of Eurovision songs including Eric's new favourite ever.
 

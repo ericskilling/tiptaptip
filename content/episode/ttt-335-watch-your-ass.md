@@ -1,17 +1,14 @@
 ---
 title: 'TTT 335: Watch Your Ass!'
 date: '2013-01-10T14:19:33+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: watchass
-  image: /images/watchass1.jpg
+episode_image: "/images/watchass1.jpg"
+thumbnail: "/images/watchass1.jpg"
+images: ["/images/watchass1.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt335.mp3
-url: /2013/01/ttt-335-watch-your-ass/
 ---
 This episode is packed full of stuff. We're not sure if the stuff is good or bad but we got lots of it. This is why we're the best; We got the most stuff!
 

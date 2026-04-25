@@ -1,17 +1,14 @@
 ---
 title: 'TTT 203: Little Hearts'
 date: '2010-12-13T05:04:21+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: hamster
-  image: /images/hamster.jpg
+episode_image: "/images/hamster.jpg"
+thumbnail: "/images/hamster.jpg"
+images: ["/images/hamster.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt203.mp3
-url: /2010/12/ttt-203-little-hearts/
 ---
 Send us shit.
 

@@ -1,18 +1,15 @@
 ---
 title: 'TTT 135: The Tip Tap Tip Challenge'
 date: '2010-01-04T01:57:02+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - starts-january
 - yyc
-cover:
-  alt: challenge
-  image: /images/challenge.jpg
+episode_image: "/images/challenge.jpg"
+thumbnail: "/images/challenge.jpg"
+images: ["/images/challenge.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt135.mp3
-url: /2010/01/ttt-135-the-tip-tap-tip-challenge/
 ---
 Are you man/woman enough?
 

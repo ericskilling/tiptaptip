@@ -1,17 +1,14 @@
 ---
 title: 'TTT 341: Hot Diggity Dog'
 date: '2013-03-03T01:35:15+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: hotdiggitydog
-  image: /images/hotdiggitydog.jpg
+episode_image: "/images/hotdiggitydog.jpg"
+thumbnail: "/images/hotdiggitydog.jpg"
+images: ["/images/hotdiggitydog.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt341.mp3
-url: /2013/03/ttt-341-hot-diggity-dog/
 ---
 Eric is cranky and more demanding of the listeners than usual. Rachelle keeps him somewhat in check. More Eurovision, more shit. You're welcome.
 

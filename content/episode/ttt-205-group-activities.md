@@ -1,18 +1,15 @@
 ---
 title: 'TTT 205: Group Activities'
 date: '2010-12-20T05:21:17+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: activity
-  image: /images/activity.jpg
+episode_image: "/images/activity.jpg"
+thumbnail: "/images/activity.jpg"
+images: ["/images/activity.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt205.mp3
-url: /2010/12/ttt-205-group-activities/
 ---
 It's the Spirit of Christmas!
 

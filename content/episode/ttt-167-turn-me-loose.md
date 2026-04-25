@@ -1,17 +1,14 @@
 ---
 title: 'TTT 167: Turn Me Loose'
 date: '2010-06-17T04:34:04+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: loose
-  image: /images/loose.jpg
+episode_image: "/images/loose.jpg"
+thumbnail: "/images/loose.jpg"
+images: ["/images/loose.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt167.mp3
-url: /2010/06/ttt-167-turn-me-loose/
 ---
 Of mice and mammaries.
 

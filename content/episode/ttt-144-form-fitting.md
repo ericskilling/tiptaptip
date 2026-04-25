@@ -1,17 +1,14 @@
 ---
 title: 'TTT 144: Form Fitting'
 date: '2010-02-15T05:46:53+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: sonia
-  image: /images/sonia.jpg
+episode_image: "/images/sonia.jpg"
+thumbnail: "/images/sonia.jpg"
+images: ["/images/sonia.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt144.mp3
-url: /2010/02/ttt-144-form-fitting/
 ---
 Love is all around.
 

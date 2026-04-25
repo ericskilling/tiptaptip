@@ -1,18 +1,15 @@
 ---
 title: 'TTT 342: Phoning It In'
 date: '2013-03-10T22:06:05+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - bonus-stuff-played
 - podcast
 - yyc
-cover:
-  alt: phoningitin
-  image: /images/phoningitin.jpg
+episode_image: "/images/phoningitin.jpg"
+thumbnail: "/images/phoningitin.jpg"
+images: ["/images/phoningitin.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt342.mp3
-url: /2013/03/ttt-342-phoning-it-in/
 ---
 Shorter than usual episode this time because Rachelle had to run off and deal with the baby. It happens. We're also a bit loopy because of the time change thing. What can you do?
 

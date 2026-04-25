@@ -1,17 +1,14 @@
 ---
 title: 'TTT 206: Generalizations'
 date: '2010-12-30T04:01:30+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: menwomen
-  image: /images/menwomen.jpg
+episode_image: "/images/menwomen.jpg"
+thumbnail: "/images/menwomen.jpg"
+images: ["/images/menwomen.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt206.mp3
-url: /2010/12/ttt-206-generalizations/
 ---
 What's It All About?
 

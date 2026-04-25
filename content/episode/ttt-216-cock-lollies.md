@@ -1,17 +1,14 @@
 ---
 title: 'TTT 216: Cock Lollies'
 date: '2011-02-10T06:01:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: weather
-  image: /images/weather.jpg
+episode_image: "/images/weather.jpg"
+thumbnail: "/images/weather.jpg"
+images: ["/images/weather.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt216.mp3
-url: /2011/02/ttt-216-cock-lollies/
 ---
 The Biz!
 

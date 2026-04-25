@@ -1,17 +1,14 @@
 ---
 title: 'TTT 75: Tip Tap Tip Alive!'
 date: '2009-04-09T04:46:51+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: bumpit
-  image: /images/bumpit.gif
+episode_image: "/images/bumpit.gif"
+thumbnail: "/images/bumpit.gif"
+images: ["/images/bumpit.gif"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt75.mp3
-url: /2009/04/ttt-75-tip-tap-tip-alive/
 ---
 Tip Tap Tip Alive! No synopsis necessary.
 

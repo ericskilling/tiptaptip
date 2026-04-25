@@ -1,17 +1,14 @@
 ---
 title: 'TTT 200: Mango Tango'
 date: '2010-11-29T05:20:39+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: tango
-  image: /images/tango.jpg
+episode_image: "/images/tango.jpg"
+thumbnail: "/images/tango.jpg"
+images: ["/images/tango.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt200.mp3
-url: /2010/11/ttt-200-mango-tango/
 ---
 Carnival of flesh
 

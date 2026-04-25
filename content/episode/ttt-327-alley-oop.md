@@ -1,17 +1,14 @@
 ---
 title: 'TTT 327: Alley Oop'
 date: '2012-10-22T00:01:15+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: oopoop
-  image: /images/oopoop.jpg
+episode_image: "/images/oopoop.jpg"
+thumbnail: "/images/oopoop.jpg"
+images: ["/images/oopoop.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt327.mp3
-url: /2012/10/ttt-327-alley-oop/
 ---
 Still the best podcast in Calgary. No one has claimed otherwise so thanks for the consideration.
 

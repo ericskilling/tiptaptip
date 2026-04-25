@@ -1,14 +1,11 @@
 ---
 title: 'TTT 476: Strap On!'
 date: '2018-04-14T05:51:07+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: strap
-  image: /images/strap.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/strap.jpg"
+thumbnail: "/images/strap.jpg"
+images: ["/images/strap.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt476.mp3
-url: /2018/04/ttt-476-strap-on/
 ---
 It's a fun evening with Eric & Rachelle. We talk about homemade rockets, spaghetti arson and more. Plus Eurovision song reviews from Georgia, Norway, Russia, Finland, and Romania. Strap in. I mean on. Whatever!
 

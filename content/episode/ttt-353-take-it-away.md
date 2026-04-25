@@ -1,17 +1,14 @@
 ---
 title: 'TTT 353: Take It Away'
 date: '2013-06-09T22:42:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: takeitaway
-  image: /images/takeitaway.jpg
+episode_image: "/images/takeitaway.jpg"
+thumbnail: "/images/takeitaway.jpg"
+images: ["/images/takeitaway.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt353.mp3
-url: /2013/06/ttt-353-take-it-away/
 ---
 If something is going good then the best thing you can do is to take two weeks off to try and rework the format. That's what we did at least. The good news is the we haven't moved to an all cat news, all the time format. That was discussed though. Craigslist weird shit, Facts, and Prancersize. BONUS: Recording from the road!
 

@@ -1,18 +1,15 @@
 ---
 title: 'TTT 89: File Under Attractive'
 date: '2009-06-07T16:12:54+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - oprah-losefrey
 - podcast
 - yyc
-cover:
-  alt: attraction
-  image: /images/attraction.jpg
+episode_image: "/images/attraction.jpg"
+thumbnail: "/images/attraction.jpg"
+images: ["/images/attraction.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt89.mp3
-url: /2009/06/ttt-89-file-under-attractive/
 ---
 Better than Dr. Phil McFuckface. Better than Oprah Losefrey. Problems? We solve them.
 

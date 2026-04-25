@@ -1,18 +1,15 @@
 ---
 title: 'TTT 234: Travelogue'
 date: '2011-04-21T04:36:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - podcast-squared
 - yyc
-cover:
-  alt: travel
-  image: /images/travel.jpg
+episode_image: "/images/travel.jpg"
+thumbnail: "/images/travel.jpg"
+images: ["/images/travel.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt234.mp3
-url: /2011/04/ttt-234-travelogue/
 ---
 Here, there and everywhere.
 

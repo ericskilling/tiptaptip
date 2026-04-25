@@ -1,17 +1,14 @@
 ---
 title: 'TTT 86: Parenting Advice'
 date: '2009-05-22T04:11:36+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: troi
-  image: /images/troi.jpg
+episode_image: "/images/troi.jpg"
+thumbnail: "/images/troi.jpg"
+images: ["/images/troi.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt86.mp3
-url: /2009/05/ttt-86-parenting-advice/
 ---
 Do as we say! Now!
 

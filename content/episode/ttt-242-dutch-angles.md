@@ -1,17 +1,14 @@
 ---
 title: 'TTT 242: Dutch Angles'
 date: '2011-05-26T03:48:15+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: dutch
-  image: /images/dutch.jpg
+episode_image: "/images/dutch.jpg"
+thumbnail: "/images/dutch.jpg"
+images: ["/images/dutch.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt242.mp3
-url: /2011/05/ttt-242-dutch-angles/
 ---
 What the fuck is wrong with you?
 

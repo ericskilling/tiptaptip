@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/podcast-squared/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TTT 234: Travelogue</title>
-      <link>http://localhost:1313/2011/04/ttt-234-travelogue/</link>
+      <link>http://localhost:1313/episode/ttt-234-travelogue/</link>
       <pubDate>Thu, 21 Apr 2011 04:36:49 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:1313/2011/04/ttt-234-travelogue/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/episode/ttt-234-travelogue/</guid> 
       <description>&lt;p&gt;Here, there and everywhere.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Guest:&lt;/strong&gt; Mark&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>TTT 225: Stick &#39;Em Up!</title>
-      <link>http://localhost:1313/2011/03/ttt-225-stick-em-up/</link>
+      <link>http://localhost:1313/episode/ttt-225-stick-em-up/</link>
       <pubDate>Thu, 17 Mar 2011 04:21:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:1313/2011/03/ttt-225-stick-em-up/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/episode/ttt-225-stick-em-up/</guid> 
       <description>&lt;p&gt;Have you Celine the rain?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

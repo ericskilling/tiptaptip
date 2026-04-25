@@ -1,14 +1,11 @@
 ---
 title: 'TTT 494: Killing It'
 date: '2019-03-26T01:17:40+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: killing
-  image: /images/killing.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/killing.jpg"
+thumbnail: "/images/killing.jpg"
+images: ["/images/killing.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt494.mp3
-url: /2019/03/ttt-494-killing-it/
 ---
 Eric & Rachelle are getting real excited about Eurovision. In this episode we talk about the entries from Moldova, Russia, and Sweden. We also talk about Craigslist weirdos. Why do they exist? Also, Eric comes up with a plan to help take Tip Tap Tip to the next level. Uh oh!
 

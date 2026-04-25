@@ -1,17 +1,14 @@
 ---
 title: 'TTT 260: Out Of Order'
 date: '2011-08-22T04:19:40+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: order
-  image: /images/order.jpg
+episode_image: "/images/order.jpg"
+thumbnail: "/images/order.jpg"
+images: ["/images/order.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt260.mp3
-url: /2011/08/ttt-260-out-of-order/
 ---
 Eric describes a close call - A real close call. Listen and find out. Also we play PSAs and a music video a guy who is livin' da life more than we are.
 

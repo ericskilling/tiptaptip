@@ -1,19 +1,16 @@
 ---
 title: 'TTT 103: Trouble Every Day'
 date: '2009-08-10T04:29:33+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - shake-weights
 - stephen-harper
 - yyc
-cover:
-  alt: poster
-  image: /images/poster.jpg
+episode_image: "/images/poster.jpg"
+thumbnail: "/images/poster.jpg"
+images: ["/images/poster.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt103.mp3
-url: /2009/08/ttt-103-trouble-every-day/
 ---
 ![poster](/images/poster.jpg)
 

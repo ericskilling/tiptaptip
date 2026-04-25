@@ -1,17 +1,14 @@
 ---
 title: 'TTT 183: Hot Or Cold'
 date: '2010-09-09T04:31:48+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: hotcold
-  image: /images/hotcold.jpg
+episode_image: "/images/hotcold.jpg"
+thumbnail: "/images/hotcold.jpg"
+images: ["/images/hotcold.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt183.mp3
-url: /2010/09/ttt-183-hot-or-cold/
 ---
 **Episode Links:**
 

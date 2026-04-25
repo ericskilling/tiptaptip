@@ -1,19 +1,16 @@
 ---
 title: 'TTT 318: Top That!'
 date: '2012-07-22T05:02:31+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - china
 - podcast
 - us
 - yyc
-cover:
-  alt: top
-  image: /images/top.jpg
+episode_image: "/images/top.jpg"
+thumbnail: "/images/top.jpg"
+images: ["/images/top.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt318.mp3
-url: /2012/07/ttt-318-top-that/
 ---
 One way or another we'll get another show out - even if it kills us. We discuss people in China who have figured out the secret ingredient to stamina pills, fifty shades of making babies, and the most dangerous item to be stopped at the US border. Listen! We are fun!
 

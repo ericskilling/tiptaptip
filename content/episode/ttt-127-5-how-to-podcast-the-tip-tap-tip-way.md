@@ -1,17 +1,14 @@
 ---
 title: 'TTT 127.5: How To Podcast The Tip Tap Tip Way'
 date: '2009-11-27T22:24:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: curtain
-  image: /images/curtain1.jpg
+episode_image: "/images/curtain1.jpg"
+thumbnail: "/images/curtain1.jpg"
+images: ["/images/curtain1.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt127.5.mp3
-url: /2009/11/ttt-127-5-how-to-podcast-the-tip-tap-tip-way/
 ---
 In this special episode Eric discusses the ins and outs of how an episode of Tip Tap Tip comes together. Rachelle can't bothered for this techy bullshit.
 

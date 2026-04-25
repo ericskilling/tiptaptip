@@ -1,14 +1,11 @@
 ---
 title: 'TTT 533: Art For Art''s Sake'
 date: '2022-01-09T04:08:48+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: fine-art
-  image: /images/fine-art.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/fine-art.jpg"
+thumbnail: "/images/fine-art.jpg"
+images: ["/images/fine-art.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt533.mp3
-url: /2022/01/ttt-533-art-for-arts-sake/
 ---
 It's another year! Or is it! We don't know. Time ceases to have meaning in a lockdown. In the art related episode we discuss Rachelle's new art toys; make not to subtle plugs for Rachelle's available for sale on [her website](http://rachelleskilling.com/). We also recall some of the weird things we encountered in art school.
 

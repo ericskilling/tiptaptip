@@ -1,18 +1,15 @@
 ---
 title: 'TTT 228: Shitting The Bed'
 date: '2011-03-28T04:31:47+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: lawless
-  image: /images/lawless.jpg
+episode_image: "/images/lawless.jpg"
+thumbnail: "/images/lawless.jpg"
+images: ["/images/lawless.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt228.mp3
-url: /2011/03/ttt-228-shitting-the-bed/
 ---
 Fucking up.
 

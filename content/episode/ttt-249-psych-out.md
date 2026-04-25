@@ -1,19 +1,16 @@
 ---
 title: 'TTT 249: Psych Out!'
 date: '2011-06-23T04:31:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - dutch-hey-wagon
 - podcast
 - yyc
-cover:
-  alt: dutchheywagon
-  image: /images/dutchheywagon.jpg
+episode_image: "/images/dutchheywagon.jpg"
+thumbnail: "/images/dutchheywagon.jpg"
+images: ["/images/dutchheywagon.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt249.mp3
-url: /2011/06/ttt-249-psych-out/
 ---
 Podcast at the edge of time.
 

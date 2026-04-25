@@ -1,14 +1,11 @@
 ---
 title: 'TTT 547: Explain It To Me Again'
 date: '2023-11-02T13:24:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: spaghetti
-  image: /images/spaghetti.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/spaghetti.jpg"
+thumbnail: "/images/spaghetti.jpg"
+images: ["/images/spaghetti.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt547a.mp3
-url: /2023/11/ttt-547-explain-it-to-me-again/
 ---
 People need to get their priorities together. Especially the ones who think social media is better than sex. Also, ghost husbands can be deadbeats too.
 

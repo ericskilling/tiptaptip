@@ -2,367 +2,370 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-16T03:04:44+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/episodes/</loc>
-    <lastmod>2026-02-16T03:04:44+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/episode/</loc>
     <lastmod>2026-02-16T03:04:44+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-16T03:04:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2026/02/ttt-560-grinding-gears/</loc>
+    <loc>http://localhost:1313/episode/ttt-560-grinding-gears/</loc>
     <lastmod>2026-02-16T03:04:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2026/01/ttt-559-research-development/</loc>
+    <loc>http://localhost:1313/episode/ttt-559-research-development/</loc>
     <lastmod>2026-01-21T01:16:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2025/10/ttt-558-play-dates/</loc>
+    <loc>http://localhost:1313/episode/ttt-558-play-dates/</loc>
     <lastmod>2025-10-05T18:00:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2025/05/ttt-557-around-the-world/</loc>
+    <loc>http://localhost:1313/episode/ttt-557-around-the-world/</loc>
     <lastmod>2025-05-22T00:39:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2025/04/ttt-556-talk-amongst-yourselves/</loc>
+    <loc>http://localhost:1313/episode/ttt-556-talk-amongst-yourselves/</loc>
     <lastmod>2025-04-28T01:59:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2025/02/ttt-555-interchangeable-parts/</loc>
+    <loc>http://localhost:1313/episode/ttt-555-interchangeable-parts/</loc>
     <lastmod>2025-02-16T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/12/ttt-554-wishful-thinking/</loc>
+    <loc>http://localhost:1313/episode/ttt-554-wishful-thinking/</loc>
     <lastmod>2024-12-16T02:28:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/10/ttt-553-buddy/</loc>
+    <loc>http://localhost:1313/episode/ttt-553-buddy/</loc>
     <lastmod>2024-10-14T20:07:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/07/ttt-552-scream-and-shout/</loc>
+    <loc>http://localhost:1313/episode/ttt-552-scream-and-shout/</loc>
     <lastmod>2024-07-14T23:01:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/06/ttt-551-connecting-the-dots/</loc>
+    <loc>http://localhost:1313/episode/ttt-551-connecting-the-dots/</loc>
     <lastmod>2024-06-04T14:34:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/05/ttt-550-against-the-rules/</loc>
+    <loc>http://localhost:1313/episode/ttt-550-against-the-rules/</loc>
     <lastmod>2024-05-06T01:02:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/03/ttt-549-the-tip-tap-tip-parable/</loc>
+    <loc>http://localhost:1313/episode/ttt-549-the-tip-tap-tip-parable/</loc>
     <lastmod>2024-03-03T23:56:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/01/ttt-548-smashing-time/</loc>
+    <loc>http://localhost:1313/episode/ttt-548-smashing-time/</loc>
     <lastmod>2024-01-23T15:49:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/11/ttt-547-explain-it-to-me-again/</loc>
+    <loc>http://localhost:1313/pages/contact/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/episode/ttt-547-explain-it-to-me-again/</loc>
     <lastmod>2023-11-02T13:24:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/07/ttt-546-space-is-the-place/</loc>
+    <loc>http://localhost:1313/episode/ttt-546-space-is-the-place/</loc>
     <lastmod>2023-07-16T23:47:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/06/ttt-545-barbarism-begins-at-home/</loc>
+    <loc>http://localhost:1313/episode/ttt-545-barbarism-begins-at-home/</loc>
     <lastmod>2023-06-19T00:52:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/04/ttt-544-fixer-upper/</loc>
+    <loc>http://localhost:1313/episode/ttt-544-fixer-upper/</loc>
     <lastmod>2023-04-23T23:37:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/03/ttt-543-dare-to-dream/</loc>
+    <loc>http://localhost:1313/episode/ttt-543-dare-to-dream/</loc>
     <lastmod>2023-03-12T20:51:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/02/ttt-542-how-to-be-popular/</loc>
+    <loc>http://localhost:1313/episode/ttt-542-how-to-be-popular/</loc>
     <lastmod>2023-02-06T00:50:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2023/01/ttt-541-imagine-if/</loc>
+    <loc>http://localhost:1313/episode/ttt-541-imagine-if/</loc>
     <lastmod>2023-01-16T02:39:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/10/ttt-540-candy-corned/</loc>
+    <loc>http://localhost:1313/episode/ttt-540-candy-corned/</loc>
     <lastmod>2022-10-31T00:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/09/ttt-539-mixed-bag/</loc>
+    <loc>http://localhost:1313/episode/ttt-539-mixed-bag/</loc>
     <lastmod>2022-09-11T22:47:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/07/ttt-538-bored-to-tears/</loc>
+    <loc>http://localhost:1313/episode/ttt-538-bored-to-tears/</loc>
     <lastmod>2022-07-03T21:22:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/05/ttt-537-from-out-of-nowhere/</loc>
+    <loc>http://localhost:1313/episode/ttt-537-from-out-of-nowhere/</loc>
     <lastmod>2022-05-16T00:20:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/05/ttt-536-quitters-always-win/</loc>
+    <loc>http://localhost:1313/episode/ttt-536-quitters-always-win/</loc>
     <lastmod>2022-05-08T23:34:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/04/ttt-535-free-to-choose/</loc>
+    <loc>http://localhost:1313/episode/ttt-535-free-to-choose/</loc>
     <lastmod>2022-04-04T01:21:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/02/ttt-534-tip-tap-tip-to-go/</loc>
+    <loc>http://localhost:1313/episode/ttt-534-tip-tap-tip-to-go/</loc>
     <lastmod>2022-02-07T22:42:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/01/ttt-533-art-for-arts-sake/</loc>
+    <loc>http://localhost:1313/episode/ttt-533-art-for-arts-sake/</loc>
     <lastmod>2022-01-09T04:08:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/10/ttt-532-spooky-ooky/</loc>
+    <loc>http://localhost:1313/episode/ttt-532-spooky-ooky/</loc>
     <lastmod>2021-10-24T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/08/ttt-531-hot-dog/</loc>
+    <loc>http://localhost:1313/episode/ttt-531-hot-dog/</loc>
     <lastmod>2021-08-30T01:13:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/07/ttt-530-pants-optional/</loc>
+    <loc>http://localhost:1313/episode/ttt-530-pants-optional/</loc>
     <lastmod>2021-07-02T00:47:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/05/ttt-529-just-like-that/</loc>
+    <loc>http://localhost:1313/episode/ttt-529-just-like-that/</loc>
     <lastmod>2021-05-23T23:17:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/05/ttt-528-no-hard-feelings/</loc>
+    <loc>http://localhost:1313/episode/ttt-528-no-hard-feelings/</loc>
     <lastmod>2021-05-09T21:46:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/03/ttt-527-surprise/</loc>
+    <loc>http://localhost:1313/episode/ttt-527-surprise/</loc>
     <lastmod>2021-03-29T23:53:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/03/ttt-526-slow-to-learn/</loc>
+    <loc>http://localhost:1313/episode/ttt-526-slow-to-learn/</loc>
     <lastmod>2021-03-08T00:54:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/02/ttt-525-take-it-to-the-limit/</loc>
+    <loc>http://localhost:1313/episode/ttt-525-take-it-to-the-limit/</loc>
     <lastmod>2021-02-15T23:00:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/01/ttt-524-push-of-button/</loc>
+    <loc>http://localhost:1313/episode/ttt-524-push-of-button/</loc>
     <lastmod>2021-01-25T00:10:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2021/01/ttt-523-anatomically-incorrect/</loc>
+    <loc>http://localhost:1313/episode/ttt-523-anatomically-incorrect/</loc>
     <lastmod>2021-01-10T21:52:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/12/ttt-522-building-blocks/</loc>
+    <loc>http://localhost:1313/episode/ttt-522-building-blocks/</loc>
     <lastmod>2020-12-14T04:03:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/12/ttt-521-according-to-plan/</loc>
+    <loc>http://localhost:1313/episode/ttt-521-according-to-plan/</loc>
     <lastmod>2020-12-07T00:53:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/11/ttt-520-eric-rachelle-go-boating/</loc>
+    <loc>http://localhost:1313/episode/ttt-520-eric-rachelle-go-boating/</loc>
     <lastmod>2020-11-08T21:50:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/10/ttt-519-pizza-party/</loc>
+    <loc>http://localhost:1313/episode/ttt-519-pizza-party/</loc>
     <lastmod>2020-10-18T23:24:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/09/ttt-518-podcast-verite/</loc>
+    <loc>http://localhost:1313/episode/ttt-518-podcast-verite/</loc>
     <lastmod>2020-09-07T23:24:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/08/ttt-517-how-does-your-garden-grow/</loc>
+    <loc>http://localhost:1313/episode/ttt-517-how-does-your-garden-grow/</loc>
     <lastmod>2020-09-01T03:04:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/08/ttt-516-all-you-can-eat/</loc>
+    <loc>http://localhost:1313/episode/ttt-516-all-you-can-eat/</loc>
     <lastmod>2020-08-23T21:19:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/08/ttt-515-the-carnival-is-over/</loc>
+    <loc>http://localhost:1313/episode/ttt-515-the-carnival-is-over/</loc>
     <lastmod>2020-08-03T04:55:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/06/ttt-514-weirded-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-514-weirded-out/</loc>
     <lastmod>2020-06-07T20:19:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/05/ttt-513-kick-up-your-heels/</loc>
+    <loc>http://localhost:1313/episode/ttt-513-kick-up-your-heels/</loc>
     <lastmod>2020-05-10T05:44:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/04/ttt-512-cut-run/</loc>
+    <loc>http://localhost:1313/episode/ttt-512-cut-run/</loc>
     <lastmod>2020-04-20T02:55:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/04/ttt-511-friends-to-the-end/</loc>
+    <loc>http://localhost:1313/episode/ttt-511-friends-to-the-end/</loc>
     <lastmod>2020-04-03T19:33:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/03/ttt-510-descent-into-chaos/</loc>
+    <loc>http://localhost:1313/episode/ttt-510-descent-into-chaos/</loc>
     <lastmod>2020-03-10T02:47:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/03/ttt-509-deep-breathing/</loc>
+    <loc>http://localhost:1313/episode/ttt-509-deep-breathing/</loc>
     <lastmod>2020-03-01T23:49:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/02/ttt-508-old-people-problems/</loc>
+    <loc>http://localhost:1313/episode/ttt-508-old-people-problems/</loc>
     <lastmod>2020-02-03T04:19:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/01/ttt-507-for-the-love-of-the-show/</loc>
+    <loc>http://localhost:1313/episode/ttt-507-for-the-love-of-the-show/</loc>
     <lastmod>2020-01-20T00:36:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2020/01/ttt-506-5-keeping-it-together/</loc>
+    <loc>http://localhost:1313/episode/ttt-506-5-keeping-it-together/</loc>
     <lastmod>2020-01-06T05:15:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/12/ttt-506-spending-habits/</loc>
+    <loc>http://localhost:1313/episode/ttt-506-spending-habits/</loc>
     <lastmod>2019-12-02T02:11:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/11/ttt-505-makeover-madness/</loc>
+    <loc>http://localhost:1313/episode/ttt-505-makeover-madness/</loc>
     <lastmod>2019-11-11T03:56:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/10/ttt-504-mother-of-two/</loc>
+    <loc>http://localhost:1313/episode/ttt-504-mother-of-two/</loc>
     <lastmod>2019-10-13T02:49:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/09/ttt-503-turn-of-phrase/</loc>
+    <loc>http://localhost:1313/episode/ttt-503-turn-of-phrase/</loc>
     <lastmod>2019-09-16T23:13:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/08/ttt-502-smash-the-system/</loc>
+    <loc>http://localhost:1313/episode/ttt-502-smash-the-system/</loc>
     <lastmod>2019-08-25T23:43:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/08/ttt-501-stop-thief/</loc>
+    <loc>http://localhost:1313/episode/ttt-501-stop-thief/</loc>
     <lastmod>2019-08-06T03:35:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/07/ttt-500-controversy/</loc>
+    <loc>http://localhost:1313/episode/ttt-500-controversy/</loc>
     <lastmod>2019-07-14T22:50:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/06/ttt-499-ooh-la-la/</loc>
+    <loc>http://localhost:1313/episode/ttt-499-ooh-la-la/</loc>
     <lastmod>2019-06-24T02:24:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/06/ttt-498-novel-approach/</loc>
+    <loc>http://localhost:1313/episode/ttt-498-novel-approach/</loc>
     <lastmod>2019-06-09T05:05:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/06/ttt-kids-002-the-simpsons/</loc>
+    <loc>http://localhost:1313/episode/ttt-kids-002-the-simpsons/</loc>
     <lastmod>2019-06-09T04:39:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/05/ttt-497-adults-only/</loc>
+    <loc>http://localhost:1313/episode/ttt-497-adults-only/</loc>
     <lastmod>2019-05-20T05:34:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/05/ttt-kids-001-eurovision-movies/</loc>
+    <loc>http://localhost:1313/episode/ttt-kids-001-eurovision-movies/</loc>
     <lastmod>2019-05-20T05:06:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/04/ttt-496-fundamental-differences/</loc>
+    <loc>http://localhost:1313/episode/ttt-496-fundamental-differences/</loc>
     <lastmod>2019-05-01T02:25:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/04/ttt-495-downhill-slide/</loc>
+    <loc>http://localhost:1313/episode/ttt-495-downhill-slide/</loc>
     <lastmod>2019-04-09T02:01:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/03/ttt-494-killing-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-494-killing-it/</loc>
     <lastmod>2019-03-26T01:17:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/03/ttt-493-key-takeaways/</loc>
+    <loc>http://localhost:1313/episode/ttt-493-key-takeaways/</loc>
     <lastmod>2019-03-11T01:40:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/02/ttt-492-emotionally-fragile/</loc>
+    <loc>http://localhost:1313/episode/ttt-492-emotionally-fragile/</loc>
     <lastmod>2019-02-19T02:37:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/02/ttt-491-one-sided-relationship/</loc>
+    <loc>http://localhost:1313/episode/ttt-491-one-sided-relationship/</loc>
     <lastmod>2019-02-04T23:27:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2019/01/ttt-490-we-care/</loc>
+    <loc>http://localhost:1313/episode/ttt-490-we-care/</loc>
     <lastmod>2019-01-19T08:37:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/12/ttt-489-lower-your-voice/</loc>
+    <loc>http://localhost:1313/episode/ttt-489-lower-your-voice/</loc>
     <lastmod>2018-12-29T03:17:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/12/ttt-488-i-love-your-ass/</loc>
+    <loc>http://localhost:1313/episode/ttt-488-i-love-your-ass/</loc>
     <lastmod>2018-12-09T04:20:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/11/ttt-487-previous-engagements/</loc>
+    <loc>http://localhost:1313/episode/ttt-487-previous-engagements/</loc>
     <lastmod>2018-11-13T00:58:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/10/ttt-486-infinitely-late-at-night/</loc>
+    <loc>http://localhost:1313/episode/ttt-486-infinitely-late-at-night/</loc>
     <lastmod>2018-10-21T22:36:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/10/ttt-485-background-noise/</loc>
+    <loc>http://localhost:1313/episode/ttt-485-background-noise/</loc>
     <lastmod>2018-10-09T02:11:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/09/ttt-484-pardon-the-interruption/</loc>
+    <loc>http://localhost:1313/episode/ttt-484-pardon-the-interruption/</loc>
     <lastmod>2018-09-17T01:40:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/09/ttt-483-that-happy-feeling/</loc>
+    <loc>http://localhost:1313/episode/ttt-483-that-happy-feeling/</loc>
     <lastmod>2018-09-03T23:05:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/08/episode-flashback-393-lock-the-doors/</loc>
+    <loc>http://localhost:1313/episode/episode-flashback-393-lock-the-doors/</loc>
     <lastmod>2018-08-28T23:50:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/08/episode-flashback-378-black-is-the-new-black/</loc>
+    <loc>http://localhost:1313/episode/episode-flashback-378-black-is-the-new-black/</loc>
     <lastmod>2018-08-19T23:50:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/08/episode-flashback-260-out-of-order/</loc>
+    <loc>http://localhost:1313/episode/episode-flashback-260-out-of-order/</loc>
     <lastmod>2018-08-08T13:00:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/07/episode-flashback-005-cleanse-me-up-cleanse-me-down/</loc>
+    <loc>http://localhost:1313/episode/episode-flashback-005-cleanse-me-up-cleanse-me-down/</loc>
     <lastmod>2018-07-29T02:18:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/07/ttt-482-career-opportunities/</loc>
+    <loc>http://localhost:1313/episode/ttt-482-career-opportunities/</loc>
     <lastmod>2018-07-15T06:00:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/06/ttt-481-oh-man-the-future/</loc>
+    <loc>http://localhost:1313/episode/ttt-481-oh-man-the-future/</loc>
     <lastmod>2018-06-28T23:26:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/06/ttt-480-sexy-cool/</loc>
+    <loc>http://localhost:1313/episode/ttt-480-sexy-cool/</loc>
     <lastmod>2018-06-09T04:35:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/05/ttt-479-kids-these-days/</loc>
+    <loc>http://localhost:1313/episode/ttt-479-kids-these-days/</loc>
     <lastmod>2018-05-27T22:57:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/05/ttt-478-professional-jealousy/</loc>
+    <loc>http://localhost:1313/episode/ttt-478-professional-jealousy/</loc>
     <lastmod>2018-05-20T22:57:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/04/ttt-477-self-control/</loc>
+    <loc>http://localhost:1313/episode/ttt-477-self-control/</loc>
     <lastmod>2018-04-30T03:27:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/04/ttt-476-strap-on/</loc>
+    <loc>http://localhost:1313/episode/ttt-476-strap-on/</loc>
     <lastmod>2018-04-14T05:51:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/03/ttt-475-making-up-all-over-the-place/</loc>
+    <loc>http://localhost:1313/episode/ttt-475-making-up-all-over-the-place/</loc>
     <lastmod>2018-03-26T03:54:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/03/ttt-474-hose/</loc>
+    <loc>http://localhost:1313/episode/ttt-474-hose/</loc>
     <lastmod>2018-03-05T02:39:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/02/ttt-473-tip-tap-tip-morning-zoo/</loc>
+    <loc>http://localhost:1313/episode/ttt-473-tip-tap-tip-morning-zoo/</loc>
     <lastmod>2018-02-25T03:38:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/02/ttt-472-get-sucked/</loc>
+    <loc>http://localhost:1313/episode/ttt-472-get-sucked/</loc>
     <lastmod>2018-02-07T03:21:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2018/01/ttt-471-cause-concern/</loc>
+    <loc>http://localhost:1313/episode/ttt-471-cause-concern/</loc>
     <lastmod>2018-01-21T06:55:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/12/ttt-470-sun-dont-shine/</loc>
+    <loc>http://localhost:1313/episode/ttt-470-sun-dont-shine/</loc>
     <lastmod>2017-12-30T07:26:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/12/ttt-469-sound-alarm/</loc>
+    <loc>http://localhost:1313/episode/ttt-469-sound-alarm/</loc>
     <lastmod>2017-12-17T21:35:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/11/ttt-468-touch-and-go/</loc>
+    <loc>http://localhost:1313/episode/ttt-468-touch-and-go/</loc>
     <lastmod>2017-11-25T03:43:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/11/ttt-467-its-okay-to-cry/</loc>
+    <loc>http://localhost:1313/episode/ttt-467-its-okay-to-cry/</loc>
     <lastmod>2017-11-11T17:56:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/10/ttt-466-nothing-personal/</loc>
+    <loc>http://localhost:1313/episode/ttt-466-nothing-personal/</loc>
     <lastmod>2017-10-15T19:49:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/10/ttt-465-fixer-uppers/</loc>
+    <loc>http://localhost:1313/episode/ttt-465-fixer-uppers/</loc>
     <lastmod>2017-10-04T01:01:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/09/ttt-464-leather-rebels/</loc>
+    <loc>http://localhost:1313/episode/ttt-464-leather-rebels/</loc>
     <lastmod>2017-09-09T03:38:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/08/ttt-463-a-glass-of-champagne/</loc>
+    <loc>http://localhost:1313/episode/ttt-463-a-glass-of-champagne/</loc>
     <lastmod>2017-08-26T22:19:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/08/ttt-462-first-date/</loc>
+    <loc>http://localhost:1313/episode/ttt-462-first-date/</loc>
     <lastmod>2017-08-07T04:54:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/07/ttt-461-team-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-461-team-tip-tap-tip/</loc>
     <lastmod>2017-07-22T05:25:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/07/ttt-460-second-time-around/</loc>
+    <loc>http://localhost:1313/episode/ttt-460-second-time-around/</loc>
     <lastmod>2017-07-04T04:10:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/06/ttt-459-1-zero-calorie-podcast/</loc>
+    <loc>http://localhost:1313/episode/ttt-459-1-zero-calorie-podcast/</loc>
     <lastmod>2017-06-11T23:15:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/05/ttt-459-pregnant-pause/</loc>
+    <loc>http://localhost:1313/episode/ttt-459-pregnant-pause/</loc>
     <lastmod>2017-05-19T02:55:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/05/ttt-458-temperatures-rising/</loc>
+    <loc>http://localhost:1313/episode/ttt-458-temperatures-rising/</loc>
     <lastmod>2017-05-07T19:25:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/04/ttt-457-mondo-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-457-mondo-tip-tap-tip/</loc>
     <lastmod>2017-04-24T02:04:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/04/ttt-456-clown-car/</loc>
+    <loc>http://localhost:1313/episode/ttt-456-clown-car/</loc>
     <lastmod>2017-04-18T03:53:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/03/ttt-455-left-behind/</loc>
+    <loc>http://localhost:1313/episode/ttt-455-left-behind/</loc>
     <lastmod>2017-03-31T01:22:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/03/ttt-454-life-lessons/</loc>
+    <loc>http://localhost:1313/episode/ttt-454-life-lessons/</loc>
     <lastmod>2017-03-14T02:41:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/03/ttt-453-hold-on/</loc>
+    <loc>http://localhost:1313/episode/ttt-453-hold-on/</loc>
     <lastmod>2017-03-07T01:02:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/02/ttt-452-hot-talk/</loc>
+    <loc>http://localhost:1313/episode/ttt-452-hot-talk/</loc>
     <lastmod>2017-02-21T05:20:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/eric-rachelle/</loc>
@@ -374,112 +377,112 @@
     <loc>http://localhost:1313/tags/ttt/</loc>
     <lastmod>2017-02-04T19:29:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/02/ttt-451-soft-entry/</loc>
+    <loc>http://localhost:1313/episode/ttt-451-soft-entry/</loc>
     <lastmod>2017-02-04T19:29:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/01/ttt-450-president-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-450-president-tip-tap-tip/</loc>
     <lastmod>2017-01-22T00:03:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2017/01/ttt-449-punching-and-kicking/</loc>
+    <loc>http://localhost:1313/episode/ttt-449-punching-and-kicking/</loc>
     <lastmod>2017-01-02T01:29:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/12/ttt-448-running-love/</loc>
+    <loc>http://localhost:1313/episode/ttt-448-running-love/</loc>
     <lastmod>2016-12-21T02:21:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/11/ttt-447-checking/</loc>
+    <loc>http://localhost:1313/episode/ttt-447-checking/</loc>
     <lastmod>2016-11-24T01:54:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/corey-feldman/</loc>
     <lastmod>2016-10-31T22:32:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/10/ttt-446-nice-buns/</loc>
+    <loc>http://localhost:1313/episode/ttt-446-nice-buns/</loc>
     <lastmod>2016-10-31T22:32:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/10/ttt-445-cruisin/</loc>
+    <loc>http://localhost:1313/episode/ttt-445-cruisin/</loc>
     <lastmod>2016-10-12T02:53:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dj/</loc>
     <lastmod>2016-10-03T02:37:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/10/ttt-444-5-summah/</loc>
+    <loc>http://localhost:1313/episode/ttt-444-5-summah/</loc>
     <lastmod>2016-10-03T02:37:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/09/ttt-444-instant-winner/</loc>
+    <loc>http://localhost:1313/episode/ttt-444-instant-winner/</loc>
     <lastmod>2016-09-27T00:10:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/eleni-drake/</loc>
     <lastmod>2016-09-06T04:14:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/09/ttt-443-number-one-podcast-heaven/</loc>
+    <loc>http://localhost:1313/episode/ttt-443-number-one-podcast-heaven/</loc>
     <lastmod>2016-09-06T04:14:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/08/ttt-442-feel-good/</loc>
+    <loc>http://localhost:1313/episode/ttt-442-feel-good/</loc>
     <lastmod>2016-08-17T01:50:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vcr/</loc>
     <lastmod>2016-08-17T01:50:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/07/ttt-441-love-begins/</loc>
+    <loc>http://localhost:1313/episode/ttt-441-love-begins/</loc>
     <lastmod>2016-07-28T00:51:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/07/ttt-440-back-brown/</loc>
+    <loc>http://localhost:1313/episode/ttt-440-back-brown/</loc>
     <lastmod>2016-07-20T03:31:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/07/ttt-439-5-hack-job/</loc>
+    <loc>http://localhost:1313/episode/ttt-439-5-hack-job/</loc>
     <lastmod>2016-07-09T02:33:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/06/ttt-439-winging/</loc>
+    <loc>http://localhost:1313/episode/ttt-439-winging/</loc>
     <lastmod>2016-06-13T23:46:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/05/ttt-438-fit-tied/</loc>
+    <loc>http://localhost:1313/episode/ttt-438-fit-tied/</loc>
     <lastmod>2016-05-24T03:58:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/05/ttt-437-make-feel/</loc>
+    <loc>http://localhost:1313/episode/ttt-437-make-feel/</loc>
     <lastmod>2016-05-17T02:34:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/danish-canadian-club/</loc>
     <lastmod>2016-05-09T02:32:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/05/ttt-436-animal-husbandry/</loc>
+    <loc>http://localhost:1313/episode/ttt-436-animal-husbandry/</loc>
     <lastmod>2016-05-09T02:32:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/04/ttt-435-vintage-violence/</loc>
+    <loc>http://localhost:1313/episode/ttt-435-vintage-violence/</loc>
     <lastmod>2016-04-26T00:28:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/04/ttt-424-buy-sell/</loc>
+    <loc>http://localhost:1313/episode/ttt-424-buy-sell/</loc>
     <lastmod>2016-04-19T01:38:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/04/ttt-433-ready-wear/</loc>
+    <loc>http://localhost:1313/episode/ttt-433-ready-wear/</loc>
     <lastmod>2016-04-04T23:31:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tv/</loc>
     <lastmod>2016-04-04T23:31:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/03/ttt-432-strike-it-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-432-strike-it-up/</loc>
     <lastmod>2016-03-22T00:58:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/03/ttt-431-soldiers-fun/</loc>
+    <loc>http://localhost:1313/episode/ttt-431-soldiers-fun/</loc>
     <lastmod>2016-03-06T23:11:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/02/ttt-430-odd-jobs/</loc>
+    <loc>http://localhost:1313/episode/ttt-430-odd-jobs/</loc>
     <lastmod>2016-02-22T05:15:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/02/ttt-429-new-adventures/</loc>
+    <loc>http://localhost:1313/episode/ttt-429-new-adventures/</loc>
     <lastmod>2016-02-08T05:01:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bill-nighy/</loc>
     <lastmod>2016-01-15T05:53:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/01/ttt-428-hot-moms/</loc>
+    <loc>http://localhost:1313/episode/ttt-428-hot-moms/</loc>
     <lastmod>2016-01-15T05:53:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2016/01/ttt-427-balancing-act/</loc>
+    <loc>http://localhost:1313/episode/ttt-427-balancing-act/</loc>
     <lastmod>2016-01-05T05:12:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/12/ttt-426-hey-everyone-its-christmas/</loc>
+    <loc>http://localhost:1313/episode/ttt-426-hey-everyone-its-christmas/</loc>
     <lastmod>2015-12-22T05:07:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/12/ttt-425-pop-quiz/</loc>
+    <loc>http://localhost:1313/episode/ttt-425-pop-quiz/</loc>
     <lastmod>2015-12-16T00:59:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fun/</loc>
@@ -488,34 +491,34 @@
     <loc>http://localhost:1313/tags/podcast/</loc>
     <lastmod>2015-12-07T04:40:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/12/ttt-424-cut-music/</loc>
+    <loc>http://localhost:1313/episode/ttt-424-cut-music/</loc>
     <lastmod>2015-12-07T04:40:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/09/ttt-423-on-the-run/</loc>
+    <loc>http://localhost:1313/episode/ttt-423-on-the-run/</loc>
     <lastmod>2015-09-13T23:06:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/08/ttt-422-move-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-422-move-it/</loc>
     <lastmod>2015-08-30T23:16:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/08/ttt-421-enough-already/</loc>
+    <loc>http://localhost:1313/episode/ttt-421-enough-already/</loc>
     <lastmod>2015-08-23T02:07:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/08/ttt-420-friendly-neighbourhood-douchebag/</loc>
+    <loc>http://localhost:1313/episode/ttt-420-friendly-neighbourhood-douchebag/</loc>
     <lastmod>2015-08-17T00:49:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/08/ttt-419-smoothies-are-people/</loc>
+    <loc>http://localhost:1313/episode/ttt-419-smoothies-are-people/</loc>
     <lastmod>2015-08-09T22:25:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/07/ttt-418-bonerific/</loc>
+    <loc>http://localhost:1313/episode/ttt-418-bonerific/</loc>
     <lastmod>2015-07-15T03:49:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/06/ttt-417-wrong-party/</loc>
+    <loc>http://localhost:1313/episode/ttt-417-wrong-party/</loc>
     <lastmod>2015-06-22T03:45:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bad-art/</loc>
     <lastmod>2015-06-09T02:35:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/06/ttt-416-better-than-bad/</loc>
+    <loc>http://localhost:1313/episode/ttt-416-better-than-bad/</loc>
     <lastmod>2015-06-09T02:35:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sarah-jessica-parker/</loc>
@@ -524,7 +527,7 @@
     <loc>http://localhost:1313/tags/tip-tap-tip/</loc>
     <lastmod>2015-05-31T20:28:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/05/ttt-415-i-dont-know-how-they-do-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-415-i-dont-know-how-they-do-it/</loc>
     <lastmod>2015-05-31T20:28:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/finland/</loc>
@@ -539,19 +542,19 @@
     <loc>http://localhost:1313/tags/spain/</loc>
     <lastmod>2015-05-18T02:30:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/05/ttt-414-internet-hoggers/</loc>
+    <loc>http://localhost:1313/episode/ttt-414-internet-hoggers/</loc>
     <lastmod>2015-05-18T02:30:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/car-crazy/</loc>
     <lastmod>2015-05-12T04:41:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/05/ttt-413-car-crazy/</loc>
+    <loc>http://localhost:1313/episode/ttt-413-car-crazy/</loc>
     <lastmod>2015-05-12T04:41:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dear-abby/</loc>
     <lastmod>2015-05-04T01:26:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/05/ttt-412-art-and-crafts/</loc>
+    <loc>http://localhost:1313/episode/ttt-412-art-and-crafts/</loc>
     <lastmod>2015-05-04T01:26:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hearing-colours/</loc>
@@ -560,7 +563,7 @@
     <loc>http://localhost:1313/tags/human-cyborg/</loc>
     <lastmod>2015-04-19T23:20:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/04/ttt-411-robophobic/</loc>
+    <loc>http://localhost:1313/episode/ttt-411-robophobic/</loc>
     <lastmod>2015-04-19T23:20:02+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cyprus/</loc>
@@ -575,10 +578,10 @@
     <loc>http://localhost:1313/tags/serbia/</loc>
     <lastmod>2015-03-29T23:05:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/03/ttt-410-plastic-fantastic/</loc>
+    <loc>http://localhost:1313/episode/ttt-410-plastic-fantastic/</loc>
     <lastmod>2015-03-29T23:05:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/03/ttt-409-how-could-we-be-wrong/</loc>
+    <loc>http://localhost:1313/episode/ttt-409-how-could-we-be-wrong/</loc>
     <lastmod>2015-03-23T03:12:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/germany/</loc>
@@ -590,25 +593,25 @@
     <loc>http://localhost:1313/tags/moldova/</loc>
     <lastmod>2015-03-16T03:48:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/03/ttt-408-not-cool-enough-for-school/</loc>
+    <loc>http://localhost:1313/episode/ttt-408-not-cool-enough-for-school/</loc>
     <lastmod>2015-03-16T03:48:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/03/ttt-407-hired-help/</loc>
+    <loc>http://localhost:1313/episode/ttt-407-hired-help/</loc>
     <lastmod>2015-03-01T22:58:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/02/ttt-406-last-chance-dance/</loc>
+    <loc>http://localhost:1313/episode/ttt-406-last-chance-dance/</loc>
     <lastmod>2015-02-16T05:27:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/01/ttt-405-dream-date/</loc>
+    <loc>http://localhost:1313/episode/ttt-405-dream-date/</loc>
     <lastmod>2015-01-27T05:16:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bryan-adams/</loc>
     <lastmod>2015-01-19T05:19:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/01/ttt-404-tag-youre/</loc>
+    <loc>http://localhost:1313/episode/ttt-404-tag-youre/</loc>
     <lastmod>2015-01-19T05:19:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/01/ttt-403-stepping/</loc>
+    <loc>http://localhost:1313/episode/ttt-403-stepping/</loc>
     <lastmod>2015-01-11T04:59:47+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/crazy-facts/</loc>
@@ -617,7 +620,7 @@
     <loc>http://localhost:1313/tags/kate-hudson/</loc>
     <lastmod>2015-01-04T19:23:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2015/01/rewind-ttt-211-hands-dick/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-211-hands-dick/</loc>
     <lastmod>2015-01-04T19:23:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sea-captain-date/</loc>
@@ -629,7 +632,7 @@
     <loc>http://localhost:1313/tags/pizza-cake/</loc>
     <lastmod>2014-12-28T19:23:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/12/rewind-ttt-183-hot-cold/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-183-hot-cold/</loc>
     <lastmod>2014-12-28T19:23:36+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/friendly/</loc>
@@ -638,7 +641,7 @@
     <loc>http://localhost:1313/tags/jingle-cats/</loc>
     <lastmod>2014-12-13T23:25:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/12/ttt-402-family-friendly/</loc>
+    <loc>http://localhost:1313/episode/ttt-402-family-friendly/</loc>
     <lastmod>2014-12-13T23:25:40+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/yyc/</loc>
@@ -650,13 +653,13 @@
     <loc>http://localhost:1313/tags/switzerland-contender/</loc>
     <lastmod>2014-11-30T17:00:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/11/ttt-401-flipping-script/</loc>
+    <loc>http://localhost:1313/episode/ttt-401-flipping-script/</loc>
     <lastmod>2014-11-30T17:00:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/years-tall/</loc>
     <lastmod>2014-11-30T17:00:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/11/ttt-400-holiday-road/</loc>
+    <loc>http://localhost:1313/episode/ttt-400-holiday-road/</loc>
     <lastmod>2014-11-17T04:35:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vacation/</loc>
@@ -665,28 +668,28 @@
     <loc>http://localhost:1313/tags/jacket/</loc>
     <lastmod>2014-11-02T04:03:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/11/ttt-399-ski-jacket-required/</loc>
+    <loc>http://localhost:1313/episode/ttt-399-ski-jacket-required/</loc>
     <lastmod>2014-11-02T04:03:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calgary/</loc>
     <lastmod>2014-10-20T03:49:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/10/ttt-398-ladies-vs-gentlemen/</loc>
+    <loc>http://localhost:1313/episode/ttt-398-ladies-vs-gentlemen/</loc>
     <lastmod>2014-10-20T03:49:16+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/canadian-thanksgiving/</loc>
     <lastmod>2014-10-14T03:44:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/10/ttt-397-quiet-set/</loc>
+    <loc>http://localhost:1313/episode/ttt-397-quiet-set/</loc>
     <lastmod>2014-10-14T03:44:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cbc/</loc>
     <lastmod>2014-09-29T03:11:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/09/ttt-396-sharing-caring/</loc>
+    <loc>http://localhost:1313/episode/ttt-396-sharing-caring/</loc>
     <lastmod>2014-09-29T03:11:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/09/ttt-395-call-response/</loc>
+    <loc>http://localhost:1313/episode/ttt-395-call-response/</loc>
     <lastmod>2014-09-22T02:16:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brazil/</loc>
@@ -698,40 +701,34 @@
     <loc>http://localhost:1313/tags/stealth-fashion-kickstarter/</loc>
     <lastmod>2014-09-07T21:44:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/09/ttt-394-ladies/</loc>
+    <loc>http://localhost:1313/episode/ttt-394-ladies/</loc>
     <lastmod>2014-09-07T21:44:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/08/ttt-393-lock-doors/</loc>
+    <loc>http://localhost:1313/episode/ttt-393-lock-doors/</loc>
     <lastmod>2014-08-25T03:49:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2014-08-23T22:36:36+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/</loc>
-    <lastmod>2014-08-23T22:36:36+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hint-it/</loc>
     <lastmod>2014-08-09T23:49:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/08/ttt-392-never-come-back/</loc>
+    <loc>http://localhost:1313/episode/ttt-392-never-come-back/</loc>
     <lastmod>2014-08-09T23:49:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/07/ttt-391-shove-face/</loc>
+    <loc>http://localhost:1313/episode/ttt-391-shove-face/</loc>
     <lastmod>2014-07-29T04:07:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/loud-it-doesn/</loc>
     <lastmod>2014-07-21T04:12:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/07/ttt-390-self-destruct/</loc>
+    <loc>http://localhost:1313/episode/ttt-390-self-destruct/</loc>
     <lastmod>2014-07-21T04:12:47+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beauty-contest/</loc>
     <lastmod>2014-07-07T03:30:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/07/ttt-389-shoot-em/</loc>
+    <loc>http://localhost:1313/episode/ttt-389-shoot-em/</loc>
     <lastmod>2014-07-07T03:30:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/06/ttt-388-hot-tubbin/</loc>
+    <loc>http://localhost:1313/episode/ttt-388-hot-tubbin/</loc>
     <lastmod>2014-06-29T20:12:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/us/</loc>
@@ -740,85 +737,85 @@
     <loc>http://localhost:1313/tags/father-day/</loc>
     <lastmod>2014-06-15T22:01:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/06/ttt-387-knock-offs/</loc>
+    <loc>http://localhost:1313/episode/ttt-387-knock-offs/</loc>
     <lastmod>2014-06-15T22:01:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/06/ttt-386-personal-opionions/</loc>
+    <loc>http://localhost:1313/episode/ttt-386-personal-opionions/</loc>
     <lastmod>2014-06-02T01:00:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/05/ttt-385-nous-ne-somme-pas-des-anges/</loc>
+    <loc>http://localhost:1313/episode/ttt-385-nous-ne-somme-pas-des-anges/</loc>
     <lastmod>2014-05-25T21:06:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/05/ttt-384-capital-f-u-n/</loc>
+    <loc>http://localhost:1313/episode/ttt-384-capital-f-u-n/</loc>
     <lastmod>2014-05-20T00:12:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/05/ttt-383-miracle-makers/</loc>
+    <loc>http://localhost:1313/episode/ttt-383-miracle-makers/</loc>
     <lastmod>2014-05-04T20:19:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/04/ttt-382-minimum-overdrive/</loc>
+    <loc>http://localhost:1313/episode/ttt-382-minimum-overdrive/</loc>
     <lastmod>2014-04-21T04:31:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/04/ttt-381-road-hogs/</loc>
+    <loc>http://localhost:1313/episode/ttt-381-road-hogs/</loc>
     <lastmod>2014-04-21T04:23:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/03/ttt-380-busy-awesome/</loc>
+    <loc>http://localhost:1313/episode/ttt-380-busy-awesome/</loc>
     <lastmod>2014-03-30T22:05:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/denmark/</loc>
     <lastmod>2014-03-23T21:19:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/03/ttt-379-replaceable-parts/</loc>
+    <loc>http://localhost:1313/episode/ttt-379-replaceable-parts/</loc>
     <lastmod>2014-03-23T21:19:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/malta/</loc>
     <lastmod>2014-03-02T21:22:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/03/ttt-378-black-new-black/</loc>
+    <loc>http://localhost:1313/episode/ttt-378-black-new-black/</loc>
     <lastmod>2014-03-02T21:22:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/boobs/</loc>
     <lastmod>2014-02-23T21:53:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/02/ttt-377-beyond-valley-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-377-beyond-valley-tip-tap-tip/</loc>
     <lastmod>2014-02-23T21:53:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/iceland/</loc>
     <lastmod>2014-02-16T23:24:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/02/ttt-376-neighbourhood-watch/</loc>
+    <loc>http://localhost:1313/episode/ttt-376-neighbourhood-watch/</loc>
     <lastmod>2014-02-16T23:24:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/01/ttt-375-gold-diamonds/</loc>
+    <loc>http://localhost:1313/episode/ttt-375-gold-diamonds/</loc>
     <lastmod>2014-01-26T21:14:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/01/ttt-374-tip-tap-tip-talent/</loc>
+    <loc>http://localhost:1313/episode/ttt-374-tip-tap-tip-talent/</loc>
     <lastmod>2014-01-19T22:58:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2014/01/ttt-373-give-cheeses/</loc>
+    <loc>http://localhost:1313/episode/ttt-373-give-cheeses/</loc>
     <lastmod>2014-01-12T22:55:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/new-year/</loc>
     <lastmod>2013-12-29T11:13:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/12/ttt-372-nerding/</loc>
+    <loc>http://localhost:1313/episode/ttt-372-nerding/</loc>
     <lastmod>2013-12-29T11:13:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/12/ttt-371-christmas-miracle/</loc>
+    <loc>http://localhost:1313/episode/ttt-371-christmas-miracle/</loc>
     <lastmod>2013-12-23T06:42:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/12/ttt-370-tag-team/</loc>
+    <loc>http://localhost:1313/episode/ttt-370-tag-team/</loc>
     <lastmod>2013-12-01T21:44:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/11/ttt-369-getaway/</loc>
+    <loc>http://localhost:1313/episode/ttt-369-getaway/</loc>
     <lastmod>2013-11-24T22:01:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/11/ttt-368-balls-wall/</loc>
+    <loc>http://localhost:1313/episode/ttt-368-balls-wall/</loc>
     <lastmod>2013-11-12T03:28:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/carrot-dating/</loc>
     <lastmod>2013-10-27T22:04:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/10/ttt-367-dangle-carrot/</loc>
+    <loc>http://localhost:1313/episode/ttt-367-dangle-carrot/</loc>
     <lastmod>2013-10-27T22:04:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wendy-hot-coffee/</loc>
@@ -827,25 +824,25 @@
     <loc>http://localhost:1313/tags/pale-tone/</loc>
     <lastmod>2013-10-20T21:08:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/10/ttt-366-day-every-day/</loc>
+    <loc>http://localhost:1313/episode/ttt-366-day-every-day/</loc>
     <lastmod>2013-10-20T21:08:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/10/ttt-365-fuck-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-365-fuck-it/</loc>
     <lastmod>2013-10-13T22:02:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/phil-quiz/</loc>
     <lastmod>2013-09-30T03:17:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/09/ttt-364-cut-loose/</loc>
+    <loc>http://localhost:1313/episode/ttt-364-cut-loose/</loc>
     <lastmod>2013-09-30T03:17:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/09/ttt-363-tough-ticket-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-363-tough-ticket-tip-tap-tip/</loc>
     <lastmod>2013-09-23T01:11:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/recommended-price/</loc>
     <lastmod>2013-09-08T23:59:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/09/ttt-362-rolling-thunder/</loc>
+    <loc>http://localhost:1313/episode/ttt-362-rolling-thunder/</loc>
     <lastmod>2013-09-08T23:59:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lady-gaga/</loc>
@@ -854,49 +851,49 @@
     <loc>http://localhost:1313/tags/one-direction/</loc>
     <lastmod>2013-09-01T21:23:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/09/ttt-361-best-podcast-ever/</loc>
+    <loc>http://localhost:1313/episode/ttt-361-best-podcast-ever/</loc>
     <lastmod>2013-09-01T21:23:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tan-mom/</loc>
     <lastmod>2013-08-18T20:58:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/08/ttt-360-meet-and-greet/</loc>
+    <loc>http://localhost:1313/episode/ttt-360-meet-and-greet/</loc>
     <lastmod>2013-08-18T20:58:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/08/ttt-358-private-property/</loc>
+    <loc>http://localhost:1313/episode/ttt-358-private-property/</loc>
     <lastmod>2013-08-11T21:54:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/07/ttt-358-alert-the-authorities/</loc>
+    <loc>http://localhost:1313/episode/ttt-358-alert-the-authorities/</loc>
     <lastmod>2013-07-29T03:30:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/07/ttt-357-careful-consideration/</loc>
+    <loc>http://localhost:1313/episode/ttt-357-careful-consideration/</loc>
     <lastmod>2013-07-15T03:49:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/photo-ming-xia/</loc>
     <lastmod>2013-07-08T02:47:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/07/ttt-356-take-it-easy/</loc>
+    <loc>http://localhost:1313/episode/ttt-356-take-it-easy/</loc>
     <lastmod>2013-07-08T02:47:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/aspergers/</loc>
     <lastmod>2013-07-01T00:14:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/06/ttt-355-come-again/</loc>
+    <loc>http://localhost:1313/episode/ttt-355-come-again/</loc>
     <lastmod>2013-07-01T00:14:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dunkin-donuts/</loc>
     <lastmod>2013-06-23T21:01:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/06/ttt-354-state-of-emergency/</loc>
+    <loc>http://localhost:1313/episode/ttt-354-state-of-emergency/</loc>
     <lastmod>2013-06-23T21:01:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/06/ttt-353-take-it-away/</loc>
+    <loc>http://localhost:1313/episode/ttt-353-take-it-away/</loc>
     <lastmod>2013-06-09T22:42:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/funnel-feeder/</loc>
     <lastmod>2013-05-25T22:59:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/05/ttt-352-funnel-vision/</loc>
+    <loc>http://localhost:1313/episode/ttt-352-funnel-vision/</loc>
     <lastmod>2013-05-25T22:59:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/eurovision-website/</loc>
@@ -905,46 +902,46 @@
     <loc>http://localhost:1313/tags/paula-white/</loc>
     <lastmod>2013-05-14T04:49:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/05/ttt-351-knobs-and-dials/</loc>
+    <loc>http://localhost:1313/episode/ttt-351-knobs-and-dials/</loc>
     <lastmod>2013-05-14T04:49:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/daddy-money-shoes/</loc>
     <lastmod>2013-05-05T22:47:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/05/ttt-350-heavy-hitters/</loc>
+    <loc>http://localhost:1313/episode/ttt-350-heavy-hitters/</loc>
     <lastmod>2013-05-05T22:47:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/05/ttt-349-volunteers-needed/</loc>
+    <loc>http://localhost:1313/episode/ttt-349-volunteers-needed/</loc>
     <lastmod>2013-05-01T18:38:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/04/ttt-348-remote-control/</loc>
+    <loc>http://localhost:1313/episode/ttt-348-remote-control/</loc>
     <lastmod>2013-04-24T04:28:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/04/ttt-347-vicious-creatures/</loc>
+    <loc>http://localhost:1313/episode/ttt-347-vicious-creatures/</loc>
     <lastmod>2013-04-15T00:34:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/04/ttt-346-life-changing/</loc>
+    <loc>http://localhost:1313/episode/ttt-346-life-changing/</loc>
     <lastmod>2013-04-07T22:24:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/eurovision-youtube-channel/</loc>
     <lastmod>2013-03-31T03:54:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/03/ttt-345-amateur-hour/</loc>
+    <loc>http://localhost:1313/episode/ttt-345-amateur-hour/</loc>
     <lastmod>2013-03-31T03:54:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/03/ttt-344-battle-of-the-sexes/</loc>
+    <loc>http://localhost:1313/episode/ttt-344-battle-of-the-sexes/</loc>
     <lastmod>2013-03-24T22:25:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/03/ttt-343-road-rage/</loc>
+    <loc>http://localhost:1313/episode/ttt-343-road-rage/</loc>
     <lastmod>2013-03-19T02:24:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bonus-stuff-played/</loc>
     <lastmod>2013-03-10T22:06:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/03/ttt-342-phoning-it-in/</loc>
+    <loc>http://localhost:1313/episode/ttt-342-phoning-it-in/</loc>
     <lastmod>2013-03-10T22:06:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/03/ttt-341-hot-diggity-dog/</loc>
+    <loc>http://localhost:1313/episode/ttt-341-hot-diggity-dog/</loc>
     <lastmod>2013-03-03T01:35:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calgary-alberta-canada/</loc>
@@ -953,22 +950,22 @@
     <loc>http://localhost:1313/tags/thanks-scarboroughdude-it/</loc>
     <lastmod>2013-02-22T14:22:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/02/ttt-340-built-for-speed/</loc>
+    <loc>http://localhost:1313/episode/ttt-340-built-for-speed/</loc>
     <lastmod>2013-02-22T14:22:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/02/ttt-339-frontin/</loc>
+    <loc>http://localhost:1313/episode/ttt-339-frontin/</loc>
     <lastmod>2013-02-17T01:33:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/02/ttt-338-fur-panties/</loc>
+    <loc>http://localhost:1313/episode/ttt-338-fur-panties/</loc>
     <lastmod>2013-02-04T01:20:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/01/ttt-337-a-nerd-is-a-nerd-is-a-nerd/</loc>
+    <loc>http://localhost:1313/episode/ttt-337-a-nerd-is-a-nerd-is-a-nerd/</loc>
     <lastmod>2013-01-28T01:04:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/01/ttt-336-high-fantasy/</loc>
+    <loc>http://localhost:1313/episode/ttt-336-high-fantasy/</loc>
     <lastmod>2013-01-18T04:48:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/01/ttt-335-watch-your-ass/</loc>
+    <loc>http://localhost:1313/episode/ttt-335-watch-your-ass/</loc>
     <lastmod>2013-01-10T14:19:33+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calgary-cuddle-party/</loc>
@@ -977,10 +974,10 @@
     <loc>http://localhost:1313/tags/nova-scotia/</loc>
     <lastmod>2013-01-01T23:50:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2013/01/ttt-334-cuddle-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-334-cuddle-up/</loc>
     <lastmod>2013-01-01T23:50:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/12/ttt-333-winter-in-canada/</loc>
+    <loc>http://localhost:1313/episode/ttt-333-winter-in-canada/</loc>
     <lastmod>2012-12-16T23:37:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/north-americans/</loc>
@@ -989,16 +986,16 @@
     <loc>http://localhost:1313/tags/trete-lo/</loc>
     <lastmod>2012-12-08T06:03:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/12/ttt-332-knock-knock/</loc>
+    <loc>http://localhost:1313/episode/ttt-332-knock-knock/</loc>
     <lastmod>2012-12-08T06:03:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/zwarte-piet/</loc>
     <lastmod>2012-12-08T06:03:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/11/ttt-331-christmas-bizness/</loc>
+    <loc>http://localhost:1313/episode/ttt-331-christmas-bizness/</loc>
     <lastmod>2012-11-29T05:47:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/11/ttt-330-up-in-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-330-up-in-it/</loc>
     <lastmod>2012-11-23T05:01:06+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/new-jersey/</loc>
@@ -1010,31 +1007,31 @@
     <loc>http://localhost:1313/tags/tractor-pulls/</loc>
     <lastmod>2012-11-09T05:07:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/11/ttt-329-truckin-suckin/</loc>
+    <loc>http://localhost:1313/episode/ttt-329-truckin-suckin/</loc>
     <lastmod>2012-11-09T05:07:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/11/ttt-328-for-lack-of-trying/</loc>
+    <loc>http://localhost:1313/episode/ttt-328-for-lack-of-trying/</loc>
     <lastmod>2012-11-02T04:38:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/10/ttt-327-alley-oop/</loc>
+    <loc>http://localhost:1313/episode/ttt-327-alley-oop/</loc>
     <lastmod>2012-10-22T00:01:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/10/ttt-326-givers-and-takers/</loc>
+    <loc>http://localhost:1313/episode/ttt-326-givers-and-takers/</loc>
     <lastmod>2012-10-10T02:27:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/skinny-jeans-dad/</loc>
     <lastmod>2012-10-01T05:21:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/09/ttt-325-the-best/</loc>
+    <loc>http://localhost:1313/episode/ttt-325-the-best/</loc>
     <lastmod>2012-10-01T05:21:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/09/ttt-324-wife-me/</loc>
+    <loc>http://localhost:1313/episode/ttt-324-wife-me/</loc>
     <lastmod>2012-09-19T02:03:12+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/japanese-robot-cabaret/</loc>
     <lastmod>2012-09-08T06:41:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/09/ttt-323-lights-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-323-lights-out/</loc>
     <lastmod>2012-09-08T06:41:19+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brave-warriors/</loc>
@@ -1043,7 +1040,7 @@
     <loc>http://localhost:1313/tags/raw-deal/</loc>
     <lastmod>2012-08-26T06:56:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/08/ttt-322-open-all-night/</loc>
+    <loc>http://localhost:1313/episode/ttt-322-open-all-night/</loc>
     <lastmod>2012-08-26T06:56:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/asshole-tattoo/</loc>
@@ -1052,7 +1049,7 @@
     <loc>http://localhost:1313/tags/safe-sex-rap/</loc>
     <lastmod>2012-08-20T03:58:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/08/ttt-321-easy-peasy/</loc>
+    <loc>http://localhost:1313/episode/ttt-321-easy-peasy/</loc>
     <lastmod>2012-08-20T03:58:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/balloon-infatuation/</loc>
@@ -1061,16 +1058,16 @@
     <loc>http://localhost:1313/tags/honey-boo-boo/</loc>
     <lastmod>2012-08-12T05:23:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/08/ttt-320-blow-it-out-your-ass/</loc>
+    <loc>http://localhost:1313/episode/ttt-320-blow-it-out-your-ass/</loc>
     <lastmod>2012-08-12T05:23:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/07/ttt-319-theres-a-porn-riot-goin-on/</loc>
+    <loc>http://localhost:1313/episode/ttt-319-theres-a-porn-riot-goin-on/</loc>
     <lastmod>2012-07-29T04:01:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/china/</loc>
     <lastmod>2012-07-22T05:02:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/07/ttt-318-top-that/</loc>
+    <loc>http://localhost:1313/episode/ttt-318-top-that/</loc>
     <lastmod>2012-07-22T05:02:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/billy-bong-thornton/</loc>
@@ -1082,43 +1079,43 @@
     <loc>http://localhost:1313/tags/sky-blue/</loc>
     <lastmod>2012-07-15T02:45:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/07/ttt-317-bringing-up-baby/</loc>
+    <loc>http://localhost:1313/episode/ttt-317-bringing-up-baby/</loc>
     <lastmod>2012-07-15T02:45:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/07/ttt-316-mr-car-is-a-total-pervert/</loc>
+    <loc>http://localhost:1313/episode/ttt-316-mr-car-is-a-total-pervert/</loc>
     <lastmod>2012-07-09T13:18:24+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/limited-release-podcast/</loc>
     <lastmod>2012-07-04T12:17:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/07/ttt-315-shoot-the-shit/</loc>
+    <loc>http://localhost:1313/episode/ttt-315-shoot-the-shit/</loc>
     <lastmod>2012-07-04T12:17:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/06/ttt-314-business-casual-racism/</loc>
+    <loc>http://localhost:1313/episode/ttt-314-business-casual-racism/</loc>
     <lastmod>2012-06-27T07:47:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/06/ttt-313-if-at-first-you-dont-succeed-fuck-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-313-if-at-first-you-dont-succeed-fuck-it/</loc>
     <lastmod>2012-06-20T13:21:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/06/ttt-312-driven-to-conclusions/</loc>
+    <loc>http://localhost:1313/episode/ttt-312-driven-to-conclusions/</loc>
     <lastmod>2012-06-18T02:50:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mount-rushmore/</loc>
     <lastmod>2012-06-14T01:47:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/06/ttt-311-storm-chasing/</loc>
+    <loc>http://localhost:1313/episode/ttt-311-storm-chasing/</loc>
     <lastmod>2012-06-14T01:47:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/06/ttt-310-close-calls-with-white-walls/</loc>
+    <loc>http://localhost:1313/episode/ttt-310-close-calls-with-white-walls/</loc>
     <lastmod>2012-06-07T02:11:26+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scarborough-dude/</loc>
     <lastmod>2012-05-31T02:36:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/05/ttt-309-seventy-seventh-heaven/</loc>
+    <loc>http://localhost:1313/episode/ttt-309-seventy-seventh-heaven/</loc>
     <lastmod>2012-05-31T02:36:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/05/ttt-308-5-get-the-fuck-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-308-5-get-the-fuck-out/</loc>
     <lastmod>2012-05-24T03:28:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/john-waters/</loc>
@@ -1130,19 +1127,19 @@
     <loc>http://localhost:1313/tags/new-kids-turbo/</loc>
     <lastmod>2012-05-17T04:05:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/05/ttt-308-sweaty-palms/</loc>
+    <loc>http://localhost:1313/episode/ttt-308-sweaty-palms/</loc>
     <lastmod>2012-05-17T04:05:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lyle-lovett/</loc>
     <lastmod>2012-05-10T04:48:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/05/ttt-307-would-you-rather/</loc>
+    <loc>http://localhost:1313/episode/ttt-307-would-you-rather/</loc>
     <lastmod>2012-05-10T04:48:29+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/second-rule-cover/</loc>
     <lastmod>2012-05-07T05:06:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/05/ttt-306-backpack/</loc>
+    <loc>http://localhost:1313/episode/ttt-306-backpack/</loc>
     <lastmod>2012-05-07T05:06:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fashion-shack/</loc>
@@ -1151,7 +1148,7 @@
     <loc>http://localhost:1313/tags/second-rule/</loc>
     <lastmod>2012-05-03T04:47:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/05/ttt-305-the-shit-shack/</loc>
+    <loc>http://localhost:1313/episode/ttt-305-the-shit-shack/</loc>
     <lastmod>2012-05-03T04:47:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/donald-trump/</loc>
@@ -1160,79 +1157,79 @@
     <loc>http://localhost:1313/tags/mel-gibson/</loc>
     <lastmod>2012-04-26T03:43:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/04/ttt-304-were-dying-up-here/</loc>
+    <loc>http://localhost:1313/episode/ttt-304-were-dying-up-here/</loc>
     <lastmod>2012-04-26T03:43:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/04/ttt-303-pick-and-choose/</loc>
+    <loc>http://localhost:1313/episode/ttt-303-pick-and-choose/</loc>
     <lastmod>2012-04-19T04:13:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/04/ttt-302-faking-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-302-faking-it/</loc>
     <lastmod>2012-04-16T04:26:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/04/ttt-301-too-easy/</loc>
+    <loc>http://localhost:1313/episode/ttt-301-too-easy/</loc>
     <lastmod>2012-04-12T04:45:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/04/ttt-300-too-dumb-to-quit/</loc>
+    <loc>http://localhost:1313/episode/ttt-300-too-dumb-to-quit/</loc>
     <lastmod>2012-04-07T05:16:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/03/ttt-299-lets-get-real/</loc>
+    <loc>http://localhost:1313/episode/ttt-299-lets-get-real/</loc>
     <lastmod>2012-03-29T13:05:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/03/ttt-298-cheeseburger-cheerleader/</loc>
+    <loc>http://localhost:1313/episode/ttt-298-cheeseburger-cheerleader/</loc>
     <lastmod>2012-03-26T04:06:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/03/ttt-297-dirty-dishes/</loc>
+    <loc>http://localhost:1313/episode/ttt-297-dirty-dishes/</loc>
     <lastmod>2012-03-22T04:32:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/03/ttt-296-its-party-time/</loc>
+    <loc>http://localhost:1313/episode/ttt-296-its-party-time/</loc>
     <lastmod>2012-03-15T04:49:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/03/ttt-295-commander-pussyface/</loc>
+    <loc>http://localhost:1313/episode/ttt-295-commander-pussyface/</loc>
     <lastmod>2012-03-08T05:16:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/03/ttt-294-ignorance-is-fun/</loc>
+    <loc>http://localhost:1313/episode/ttt-294-ignorance-is-fun/</loc>
     <lastmod>2012-03-05T05:28:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/02/ttt-293-culturally-insensitive/</loc>
+    <loc>http://localhost:1313/episode/ttt-293-culturally-insensitive/</loc>
     <lastmod>2012-03-01T05:23:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/02/ttt-292-skin-tight/</loc>
+    <loc>http://localhost:1313/episode/ttt-292-skin-tight/</loc>
     <lastmod>2012-02-23T05:24:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/02/ttt-291-hug-life/</loc>
+    <loc>http://localhost:1313/episode/ttt-291-hug-life/</loc>
     <lastmod>2012-02-20T05:04:28+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meeting-european/</loc>
     <lastmod>2012-02-09T05:18:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/02/ttt-290-apology-accepted/</loc>
+    <loc>http://localhost:1313/episode/ttt-290-apology-accepted/</loc>
     <lastmod>2012-02-09T05:18:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/02/ttt-289-a-cork-in-the-ocean/</loc>
+    <loc>http://localhost:1313/episode/ttt-289-a-cork-in-the-ocean/</loc>
     <lastmod>2012-02-06T05:17:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/02/ttt-288-time-to-get-alone/</loc>
+    <loc>http://localhost:1313/episode/ttt-288-time-to-get-alone/</loc>
     <lastmod>2012-02-02T05:27:27+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/object-sexuals/</loc>
     <lastmod>2012-01-26T05:02:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/01/ttt-287-life-imitates-art/</loc>
+    <loc>http://localhost:1313/episode/ttt-287-life-imitates-art/</loc>
     <lastmod>2012-01-26T05:02:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/01/ttt-286-hostage-situation/</loc>
+    <loc>http://localhost:1313/episode/ttt-286-hostage-situation/</loc>
     <lastmod>2012-01-23T05:19:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/01/ttt-285-part-of-the-problem/</loc>
+    <loc>http://localhost:1313/episode/ttt-285-part-of-the-problem/</loc>
     <lastmod>2012-01-16T07:06:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/01/ttt-284-mysteries-of-the-universe/</loc>
+    <loc>http://localhost:1313/episode/ttt-284-mysteries-of-the-universe/</loc>
     <lastmod>2012-01-12T06:38:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2012/01/ttt-283-to-boldly-come/</loc>
+    <loc>http://localhost:1313/episode/ttt-283-to-boldly-come/</loc>
     <lastmod>2012-01-05T05:44:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/12/ttt-282-christmas-crackers/</loc>
+    <loc>http://localhost:1313/episode/ttt-282-christmas-crackers/</loc>
     <lastmod>2011-12-20T05:40:32+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/george-takei/</loc>
@@ -1241,52 +1238,52 @@
     <loc>http://localhost:1313/tags/star-trek/</loc>
     <lastmod>2011-12-12T05:31:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/12/ttt-281-forced-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-281-forced-out/</loc>
     <lastmod>2011-12-12T05:31:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tlc/</loc>
     <lastmod>2011-12-05T05:29:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/12/ttt-280-first-kiss/</loc>
+    <loc>http://localhost:1313/episode/ttt-280-first-kiss/</loc>
     <lastmod>2011-12-05T05:29:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sage-theatre/</loc>
     <lastmod>2011-12-01T05:34:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/11/ttt-279-robosexual/</loc>
+    <loc>http://localhost:1313/episode/ttt-279-robosexual/</loc>
     <lastmod>2011-12-01T05:34:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/11/ttt-278-tip-tap-tip-on-ice/</loc>
+    <loc>http://localhost:1313/episode/ttt-278-tip-tap-tip-on-ice/</loc>
     <lastmod>2011-11-28T05:31:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bowser-beer/</loc>
     <lastmod>2011-11-10T14:32:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/11/ttt-277-eager-beaver/</loc>
+    <loc>http://localhost:1313/episode/ttt-277-eager-beaver/</loc>
     <lastmod>2011-11-10T14:32:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/11/ttt-276-automatic-lovers/</loc>
+    <loc>http://localhost:1313/episode/ttt-276-automatic-lovers/</loc>
     <lastmod>2011-11-07T02:50:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/10/ttt-275-animal-kingdom/</loc>
+    <loc>http://localhost:1313/episode/ttt-275-animal-kingdom/</loc>
     <lastmod>2011-10-31T04:22:19+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cecelia-cassini/</loc>
     <lastmod>2011-10-24T03:58:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/10/ttt-274-chocolate-peanut-butter/</loc>
+    <loc>http://localhost:1313/episode/ttt-274-chocolate-peanut-butter/</loc>
     <lastmod>2011-10-24T03:58:37+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/katherine-chloe-cahoon/</loc>
     <lastmod>2011-10-20T04:26:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/10/ttt-273-tip-tap-tip-for-sale/</loc>
+    <loc>http://localhost:1313/episode/ttt-273-tip-tap-tip-for-sale/</loc>
     <lastmod>2011-10-20T04:26:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/phoenix-jones/</loc>
     <lastmod>2011-10-16T22:30:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/10/ttt-272-deadly-weapons/</loc>
+    <loc>http://localhost:1313/episode/ttt-272-deadly-weapons/</loc>
     <lastmod>2011-10-16T22:30:13+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/human-monkey/</loc>
@@ -1298,7 +1295,7 @@
     <loc>http://localhost:1313/tags/seven-story-redhead/</loc>
     <lastmod>2011-10-13T05:10:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/10/ttt-271-message-received/</loc>
+    <loc>http://localhost:1313/episode/ttt-271-message-received/</loc>
     <lastmod>2011-10-13T05:10:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/zoom-h4n/</loc>
@@ -1307,13 +1304,13 @@
     <loc>http://localhost:1313/tags/steve-jobs/</loc>
     <lastmod>2011-10-06T04:17:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/10/ttt-270-in-ze-bum/</loc>
+    <loc>http://localhost:1313/episode/ttt-270-in-ze-bum/</loc>
     <lastmod>2011-10-06T04:17:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/09/ttt-269-were-the-fucking-best/</loc>
+    <loc>http://localhost:1313/episode/ttt-269-were-the-fucking-best/</loc>
     <lastmod>2011-09-29T04:23:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/09/ttt-268-license-to-drive/</loc>
+    <loc>http://localhost:1313/episode/ttt-268-license-to-drive/</loc>
     <lastmod>2011-09-22T04:36:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wal-mart-cheer/</loc>
@@ -1325,7 +1322,7 @@
     <loc>http://localhost:1313/tags/peta/</loc>
     <lastmod>2011-09-19T04:13:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/09/ttt-267-quiet-please/</loc>
+    <loc>http://localhost:1313/episode/ttt-267-quiet-please/</loc>
     <lastmod>2011-09-19T04:13:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/babe-runner-trailer/</loc>
@@ -1334,16 +1331,16 @@
     <loc>http://localhost:1313/tags/scarlett-johansson/</loc>
     <lastmod>2011-09-15T04:46:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/09/ttt-266-dick-pics/</loc>
+    <loc>http://localhost:1313/episode/ttt-266-dick-pics/</loc>
     <lastmod>2011-09-15T04:46:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/09/ttt-265-imperfect-strangers/</loc>
+    <loc>http://localhost:1313/episode/ttt-265-imperfect-strangers/</loc>
     <lastmod>2011-09-12T04:38:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/coffee-jerks/</loc>
     <lastmod>2011-09-05T06:28:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/09/ttt-264-was-it-something-i-said/</loc>
+    <loc>http://localhost:1313/episode/ttt-264-was-it-something-i-said/</loc>
     <lastmod>2011-09-05T06:28:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/amazing-magic-sponge/</loc>
@@ -1352,13 +1349,13 @@
     <loc>http://localhost:1313/tags/slow-dancing-teens/</loc>
     <lastmod>2011-09-01T04:26:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-263-suck-it-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-263-suck-it-up/</loc>
     <lastmod>2011-09-01T04:26:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sleazy-slide/</loc>
     <lastmod>2011-08-29T04:19:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-262-buddy-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-262-buddy-up/</loc>
     <lastmod>2011-08-29T04:19:59+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/betty-white/</loc>
@@ -1367,7 +1364,7 @@
     <loc>http://localhost:1313/tags/paris-hilton/</loc>
     <lastmod>2011-08-25T04:17:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-261-gross-domestic/</loc>
+    <loc>http://localhost:1313/episode/ttt-261-gross-domestic/</loc>
     <lastmod>2011-08-25T04:17:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/upside-down-yoga/</loc>
@@ -1376,31 +1373,31 @@
     <loc>http://localhost:1313/tags/worst-movie-ever/</loc>
     <lastmod>2011-08-25T04:17:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-260-out-of-order/</loc>
+    <loc>http://localhost:1313/episode/ttt-260-out-of-order/</loc>
     <lastmod>2011-08-22T04:19:40+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dating-tips/</loc>
     <lastmod>2011-08-18T04:10:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-259-when-fantasy-meets-reality/</loc>
+    <loc>http://localhost:1313/episode/ttt-259-when-fantasy-meets-reality/</loc>
     <lastmod>2011-08-18T04:10:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/netherlands/</loc>
     <lastmod>2011-08-15T04:10:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-258-come-here-often/</loc>
+    <loc>http://localhost:1313/episode/ttt-258-come-here-often/</loc>
     <lastmod>2011-08-15T04:10:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-257-teamwork/</loc>
+    <loc>http://localhost:1313/episode/ttt-257-teamwork/</loc>
     <lastmod>2011-08-11T04:14:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/08/ttt-256-ik-hou-van-jou/</loc>
+    <loc>http://localhost:1313/episode/ttt-256-ik-hou-van-jou/</loc>
     <lastmod>2011-08-04T03:55:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/battleship-trailer/</loc>
     <lastmod>2011-07-28T04:18:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/ttt-255-lets-kiss-and-make-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-255-lets-kiss-and-make-up/</loc>
     <lastmod>2011-07-28T04:18:06+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/free-software-song/</loc>
@@ -1409,10 +1406,10 @@
     <loc>http://localhost:1313/tags/pod-calgary/</loc>
     <lastmod>2011-07-25T03:30:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/rewind-ttt-25-pleather-daddy/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-25-pleather-daddy/</loc>
     <lastmod>2011-07-25T03:30:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/ttt-254-punch-in-the-face/</loc>
+    <loc>http://localhost:1313/episode/ttt-254-punch-in-the-face/</loc>
     <lastmod>2011-07-21T04:31:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/century-san-francisco/</loc>
@@ -1424,214 +1421,214 @@
     <loc>http://localhost:1313/tags/london-drugs/</loc>
     <lastmod>2011-07-18T03:45:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/rewind-ttt-68-be-nice/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-68-be-nice/</loc>
     <lastmod>2011-07-18T03:45:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chat-transcript/</loc>
     <lastmod>2011-07-14T04:17:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/ttt-253-does-not-compute/</loc>
+    <loc>http://localhost:1313/episode/ttt-253-does-not-compute/</loc>
     <lastmod>2011-07-14T04:17:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sandra-bullock/</loc>
     <lastmod>2011-07-07T04:27:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/ttt-252-common-courtesy/</loc>
+    <loc>http://localhost:1313/episode/ttt-252-common-courtesy/</loc>
     <lastmod>2011-07-07T04:27:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bang-bang-lady/</loc>
     <lastmod>2011-07-04T04:05:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/07/ttt-251-existential-crisis/</loc>
+    <loc>http://localhost:1313/episode/ttt-251-existential-crisis/</loc>
     <lastmod>2011-07-04T04:05:53+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/garter-girls/</loc>
     <lastmod>2011-06-30T04:16:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-250-rachelle-is-right/</loc>
+    <loc>http://localhost:1313/episode/ttt-250-rachelle-is-right/</loc>
     <lastmod>2011-06-30T04:16:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dutch-hey-wagon/</loc>
     <lastmod>2011-06-23T04:31:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-249-psych-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-249-psych-out/</loc>
     <lastmod>2011-06-23T04:31:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-248-thats-entertainment/</loc>
+    <loc>http://localhost:1313/episode/ttt-248-thats-entertainment/</loc>
     <lastmod>2011-06-20T04:32:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-247-tits-for-everybody/</loc>
+    <loc>http://localhost:1313/episode/ttt-247-tits-for-everybody/</loc>
     <lastmod>2011-06-16T04:24:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-246-shit-eating-grins/</loc>
+    <loc>http://localhost:1313/episode/ttt-246-shit-eating-grins/</loc>
     <lastmod>2011-06-09T04:27:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-245-self-righteousness/</loc>
+    <loc>http://localhost:1313/episode/ttt-245-self-righteousness/</loc>
     <lastmod>2011-06-06T04:16:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/06/ttt-244-reset/</loc>
+    <loc>http://localhost:1313/episode/ttt-244-reset/</loc>
     <lastmod>2011-06-02T04:03:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-243-asking-for-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-243-asking-for-it/</loc>
     <lastmod>2011-05-30T04:12:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-242-dutch-angles/</loc>
+    <loc>http://localhost:1313/episode/ttt-242-dutch-angles/</loc>
     <lastmod>2011-05-26T03:48:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-241-side-effects/</loc>
+    <loc>http://localhost:1313/episode/ttt-241-side-effects/</loc>
     <lastmod>2011-05-22T22:09:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-240-cave-dwellers/</loc>
+    <loc>http://localhost:1313/episode/ttt-240-cave-dwellers/</loc>
     <lastmod>2011-05-19T23:46:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-239-smile/</loc>
+    <loc>http://localhost:1313/episode/ttt-239-smile/</loc>
     <lastmod>2011-05-16T01:16:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-238-from-parts-unknown/</loc>
+    <loc>http://localhost:1313/episode/ttt-238-from-parts-unknown/</loc>
     <lastmod>2011-05-09T04:15:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-237-willfully-uninformed/</loc>
+    <loc>http://localhost:1313/episode/ttt-237-willfully-uninformed/</loc>
     <lastmod>2011-05-05T04:18:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/05/ttt-236-modern-history/</loc>
+    <loc>http://localhost:1313/episode/ttt-236-modern-history/</loc>
     <lastmod>2011-05-02T04:08:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/04/ttt-235-disagreeable/</loc>
+    <loc>http://localhost:1313/episode/ttt-235-disagreeable/</loc>
     <lastmod>2011-04-27T04:33:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/podcast-squared/</loc>
     <lastmod>2011-04-21T04:36:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/04/ttt-234-travelogue/</loc>
+    <loc>http://localhost:1313/episode/ttt-234-travelogue/</loc>
     <lastmod>2011-04-21T04:36:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/04/ttt-233-brute-force/</loc>
+    <loc>http://localhost:1313/episode/ttt-233-brute-force/</loc>
     <lastmod>2011-04-18T04:20:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/04/ttt-232-ms-dressup/</loc>
+    <loc>http://localhost:1313/episode/ttt-232-ms-dressup/</loc>
     <lastmod>2011-04-14T04:23:02+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/richard-simmons/</loc>
     <lastmod>2011-04-07T04:23:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/04/ttt-231-here-come-the-judges/</loc>
+    <loc>http://localhost:1313/episode/ttt-231-here-come-the-judges/</loc>
     <lastmod>2011-04-07T04:23:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/04/ttt-230-baby-animals/</loc>
+    <loc>http://localhost:1313/episode/ttt-230-baby-animals/</loc>
     <lastmod>2011-04-04T04:13:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-229-spring-in-your-step/</loc>
+    <loc>http://localhost:1313/episode/ttt-229-spring-in-your-step/</loc>
     <lastmod>2011-03-31T04:16:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-228-shitting-the-bed/</loc>
+    <loc>http://localhost:1313/episode/ttt-228-shitting-the-bed/</loc>
     <lastmod>2011-03-28T04:31:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-227-for-love-and-money/</loc>
+    <loc>http://localhost:1313/episode/ttt-227-for-love-and-money/</loc>
     <lastmod>2011-03-24T04:21:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-226-nerd-on-nerd-action/</loc>
+    <loc>http://localhost:1313/episode/ttt-226-nerd-on-nerd-action/</loc>
     <lastmod>2011-03-21T04:30:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-225-stick-em-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-225-stick-em-up/</loc>
     <lastmod>2011-03-17T04:21:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-224-the-tip-tap-tip-detective-agency/</loc>
+    <loc>http://localhost:1313/episode/ttt-224-the-tip-tap-tip-detective-agency/</loc>
     <lastmod>2011-03-13T23:34:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-223-pleasure-machine/</loc>
+    <loc>http://localhost:1313/episode/ttt-223-pleasure-machine/</loc>
     <lastmod>2011-03-07T05:26:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/03/ttt-222-queen-of-the-galaxy/</loc>
+    <loc>http://localhost:1313/episode/ttt-222-queen-of-the-galaxy/</loc>
     <lastmod>2011-03-03T05:22:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-221-hope-for-the-hopeless/</loc>
+    <loc>http://localhost:1313/episode/ttt-221-hope-for-the-hopeless/</loc>
     <lastmod>2011-02-28T01:43:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-220-memory-lapse/</loc>
+    <loc>http://localhost:1313/episode/ttt-220-memory-lapse/</loc>
     <lastmod>2011-02-24T05:23:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-219-were-here-to-help/</loc>
+    <loc>http://localhost:1313/episode/ttt-219-were-here-to-help/</loc>
     <lastmod>2011-02-21T05:40:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-218-cats-me-to-the-end-of-love/</loc>
+    <loc>http://localhost:1313/episode/ttt-218-cats-me-to-the-end-of-love/</loc>
     <lastmod>2011-02-17T05:38:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-217-give-a-shit/</loc>
+    <loc>http://localhost:1313/episode/ttt-217-give-a-shit/</loc>
     <lastmod>2011-02-14T05:21:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-216-cock-lollies/</loc>
+    <loc>http://localhost:1313/episode/ttt-216-cock-lollies/</loc>
     <lastmod>2011-02-10T06:01:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-215-everything-to-everybody/</loc>
+    <loc>http://localhost:1313/episode/ttt-215-everything-to-everybody/</loc>
     <lastmod>2011-02-07T04:08:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/02/ttt-214-concrete-streets-executive-suites/</loc>
+    <loc>http://localhost:1313/episode/ttt-214-concrete-streets-executive-suites/</loc>
     <lastmod>2011-02-03T05:18:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-213-gentlemen-amateurs/</loc>
+    <loc>http://localhost:1313/episode/ttt-213-gentlemen-amateurs/</loc>
     <lastmod>2011-01-31T05:24:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-212-team-players/</loc>
+    <loc>http://localhost:1313/episode/ttt-212-team-players/</loc>
     <lastmod>2011-01-24T05:21:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-211-all-hands-on-dick/</loc>
+    <loc>http://localhost:1313/episode/ttt-211-all-hands-on-dick/</loc>
     <lastmod>2011-01-20T03:29:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-210-intelligent-lifeforms/</loc>
+    <loc>http://localhost:1313/episode/ttt-210-intelligent-lifeforms/</loc>
     <lastmod>2011-01-13T04:47:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-209-put-on-a-happy-fucking-face/</loc>
+    <loc>http://localhost:1313/episode/ttt-209-put-on-a-happy-fucking-face/</loc>
     <lastmod>2011-01-10T05:17:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-208-tip-tap-tip-sell-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-208-tip-tap-tip-sell-out/</loc>
     <lastmod>2011-01-06T04:19:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2011/01/ttt-207-in-it-for-the-money/</loc>
+    <loc>http://localhost:1313/episode/ttt-207-in-it-for-the-money/</loc>
     <lastmod>2011-01-03T05:25:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/ttt-206-generalizations/</loc>
+    <loc>http://localhost:1313/episode/ttt-206-generalizations/</loc>
     <lastmod>2010-12-30T04:01:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/ttt-205-group-activities/</loc>
+    <loc>http://localhost:1313/episode/ttt-205-group-activities/</loc>
     <lastmod>2010-12-20T05:21:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/ttt-204-clothing-optional/</loc>
+    <loc>http://localhost:1313/episode/ttt-204-clothing-optional/</loc>
     <lastmod>2010-12-16T04:14:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/ttt-203-little-hearts/</loc>
+    <loc>http://localhost:1313/episode/ttt-203-little-hearts/</loc>
     <lastmod>2010-12-13T05:04:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/ttt-202-just-say-maybe/</loc>
+    <loc>http://localhost:1313/episode/ttt-202-just-say-maybe/</loc>
     <lastmod>2010-12-09T03:43:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/12/ttt-201-pie-in-the-sky/</loc>
+    <loc>http://localhost:1313/episode/ttt-201-pie-in-the-sky/</loc>
     <lastmod>2010-12-02T05:00:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/ttt-200-mango-tango/</loc>
+    <loc>http://localhost:1313/episode/ttt-200-mango-tango/</loc>
     <lastmod>2010-11-29T05:20:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/rewind-ttt-36-smoke-em-if-you-got-em/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-36-smoke-em-if-you-got-em/</loc>
     <lastmod>2010-11-25T01:54:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bas-rutten/</loc>
     <lastmod>2010-11-22T01:53:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/rewind-ttt-32-kick-to-the-balls/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-32-kick-to-the-balls/</loc>
     <lastmod>2010-11-22T01:53:58+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ramada-hotel-calgary/</loc>
     <lastmod>2010-11-18T18:30:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/rewind-ttt-7-weekendweak-end/</loc>
+    <loc>http://localhost:1313/episode/rewind-ttt-7-weekendweak-end/</loc>
     <lastmod>2010-11-18T18:30:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/ttt-199-tip-tap-tip-is-alive-and-well-and-living-in-calgary/</loc>
+    <loc>http://localhost:1313/episode/ttt-199-tip-tap-tip-is-alive-and-well-and-living-in-calgary/</loc>
     <lastmod>2010-11-15T05:26:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/ttt-198-our-love-will-not-let-you-down/</loc>
+    <loc>http://localhost:1313/episode/ttt-198-our-love-will-not-let-you-down/</loc>
     <lastmod>2010-11-11T04:14:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/11/ttt-197-off-topic/</loc>
+    <loc>http://localhost:1313/episode/ttt-197-off-topic/</loc>
     <lastmod>2010-11-04T03:03:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/caligula-trailer/</loc>
@@ -1640,7 +1637,7 @@
     <loc>http://localhost:1313/tags/john-meadows/</loc>
     <lastmod>2010-11-01T05:07:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-196-birdfeeder/</loc>
+    <loc>http://localhost:1313/episode/ttt-196-birdfeeder/</loc>
     <lastmod>2010-11-01T05:07:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chat-transcipt/</loc>
@@ -1649,67 +1646,67 @@
     <loc>http://localhost:1313/tags/snazzy-napper/</loc>
     <lastmod>2010-10-28T03:01:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-195-cold-leatherette/</loc>
+    <loc>http://localhost:1313/episode/ttt-195-cold-leatherette/</loc>
     <lastmod>2010-10-28T03:01:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-194-hardcore/</loc>
+    <loc>http://localhost:1313/episode/ttt-194-hardcore/</loc>
     <lastmod>2010-10-25T04:36:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-193-european-dream/</loc>
+    <loc>http://localhost:1313/episode/ttt-193-european-dream/</loc>
     <lastmod>2010-10-21T03:01:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-192-more-bounce-to-the-ounce/</loc>
+    <loc>http://localhost:1313/episode/ttt-192-more-bounce-to-the-ounce/</loc>
     <lastmod>2010-10-18T04:26:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-191-shits-and-giggles/</loc>
+    <loc>http://localhost:1313/episode/ttt-191-shits-and-giggles/</loc>
     <lastmod>2010-10-14T04:48:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-190-cookie-monsters/</loc>
+    <loc>http://localhost:1313/episode/ttt-190-cookie-monsters/</loc>
     <lastmod>2010-10-07T13:49:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/10/ttt-189-tight-squeeze/</loc>
+    <loc>http://localhost:1313/episode/ttt-189-tight-squeeze/</loc>
     <lastmod>2010-10-04T03:44:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/09/ttt-188-pissing-match/</loc>
+    <loc>http://localhost:1313/episode/ttt-188-pissing-match/</loc>
     <lastmod>2010-09-30T04:47:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/09/ttt-187-working-in-working-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-187-working-in-working-out/</loc>
     <lastmod>2010-09-27T03:59:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/09/ttt-186-tip-tap-tip-time/</loc>
+    <loc>http://localhost:1313/episode/ttt-186-tip-tap-tip-time/</loc>
     <lastmod>2010-09-23T04:26:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/09/ttt-185-i-love-you/</loc>
+    <loc>http://localhost:1313/episode/ttt-185-i-love-you/</loc>
     <lastmod>2010-09-20T04:03:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/09/ttt-184-double-date/</loc>
+    <loc>http://localhost:1313/episode/ttt-184-double-date/</loc>
     <lastmod>2010-09-13T04:53:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/09/ttt-183-hot-or-cold/</loc>
+    <loc>http://localhost:1313/episode/ttt-183-hot-or-cold/</loc>
     <lastmod>2010-09-09T04:31:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-182-sweater-weather/</loc>
+    <loc>http://localhost:1313/episode/ttt-182-sweater-weather/</loc>
     <lastmod>2010-08-30T04:40:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/herman-head/</loc>
     <lastmod>2010-08-26T04:50:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-181-pillow-talk/</loc>
+    <loc>http://localhost:1313/episode/ttt-181-pillow-talk/</loc>
     <lastmod>2010-08-26T04:50:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-180-brick-mortar/</loc>
+    <loc>http://localhost:1313/episode/ttt-180-brick-mortar/</loc>
     <lastmod>2010-08-19T05:48:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-179-critical-thinking/</loc>
+    <loc>http://localhost:1313/episode/ttt-179-critical-thinking/</loc>
     <lastmod>2010-08-16T04:55:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-178-the-great-escape/</loc>
+    <loc>http://localhost:1313/episode/ttt-178-the-great-escape/</loc>
     <lastmod>2010-08-12T04:30:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-177-bite-me/</loc>
+    <loc>http://localhost:1313/episode/ttt-177-bite-me/</loc>
     <lastmod>2010-08-05T04:33:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/08/ttt-176-5-roughing-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-176-5-roughing-it/</loc>
     <lastmod>2010-08-01T15:00:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/twitter-facebook/</loc>
@@ -1718,232 +1715,232 @@
     <loc>http://localhost:1313/tags/sticky-wicky/</loc>
     <lastmod>2010-07-28T04:34:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-176-the-other-c-word/</loc>
+    <loc>http://localhost:1313/episode/ttt-176-the-other-c-word/</loc>
     <lastmod>2010-07-28T04:34:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-175-hot-chocolate-city/</loc>
+    <loc>http://localhost:1313/episode/ttt-175-hot-chocolate-city/</loc>
     <lastmod>2010-07-22T05:00:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-174-strutter/</loc>
+    <loc>http://localhost:1313/episode/ttt-174-strutter/</loc>
     <lastmod>2010-07-19T04:20:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-173-cooking-the-books/</loc>
+    <loc>http://localhost:1313/episode/ttt-173-cooking-the-books/</loc>
     <lastmod>2010-07-15T04:49:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-172-can-you-keep-a-secret/</loc>
+    <loc>http://localhost:1313/episode/ttt-172-can-you-keep-a-secret/</loc>
     <lastmod>2010-07-12T05:17:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-171-juvenilism/</loc>
+    <loc>http://localhost:1313/episode/ttt-171-juvenilism/</loc>
     <lastmod>2010-07-08T04:35:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/07/ttt-170-career-suicide/</loc>
+    <loc>http://localhost:1313/episode/ttt-170-career-suicide/</loc>
     <lastmod>2010-07-03T05:18:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/ttt-169-skin-diving/</loc>
+    <loc>http://localhost:1313/episode/ttt-169-skin-diving/</loc>
     <lastmod>2010-06-29T04:26:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/ttt-168-fact-checking/</loc>
+    <loc>http://localhost:1313/episode/ttt-168-fact-checking/</loc>
     <lastmod>2010-06-21T04:26:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/ttt-167-turn-me-loose/</loc>
+    <loc>http://localhost:1313/episode/ttt-167-turn-me-loose/</loc>
     <lastmod>2010-06-17T04:34:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/ttt-166-fuck-this-noise/</loc>
+    <loc>http://localhost:1313/episode/ttt-166-fuck-this-noise/</loc>
     <lastmod>2010-06-10T04:50:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/ttt-165-i-scream-you-scream/</loc>
+    <loc>http://localhost:1313/episode/ttt-165-i-scream-you-scream/</loc>
     <lastmod>2010-06-07T04:41:37+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sunset-daze/</loc>
     <lastmod>2010-06-03T04:24:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/06/ttt-164-rugged-good-looks/</loc>
+    <loc>http://localhost:1313/episode/ttt-164-rugged-good-looks/</loc>
     <lastmod>2010-06-03T04:24:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/05/on-podfading/</loc>
+    <loc>http://localhost:1313/episode/on-podfading/</loc>
     <lastmod>2010-06-01T00:59:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cet/</loc>
     <lastmod>2010-05-27T04:19:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/05/ttt-163-international-pop-overthrow/</loc>
+    <loc>http://localhost:1313/episode/ttt-163-international-pop-overthrow/</loc>
     <lastmod>2010-05-27T04:19:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/05/ttt-162-its-not-me-its-you/</loc>
+    <loc>http://localhost:1313/episode/ttt-162-its-not-me-its-you/</loc>
     <lastmod>2010-05-21T04:32:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/05/ttt-161-keeping-tabs/</loc>
+    <loc>http://localhost:1313/episode/ttt-161-keeping-tabs/</loc>
     <lastmod>2010-05-17T04:21:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/05/ttt-160-consummate-professionals/</loc>
+    <loc>http://localhost:1313/episode/ttt-160-consummate-professionals/</loc>
     <lastmod>2010-05-10T04:39:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/05/ttt-159-bend-from-the-hips/</loc>
+    <loc>http://localhost:1313/episode/ttt-159-bend-from-the-hips/</loc>
     <lastmod>2010-05-06T04:30:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/ttt-158-taking-one-for-the-team/</loc>
+    <loc>http://localhost:1313/episode/ttt-158-taking-one-for-the-team/</loc>
     <lastmod>2010-04-29T04:38:58+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/patrick-swayze/</loc>
     <lastmod>2010-04-25T23:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/ttt-157-newsworthy/</loc>
+    <loc>http://localhost:1313/episode/ttt-157-newsworthy/</loc>
     <lastmod>2010-04-25T23:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/ttt-156-guessing-games/</loc>
+    <loc>http://localhost:1313/episode/ttt-156-guessing-games/</loc>
     <lastmod>2010-04-22T04:32:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/ttt-155-spirited-discussions/</loc>
+    <loc>http://localhost:1313/episode/ttt-155-spirited-discussions/</loc>
     <lastmod>2010-04-17T07:59:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/ttt-154-the-hunger/</loc>
+    <loc>http://localhost:1313/episode/ttt-154-the-hunger/</loc>
     <lastmod>2010-04-12T04:44:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/04/ttt-153-mind-your-mouth/</loc>
+    <loc>http://localhost:1313/episode/ttt-153-mind-your-mouth/</loc>
     <lastmod>2010-04-08T04:50:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ann-coulter/</loc>
     <lastmod>2010-03-31T04:53:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/ttt-152-eating-habits/</loc>
+    <loc>http://localhost:1313/episode/ttt-152-eating-habits/</loc>
     <lastmod>2010-03-31T04:53:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/ttt-151-speech-impediments/</loc>
+    <loc>http://localhost:1313/episode/ttt-151-speech-impediments/</loc>
     <lastmod>2010-03-25T04:44:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/ttt-150-hunting-season/</loc>
+    <loc>http://localhost:1313/episode/ttt-150-hunting-season/</loc>
     <lastmod>2010-03-22T03:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/ttt-149-in-a-pinch/</loc>
+    <loc>http://localhost:1313/episode/ttt-149-in-a-pinch/</loc>
     <lastmod>2010-03-18T05:05:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/ttt-148-wild-animals/</loc>
+    <loc>http://localhost:1313/episode/ttt-148-wild-animals/</loc>
     <lastmod>2010-03-09T06:02:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/03/ttt-147-everythings-coming-up-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-147-everythings-coming-up-tip-tap-tip/</loc>
     <lastmod>2010-03-04T06:56:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/02/ttt-146-dinner-for-two/</loc>
+    <loc>http://localhost:1313/episode/ttt-146-dinner-for-two/</loc>
     <lastmod>2010-02-25T06:09:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/02/ttt-145-its-so-easy/</loc>
+    <loc>http://localhost:1313/episode/ttt-145-its-so-easy/</loc>
     <lastmod>2010-02-18T05:41:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/02/ttt-144-form-fitting/</loc>
+    <loc>http://localhost:1313/episode/ttt-144-form-fitting/</loc>
     <lastmod>2010-02-15T05:46:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/02/ttt-143-lets-go-crazy/</loc>
+    <loc>http://localhost:1313/episode/ttt-143-lets-go-crazy/</loc>
     <lastmod>2010-02-11T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/02/ttt-142-phantom-power/</loc>
+    <loc>http://localhost:1313/episode/ttt-142-phantom-power/</loc>
     <lastmod>2010-02-04T06:53:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-141-twenty-questions-2/</loc>
+    <loc>http://localhost:1313/episode/ttt-141-twenty-questions-2/</loc>
     <lastmod>2010-02-01T02:29:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-140-storytelling/</loc>
+    <loc>http://localhost:1313/episode/ttt-140-storytelling/</loc>
     <lastmod>2010-01-28T05:50:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-139-we-are-not-puppets/</loc>
+    <loc>http://localhost:1313/episode/ttt-139-we-are-not-puppets/</loc>
     <lastmod>2010-01-23T05:53:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-138-business-minded/</loc>
+    <loc>http://localhost:1313/episode/ttt-138-business-minded/</loc>
     <lastmod>2010-01-19T05:41:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-137-balls-to-the-wall/</loc>
+    <loc>http://localhost:1313/episode/ttt-137-balls-to-the-wall/</loc>
     <lastmod>2010-01-11T05:42:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-136-totally-fuckable/</loc>
+    <loc>http://localhost:1313/episode/ttt-136-totally-fuckable/</loc>
     <lastmod>2010-01-08T05:32:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/starts-january/</loc>
     <lastmod>2010-01-04T01:57:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2010/01/ttt-135-the-tip-tap-tip-challenge/</loc>
+    <loc>http://localhost:1313/episode/ttt-135-the-tip-tap-tip-challenge/</loc>
     <lastmod>2010-01-04T01:57:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/ttt-134-back-in-time/</loc>
+    <loc>http://localhost:1313/episode/ttt-134-back-in-time/</loc>
     <lastmod>2009-12-30T23:34:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/ttt-133-pole-position/</loc>
+    <loc>http://localhost:1313/episode/ttt-133-pole-position/</loc>
     <lastmod>2009-12-28T05:51:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/ttt-132-inappropriate-behaviour/</loc>
+    <loc>http://localhost:1313/episode/ttt-132-inappropriate-behaviour/</loc>
     <lastmod>2009-12-23T05:33:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/ttt-131-gift-giving/</loc>
+    <loc>http://localhost:1313/episode/ttt-131-gift-giving/</loc>
     <lastmod>2009-12-16T05:14:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/ttt-130-close-encounters/</loc>
+    <loc>http://localhost:1313/episode/ttt-130-close-encounters/</loc>
     <lastmod>2009-12-10T05:30:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/12/ttt-129-crosstown-trafficking/</loc>
+    <loc>http://localhost:1313/episode/ttt-129-crosstown-trafficking/</loc>
     <lastmod>2009-12-04T04:55:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-128-confidence-booster/</loc>
+    <loc>http://localhost:1313/episode/ttt-128-confidence-booster/</loc>
     <lastmod>2009-12-01T05:29:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-127-5-how-to-podcast-the-tip-tap-tip-way/</loc>
+    <loc>http://localhost:1313/episode/ttt-127-5-how-to-podcast-the-tip-tap-tip-way/</loc>
     <lastmod>2009-11-27T22:24:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-127-for-your-consideration/</loc>
+    <loc>http://localhost:1313/episode/ttt-127-for-your-consideration/</loc>
     <lastmod>2009-11-26T05:38:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-126-sexual-education/</loc>
+    <loc>http://localhost:1313/episode/ttt-126-sexual-education/</loc>
     <lastmod>2009-11-22T05:28:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-125-how-not-to-be-famous/</loc>
+    <loc>http://localhost:1313/episode/ttt-125-how-not-to-be-famous/</loc>
     <lastmod>2009-11-17T05:49:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-124-god-hates-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-124-god-hates-tip-tap-tip/</loc>
     <lastmod>2009-11-12T06:09:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-123-fight-night/</loc>
+    <loc>http://localhost:1313/episode/ttt-123-fight-night/</loc>
     <lastmod>2009-11-07T05:33:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/11/ttt-122-small-talk/</loc>
+    <loc>http://localhost:1313/episode/ttt-122-small-talk/</loc>
     <lastmod>2009-11-04T05:37:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/ttt-121-at-the-hop/</loc>
+    <loc>http://localhost:1313/episode/ttt-121-at-the-hop/</loc>
     <lastmod>2009-10-28T04:18:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/ttt-120-playing-dressup/</loc>
+    <loc>http://localhost:1313/episode/ttt-120-playing-dressup/</loc>
     <lastmod>2009-10-24T05:01:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hair-tattooing/</loc>
     <lastmod>2009-10-21T04:47:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/ttt-119-the-sequel/</loc>
+    <loc>http://localhost:1313/episode/ttt-119-the-sequel/</loc>
     <lastmod>2009-10-21T04:47:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/french-vogue/</loc>
     <lastmod>2009-10-16T04:37:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/ttt-118-shit-sandwiches/</loc>
+    <loc>http://localhost:1313/episode/ttt-118-shit-sandwiches/</loc>
     <lastmod>2009-10-16T04:37:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sherlock-holmes/</loc>
     <lastmod>2009-10-11T04:53:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/ttt-117-too-slow/</loc>
+    <loc>http://localhost:1313/episode/ttt-117-too-slow/</loc>
     <lastmod>2009-10-11T04:53:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/10/ttt-116-flow-it-show-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-116-flow-it-show-it/</loc>
     <lastmod>2009-10-07T04:59:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scissors-god/</loc>
     <lastmod>2009-10-01T04:42:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-115-mini-podcasters/</loc>
+    <loc>http://localhost:1313/episode/ttt-115-mini-podcasters/</loc>
     <lastmod>2009-10-01T04:42:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-114-touched-by-an-angel/</loc>
+    <loc>http://localhost:1313/episode/ttt-114-touched-by-an-angel/</loc>
     <lastmod>2009-09-26T05:57:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-113-no-hamsters-no-crazies/</loc>
+    <loc>http://localhost:1313/episode/ttt-113-no-hamsters-no-crazies/</loc>
     <lastmod>2009-09-23T04:40:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-112-help-the-aged/</loc>
+    <loc>http://localhost:1313/episode/ttt-112-help-the-aged/</loc>
     <lastmod>2009-09-16T04:39:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/krav-maga/</loc>
@@ -1952,28 +1949,28 @@
     <loc>http://localhost:1313/tags/tom-ford/</loc>
     <lastmod>2009-09-11T04:24:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-111-the-power-of-love/</loc>
+    <loc>http://localhost:1313/episode/ttt-111-the-power-of-love/</loc>
     <lastmod>2009-09-11T04:24:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-110-up-for-a-bit-with-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-110-up-for-a-bit-with-tip-tap-tip/</loc>
     <lastmod>2009-09-09T04:47:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/09/ttt-109-cougar-scouts/</loc>
+    <loc>http://localhost:1313/episode/ttt-109-cougar-scouts/</loc>
     <lastmod>2009-09-03T04:32:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-108-the-doctor-is-in/</loc>
+    <loc>http://localhost:1313/episode/ttt-108-the-doctor-is-in/</loc>
     <lastmod>2009-08-29T04:57:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-107-strikeout/</loc>
+    <loc>http://localhost:1313/episode/ttt-107-strikeout/</loc>
     <lastmod>2009-08-26T04:22:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-106-whip-your-titties-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-106-whip-your-titties-out/</loc>
     <lastmod>2009-08-21T04:44:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-105-dirty-birds/</loc>
+    <loc>http://localhost:1313/episode/ttt-105-dirty-birds/</loc>
     <lastmod>2009-08-18T04:29:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-104-claudia-schiffer/</loc>
+    <loc>http://localhost:1313/episode/ttt-104-claudia-schiffer/</loc>
     <lastmod>2009-08-14T04:30:02+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/shake-weights/</loc>
@@ -1982,58 +1979,58 @@
     <loc>http://localhost:1313/tags/stephen-harper/</loc>
     <lastmod>2009-08-10T04:29:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-103-trouble-every-day/</loc>
+    <loc>http://localhost:1313/episode/ttt-103-trouble-every-day/</loc>
     <lastmod>2009-08-10T04:29:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/08/ttt-102-bug-bites/</loc>
+    <loc>http://localhost:1313/episode/ttt-102-bug-bites/</loc>
     <lastmod>2009-08-05T04:35:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-101-more-of-us-to-love/</loc>
+    <loc>http://localhost:1313/episode/ttt-101-more-of-us-to-love/</loc>
     <lastmod>2009-07-30T04:22:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-100-we-are-fun/</loc>
+    <loc>http://localhost:1313/episode/ttt-100-we-are-fun/</loc>
     <lastmod>2009-07-26T07:46:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-99-steve-mcqueen-haircut/</loc>
+    <loc>http://localhost:1313/episode/ttt-99-steve-mcqueen-haircut/</loc>
     <lastmod>2009-07-23T04:35:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-98-miss-podcasting-2009/</loc>
+    <loc>http://localhost:1313/episode/ttt-98-miss-podcasting-2009/</loc>
     <lastmod>2009-07-21T04:29:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-97-customer-serviced/</loc>
+    <loc>http://localhost:1313/episode/ttt-97-customer-serviced/</loc>
     <lastmod>2009-07-16T04:27:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-96-whats-up/</loc>
+    <loc>http://localhost:1313/episode/ttt-96-whats-up/</loc>
     <lastmod>2009-07-11T04:53:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-95-leftovers/</loc>
+    <loc>http://localhost:1313/episode/ttt-95-leftovers/</loc>
     <lastmod>2009-07-09T04:42:29+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kush-support/</loc>
     <lastmod>2009-07-03T04:57:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/07/ttt-94-get-out-now/</loc>
+    <loc>http://localhost:1313/episode/ttt-94-get-out-now/</loc>
     <lastmod>2009-07-03T04:57:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/ttt-93-mr-mrs-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-93-mr-mrs-tip-tap-tip/</loc>
     <lastmod>2009-06-30T04:05:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/ttt-92-the-melting-pot/</loc>
+    <loc>http://localhost:1313/episode/ttt-92-the-melting-pot/</loc>
     <lastmod>2009-06-23T01:22:55+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/poor-jeff-macke/</loc>
     <lastmod>2009-06-16T04:25:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/ttt-91-thieves-like-us/</loc>
+    <loc>http://localhost:1313/episode/ttt-91-thieves-like-us/</loc>
     <lastmod>2009-06-16T04:25:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/ttt90-tactless/</loc>
+    <loc>http://localhost:1313/episode/ttt90-tactless/</loc>
     <lastmod>2009-06-10T03:36:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/oprah-losefrey/</loc>
     <lastmod>2009-06-07T16:12:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/ttt-89-file-under-attractive/</loc>
+    <loc>http://localhost:1313/episode/ttt-89-file-under-attractive/</loc>
     <lastmod>2009-06-07T16:12:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/axe/</loc>
@@ -2042,67 +2039,67 @@
     <loc>http://localhost:1313/tags/janice-dickinson-life/</loc>
     <lastmod>2009-06-02T04:28:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/06/ttt-88-peeling-it-and-feeling-it/</loc>
+    <loc>http://localhost:1313/episode/ttt-88-peeling-it-and-feeling-it/</loc>
     <lastmod>2009-06-02T04:28:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-87-totally-heartless/</loc>
+    <loc>http://localhost:1313/episode/ttt-87-totally-heartless/</loc>
     <lastmod>2009-05-29T03:51:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-tv-1-flashing-lights/</loc>
+    <loc>http://localhost:1313/episode/ttt-tv-1-flashing-lights/</loc>
     <lastmod>2009-05-28T03:58:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-86-parenting-advice/</loc>
+    <loc>http://localhost:1313/episode/ttt-86-parenting-advice/</loc>
     <lastmod>2009-05-22T04:11:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-85-rachelleland-vs-ericistan/</loc>
+    <loc>http://localhost:1313/episode/ttt-85-rachelleland-vs-ericistan/</loc>
     <lastmod>2009-05-19T04:46:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/slap-chop-remix/</loc>
     <lastmod>2009-05-12T04:45:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-84-question-answer/</loc>
+    <loc>http://localhost:1313/episode/ttt-84-question-answer/</loc>
     <lastmod>2009-05-12T04:45:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/creepy-guy/</loc>
     <lastmod>2009-05-08T05:10:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-83-hidden-talents/</loc>
+    <loc>http://localhost:1313/episode/ttt-83-hidden-talents/</loc>
     <lastmod>2009-05-08T05:10:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/05/ttt-82-tip-tap-tip-power/</loc>
+    <loc>http://localhost:1313/episode/ttt-82-tip-tap-tip-power/</loc>
     <lastmod>2009-05-06T04:42:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-81-looking-for-love/</loc>
+    <loc>http://localhost:1313/episode/ttt-81-looking-for-love/</loc>
     <lastmod>2009-05-01T04:42:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-80-that-happy-feeling/</loc>
+    <loc>http://localhost:1313/episode/ttt-80-that-happy-feeling/</loc>
     <lastmod>2009-04-27T04:46:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sait/</loc>
     <lastmod>2009-04-24T04:56:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-79-back-to-school/</loc>
+    <loc>http://localhost:1313/episode/ttt-79-back-to-school/</loc>
     <lastmod>2009-04-24T04:56:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-78-pod-curious/</loc>
+    <loc>http://localhost:1313/episode/ttt-78-pod-curious/</loc>
     <lastmod>2009-04-21T04:35:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/atomic-suburbia/</loc>
     <lastmod>2009-04-17T04:33:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-77-say-my-name/</loc>
+    <loc>http://localhost:1313/episode/ttt-77-say-my-name/</loc>
     <lastmod>2009-04-17T04:33:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-76-tip-tap-topless/</loc>
+    <loc>http://localhost:1313/episode/ttt-76-tip-tap-topless/</loc>
     <lastmod>2009-04-14T04:00:27+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tubby-dog/</loc>
     <lastmod>2009-04-14T04:00:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-75-tip-tap-tip-alive/</loc>
+    <loc>http://localhost:1313/episode/ttt-75-tip-tap-tip-alive/</loc>
     <lastmod>2009-04-09T04:46:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-74-take-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-74-take-out/</loc>
     <lastmod>2009-04-05T08:47:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wild-turkey/</loc>
@@ -2111,28 +2108,28 @@
     <loc>http://localhost:1313/tags/fuck-it/</loc>
     <lastmod>2009-04-02T04:21:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/04/ttt-73-planning-ahead/</loc>
+    <loc>http://localhost:1313/episode/ttt-73-planning-ahead/</loc>
     <lastmod>2009-04-02T04:21:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nancy-grace/</loc>
     <lastmod>2009-03-30T02:34:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-72-news-to-us/</loc>
+    <loc>http://localhost:1313/episode/ttt-72-news-to-us/</loc>
     <lastmod>2009-03-30T02:34:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-71-try-harder/</loc>
+    <loc>http://localhost:1313/episode/ttt-71-try-harder/</loc>
     <lastmod>2009-03-26T04:02:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-70-catching-up-with-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-70-catching-up-with-tip-tap-tip/</loc>
     <lastmod>2009-03-23T04:16:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/house-hunt-calgary/</loc>
     <lastmod>2009-03-21T05:46:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-69-the-entertainers/</loc>
+    <loc>http://localhost:1313/episode/ttt-69-the-entertainers/</loc>
     <lastmod>2009-03-21T05:46:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-68-be-nice/</loc>
+    <loc>http://localhost:1313/episode/ttt-68-be-nice/</loc>
     <lastmod>2009-03-16T03:40:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/israeli-rafael-indian/</loc>
@@ -2147,22 +2144,22 @@
     <loc>http://localhost:1313/tags/peter-pan/</loc>
     <lastmod>2009-03-13T04:37:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-67-buy-it-now-buy-it-now/</loc>
+    <loc>http://localhost:1313/episode/ttt-67-buy-it-now-buy-it-now/</loc>
     <lastmod>2009-03-13T04:37:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-66-expert-opinions/</loc>
+    <loc>http://localhost:1313/episode/ttt-66-expert-opinions/</loc>
     <lastmod>2009-03-08T22:25:47+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calgary-crime-map/</loc>
     <lastmod>2009-03-03T05:08:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/03/ttt-65-the-feric-and-cachelle-show/</loc>
+    <loc>http://localhost:1313/episode/ttt-65-the-feric-and-cachelle-show/</loc>
     <lastmod>2009-03-03T05:08:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-64-losing-our-shit/</loc>
+    <loc>http://localhost:1313/episode/ttt-64-losing-our-shit/</loc>
     <lastmod>2009-02-27T05:49:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-63-amateur-hour/</loc>
+    <loc>http://localhost:1313/episode/ttt-63-amateur-hour/</loc>
     <lastmod>2009-02-23T04:47:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/europe/</loc>
@@ -2171,10 +2168,10 @@
     <loc>http://localhost:1313/tags/outcast-podiobook/</loc>
     <lastmod>2009-02-20T05:23:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-62-world-famous/</loc>
+    <loc>http://localhost:1313/episode/ttt-62-world-famous/</loc>
     <lastmod>2009-02-20T05:23:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-61-guess-whos-coming-to-dinner/</loc>
+    <loc>http://localhost:1313/episode/ttt-61-guess-whos-coming-to-dinner/</loc>
     <lastmod>2009-02-16T06:36:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brent-spiner/</loc>
@@ -2183,19 +2180,19 @@
     <loc>http://localhost:1313/tags/ducky-pub/</loc>
     <lastmod>2009-02-12T05:20:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-60-pret-a-porthole/</loc>
+    <loc>http://localhost:1313/episode/ttt-60-pret-a-porthole/</loc>
     <lastmod>2009-02-12T05:20:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ducky-idol/</loc>
     <lastmod>2009-02-07T05:25:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-59-were-done-professionally/</loc>
+    <loc>http://localhost:1313/episode/ttt-59-were-done-professionally/</loc>
     <lastmod>2009-02-07T05:25:12+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bacon-kerplosion/</loc>
     <lastmod>2009-02-03T05:15:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/02/ttt-58-green-is-the-color/</loc>
+    <loc>http://localhost:1313/episode/ttt-58-green-is-the-color/</loc>
     <lastmod>2009-02-03T05:15:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fashion-show/</loc>
@@ -2204,7 +2201,7 @@
     <loc>http://localhost:1313/tags/racist-cookies/</loc>
     <lastmod>2009-01-26T05:12:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/01/ttt-57-fashion-cookie/</loc>
+    <loc>http://localhost:1313/episode/ttt-57-fashion-cookie/</loc>
     <lastmod>2009-01-26T05:12:12+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wii-fit/</loc>
@@ -2216,52 +2213,52 @@
     <loc>http://localhost:1313/tags/quest-chat/</loc>
     <lastmod>2009-01-22T04:59:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/01/ttt-56-ring-ring/</loc>
+    <loc>http://localhost:1313/episode/ttt-56-ring-ring/</loc>
     <lastmod>2009-01-22T04:59:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/01/ttt-55-the-good-ship-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-55-the-good-ship-tip-tap-tip/</loc>
     <lastmod>2009-01-18T14:01:13+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wii-remote/</loc>
     <lastmod>2009-01-18T14:01:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/01/ttt-54-mild-roses/</loc>
+    <loc>http://localhost:1313/episode/ttt-54-mild-roses/</loc>
     <lastmod>2009-01-14T04:30:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wild-roses/</loc>
     <lastmod>2009-01-14T04:30:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/01/ttt-53-lovemakers/</loc>
+    <loc>http://localhost:1313/episode/ttt-53-lovemakers/</loc>
     <lastmod>2009-01-09T04:52:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cake-wrecks/</loc>
     <lastmod>2009-01-06T04:42:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2009/01/ttt-52-mystic-pizza-cake/</loc>
+    <loc>http://localhost:1313/episode/ttt-52-mystic-pizza-cake/</loc>
     <lastmod>2009-01-06T04:42:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-51-from-bulgaria-with-love/</loc>
+    <loc>http://localhost:1313/episode/ttt-51-from-bulgaria-with-love/</loc>
     <lastmod>2008-12-31T06:09:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-50-hypothetically-speaking/</loc>
+    <loc>http://localhost:1313/episode/ttt-50-hypothetically-speaking/</loc>
     <lastmod>2008-12-28T03:10:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cheese-fight/</loc>
     <lastmod>2008-12-22T02:54:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-49-pancakes/</loc>
+    <loc>http://localhost:1313/episode/ttt-49-pancakes/</loc>
     <lastmod>2008-12-22T02:54:16+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/killing-machine/</loc>
     <lastmod>2008-12-17T05:24:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-48-swordplay/</loc>
+    <loc>http://localhost:1313/episode/ttt-48-swordplay/</loc>
     <lastmod>2008-12-17T05:24:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-47-baby-its-cold-outside/</loc>
+    <loc>http://localhost:1313/episode/ttt-47-baby-its-cold-outside/</loc>
     <lastmod>2008-12-14T05:33:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-46-crying-our-eyes-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-46-crying-our-eyes-out/</loc>
     <lastmod>2008-12-10T05:05:10+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/neil-peart/</loc>
@@ -2270,10 +2267,10 @@
     <loc>http://localhost:1313/tags/ritter-sport/</loc>
     <lastmod>2008-12-06T06:19:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-45-what-would-geddy-lee-do/</loc>
+    <loc>http://localhost:1313/episode/ttt-45-what-would-geddy-lee-do/</loc>
     <lastmod>2008-12-06T06:19:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/12/ttt-44-indoors-or-outdoors/</loc>
+    <loc>http://localhost:1313/episode/ttt-44-indoors-or-outdoors/</loc>
     <lastmod>2008-12-02T04:50:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/don-king/</loc>
@@ -2282,7 +2279,7 @@
     <loc>http://localhost:1313/tags/meth-song/</loc>
     <lastmod>2008-11-29T04:55:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-43-fight-fight-fight/</loc>
+    <loc>http://localhost:1313/episode/ttt-43-fight-fight-fight/</loc>
     <lastmod>2008-11-29T04:55:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ace-ventura-jr/</loc>
@@ -2291,19 +2288,19 @@
     <loc>http://localhost:1313/tags/black-men-part/</loc>
     <lastmod>2008-11-25T04:38:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-42-two-and-a-half-podcasts/</loc>
+    <loc>http://localhost:1313/episode/ttt-42-two-and-a-half-podcasts/</loc>
     <lastmod>2008-11-25T04:38:50+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/star-trek-trailer/</loc>
     <lastmod>2008-11-20T04:34:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-41-sexiest-podcast-alive-2008/</loc>
+    <loc>http://localhost:1313/episode/ttt-41-sexiest-podcast-alive-2008/</loc>
     <lastmod>2008-11-20T04:34:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bolero-calgary/</loc>
     <lastmod>2008-11-18T04:07:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-40-homemaking/</loc>
+    <loc>http://localhost:1313/episode/ttt-40-homemaking/</loc>
     <lastmod>2008-11-18T04:07:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calgary-home-podcast/</loc>
@@ -2312,7 +2309,7 @@
     <loc>http://localhost:1313/tags/chocolate-fashion-show/</loc>
     <lastmod>2008-11-14T05:14:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-39-all-systems-lactivated/</loc>
+    <loc>http://localhost:1313/episode/ttt-39-all-systems-lactivated/</loc>
     <lastmod>2008-11-14T05:14:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dear-readers/</loc>
@@ -2324,7 +2321,7 @@
     <loc>http://localhost:1313/tags/sarah-palin/</loc>
     <lastmod>2008-11-10T04:39:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-38-whos-nailin-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-38-whos-nailin-tip-tap-tip/</loc>
     <lastmod>2008-11-10T04:39:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/who-nalin-palin/</loc>
@@ -2333,76 +2330,76 @@
     <loc>http://localhost:1313/tags/wizard-people/</loc>
     <lastmod>2008-11-10T04:39:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/11/ttt-37-workplace-violence/</loc>
+    <loc>http://localhost:1313/episode/ttt-37-workplace-violence/</loc>
     <lastmod>2008-11-03T09:21:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-36-smoke-em-if-you-got-em/</loc>
+    <loc>http://localhost:1313/episode/ttt-36-smoke-em-if-you-got-em/</loc>
     <lastmod>2008-10-28T04:04:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-35-sing-your-stupid-heart-out-stupid/</loc>
+    <loc>http://localhost:1313/episode/ttt-35-sing-your-stupid-heart-out-stupid/</loc>
     <lastmod>2008-10-22T04:36:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cpr/</loc>
     <lastmod>2008-10-20T05:07:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-34-little-april-bloggers/</loc>
+    <loc>http://localhost:1313/episode/ttt-34-little-april-bloggers/</loc>
     <lastmod>2008-10-20T05:07:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ringo-starr/</loc>
     <lastmod>2008-10-16T03:52:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-33-breaking-the-law/</loc>
+    <loc>http://localhost:1313/episode/ttt-33-breaking-the-law/</loc>
     <lastmod>2008-10-16T03:52:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-32-kick-to-the-balls/</loc>
+    <loc>http://localhost:1313/episode/ttt-32-kick-to-the-balls/</loc>
     <lastmod>2008-10-11T04:02:32+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beverly-hills-chihuahua/</loc>
     <lastmod>2008-10-07T03:42:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-31-dinners-ready/</loc>
+    <loc>http://localhost:1313/episode/ttt-31-dinners-ready/</loc>
     <lastmod>2008-10-07T03:42:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/10/ttt-30-tip-tap-tip-je-taime/</loc>
+    <loc>http://localhost:1313/episode/ttt-30-tip-tap-tip-je-taime/</loc>
     <lastmod>2008-10-02T03:12:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/alien-talker/</loc>
     <lastmod>2008-09-30T04:35:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-29-ladies-night/</loc>
+    <loc>http://localhost:1313/episode/ttt-29-ladies-night/</loc>
     <lastmod>2008-09-30T04:35:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/old-time-radio/</loc>
     <lastmod>2008-09-26T03:48:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-28-between-love-and-hate/</loc>
+    <loc>http://localhost:1313/episode/ttt-28-between-love-and-hate/</loc>
     <lastmod>2008-09-26T03:48:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/celine-dion/</loc>
     <lastmod>2008-09-23T04:34:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-27-aint-no-booty-like-a-tip-tap-tip-booty/</loc>
+    <loc>http://localhost:1313/episode/ttt-27-aint-no-booty-like-a-tip-tap-tip-booty/</loc>
     <lastmod>2008-09-23T04:34:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-26-bathroom-humor/</loc>
+    <loc>http://localhost:1313/episode/ttt-26-bathroom-humor/</loc>
     <lastmod>2008-09-18T05:03:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-25-pleather-daddy/</loc>
+    <loc>http://localhost:1313/episode/ttt-25-pleather-daddy/</loc>
     <lastmod>2008-09-16T02:24:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-24-soldiering-on/</loc>
+    <loc>http://localhost:1313/episode/ttt-24-soldiering-on/</loc>
     <lastmod>2008-09-11T04:54:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/trivial-pursuit/</loc>
     <lastmod>2008-09-09T04:49:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-23-answer-the-question/</loc>
+    <loc>http://localhost:1313/episode/ttt-23-answer-the-question/</loc>
     <lastmod>2008-09-09T04:49:27+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/new-kids/</loc>
     <lastmod>2008-09-05T04:50:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-22-calgarys-next-top-podcast/</loc>
+    <loc>http://localhost:1313/episode/ttt-22-calgarys-next-top-podcast/</loc>
     <lastmod>2008-09-05T04:50:58+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/martin-kippenberger/</loc>
@@ -2411,34 +2408,34 @@
     <loc>http://localhost:1313/tags/sean-diddy-combs/</loc>
     <lastmod>2008-09-03T04:58:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/09/ttt-21-provocateurs/</loc>
+    <loc>http://localhost:1313/episode/ttt-21-provocateurs/</loc>
     <lastmod>2008-09-03T04:58:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-20-making-up-making-out/</loc>
+    <loc>http://localhost:1313/episode/ttt-20-making-up-making-out/</loc>
     <lastmod>2008-08-31T04:43:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-19-grammatically-correct/</loc>
+    <loc>http://localhost:1313/episode/ttt-19-grammatically-correct/</loc>
     <lastmod>2008-08-27T05:25:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-18-hell-bent-for-elves/</loc>
+    <loc>http://localhost:1313/episode/ttt-18-hell-bent-for-elves/</loc>
     <lastmod>2008-08-25T04:15:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/new-listeners-calm/</loc>
     <lastmod>2008-08-22T03:30:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-17-my-dinner-with-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-17-my-dinner-with-tip-tap-tip/</loc>
     <lastmod>2008-08-22T03:30:43+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/smash-shack/</loc>
     <lastmod>2008-08-20T04:12:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-16-egg-on-your-face/</loc>
+    <loc>http://localhost:1313/episode/ttt-16-egg-on-your-face/</loc>
     <lastmod>2008-08-20T04:12:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dungeon-masters/</loc>
     <lastmod>2008-08-18T04:07:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-15-gone-eatin/</loc>
+    <loc>http://localhost:1313/episode/ttt-15-gone-eatin/</loc>
     <lastmod>2008-08-18T04:07:50+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/make-evilmister/</loc>
@@ -2450,7 +2447,7 @@
     <loc>http://localhost:1313/tags/subway-lobster-sandwich/</loc>
     <lastmod>2008-08-13T04:31:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-14-pizza-party-bubblebath/</loc>
+    <loc>http://localhost:1313/episode/ttt-14-pizza-party-bubblebath/</loc>
     <lastmod>2008-08-13T04:31:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/colin-firth/</loc>
@@ -2459,7 +2456,7 @@
     <loc>http://localhost:1313/tags/meow-wear/</loc>
     <lastmod>2008-08-12T04:19:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-13-bride-of-tip-tap-tip/</loc>
+    <loc>http://localhost:1313/episode/ttt-13-bride-of-tip-tap-tip/</loc>
     <lastmod>2008-08-12T04:19:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/apple-user-group/</loc>
@@ -2468,7 +2465,7 @@
     <loc>http://localhost:1313/tags/hate-mail/</loc>
     <lastmod>2008-08-08T05:26:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-12-dont-shit-where-you-eat/</loc>
+    <loc>http://localhost:1313/episode/ttt-12-dont-shit-where-you-eat/</loc>
     <lastmod>2008-08-08T05:26:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/adam-sandler/</loc>
@@ -2480,7 +2477,7 @@
     <loc>http://localhost:1313/tags/rocky-mountain-house/</loc>
     <lastmod>2008-08-06T04:45:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/08/ttt-11-desperate-measures/</loc>
+    <loc>http://localhost:1313/episode/ttt-11-desperate-measures/</loc>
     <lastmod>2008-08-06T04:45:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/guy-fawkes/</loc>
@@ -2489,34 +2486,34 @@
     <loc>http://localhost:1313/tags/squidpod-maybe/</loc>
     <lastmod>2008-07-31T04:48:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-10-haters/</loc>
+    <loc>http://localhost:1313/episode/ttt-10-haters/</loc>
     <lastmod>2008-07-31T04:48:37+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/angry-bear/</loc>
     <lastmod>2008-07-27T04:57:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-9-bear-hugz/</loc>
+    <loc>http://localhost:1313/episode/ttt-9-bear-hugz/</loc>
     <lastmod>2008-07-27T04:57:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/seriously-vegans/</loc>
     <lastmod>2008-07-24T05:34:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-8-the-tip-tap-tip-code/</loc>
+    <loc>http://localhost:1313/episode/ttt-8-the-tip-tap-tip-code/</loc>
     <lastmod>2008-07-24T05:34:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wtf/</loc>
     <lastmod>2008-07-24T05:34:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-7-weekendweak-end/</loc>
+    <loc>http://localhost:1313/episode/ttt-7-weekendweak-end/</loc>
     <lastmod>2008-07-22T04:42:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-6-unicorn-lee-roth/</loc>
+    <loc>http://localhost:1313/episode/ttt-6-unicorn-lee-roth/</loc>
     <lastmod>2008-07-18T04:53:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/reclense-herbal-cleanse/</loc>
     <lastmod>2008-07-16T04:23:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-5-cleanse-me-up-cleanse-me-down/</loc>
+    <loc>http://localhost:1313/episode/ttt-5-cleanse-me-up-cleanse-me-down/</loc>
     <lastmod>2008-07-16T04:23:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calgary-stampede/</loc>
@@ -2528,19 +2525,19 @@
     <loc>http://localhost:1313/tags/mk/</loc>
     <lastmod>2008-07-13T23:07:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-4-live-from-the-stampede/</loc>
+    <loc>http://localhost:1313/episode/ttt-4-live-from-the-stampede/</loc>
     <lastmod>2008-07-13T23:07:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/david-lee-roth/</loc>
     <lastmod>2008-07-09T05:36:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-3-heart-attacks-aint-nothing-but-trouble/</loc>
+    <loc>http://localhost:1313/episode/ttt-3-heart-attacks-aint-nothing-but-trouble/</loc>
     <lastmod>2008-07-09T05:36:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-2-eric-ruins-the-show/</loc>
+    <loc>http://localhost:1313/episode/ttt-2-eric-ruins-the-show/</loc>
     <lastmod>2008-07-07T19:03:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2008/07/ttt-1-lobster-pants/</loc>
+    <loc>http://localhost:1313/episode/ttt-1-lobster-pants/</loc>
     <lastmod>2008-07-04T02:04:53+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/episode/venv/lib/python3.14/site-packages/pip-26.0.dist-info/licenses/src/pip/_vendor/idna/license/</loc>
@@ -2550,6 +2547,12 @@
     <loc>http://localhost:1313/episode/venv/lib/python3.14/site-packages/pip/_vendor/readme/</loc>
   </url><url>
     <loc>http://localhost:1313/all/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/feed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/feed/podcast/index.xml</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>

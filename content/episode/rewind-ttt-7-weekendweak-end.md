@@ -1,19 +1,16 @@
 ---
 title: 'REWIND - TTT 7: Weekend/Weak End'
 date: '2010-11-18T18:30:56+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - ramada-hotel-calgary
 - vacation
 - yyc
-cover:
-  alt: weak
-  image: /images/weak.jpg
+episode_image: "/images/weak.jpg"
+thumbnail: "/images/weak.jpg"
+images: ["/images/weak.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt7rewind.mp3
-url: /2010/11/rewind-ttt-7-weekendweak-end/
 ---
 Seriously, someone give me a hamburger already!
 

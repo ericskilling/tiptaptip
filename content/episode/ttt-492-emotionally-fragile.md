@@ -1,14 +1,11 @@
 ---
 title: 'TTT 492: Emotionally Fragile'
 date: '2019-02-19T02:37:22+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: fragile
-  image: /images/fragile.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/fragile.jpg"
+thumbnail: "/images/fragile.jpg"
+images: ["/images/fragile.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt492.mp3
-url: /2019/02/ttt-492-emotionally-fragile/
 ---
 Eric & Rachelle (and guest Andrea from the Joyful Parenting podcast) have fun talking about grown-up stuff; renovations, kids movies; barfing. Eric goes full-on grump and shit talks a local contest.  before schooling Rachelle and Andrea about the weirdness of Pick Up Artist culture. We then wrap up the show with Eurovision song reviews from Croatia, UK, and Latvia.
 

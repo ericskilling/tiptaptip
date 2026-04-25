@@ -1,18 +1,15 @@
 ---
 title: 'TTT 247: Tits For Everybody!'
 date: '2011-06-16T04:24:54+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: riot
-  image: /images/riot.jpg
+episode_image: "/images/riot.jpg"
+thumbnail: "/images/riot.jpg"
+images: ["/images/riot.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt247.mp3
-url: /2011/06/ttt-247-tits-for-everybody/
 ---
 Tip Tap Tits!
 

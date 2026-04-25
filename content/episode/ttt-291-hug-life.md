@@ -1,17 +1,14 @@
 ---
 title: 'TTT 291: Hug Life'
 date: '2012-02-20T05:04:28+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: huglife
-  image: /images/huglife.jpg
+episode_image: "/images/huglife.jpg"
+thumbnail: "/images/huglife.jpg"
+images: ["/images/huglife.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt291-1.mp3
-url: /2012/02/ttt-291-hug-life/
 ---
 First show from the new Tip Tap Tip Tip HQ. We're still unpacking boxes but managed to find the one with all the studio equipment so here's a show. Lots of Eurovision news to catch up on. Hope you like it. If not, too fucking bad.
 

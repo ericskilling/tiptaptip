@@ -1,14 +1,11 @@
 ---
 title: 'TTT 504: Mother of Two'
 date: '2019-10-13T02:49:15+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: mother-of-two
-  image: /images/mother-of-two.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/mother-of-two.jpg"
+thumbnail: "/images/mother-of-two.jpg"
+images: ["/images/mother-of-two.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt504.mp3
-url: /2019/10/ttt-504-mother-of-two/
 ---
 In this special episode recorded live from Artpoint Gallery & Studios Society, Eric & Rachelle talk about her artwork currently on display. We play games with the audience, eat treats, and have fun!
 

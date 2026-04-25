@@ -1,18 +1,15 @@
 ---
 title: 'TTT 255: Let''s Kiss And Make Up'
 date: '2011-07-28T04:18:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - battleship-trailer
 - podcast
 - yyc
-cover:
-  alt: kiss
-  image: /images/kiss.jpg
+episode_image: "/images/kiss.jpg"
+thumbnail: "/images/kiss.jpg"
+images: ["/images/kiss.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt255.mp3
-url: /2011/07/ttt-255-lets-kiss-and-make-up/
 ---
 Bang! Bang!
 

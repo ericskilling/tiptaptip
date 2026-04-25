@@ -1,20 +1,17 @@
 ---
 title: 'TTT 317: Bringing Up Baby'
 date: '2012-07-15T02:45:18+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - billy-bong-thornton
 - evil-gnome
 - podcast
 - sky-blue
 - yyc
-cover:
-  alt: baby
-  image: /images/baby.jpg
+episode_image: "/images/baby.jpg"
+thumbnail: "/images/baby.jpg"
+images: ["/images/baby.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt317.mp3
-url: /2012/07/ttt-317-bringing-up-baby/
 ---
 We're back. It feels like we've been on another planet for a million years; a planet filled with dirty diapers and no sleep. Fun!
 

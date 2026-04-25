@@ -1,14 +1,11 @@
 ---
 title: 'TTT 534: Tip Tap Tip To Go!'
 date: '2022-02-07T22:42:57+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: food
-  image: /images/food.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/food.jpg"
+thumbnail: "/images/food.jpg"
+images: ["/images/food.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt534.mp3
-url: /2022/02/ttt-534-tip-tap-tip-to-go/
 ---
 Food! Who likes it? Everybody! Do we need it to live? Probably! In this episode recorded in Studio K (the kitchen table), we talk a variety of food-related topics; what we like; what we hate; and why do Brussels Sprouts still exist?
 

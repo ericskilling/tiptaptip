@@ -1,18 +1,15 @@
 ---
 title: 'TTT 258: Come Here Often?'
 date: '2011-08-15T04:10:26+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - netherlands
 - podcast
 - yyc
-cover:
-  alt: comehere
-  image: /images/comehere.jpg
+episode_image: "/images/comehere.jpg"
+thumbnail: "/images/comehere.jpg"
+images: ["/images/comehere.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt258.mp3
-url: /2011/08/ttt-258-come-here-often/
 ---
 Are you hitting on me?
 

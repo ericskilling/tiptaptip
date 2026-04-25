@@ -1,14 +1,11 @@
 ---
 title: 'TTT 532: Spooky Ooky'
 date: '2021-10-24T17:36:27+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: ooky
-  image: /images/ooky.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/ooky.jpg"
+thumbnail: "/images/ooky.jpg"
+images: ["/images/ooky.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt532.mp3
-url: /2021/10/ttt-532-spooky-ooky/
 ---
 It's Halloween – almost. In this episode, Eric & Rachelle talk spooky music, dial spooky number. Also, was Rachelle actually a goth? We'll find out.
 

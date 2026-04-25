@@ -1,17 +1,14 @@
 ---
 title: 'TTT 213: Gentlemen Amateurs'
 date: '2011-01-31T05:24:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: gentlemen
-  image: /images/gentlemen.jpg
+episode_image: "/images/gentlemen.jpg"
+thumbnail: "/images/gentlemen.jpg"
+images: ["/images/gentlemen.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt213.mp3
-url: /2011/01/ttt-213-gentlemen-amateurs/
 ---
 Over the edge.
 

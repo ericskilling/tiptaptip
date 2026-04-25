@@ -1,18 +1,15 @@
 ---
 title: 'TTT 364: Cut Loose'
 date: '2013-09-30T03:17:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - phil-quiz
 - podcast
 - yyc
-cover:
-  alt: cut_loose
-  image: /images/cut_loose.jpg
+episode_image: "/images/cut_loose.jpg"
+thumbnail: "/images/cut_loose.jpg"
+images: ["/images/cut_loose.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt364.mp3
-url: /2013/09/ttt-364-cut-loose/
 ---
 ![cut_loose](/images/cut_loose.jpg)
 

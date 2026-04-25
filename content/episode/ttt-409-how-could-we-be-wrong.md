@@ -1,16 +1,13 @@
 ---
 title: 'TTT 409: How Could We Be Wrong?'
 date: '2015-03-23T03:12:35+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: How Could We Be Wrong?
-  image: /images/how_could_I_be_wrong.jpg
+episode_image: "/images/how_could_I_be_wrong.jpg"
+thumbnail: "/images/how_could_I_be_wrong.jpg"
+images: ["/images/how_could_I_be_wrong.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt409.mp3
-url: /2015/03/ttt-409-how-could-we-be-wrong/
 ---
 Eric and Rachelle go through a number of hypothetical situations and try to see how they would deal with them. Some of the things are that Rachelle would quickly turn into a killing machine given certain circumstances and Eric would prefer to contribute to the war against the Robo-Nazis from behind a desk.
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 150: Hunting Season'
 date: '2010-03-22T03:59:28+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: pheasant
-  image: /images/pheasant.jpg
+episode_image: "/images/pheasant.jpg"
+thumbnail: "/images/pheasant.jpg"
+images: ["/images/pheasant.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt150.mp3
-url: /2010/03/ttt-150-hunting-season/
 ---
 Back In The Saddle
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 124: God Hates Tip Tap Tip'
 date: '2009-11-12T06:09:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: sad_man
-  image: /images/sad_man1.jpg
+episode_image: "/images/sad_man1.jpg"
+thumbnail: "/images/sad_man1.jpg"
+images: ["/images/sad_man1.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt124.mp3
-url: /2009/11/ttt-124-god-hates-tip-tap-tip/
 ---
 A fan is a listener you haven't pissed off yet.
 

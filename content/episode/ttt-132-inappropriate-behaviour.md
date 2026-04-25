@@ -1,17 +1,14 @@
 ---
 title: 'TTT 132: Inappropriate Behaviour'
 date: '2009-12-23T05:33:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: mate
-  image: /images/mate.jpg
+episode_image: "/images/mate.jpg"
+thumbnail: "/images/mate.jpg"
+images: ["/images/mate.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt132.mp3
-url: /2009/12/ttt-132-inappropriate-behaviour/
 ---
 Behave yourself!
 

@@ -1,19 +1,16 @@
 ---
 title: 'TTT 350: Heavy Hitters'
 date: '2013-05-05T22:47:19+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - daddy-money-shoes
 - fun
 - podcast
 - yyc
-cover:
-  alt: heavy_hitters
-  image: /images/heavy_hitters.jpg
+episode_image: "/images/heavy_hitters.jpg"
+thumbnail: "/images/heavy_hitters.jpg"
+images: ["/images/heavy_hitters.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt350.mp3
-url: /2013/05/ttt-350-heavy-hitters/
 ---
 Rachelle is back to bring order to the apparent chaos that was the last show. Eric had fun. What's the big deal? Good conversation and lots of laughs until Rachelle gets racist near the end. Then things get weird. That's why we're the best!
 

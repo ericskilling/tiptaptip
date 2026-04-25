@@ -1,17 +1,14 @@
 ---
 title: 'TTT 170: Career Suicide'
 date: '2010-07-03T05:18:27+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: career
-  image: /images/career.jpg
+episode_image: "/images/career.jpg"
+thumbnail: "/images/career.jpg"
+images: ["/images/career.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt170.mp3
-url: /2010/07/ttt-170-career-suicide/
 ---
 [![](/images/career.jpg)](/images/career.jpg)
 

@@ -1,14 +1,11 @@
 ---
 title: 'TTT 513: Kick Up Your Heels'
 date: '2020-05-10T05:44:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: heels
-  image: /images/heels.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/heels.jpg"
+thumbnail: "/images/heels.jpg"
+images: ["/images/heels.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt513.mp3
-url: /2020/05/ttt-513-kick-up-your-heels/
 ---
 Staying in shouldn't be this much fun. And yet — two months later — here we are. Eric & Rachelle have gotten used to this new reality. Rachelle still wants chickens despite what our neighbours think.
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 125: How Not To Be Famous'
 date: '2009-11-17T05:49:42+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: famous
-  image: /images/famous.jpg
+episode_image: "/images/famous.jpg"
+thumbnail: "/images/famous.jpg"
+images: ["/images/famous.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt125.mp3
-url: /2009/11/ttt-125-how-not-to-be-famous/
 ---
 We're doing it wrong apparently.
 

@@ -6,17 +6,36 @@
     <description>Recent content in Pages on Tip Tap Tip</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Aug 2014 22:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sat, 23 Aug 2014 22:36:36 +0000</pubDate>
-       <guid isPermaLink="false">https://tiptaptip.com/?page_id=2316</guid> 
-      <description>&lt;p&gt;&lt;strong&gt;Call Us! ‪ &lt;a href=&#34;tel:310-584-7827%E2%80%AC&#34;&gt;310-584-7827‬&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+      <link>http://localhost:1313/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/pages/contact/</guid> 
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Call Us!&lt;/strong&gt; &lt;a href=&#34;tel:310-584-7827&#34;&gt;310-584-7827&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Have something you want to say? Send it here!&lt;/p&gt;
-&lt;p&gt;[contact-form &lt;a href=&#34;mailto:to=&#39;info@tiptaptip.com&#34;&gt;to=&#39;info@tiptaptip.com&lt;/a&gt;&amp;rsquo; subject=&amp;lsquo;Contact Form from Tip Tap Tip website&amp;rsquo;][contact-field label=&amp;lsquo;Name&amp;rsquo; type=&amp;lsquo;name&amp;rsquo; required=&amp;lsquo;1&amp;rsquo;/][contact-field label=&amp;lsquo;Email&amp;rsquo; type=&amp;lsquo;email&amp;rsquo; required=&amp;lsquo;1&amp;rsquo;/][contact-field label=&amp;lsquo;Website&amp;rsquo; type=&amp;lsquo;url&amp;rsquo;/][contact-field label=&amp;lsquo;Comment&amp;rsquo; type=&amp;lsquo;textarea&amp;rsquo; required=&amp;lsquo;1&amp;rsquo;/][/contact-form]&lt;/p&gt;
-&lt;hr&gt;</description>
+&lt;form class=&#34;contact-form&#34; action=&#34;https://formspree.io/f/your-form-id&#34; method=&#34;POST&#34;&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;website&#34;&gt;Website&lt;/label&gt;
+    &lt;input type=&#34;url&#34; id=&#34;website&#34; name=&#34;website&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Comment&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;button type=&#34;submit&#34; class=&#34;submit-btn&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;
+&lt;/form&gt;</description>
     </item>
     <item>
       <title>The Hosts</title>

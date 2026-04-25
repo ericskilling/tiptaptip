@@ -1,18 +1,15 @@
 ---
 title: 'TTT 309: Seventy-Seventh Heaven'
 date: '2012-05-31T02:36:40+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - scarborough-dude
 - yyc
-cover:
-  alt: gapage
-  image: /images/gapage.jpg
+episode_image: "/images/gapage.jpg"
+thumbnail: "/images/gapage.jpg"
+images: ["/images/gapage.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt309.mp3
-url: /2012/05/ttt-309-seventy-seventh-heaven/
 ---
 **Guest Hosts: Scarborough Dude, The Intern**
 

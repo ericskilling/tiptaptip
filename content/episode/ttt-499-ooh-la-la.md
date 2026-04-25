@@ -1,14 +1,11 @@
 ---
 title: 'TTT 499: Ooh La La!'
 date: '2019-06-24T02:24:50+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: oohlala
-  image: /images/oohlala.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/oohlala.jpg"
+thumbnail: "/images/oohlala.jpg"
+images: ["/images/oohlala.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt499.mp3
-url: /2019/06/ttt-499-ooh-la-la/
 ---
 After a bit of a false start where Eric forgot to hit the "Record" button - and easily the best 5-minutes in Tip Tap Tip history - the show finally gets going. Rachelle breaks a Tip Tap Tip rule and there's a Missed Connection that occurs right around the corner. Also, we unveil a new logo that took us 11 years to make.
 

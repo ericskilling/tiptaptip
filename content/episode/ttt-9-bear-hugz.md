@@ -1,18 +1,15 @@
 ---
 title: 'TTT 9: Bear Hugz'
 date: '2008-07-27T04:57:30+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - angry-bear
 - podcast
 - yyc
-cover:
-  alt: angrybearrex_468x329
-  image: /images/angrybearrex_468x3291.jpg
+episode_image: "/images/angrybearrex_468x3291.jpg"
+thumbnail: "/images/angrybearrex_468x3291.jpg"
+images: ["/images/angrybearrex_468x3291.jpg"]
 podcast_file: http://www.archive.org/download/Ttt9BearHugz/ttt9.mp3
-url: /2008/07/ttt-9-bear-hugz/
 ---
 If there's one thing Eric doesn't like besides the cleanse, it's camping and things in the woods or water that can eat him. Rachelle wears the pants this time around.
 **Episode Links:**

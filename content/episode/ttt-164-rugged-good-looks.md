@@ -1,18 +1,15 @@
 ---
 title: 'TTT 164: Rugged Good Looks'
 date: '2010-06-03T04:24:51+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - sunset-daze
 - yyc
-cover:
-  alt: jason
-  image: /images/jason.jpg
+episode_image: "/images/jason.jpg"
+thumbnail: "/images/jason.jpg"
+images: ["/images/jason.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt164.mp3
-url: /2010/06/ttt-164-rugged-good-looks/
 ---
 Shake your money maker.
 

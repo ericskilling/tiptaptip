@@ -1,18 +1,15 @@
 ---
 title: 'TTT 244: RESET!!!'
 date: '2011-06-02T04:03:07+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - netherlands
 - podcast
 - yyc
-cover:
-  alt: earthboom
-  image: /images/earthboom.jpg
+episode_image: "/images/earthboom.jpg"
+thumbnail: "/images/earthboom.jpg"
+images: ["/images/earthboom.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt244.mp3
-url: /2011/06/ttt-244-reset/
 ---
 Stop the world. I'm getting off.
 

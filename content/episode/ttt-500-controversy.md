@@ -1,14 +1,11 @@
 ---
 title: 'TTT 500: Controversy!'
 date: '2019-07-14T22:50:15+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: controversy
-  image: /images/controversy.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/controversy.jpg"
+thumbnail: "/images/controversy.jpg"
+images: ["/images/controversy.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/TTT500.mp3
-url: /2019/07/ttt-500-controversy/
 ---
 We celebrate episode 500 with a guest that is in part responsible for the show existing at all. Joel joins us from Toronto to talk about aliens, influencers, and helps us relive some of our most embarrassing podcasting moments from before our first episode. It gets greasy.
 

@@ -1,19 +1,16 @@
 ---
 title: 'TTT 251: Existential Crisis'
 date: '2011-07-04T04:05:53+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - bang-bang-lady
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: crisis
-  image: /images/crisis.jpg
+episode_image: "/images/crisis.jpg"
+thumbnail: "/images/crisis.jpg"
+images: ["/images/crisis.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt251.mp3
-url: /2011/07/ttt-251-existential-crisis/
 ---
 Promises. Promises.
 

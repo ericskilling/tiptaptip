@@ -1,17 +1,14 @@
 ---
 title: 'TTT 110: Up For A Bit With Tip Tap Tip'
 date: '2009-09-09T04:47:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: upforabit
-  image: /images/upforabit.jpg
+episode_image: "/images/upforabit.jpg"
+thumbnail: "/images/upforabit.jpg"
+images: ["/images/upforabit.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt110.mp3
-url: /2009/09/ttt-110-up-for-a-bit-with-tip-tap-tip/
 ---
 Contest: Win A Date With Shane - Details in this episode.
 

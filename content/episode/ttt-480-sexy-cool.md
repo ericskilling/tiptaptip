@@ -1,14 +1,11 @@
 ---
 title: 'TTT 480: Sexy Cool'
 date: '2018-06-09T04:35:01+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: cool
-  image: /images/cool.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/cool.jpg"
+thumbnail: "/images/cool.jpg"
+images: ["/images/cool.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt480.mp3
-url: /2018/06/ttt-480-sexy-cool/
 ---
 It's summer so we're feeling pretty sexy and cool. In this episode: Kid's parties; complaining about toys; 100% hotter; renovations; jello baths; NASA scams; and potatoes! All this and more!
 

@@ -1,13 +1,37 @@
 title: "Tip Tap Tip"
-baseURL: "https://tiptaptip.com"
-theme: "castanet"
+baseURL: "http://localhost:1313/"
+theme: "tiptaptip"
+
+outputs:
+  home: ["html", "rss"]
+  section: ["html", "rss"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 1
+    - name: "Contact"
+      url: "/pages/contact/"
+      weight: 2
 
 params:
-  # Add this line to tell Castanet to treat 'posts' as podcast episodes
-  mainSections: ["posts"]
   description: "A podcast about technology, geek culture, and Eurovision."
+  mainSections: ["episode"]
   
-  # Castanet REQUIRES this block to render the sidebar
+  # Episode numbering
+  episode_number_style: "parens"
+  episode_number_prefix: "Ep. "
+  
+  # Media prefix for podcast files (leave empty if using direct URLs)
+  media_prefix: ""
+  
+  # Authors/Hosts
   authors:
     eric:
       name: "Eric"
@@ -18,8 +42,15 @@ params:
       thumbnail: "/images/rachelle.jpg"
       bio: "Artist and co-host."
 
-  # Podcast specific settings for the RSS feed
+  # Podcast settings
   itunes_categories:
     - "Technology"
   itunes_explicit: "yes"
   itunes_author: "Eric & Rachelle"
+  itunes_owner_name: "Tip Tap Tip"
+  itunes_owner_email: "your-email@example.com"
+  itunes_image: "/images/logo.jpg"
+  rss_limit: 100
+  
+  # RSS subscription URL
+  rss_subscribe: "/episode/index.xml"

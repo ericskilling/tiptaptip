@@ -1,18 +1,15 @@
 ---
 title: 'TTT 377: Beyond The Valley Of Tip Tap Tip'
 date: '2014-02-23T21:53:07+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - boobs
 - podcast
 - yyc
-cover:
-  alt: beyond_ttt
-  image: /images/beyond_ttt.jpg
+episode_image: "/images/beyond_ttt.jpg"
+thumbnail: "/images/beyond_ttt.jpg"
+images: ["/images/beyond_ttt.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt377.mp3
-url: /2014/02/ttt-377-beyond-valley-tip-tap-tip/
 ---
 ![beyond_ttt](/images/beyond_ttt.jpg)
 

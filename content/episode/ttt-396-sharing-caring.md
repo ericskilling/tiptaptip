@@ -1,18 +1,15 @@
 ---
 title: 'TTT 396: Sharing Is Caring'
 date: '2014-09-29T03:11:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - cbc
 - podcast
 - yyc
-cover:
-  alt: sharing_is_caring
-  image: /images/sharing_is_caring.jpg
+episode_image: "/images/sharing_is_caring.jpg"
+thumbnail: "/images/sharing_is_caring.jpg"
+images: ["/images/sharing_is_caring.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt396.mp3
-url: /2014/09/ttt-396-sharing-caring/
 ---
 We visit the CBC and laugh at what those amateurs call entertainment. Also, Eric discovers why three is a better number than two.
 

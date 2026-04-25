@@ -1,18 +1,15 @@
 ---
 title: 'TTT 253: Does Not Compute'
 date: '2011-07-14T04:17:54+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: compute
-  image: /images/compute.jpg
+episode_image: "/images/compute.jpg"
+thumbnail: "/images/compute.jpg"
+images: ["/images/compute.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt253.mp3
-url: /2011/07/ttt-253-does-not-compute/
 ---
 Broken toys.
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 241: Side Effects'
 date: '2011-05-22T22:09:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: space
-  image: /images/space.jpg
+episode_image: "/images/space.jpg"
+thumbnail: "/images/space.jpg"
+images: ["/images/space.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt241.mp3
-url: /2011/05/ttt-241-side-effects/
 ---
 Please don't attack us.
 

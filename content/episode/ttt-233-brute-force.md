@@ -1,17 +1,14 @@
 ---
 title: 'TTT 233: Brute Force'
 date: '2011-04-18T04:20:47+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: hammer
-  image: /images/hammer.jpg
+episode_image: "/images/hammer.jpg"
+thumbnail: "/images/hammer.jpg"
+images: ["/images/hammer.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt233.mp3
-url: /2011/04/ttt-233-brute-force/
 ---
 Hammer out a solution.
 

@@ -1,17 +1,14 @@
 ---
 title: 'TTT 155: Spirited Discussions'
 date: '2010-04-17T07:59:58+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: discuss
-  image: /images/discuss.jpg
+episode_image: "/images/discuss.jpg"
+thumbnail: "/images/discuss.jpg"
+images: ["/images/discuss.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt155.mp3
-url: /2010/04/ttt-155-spirited-discussions/
 ---
 ![](/images/discuss.jpg)
 

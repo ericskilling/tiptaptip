@@ -1,17 +1,14 @@
 ---
 title: 'TTT 160: Consummate Professionals'
 date: '2010-05-10T04:39:51+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: professionals
-  image: /images/professionals.jpg
+episode_image: "/images/professionals.jpg"
+thumbnail: "/images/professionals.jpg"
+images: ["/images/professionals.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt160.mp3
-url: /2010/05/ttt-160-consummate-professionals/
 ---
 Open up and say ahhh....
 

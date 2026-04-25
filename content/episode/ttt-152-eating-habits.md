@@ -1,19 +1,16 @@
 ---
 title: 'TTT 152: Eating Habits'
 date: '2010-03-31T04:53:31+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ann-coulter
 - podcast
 - scarborough-dude
 - yyc
-cover:
-  alt: food
-  image: /images/food.jpg
+episode_image: "/images/food.jpg"
+thumbnail: "/images/food.jpg"
+images: ["/images/food.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/tt152.mp3
-url: /2010/03/ttt-152-eating-habits/
 ---
 Meat isn't murder, it's fun!
 

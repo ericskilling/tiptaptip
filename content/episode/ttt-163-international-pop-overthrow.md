@@ -1,18 +1,15 @@
 ---
 title: 'TTT 163: International Pop Overthrow'
 date: '2010-05-27T04:19:02+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - cet
 - podcast
 - yyc
-cover:
-  alt: euro
-  image: /images/euro.jpg
+episode_image: "/images/euro.jpg"
+thumbnail: "/images/euro.jpg"
+images: ["/images/euro.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt163.mp3
-url: /2010/05/ttt-163-international-pop-overthrow/
 ---
 Pop goes the world.
 

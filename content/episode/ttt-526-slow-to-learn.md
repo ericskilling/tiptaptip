@@ -1,14 +1,11 @@
 ---
 title: 'TTT 526: Slow To Learn'
 date: '2021-03-08T00:54:27+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: slow
-  image: /images/slow.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/slow.jpg"
+thumbnail: "/images/slow.jpg"
+images: ["/images/slow.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt526.mp3
-url: /2021/03/ttt-526-slow-to-learn/
 ---
 Yes. The audio quality is garbage. We know! Eric didn't want to spend any more time in his office/podcast studio since he's working from home so we recorded it from the kitchen table using Eric's phone. You'll be okay.
 

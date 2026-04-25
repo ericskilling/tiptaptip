@@ -1,19 +1,16 @@
 ---
 title: 'TTT 313: If At First You Don''t Succeed, Fuck It!'
 date: '2012-06-20T13:21:15+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - billy-bong-thornton
 - podcast
 - sky-blue
 - yyc
-cover:
-  alt: fuckit
-  image: /images/fuckit.jpg
+episode_image: "/images/fuckit.jpg"
+thumbnail: "/images/fuckit.jpg"
+images: ["/images/fuckit.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt314.mp3
-url: /2012/06/ttt-313-if-at-first-you-dont-succeed-fuck-it/
 ---
 **Guests:** Cole, Sky Blue, Billy Bong Thornton
 

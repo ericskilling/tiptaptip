@@ -1,17 +1,14 @@
 ---
 title: 'TTT 257: Teamwork'
 date: '2011-08-11T04:14:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: teamwork
-  image: /images/teamwork.jpg
+episode_image: "/images/teamwork.jpg"
+thumbnail: "/images/teamwork.jpg"
+images: ["/images/teamwork.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt257.mp3
-url: /2011/08/ttt-257-teamwork/
 ---
 We missed you!
 

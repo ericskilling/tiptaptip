@@ -1,20 +1,17 @@
 ---
 title: 'TTT 394: For The Ladies'
 date: '2014-09-07T21:44:21+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - brazil
 - japan
 - podcast
 - stealth-fashion-kickstarter
 - yyc
-cover:
-  alt: for_the_ladies
-  image: /images/for_the_ladies.jpg
+episode_image: "/images/for_the_ladies.jpg"
+thumbnail: "/images/for_the_ladies.jpg"
+images: ["/images/for_the_ladies.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt394.mp3
-url: /2014/09/ttt-394-ladies/
 ---
 In this lady-centric episode Eric and Rachelle talk about all thing womanly including; a town in Brazil run by women that want more men; Japan's way of helping out; and the new anti-rape shade of nail polish.
 

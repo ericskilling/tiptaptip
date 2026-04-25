@@ -1,17 +1,14 @@
 ---
 title: 'TTT 238: From Parts Unknown'
 date: '2011-05-09T04:15:57+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: unknown
-  image: /images/unknown.jpg
+episode_image: "/images/unknown.jpg"
+thumbnail: "/images/unknown.jpg"
+images: ["/images/unknown.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt238.mp3
-url: /2011/05/ttt-238-from-parts-unknown/
 ---
 ![](/images/unknown.jpg)
 

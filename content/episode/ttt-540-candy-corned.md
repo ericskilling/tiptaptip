@@ -1,14 +1,11 @@
 ---
 title: 'TTT 540: Candy Corned'
 date: '2022-10-31T00:16:45+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: corned
-  image: /images/corned.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/corned.jpg"
+thumbnail: "/images/corned.jpg"
+images: ["/images/corned.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt540.mp3
-url: /2022/10/ttt-540-candy-corned/
 ---
 Get your giant car-size pumpkins ready because it's spooky episode! We discuss such scary topics as: halloween costume trends; lazy zombies; how candy corn get made; and why AI generated art scares the pants off actual artists. Double up your underwear because we're going to scare the shit out of you.
 

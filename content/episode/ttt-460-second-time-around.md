@@ -1,14 +1,11 @@
 ---
 title: 'TTT 460: Second Time Around'
 date: '2017-07-04T04:10:08+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: secondtime
-  image: /images/secondtime.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/secondtime.jpg"
+thumbnail: "/images/secondtime.jpg"
+images: ["/images/secondtime.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt460.mp3
-url: /2017/07/ttt-460-second-time-around/
 ---
 Joel sits in the Rachelle seat in this episode as we discuss why NASA is a scam; how whip cream is death in a canister; and how not to get famous on the internet.
 

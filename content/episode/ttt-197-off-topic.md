@@ -1,17 +1,14 @@
 ---
 title: 'TTT 197: Off Topic'
 date: '2010-11-04T03:03:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: topic
-  image: /images/topic.jpg
+episode_image: "/images/topic.jpg"
+thumbnail: "/images/topic.jpg"
+images: ["/images/topic.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt197.mp3
-url: /2010/11/ttt-197-off-topic/
 ---
 Choo! Choo! Next Stop: Fun!
 

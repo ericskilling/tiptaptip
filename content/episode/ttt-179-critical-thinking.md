@@ -1,17 +1,14 @@
 ---
 title: 'TTT 179: Critical Thinking'
 date: '2010-08-16T04:55:02+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: pop
-  image: /images/pop.jpg
+episode_image: "/images/pop.jpg"
+thumbnail: "/images/pop.jpg"
+images: ["/images/pop.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt179.mp3
-url: /2010/08/ttt-179-critical-thinking/
 ---
 Lights, Camera, Go fuck yourself!
 

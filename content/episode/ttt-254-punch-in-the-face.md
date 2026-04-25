@@ -1,17 +1,14 @@
 ---
 title: 'TTT 254: Punch In The Face'
 date: '2011-07-21T04:31:42+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: face
-  image: /images/face.jpg
+episode_image: "/images/face.jpg"
+thumbnail: "/images/face.jpg"
+images: ["/images/face.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt254.mp3
-url: /2011/07/ttt-254-punch-in-the-face/
 ---
 Stop looking at my dick!
 

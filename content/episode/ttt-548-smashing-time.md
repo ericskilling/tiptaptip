@@ -1,14 +1,11 @@
 ---
 title: 'TTT 548: Smashing Time'
 date: '2024-01-23T15:49:20+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: smashing
-  image: /images/smashing.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/smashing.jpg"
+thumbnail: "/images/smashing.jpg"
+images: ["/images/smashing.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt548.mp3
-url: /2024/01/ttt-548-smashing-time/
 ---
 Eric and Rachelle have a lot to talk about - how Chinese marathon runners are making a compelling case for chain smoking; why menus makes us nervous; why Madonna should listen to her audience and end concerts before bedtime. Lots more including our brush with fame.
 

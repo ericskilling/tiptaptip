@@ -1,14 +1,11 @@
 ---
 title: 'TTT 535: Free To Choose'
 date: '2022-04-04T01:21:24+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: choose
-  image: /images/choose.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/choose.jpg"
+thumbnail: "/images/choose.jpg"
+images: ["/images/choose.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt535.mp3
-url: /2022/04/ttt-535-free-to-choose/
 ---
 In the episode, we test out a new piece of studio equipment and are dazzled (also confused) by what it exactly does other than make sound effects and record our voices and clips.
 

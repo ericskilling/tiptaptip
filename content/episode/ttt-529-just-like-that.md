@@ -1,14 +1,11 @@
 ---
 title: 'TTT 529: Just Like That'
 date: '2021-05-23T23:17:18+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: likethat
-  image: /images/likethat.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/likethat.jpg"
+thumbnail: "/images/likethat.jpg"
+images: ["/images/likethat.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt529.mp3
-url: /2021/05/ttt-529-just-like-that/
 ---
 And another Eurovision is in the bag. It was a fun contest and full of surprises. We're joined by our kids until they get bored and leave. We then go through our highlights and favourite moments. Was it ridiculous? Sure! That's why we like it. Enjoy the silly ride.
 

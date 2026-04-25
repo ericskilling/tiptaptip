@@ -1,18 +1,15 @@
 ---
 title: 'TTT 17: My Dinner with Tip Tap Tip'
 date: '2008-08-22T03:30:43+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - new-listeners-calm
 - podcast
 - yyc
-cover:
-  alt: dinner
-  image: /images/dinner1.jpg
+episode_image: "/images/dinner1.jpg"
+thumbnail: "/images/dinner1.jpg"
+images: ["/images/dinner1.jpg"]
 podcast_file: http://archive.org/download/ttt17/ttt17.mp3
-url: /2008/08/ttt-17-my-dinner-with-tip-tap-tip/
 ---
 Rachelle's sick on the couch with the flu or something so Eric decides to put up an episode regardless.
 

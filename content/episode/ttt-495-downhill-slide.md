@@ -1,14 +1,11 @@
 ---
 title: 'TTT 495: Downhill Slide'
 date: '2019-04-09T02:01:55+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: slide
-  image: /images/slide.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/slide.jpg"
+thumbnail: "/images/slide.jpg"
+images: ["/images/slide.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt495.mp3
-url: /2019/04/ttt-495-downhill-slide/
 ---
 Eric and Rachelle return from a family ski trip -- ALIVE! Well mostly. We'll tell you why. Eric is more excited about Hallmark Christmas movies than Rachelle. We also run down the Eurovision songs from Lithuania, Germany, and Switzerland. Eric makes a bet with Rachelle.
 

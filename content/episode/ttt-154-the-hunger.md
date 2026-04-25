@@ -1,17 +1,14 @@
 ---
 title: 'TTT 154: The Hunger'
 date: '2010-04-12T04:44:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: dog
-  image: /images/dog.jpg
+episode_image: "/images/dog.jpg"
+thumbnail: "/images/dog.jpg"
+images: ["/images/dog.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt154.mp3
-url: /2010/04/ttt-154-the-hunger/
 ---
 ![](/images/dog.jpg)
 

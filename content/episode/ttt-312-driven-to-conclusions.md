@@ -1,17 +1,14 @@
 ---
 title: 'TTT 312: Driven To Conclusions'
 date: '2012-06-18T02:50:51+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: rush
-  image: /images/rush.jpg
+episode_image: "/images/rush.jpg"
+thumbnail: "/images/rush.jpg"
+images: ["/images/rush.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt312.mp3
-url: /2012/06/ttt-312-driven-to-conclusions/
 ---
 **Guest Host: Shane**
 

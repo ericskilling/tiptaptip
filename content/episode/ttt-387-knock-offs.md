@@ -1,18 +1,15 @@
 ---
 title: 'TTT 387: Knock Offs'
 date: '2014-06-15T22:01:52+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - father-day
 - podcast
 - yyc
-cover:
-  alt: knockoffs
-  image: /images/knockoffs.jpg
+episode_image: "/images/knockoffs.jpg"
+thumbnail: "/images/knockoffs.jpg"
+images: ["/images/knockoffs.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt387.mp3
-url: /2014/06/ttt-387-knock-offs/
 ---
 In this dad-centric episode, we discuss feminism, cross-generational dating, and sugar daddies. Hope your Father's Day is as good as ours. Also, Rachelle and Eric think each other is a gorilla. Ummm... Okay.
 

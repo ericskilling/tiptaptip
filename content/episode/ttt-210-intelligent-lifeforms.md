@@ -1,19 +1,16 @@
 ---
 title: 'TTT 210: Intelligent Lifeforms'
 date: '2011-01-13T04:47:34+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - phoenix-jones
 - podcast
 - yyc
-cover:
-  alt: lifeform
-  image: /images/lifeform.jpg
+episode_image: "/images/lifeform.jpg"
+thumbnail: "/images/lifeform.jpg"
+images: ["/images/lifeform.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt210.mp3
-url: /2011/01/ttt-210-intelligent-lifeforms/
 ---
 Speak my language.
 

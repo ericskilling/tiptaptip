@@ -1,17 +1,14 @@
 ---
 title: 'TTT 165: I Scream, You Scream'
 date: '2010-06-07T04:41:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: creme
-  image: /images/creme.jpg
+episode_image: "/images/creme.jpg"
+thumbnail: "/images/creme.jpg"
+images: ["/images/creme.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt165.mp3
-url: /2010/06/ttt-165-i-scream-you-scream/
 ---
 We all scream.
 

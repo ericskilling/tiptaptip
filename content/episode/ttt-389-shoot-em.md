@@ -1,18 +1,15 @@
 ---
 title: 'TTT 389: Shoot ''Em Up'
 date: '2014-07-07T03:30:29+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - beauty-contest
 - podcast
 - yyc
-cover:
-  alt: shooters
-  image: /images/shooters.jpg
+episode_image: "/images/shooters.jpg"
+thumbnail: "/images/shooters.jpg"
+images: ["/images/shooters.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt389.mp3
-url: /2014/07/ttt-389-shoot-em/
 ---
 It's our sexiest episode ever! Well at least for the first minute or so. In this episode we discuss Beauty Contest, Gun, and Headbanging. Rachelle makes friends on Canada Day and and Eric saves something for the show which annoys Rachelle. Lastly, a listener sets the standard of what we expect when it comes to emails and reviews. Seriously, what's wrong with the rest of you?
 

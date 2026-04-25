@@ -1,14 +1,11 @@
 ---
 title: 'TTT 485: Background Noise'
 date: '2018-10-09T02:11:50+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: background
-  image: /images/background.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/background.jpg"
+thumbnail: "/images/background.jpg"
+images: ["/images/background.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt485.mp3
-url: /2018/10/ttt-485-background-noise/
 ---
 It's a road show! We record from Studio C (the minivan) occasionally as sometimes we have places to go and it's hard to get into Studio A.
 

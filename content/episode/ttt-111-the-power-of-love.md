@@ -1,19 +1,16 @@
 ---
 title: 'TTT 111: The Power Of Love'
 date: '2009-09-11T04:24:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - krav-maga
 - podcast
 - tom-ford
 - yyc
-cover:
-  alt: power
-  image: /images/power.jpg
+episode_image: "/images/power.jpg"
+thumbnail: "/images/power.jpg"
+images: ["/images/power.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt111.mp3
-url: /2009/09/ttt-111-the-power-of-love/
 ---
 'Cause I'm Your lady.....
 

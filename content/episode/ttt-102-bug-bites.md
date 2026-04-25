@@ -1,17 +1,14 @@
 ---
 title: 'TTT 102: Bug Bites'
 date: '2009-08-05T04:35:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: lotsofhairSM
-  image: /images/lotsofhairSM.jpg
+episode_image: "/images/lotsofhairSM.jpg"
+thumbnail: "/images/lotsofhairSM.jpg"
+images: ["/images/lotsofhairSM.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt102.mp3
-url: /2009/08/ttt-102-bug-bites/
 ---
 The things we do...
 

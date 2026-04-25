@@ -1,17 +1,14 @@
 ---
 title: 'TTT 245: Self-Righteousness'
 date: '2011-06-06T04:16:21+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: selfrighteous
-  image: /images/selfrighteous.jpg
+episode_image: "/images/selfrighteous.jpg"
+thumbnail: "/images/selfrighteous.jpg"
+images: ["/images/selfrighteous.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt245.mp3
-url: /2011/06/ttt-245-self-righteousness/
 ---
 Plus-sized podcast.
 

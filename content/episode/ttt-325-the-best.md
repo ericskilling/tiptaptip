@@ -1,18 +1,15 @@
 ---
 title: 'TTT 325: The Best'
 date: '2012-10-01T05:21:00+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - skinny-jeans-dad
 - yyc
-cover:
-  alt: best
-  image: /images/best.jpg
+episode_image: "/images/best.jpg"
+thumbnail: "/images/best.jpg"
+images: ["/images/best.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt325.mp3
-url: /2012/09/ttt-325-the-best/
 ---
 So we're probably the best podcast in Calgary. At least that's what I infer because no one's told us differently.  We're fine being the best as long as you're cool with it too. Someone should get their shit together and make us crowns and shit for our coronation.  Get on that already.
 

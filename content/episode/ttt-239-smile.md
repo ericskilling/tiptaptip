@@ -1,17 +1,14 @@
 ---
 title: 'TTT 239: Smile!'
 date: '2011-05-16T01:16:41+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: smile
-  image: /images/smile.jpg
+episode_image: "/images/smile.jpg"
+thumbnail: "/images/smile.jpg"
+images: ["/images/smile.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt239.mp3
-url: /2011/05/ttt-239-smile/
 ---
 From Moscow to Oslo.
 

@@ -1,14 +1,11 @@
 ---
 title: 'TTT 489: Lower Your Voice'
 date: '2018-12-29T03:17:50+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: lower
-  image: /images/lower.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/lower.jpg"
+thumbnail: "/images/lower.jpg"
+images: ["/images/lower.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt489.mp3
-url: /2018/12/ttt-489-lower-your-voice/
 ---
 Hey Gang! We survived Christmas. Now we just have Y2K19 to deal with. In this episode we:
 

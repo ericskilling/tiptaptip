@@ -1,20 +1,17 @@
 ---
 title: 'TTT 68: Be Nice'
 date: '2009-03-16T03:40:43+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - century-san-francisco
 - drunk-invader
 - london-drugs
 - podcast
 - yyc
-cover:
-  alt: slap
-  image: /images/slap.jpg
+episode_image: "/images/slap.jpg"
+thumbnail: "/images/slap.jpg"
+images: ["/images/slap.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt68.mp3
-url: /2009/03/ttt-68-be-nice/
 ---
 This weekend Rachelle was on the receiving end of a game of slap ass and Eric went to London Drugs. Who says podcasters don't lead exciting lives? We don't. Our lives are awesome!
 

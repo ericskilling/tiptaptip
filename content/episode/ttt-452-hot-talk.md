@@ -1,14 +1,11 @@
 ---
 title: 'TTT 452: Hot Talk'
 date: '2017-02-21T05:20:07+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: hottalk
-  image: /images/hottalk.jpeg
+author: ["eric", "rachelle"]
+episode_image: "/images/hottalk.jpeg"
+thumbnail: "/images/hottalk.jpeg"
+images: ["/images/hottalk.jpeg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt452.mp3
-url: /2017/02/ttt-452-hot-talk/
 ---
 In which Eric & Rachelle discuss:
 

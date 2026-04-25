@@ -1,18 +1,15 @@
 ---
 title: 'TTT 27: Ain''t no booty like a Tip Tap Tip booty!'
 date: '2008-09-23T04:34:43+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - celine-dion
 - podcast
 - yyc
-cover:
-  alt: 3letters
-  image: /images/3letters1.jpg
+episode_image: "/images/3letters1.jpg"
+thumbnail: "/images/3letters1.jpg"
+images: ["/images/3letters1.jpg"]
 podcast_file: http://archive.org/download/ttt27/ttt27.mp3
-url: /2008/09/ttt-27-aint-no-booty-like-a-tip-tap-tip-booty/
 ---
 Things must be going pretty good for us as we received our first fan letter. Next thing you know we'll be making outrageous demands on our rider like having a choir of eunuchs sing the Celine Dion version of AC/DC's "You shook me all night". Dare to dream.
 **Episode Links:**

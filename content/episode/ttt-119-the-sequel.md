@@ -1,18 +1,15 @@
 ---
 title: 'TTT 119: The Sequel'
 date: '2009-10-21T04:47:42+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - hair-tattooing
 - podcast
 - yyc
-cover:
-  alt: sequel
-  image: /images/sequel.jpg
+episode_image: "/images/sequel.jpg"
+thumbnail: "/images/sequel.jpg"
+images: ["/images/sequel.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt119.mp3
-url: /2009/10/ttt-119-the-sequel/
 ---
 The land before the empire strikes the revenge of.......
 

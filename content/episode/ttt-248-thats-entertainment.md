@@ -1,18 +1,15 @@
 ---
 title: 'TTT 248: That''s Entertainment'
 date: '2011-06-20T04:32:45+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - chat-transcript
 - podcast
 - yyc
-cover:
-  alt: tassels
-  image: /images/tassels.jpg
+episode_image: "/images/tassels.jpg"
+thumbnail: "/images/tassels.jpg"
+images: ["/images/tassels.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt248.mp3
-url: /2011/06/ttt-248-thats-entertainment/
 ---
 Silly dances and cock socks.
 

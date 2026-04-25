@@ -1,17 +1,14 @@
 ---
 title: 'TTT 185: I Love You'
 date: '2010-09-20T04:03:01+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: surprise
-  image: /images/surprise.jpg
+episode_image: "/images/surprise.jpg"
+thumbnail: "/images/surprise.jpg"
+images: ["/images/surprise.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt185.mp3
-url: /2010/09/ttt-185-i-love-you/
 ---
 Everything I do, I do it for you.
 

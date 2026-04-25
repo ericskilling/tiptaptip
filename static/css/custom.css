@@ -1,0 +1,237 @@
+/* Terminal/TUI Theme - Retro Command Line Aesthetic */
+/* Using !important to override theme defaults */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap');
+
+/* Terminal color scheme */
+:root {
+  --terminal-bg: #0a0a0a !important;
+  --terminal-fg: #33ff33 !important;
+  --terminal-dim: #1a8f1a !important;
+  --terminal-bright: #66ff66 !important;
+  --terminal-amber: #ffb000 !important;
+  --terminal-cyan: #00d4ff !important;
+  --terminal-magenta: #ff00ff !important;
+  --terminal-border: #33ff33 !important;
+  --terminal-prompt: #66ff66 !important;
+}
+
+/* Global terminal styling */
+html, body, .main_container, .hero_container, .homepage_episode_row {
+  background-color: #0a0a0a !important;
+  color: #33ff33 !important;
+  font-family: 'Fira Code', 'Courier New', 'Lucida Console', monospace !important;
+  border-color: #1a8f1a !important;
+}
+
+/* Sidebar styling */
+.sidebar_col, .sidebar, aside {
+  background-color: #050505 !important;
+  color: #33ff33 !important;
+  border: 1px solid #1a8f1a !important;
+}
+
+/* Content containers */
+.col, .col-md-8, .col-md-9, .col-md-12, .container {
+  background-color: #0a0a0a !important;
+  color: #33ff33 !important;
+}
+
+/* Links */
+a {
+  color: #00d4ff !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #66ff66 !important;
+  text-shadow: 0 0 5px #33ff33 !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6, .row_latest_episode_title, .grid_episode_title {
+  color: #66ff66 !important;
+  background: transparent !important;
+}
+
+h1::before, h2::before, h3::before {
+  color: #1a8f1a !important;
+}
+
+/* Text colors */
+p, span, div, li, td, th {
+  color: #33ff33 !important;
+  background: transparent !important;
+}
+
+/* Small text and metadata */
+small, .text-muted, .hompage_episode_description, .homepage_episode_description {
+  color: #1a8f1a !important;
+  background: transparent !important;
+}
+
+/* Card/panel backgrounds */
+.panel, .card, .well {
+  background-color: #0d0d0d !important;
+  border: 1px solid #1a8f1a !important;
+  color: #33ff33 !important;
+}
+
+.panel-heading, .card-header {
+  background-color: #1a8f1a !important;
+  color: #0a0a0a !important;
+}
+
+.panel-body, .card-body {
+  background-color: #0a0a0a !important;
+  color: #33ff33 !important;
+}
+
+/* Episode image styling */
+.episode_image, img {
+  filter: grayscale(100%) brightness(0.8) !important;
+  border: 1px solid #1a8f1a !important;
+}
+
+/* Buttons */
+.btn, button {
+  background: transparent !important;
+  border: 1px solid #33ff33 !important;
+  color: #33ff33 !important;
+  font-family: 'Fira Code', monospace !important;
+}
+
+.btn:hover, button:hover {
+  background: #33ff33 !important;
+  color: #0a0a0a !important;
+}
+
+.btn-primary {
+  border-color: #00d4ff !important;
+  color: #00d4ff !important;
+}
+
+.btn-primary:hover {
+  background: #00d4ff !important;
+  color: #0a0a0a !important;
+}
+
+/* Navigation */
+.navbar, nav {
+  background-color: #0a0a0a !important;
+  border-bottom: 1px solid #1a8f1a !important;
+}
+
+.navbar a, nav a {
+  color: #33ff33 !important;
+}
+
+/* Form inputs */
+input, textarea, select {
+  background-color: #0d0d0d !important;
+  border: 1px solid #1a8f1a !important;
+  color: #33ff33 !important;
+  font-family: 'Fira Code', monospace !important;
+}
+
+/* Code and pre */
+code, pre {
+  background-color: #0d0d0d !important;
+  color: #ffb000 !important;
+  border: 1px solid #1a8f1a !important;
+}
+
+/* Audio player */
+audio {
+  filter: invert(1) hue-rotate(90deg) !important;
+}
+
+/* Dividers and borders */
+hr, .border {
+  border-color: #1a8f1a !important;
+}
+
+/* Footer */
+footer {
+  background-color: #0a0a0a !important;
+  color: #1a8f1a !important;
+  border-top: 1px dashed #1a8f1a !important;
+}
+
+/* Pagination */
+.pagination a, .page-link {
+  background-color: #0a0a0a !important;
+  color: #33ff33 !important;
+  border-color: #1a8f1a !important;
+}
+
+.pagination .active a, .page-item.active .page-link {
+  background-color: #33ff33 !important;
+  color: #0a0a0a !important;
+  border-color: #33ff33 !important;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid #ffb000 !important;
+  background-color: #0d0d0d !important;
+  color: #1a8f1a !important;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse !important;
+}
+
+th, td {
+  border: 1px solid #1a8f1a !important;
+  background-color: #0a0a0a !important;
+  color: #33ff33 !important;
+}
+
+th {
+  background-color: #1a8f1a !important;
+  color: #0a0a0a !important;
+}
+
+/* Alert boxes */
+.alert {
+  background-color: #0d0d0d !important;
+  border: 1px solid !important;
+}
+
+.alert-success {
+  border-color: #33ff33 !important;
+  color: #33ff33 !important;
+}
+
+.alert-info {
+  border-color: #00d4ff !important;
+  color: #00d4ff !important;
+}
+
+.alert-warning {
+  border-color: #ffb000 !important;
+  color: #ffb000 !important;
+}
+
+.alert-danger {
+  border-color: #ff3333 !important;
+  color: #ff3333 !important;
+}
+
+/* Blinking cursor animation */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.cursor::after {
+  content: '█' !important;
+  animation: blink 1s infinite !important;
+}
+
+/* Override any hardcoded background colors from theme */
+[style*="background"] {
+  background-color: #0a0a0a !important;
+}

@@ -1,16 +1,13 @@
 ---
 title: 'TTT 445: Cruisin'''
 date: '2016-10-12T02:53:39+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: crusin
-  image: /images/crusin.jpg
+episode_image: "/images/crusin.jpg"
+thumbnail: "/images/crusin.jpg"
+images: ["/images/crusin.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt445.mp3
-url: /2016/10/ttt-445-cruisin/
 ---
 As Eric & Rachelle peek out of our underground bunker, they see the world going nuts. When it get’s too crazy, they are happy to know that there’s always the cruise ship they can retire to.
 

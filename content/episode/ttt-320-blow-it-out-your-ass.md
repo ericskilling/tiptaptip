@@ -1,19 +1,16 @@
 ---
 title: 'TTT 320: Blow It Out Your Ass'
 date: '2012-08-12T05:23:06+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - balloon-infatuation
 - honey-boo-boo
 - podcast
 - yyc
-cover:
-  alt: yourass
-  image: /images/yourass.jpg
+episode_image: "/images/yourass.jpg"
+thumbnail: "/images/yourass.jpg"
+images: ["/images/yourass.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt320.mp3
-url: /2012/08/ttt-320-blow-it-out-your-ass/
 ---
 ![](/images/yourass.jpg)
 

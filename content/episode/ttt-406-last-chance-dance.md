@@ -1,16 +1,13 @@
 ---
 title: 'TTT 406: Last Chance To Dance'
 date: '2015-02-16T05:27:38+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - ttt
-cover:
-  alt: last_chance
-  image: /images/last_chance.jpg
+episode_image: "/images/last_chance.jpg"
+thumbnail: "/images/last_chance.jpg"
+images: ["/images/last_chance.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt406.mp3
-url: /2015/02/ttt-406-last-chance-dance/
 ---
 After a brief hiatus due to an awful flu, we're back and talking about everyone's least favourite subject - money. Specifically how we wasted it when we had it and what to do when you don't have a lot of it. Also, big Eurovision updates.
 

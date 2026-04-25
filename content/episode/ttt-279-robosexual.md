@@ -1,18 +1,15 @@
 ---
 title: 'TTT 279: Robosexual'
 date: '2011-12-01T05:34:24+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - sage-theatre
 - yyc
-cover:
-  alt: robo
-  image: /images/robo.jpg
+episode_image: "/images/robo.jpg"
+thumbnail: "/images/robo.jpg"
+images: ["/images/robo.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt279.mp3
-url: /2011/11/ttt-279-robosexual/
 ---
 Our friend Kelly is the artistic director for a theatre company and we have him talking about the new Twilight, shit tattoos, and yoga pants. I'm surprised we ever have any returning guests. It's a good thing I didn't get into all the cyst popping videos I've been watching lately on YouTube.
 

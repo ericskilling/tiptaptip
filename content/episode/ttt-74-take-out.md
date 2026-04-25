@@ -1,18 +1,15 @@
 ---
 title: 'TTT 74: Take Out'
 date: '2009-04-05T08:47:34+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - wild-turkey
 - yyc
-cover:
-  alt: takeout
-  image: /images/takeout.jpg
+episode_image: "/images/takeout.jpg"
+thumbnail: "/images/takeout.jpg"
+images: ["/images/takeout.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt74.mp3
-url: /2009/04/ttt-74-take-out/
 ---
 Rachelle is gone for two days and the next thing  you know Eric is doing Wild Turkey shots with Shane while recording a live show. Rachelle: Don't  leave Eric alone again.
 

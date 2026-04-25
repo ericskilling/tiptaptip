@@ -1,18 +1,15 @@
 ---
 title: 'TTT 199: Tip Tap Tip Is Alive And Well And Living In Calgary'
 date: '2010-11-15T05:26:16+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - vacation
 - yyc
-cover:
-  alt: boom
-  image: /images/boom.jpg
+episode_image: "/images/boom.jpg"
+thumbnail: "/images/boom.jpg"
+images: ["/images/boom.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt199.mp3
-url: /2010/11/ttt-199-tip-tap-tip-is-alive-and-well-and-living-in-calgary/
 ---
 Fun in the sun.
 

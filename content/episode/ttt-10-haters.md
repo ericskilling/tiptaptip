@@ -1,19 +1,16 @@
 ---
 title: 'TTT 10: Haters!'
 date: '2008-07-31T04:48:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - guy-fawkes
 - podcast
 - squidpod-maybe
 - yyc
-cover:
-  alt: haters
-  image: /images/haters1.jpg
+episode_image: "/images/haters1.jpg"
+thumbnail: "/images/haters1.jpg"
+images: ["/images/haters1.jpg"]
 podcast_file: http://www.archive.org/download/Ttt10Haters/ttt10.mp3
-url: /2008/07/ttt-10-haters/
 ---
 **UPDATE:** We're back but are too tired to record a show tonight. I know, I know. I'm a damn liar. We didn't even record errant squirrel noises while camping. We will definitely be getting you a few shows this week with the first coming at you tomorrow.
 But hey, don't fret. You can always get the latest episode from our competition if you've got 345mb free on your hard drive and 2 hours to spare downloading it.

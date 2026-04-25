@@ -1,17 +1,14 @@
 ---
 title: 'TTT 220: Memory Lapse'
 date: '2011-02-24T05:23:07+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: memory
-  image: /images/memory.jpg
+episode_image: "/images/memory.jpg"
+thumbnail: "/images/memory.jpg"
+images: ["/images/memory.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt220.mp3
-url: /2011/02/ttt-220-memory-lapse/
 ---
 What did I do again?
 

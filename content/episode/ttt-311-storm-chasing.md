@@ -1,18 +1,15 @@
 ---
 title: 'TTT 311: Storm Chasing'
 date: '2012-06-14T01:47:26+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - mount-rushmore
 - podcast
 - yyc
-cover:
-  alt: storm
-  image: /images/storm.jpg
+episode_image: "/images/storm.jpg"
+thumbnail: "/images/storm.jpg"
+images: ["/images/storm.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt311final.mp3
-url: /2012/06/ttt-311-storm-chasing/
 ---
 **Guest Host: Shane**
 

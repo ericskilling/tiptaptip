@@ -1,17 +1,14 @@
 ---
 title: 'TTT 450: President Tip Tap Tip'
 date: '2017-01-22T00:03:37+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - eric-rachelle
 - ttt
-cover:
-  alt: riot
-  image: /images/riot.jpg
+episode_image: "/images/riot.jpg"
+thumbnail: "/images/riot.jpg"
+images: ["/images/riot.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt450.mp3
-url: /2017/01/ttt-450-president-tip-tap-tip/
 ---
 In which Eric & Rachelle discuss:
 

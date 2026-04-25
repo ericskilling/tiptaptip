@@ -1,17 +1,14 @@
 ---
 title: 'TTT 159: Bend From The Hips'
 date: '2010-05-06T04:30:36+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - yyc
-cover:
-  alt: bend
-  image: /images/bend.jpg
+episode_image: "/images/bend.jpg"
+thumbnail: "/images/bend.jpg"
+images: ["/images/bend.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt159.mp3
-url: /2010/05/ttt-159-bend-from-the-hips/
 ---
 One and two and three.
 

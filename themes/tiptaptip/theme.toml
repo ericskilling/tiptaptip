@@ -1,0 +1,17 @@
+name = "tiptaptip"
+description = "A terminal/TUI styled podcast theme for Hugo"
+license = "MIT"
+licenselink = "https://github.com/YOURUSERNAME/tiptaptip/blob/master/LICENSE"
+homepage = "https://github.com/YOURUSERNAME/tiptaptip"
+features = ["podcast", "terminal", "tui", "dark-mode"]
+min_version = "0.68.0"
+max_version = ""
+
+[author]
+name = "Your Name"
+homepage = "https://yoursite.com"
+
+[original]
+name = "Castanet"
+homepage = "https://github.com/mickael-kerjean/castanet"
+license = "MIT"

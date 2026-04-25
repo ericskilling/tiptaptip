@@ -1,18 +1,15 @@
 ---
 title: 'TTT 225: Stick ''Em Up!'
 date: '2011-03-17T04:21:46+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - podcast
 - podcast-squared
 - yyc
-cover:
-  alt: celine
-  image: /images/celine.jpg
+episode_image: "/images/celine.jpg"
+thumbnail: "/images/celine.jpg"
+images: ["/images/celine.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt225.mp3
-url: /2011/03/ttt-225-stick-em-up/
 ---
 Have you Celine the rain?
 

@@ -1,18 +1,15 @@
 ---
 title: 'TTT 94: Get Out Now!'
 date: '2009-07-03T04:57:40+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
+author: ["eric", "rachelle"]
 tags:
 - kush-support
 - podcast
 - yyc
-cover:
-  alt: monstercism
-  image: /images/monstercism.jpg
+episode_image: "/images/monstercism.jpg"
+thumbnail: "/images/monstercism.jpg"
+images: ["/images/monstercism.jpg"]
 podcast_file: http://media.libsyn.com/media/tiptaptip/ttt94.mp3
-url: /2009/07/ttt-94-get-out-now/
 ---
 Can you exorcise the chocolate from my face?
 

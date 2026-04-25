@@ -1,14 +1,11 @@
 ---
 title: 'Episode Flashback —  260: Out Of Order'
 date: '2018-08-08T13:00:49+00:00'
-authors: ["eric", "rachelle"]
-categories:
-- episodes
-cover:
-  alt: order
-  image: /images/order.jpg
+author: ["eric", "rachelle"]
+episode_image: "/images/order.jpg"
+thumbnail: "/images/order.jpg"
+images: ["/images/order.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt-summer-break-2018-ttt260.output.mp3
-url: /2018/08/episode-flashback-260-out-of-order/
 ---
 Tip Tap Tip taking a bit of a summer break for the month of August. Life is busy between kids, trips etc. It’s weird. For a summer break, it doesn’t like much of a break for us. We’re really excited to put out new episodes soon. Mostly because, Eric can’t wait to tell you what he did over the summer break. You’ll just have to wait though. Don’t worry, we’ve got older shows lined up to keep you occupied.
 
