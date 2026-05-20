@@ -7,6 +7,7 @@ const episodes = defineCollection({
     date: z.coerce.date(),
     author: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
+    description: z.string().optional(),
     episode_image: z.string().optional(),
     thumbnail: z.string().optional(),
     images: z.array(z.string()).default([]),
