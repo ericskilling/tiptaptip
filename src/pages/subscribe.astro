@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Subscribe">
+  <h1>Subscribe to Tip Tap Tip</h1>
+
+  <p class="intro">By subscribing to this podcast, you will automatically receive the latest episodes downloaded to your computer or portable device.</p>
+
+  <div class="subscribe-options">
+    <section class="subscribe-option">
+      <h2>iTunes / Apple Podcasts</h2>
+      <p>Subscribe on your iPhone, iPad, or iPod touch using the Apple Podcasts app.</p>
+    </section>
+
+    <section class="subscribe-option">
+      <h2>Android</h2>
+      <p>Subscribe using your favorite Android podcast app.</p>
+    </section>
+
+    <section class="subscribe-option">
+      <h2>RSS Feed</h2>
+      <p>Copy the feed URL below and paste into your favorite podcast application or news reader.</p>
+      <code>/feed/podcast.xml</code>
+    </section>
+  </div>
+
+  <section class="bookmark">
+    <h3>Bookmark this podcast</h3>
+    <p>Press "Ctrl" and "D" keys on Windows, or "Command" + "D" for Mac to bookmark this site.</p>
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+  }
+
+  .subscribe-options {
+    display: grid;
+    gap: 1.5rem;
+  }
+
+  .subscribe-option {
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .subscribe-option h2 {
+    margin-bottom: 0.5rem;
+  }
+
+  code {
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background: #f5f5f5;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+
+  .bookmark {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #f0f0f0;
+    border-radius: 8px;
+  }
+</style>

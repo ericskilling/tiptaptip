@@ -1,6 +1,0 @@
-#!/Users/skilling/Downloads/tiptaptip/generated-2026-03-17-19-34-42/content/posts/venv/bin/python3.14
-import sys
-from pip._internal.cli.main import main
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(main())

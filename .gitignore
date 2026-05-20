@@ -14,3 +14,9 @@
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent.aider*
+
+# Dependencies
+node_modules
+
+# Build output
+dist/

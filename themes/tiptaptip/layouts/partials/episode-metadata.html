@@ -1,8 +1,0 @@
-{{ with .Params.duration }}
-<span class="episode-duration">[{{ . }}]</span>
-{{ end }}
-{{ with .Params.hosts }}
-<span class="episode-hosts">
-  {{ range $i, $v := . }}{{ if $i }} | {{ end }}{{ $v }}{{ end }}
-</span>
-{{ end }}

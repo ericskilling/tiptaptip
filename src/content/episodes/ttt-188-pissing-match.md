@@ -1,0 +1,17 @@
+---
+title: "'TTT 188: Pissing Match'"
+date: '2010-09-30T04:47:24+00:00'
+author: ["eric","rachelle"]
+episode_image: "/images/pissing.jpg"
+thumbnail: "/images/pissing.jpg"
+images: ["/images/pissing.jpg"]
+podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt188.mp3"
+---
+
+Tell me why. Tell me why.
+
+**Episode Links**
+
+- [Wild Redhead (NOT SAFE FOR WORK)](http://www.redtube.com/28079)
+- Australia Top Model fuckup
+- [TTT 169: Skin Diving](/2010/06/ttt-169-skin-diving)

@@ -1,0 +1,35 @@
+---
+interface Props {
+  src: string;
+  title: string;
+}
+
+const { src, title } = Astro.props;
+---
+
+<div class="audio-player">
+  <audio controls preload="none">
+    <source src={src} type="audio/mpeg" />
+    Your browser does not support the audio element.
+  </audio>
+  <p class="now-playing">Now Playing: {title}</p>
+</div>
+
+<style>
+  .audio-player {
+    background: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+  }
+
+  audio {
+    width: 100%;
+  }
+
+  .now-playing {
+    font-size: 0.875rem;
+    color: #666;
+    margin-top: 0.5rem;
+  }
+</style>

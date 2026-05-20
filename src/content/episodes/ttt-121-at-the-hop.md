@@ -1,0 +1,20 @@
+---
+title: "'TTT 121: At The Hop'"
+date: '2009-10-28T04:18:40+00:00'
+author: ["eric","rachelle"]
+episode_image: "/images/bunny.jpg"
+thumbnail: "/images/bunny.jpg"
+images: ["/images/bunny.jpg"]
+podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt121.mp3"
+---
+
+![bunny](/images/bunny.jpg)
+
+Throw me a bone...
+
+**Guests**: Mason
+
+**Episode Links:**
+
+- Ymay Hair Studio
+- My Own Biggest Fan

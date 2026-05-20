@@ -1,0 +1,100 @@
+---
+import '../styles/tailwind.css';
+import '../styles/theme.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = 'A podcast about technology, geek culture, and Eurovision.',
+} = Astro.props;
+
+const currentPath = Astro.url.pathname;
+const navLinks = [
+  { href: '/', label: 'Home' },
+  { href: '/episodes', label: 'Episodes' },
+  { href: '/about', label: 'About' },
+  { href: '/subscribe', label: 'Subscribe' },
+];
+
+const isActive = (href: string) =>
+  href === currentPath || (href !== '/' && currentPath.startsWith(href));
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="alternate" type="application/rss+xml" title="Tip Tap Tip Podcast Feed" href="/feed/podcast.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>{title} | Tip Tap Tip</title>
+  </head>
+  <body class="font-sans">
+    <div class="page-shell">
+      <aside class="sidebar">
+        <div class="sidebar-brand">
+          <a href="/" class="sidebar-logo">Tip Tap Tip</a>
+          <p class="sidebar-blurb">
+            A podcast about technology, geek culture, and Eurovision.
+          </p>
+        </div>
+
+        <nav class="sidebar-nav" aria-label="Main navigation">
+          {navLinks.map((link) => (
+            <a
+              href={link.href}
+              class={`sidebar-link${isActive(link.href) ? ' active' : ''}`}
+              aria-current={isActive(link.href) ? 'page' : undefined}
+            >
+              {link.label}
+            </a>
+          ))}
+        </nav>
+
+        <div class="sidebar-card">
+          <p class="card-eyebrow">What we do</p>
+          <p>
+            Fresh episodes, strange conversations, and the best of the Eurovision underground.
+          </p>
+        </div>
+
+        <div class="sidebar-card">
+          <p class="card-eyebrow">Listen now</p>
+          <div class="platform-list">
+            <a href="/subscribe">Subscribe</a>
+            <a href="https://podcasts.apple.com/" target="_blank" rel="noopener noreferrer">Apple</a>
+            <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify</a>
+          </div>
+        </div>
+      </aside>
+
+      <main class="content">
+        <header class="content-header">
+          <div>
+            <span class="eyebrow">Podcast</span>
+            <h1>{title}</h1>
+            <p>{description}</p>
+          </div>
+        </header>
+
+        <div class="content-body">
+          <slot />
+        </div>
+
+        <footer class="site-footer">
+          <p>&copy; {new Date().getFullYear()} Tip Tap. Built with the Starpod-inspired theme.</p>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

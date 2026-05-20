@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EpisodeCard from '../components/EpisodeCard.astro';
+import { getCollection } from 'astro:content';
+
+const episodes = await getCollection('episodes');
+const sortedEpisodes = episodes.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const recentEpisodes = sortedEpisodes.slice(0, 10);
+---
+
+<BaseLayout title="Home">
+  <section class="hero section-card">
+    <div class="hero-copy">
+      <span class="eyebrow">Tip Tap Tip</span>
+      <h1>Strange stories, tech talk, and Eurovision chaos.</h1>
+      <p>Eric and Rachelle bring you the best of their podcast episodes, from quirky media commentary to all the latest in geek culture.</p>
+      <div class="hero-actions">
+        <a class="button-primary" href="/episodes">Browse Episodes</a>
+        <a class="secondary-link" href="/subscribe">Subscribe</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-card">
+    <div class="section-title-row">
+      <div>
+        <h2>Latest Episodes</h2>
+        <p>Catch up with the ten most recent releases.</p>
+      </div>
+      <a class="secondary-link" href="/episodes">See all episodes</a>
+    </div>
+
+    <div class="episodes-grid">
+      {recentEpisodes.map((episode) => (
+        <EpisodeCard episode={episode} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

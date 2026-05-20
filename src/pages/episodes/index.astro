@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EpisodeCard from '../../components/EpisodeCard.astro';
+import { getCollection } from 'astro:content';
+
+const episodes = await getCollection('episodes');
+const sortedEpisodes = episodes.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout title="All Episodes">
+  <section class="section-card">
+    <div class="section-title-row">
+      <div>
+        <h1>All Episodes</h1>
+        <p>{episodes.length} episodes available in the archive.</p>
+      </div>
+    </div>
+
+    <div class="episodes-grid">
+      {sortedEpisodes.map((episode) => (
+        <EpisodeCard episode={episode} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

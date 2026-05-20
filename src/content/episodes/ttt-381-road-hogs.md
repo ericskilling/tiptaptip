@@ -1,0 +1,24 @@
+---
+title: "'TTT 381: Road Hogs'"
+date: '2014-04-21T04:23:07+00:00'
+author: ["eric","rachelle"]
+episode_image: "/images/roadhogs.jpg"
+thumbnail: "/images/roadhogs.jpg"
+images: ["/images/roadhogs.jpg"]
+podcast_file: "https://archive.org/download/tiptaptip/ttt381.mp3"
+---
+
+Eric and Rachelle like to podcast. They also like to drive. Sometimes they have to do both at the same time. Brace yourself for over an hour of random car noise, music, and self-defense tips.
+
+**Music**
+
+- Judas Priest - Thunder Road
+- The Magnetic Fields - Lonely Highway
+
+**Links**
+
+- Germany - Elaiza - Is It Right?
+- Moldova - Cristina Scarlat - Wild Soul
+- Sweden - Sanna Nielsen - Undo
+- Armenia - Aram MP3 - Not Alone
+- Belgium - Axel Hirsoux - Mother
