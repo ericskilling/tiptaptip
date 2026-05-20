@@ -2,8 +2,7 @@
 title: "'TTT 192: More Bounce To The Ounce'"
 date: '2010-10-18T04:26:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bounce.jpg"
-thumbnail: "/images/bounce.jpg"
+image: "/images/bounce.jpg"
 images: ["/images/bounce.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt192.mp3"
 ---

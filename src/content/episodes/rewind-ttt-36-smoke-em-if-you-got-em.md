@@ -2,8 +2,7 @@
 title: "'REWIND - TTT 36: Smoke ''Em If You Got ''Em'"
 date: '2010-11-25T01:54:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/smoke.jpg"
-thumbnail: "/images/smoke.jpg"
+image: "/images/smoke.jpg"
 images: ["/images/smoke.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt36rewind.mp3"
 ---

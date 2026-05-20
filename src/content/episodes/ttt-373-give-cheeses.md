@@ -2,8 +2,7 @@
 title: "'TTT 373: Give Me Cheeses'"
 date: '2014-01-12T22:55:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cheeses.jpg"
-thumbnail: "/images/cheeses.jpg"
+image: "/images/cheeses.jpg"
 images: ["/images/cheeses.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt373.mp3"
 ---

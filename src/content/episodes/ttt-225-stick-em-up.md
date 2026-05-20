@@ -2,8 +2,7 @@
 title: "'TTT 225: Stick ''Em Up!'"
 date: '2011-03-17T04:21:46+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/celine.jpg"
-thumbnail: "/images/celine.jpg"
+image: "/images/celine.jpg"
 images: ["/images/celine.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt225.mp3"
 ---

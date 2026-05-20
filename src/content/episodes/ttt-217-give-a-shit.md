@@ -2,8 +2,7 @@
 title: "'TTT 217: Give A Shit'"
 date: '2011-02-14T05:21:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sweats.jpg"
-thumbnail: "/images/sweats.jpg"
+image: "/images/sweats.jpg"
 images: ["/images/sweats.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt217.mp3"
 ---

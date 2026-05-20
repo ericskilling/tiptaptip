@@ -2,8 +2,7 @@
 title: "'TTT 410: Plastic Fantastic'"
 date: '2015-03-29T23:05:55+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/plastic_fantastic.jpg"
-thumbnail: "/images/plastic_fantastic.jpg"
+image: "/images/plastic_fantastic.jpg"
 images: ["/images/plastic_fantastic.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt410.mp3"
 ---

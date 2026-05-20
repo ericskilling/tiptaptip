@@ -2,8 +2,7 @@
 title: "'TTT 285: Part Of The Problem'"
 date: '2012-01-16T07:06:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cog.jpg"
-thumbnail: "/images/cog.jpg"
+image: "/images/cog.jpg"
 images: ["/images/cog.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt285.mp3"
 ---

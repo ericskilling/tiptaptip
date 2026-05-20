@@ -2,8 +2,7 @@
 title: "'TTT 475: Making Up All Over The Place'"
 date: '2018-03-26T03:54:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/make.jpg"
-thumbnail: "/images/make.jpg"
+image: "/images/make.jpg"
 images: ["/images/make.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt475.mp3"
 ---

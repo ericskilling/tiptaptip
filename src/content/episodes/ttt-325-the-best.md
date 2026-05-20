@@ -2,8 +2,7 @@
 title: "'TTT 325: The Best'"
 date: '2012-10-01T05:21:00+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/best.jpg"
-thumbnail: "/images/best.jpg"
+image: "/images/best.jpg"
 images: ["/images/best.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt325.mp3"
 ---

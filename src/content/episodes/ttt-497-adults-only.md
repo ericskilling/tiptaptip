@@ -2,8 +2,7 @@
 title: "'TTT 497: Adults Only'"
 date: '2019-05-20T05:34:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/adults.jpg"
-thumbnail: "/images/adults.jpg"
+image: "/images/adults.jpg"
 images: ["/images/adults.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt497.mp3"
 ---

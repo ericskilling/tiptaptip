@@ -2,8 +2,7 @@
 title: "'TTT 514: Weirded Out'"
 date: '2020-06-07T20:19:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/weird.jpg"
-thumbnail: "/images/weird.jpg"
+image: "/images/weird.jpg"
 images: ["/images/weird.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt514.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 437: You Make Me Feel'"
 date: '2016-05-17T02:34:04+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/youmakemefeel.jpg"
-thumbnail: "/images/youmakemefeel.jpg"
+image: "/images/youmakemefeel.jpg"
 images: ["/images/youmakemefeel.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt437.mp3"
 ---

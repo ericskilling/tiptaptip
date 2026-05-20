@@ -2,8 +2,7 @@
 title: "'TTT 521: According To Plan'"
 date: '2020-12-07T00:53:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/plan.jpg"
-thumbnail: "/images/plan.jpg"
+image: "/images/plan.jpg"
 images: ["/images/plan.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt521.mp3"
 ---

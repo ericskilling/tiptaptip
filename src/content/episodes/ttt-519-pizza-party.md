@@ -2,8 +2,7 @@
 title: "'TTT 519: Pizza Party'"
 date: '2020-10-18T23:24:44+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pizza.jpg"
-thumbnail: "/images/pizza.jpg"
+image: "/images/pizza.jpg"
 images: ["/images/pizza.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt519.mp3"
 ---

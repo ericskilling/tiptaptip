@@ -2,8 +2,7 @@
 title: "'TTT 45: What Would Geddy Lee Do?'"
 date: '2008-12-06T06:19:28+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/rush1.jpg"
-thumbnail: "/images/rush1.jpg"
+image: "/images/rush1.jpg"
 images: ["/images/rush1.jpg"]
 podcast_file: "https://tiptaptip.com/files/audio/dirtyPromo.mp3"
 ---

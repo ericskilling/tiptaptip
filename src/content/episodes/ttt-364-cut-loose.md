@@ -2,8 +2,7 @@
 title: "'TTT 364: Cut Loose'"
 date: '2013-09-30T03:17:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cut_loose.jpg"
-thumbnail: "/images/cut_loose.jpg"
+image: "/images/cut_loose.jpg"
 images: ["/images/cut_loose.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt364.mp3"
 ---

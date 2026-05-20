@@ -2,8 +2,7 @@
 title: "'TTT 199: Tip Tap Tip Is Alive And Well And Living In Calgary'"
 date: '2010-11-15T05:26:16+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/boom.jpg"
-thumbnail: "/images/boom.jpg"
+image: "/images/boom.jpg"
 images: ["/images/boom.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt199.mp3"
 ---

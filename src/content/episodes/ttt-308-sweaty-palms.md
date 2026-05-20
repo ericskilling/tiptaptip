@@ -2,8 +2,7 @@
 title: "'TTT 308: Sweaty Palms'"
 date: '2012-05-17T04:05:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/palms.jpg"
-thumbnail: "/images/palms.jpg"
+image: "/images/palms.jpg"
 images: ["/images/palms.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt308.mp3"
 ---

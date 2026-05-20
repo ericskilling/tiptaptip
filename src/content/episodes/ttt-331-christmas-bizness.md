@@ -2,8 +2,7 @@
 title: "'TTT 331: Christmas Bizness'"
 date: '2012-11-29T05:47:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/jinglettt.jpg"
-thumbnail: "/images/jinglettt.jpg"
+image: "/images/jinglettt.jpg"
 images: ["/images/jinglettt.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt331.mp3"
 ---

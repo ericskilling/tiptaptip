@@ -2,8 +2,7 @@
 title: "'TTT 152: Eating Habits'"
 date: '2010-03-31T04:53:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/food.jpg"
-thumbnail: "/images/food.jpg"
+image: "/images/food.jpg"
 images: ["/images/food.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/tt152.mp3"
 ---

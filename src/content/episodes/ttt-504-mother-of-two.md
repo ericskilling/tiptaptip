@@ -2,8 +2,7 @@
 title: "'TTT 504: Mother of Two'"
 date: '2019-10-13T02:49:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/mother-of-two.jpg"
-thumbnail: "/images/mother-of-two.jpg"
+image: "/images/mother-of-two.jpg"
 images: ["/images/mother-of-two.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt504.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 57: Fashion Cookie'"
 date: '2009-01-26T05:12:12+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wiiiiii.png"
-thumbnail: "/images/wiiiiii.png"
+image: "/images/wiiiiii.png"
 images: ["/images/wiiiiii.png"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt57.mp3"
 ---

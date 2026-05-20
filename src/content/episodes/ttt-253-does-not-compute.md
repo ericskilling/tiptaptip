@@ -2,8 +2,7 @@
 title: "'TTT 253: Does Not Compute'"
 date: '2011-07-14T04:17:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/compute.jpg"
-thumbnail: "/images/compute.jpg"
+image: "/images/compute.jpg"
 images: ["/images/compute.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt253.mp3"
 ---

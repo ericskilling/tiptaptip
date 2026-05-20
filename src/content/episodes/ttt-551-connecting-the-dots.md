@@ -2,8 +2,7 @@
 title: "'TTT 551: Connecting The Dots'"
 date: '2024-06-04T14:34:24+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/connecting.jpg"
-thumbnail: "/images/connecting.jpg"
+image: "/images/connecting.jpg"
 images: ["/images/connecting.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt551.mp3"
 ---

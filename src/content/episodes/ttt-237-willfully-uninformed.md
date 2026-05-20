@@ -2,8 +2,7 @@
 title: "'TTT 237: Willfully Uninformed'"
 date: '2011-05-05T04:18:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/stupid.jpg"
-thumbnail: "/images/stupid.jpg"
+image: "/images/stupid.jpg"
 images: ["/images/stupid.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt237.mp3"
 ---

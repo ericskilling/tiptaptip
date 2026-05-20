@@ -2,8 +2,7 @@
 title: "'TTT 428: Hot Moms'"
 date: '2016-01-15T05:53:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hotmoms.jpg"
-thumbnail: "/images/hotmoms.jpg"
+image: "/images/hotmoms.jpg"
 images: ["/images/hotmoms.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt428.mp3"
 ---

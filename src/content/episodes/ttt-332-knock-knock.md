@@ -2,8 +2,7 @@
 title: "'TTT 332: Knock Knock'"
 date: '2012-12-08T06:03:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/knock.jpg"
-thumbnail: "/images/knock.jpg"
+image: "/images/knock.jpg"
 images: ["/images/knock.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt332.mp3"
 ---

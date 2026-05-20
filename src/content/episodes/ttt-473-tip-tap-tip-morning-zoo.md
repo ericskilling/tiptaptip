@@ -2,8 +2,7 @@
 title: "'TTT 473: The Tip Tap Tip Morning Zoo'"
 date: '2018-02-25T03:38:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bananas.jpg"
-thumbnail: "/images/bananas.jpg"
+image: "/images/bananas.jpg"
 images: ["/images/bananas.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt473.mp3"
 ---

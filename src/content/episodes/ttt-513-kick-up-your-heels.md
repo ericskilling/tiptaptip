@@ -2,8 +2,7 @@
 title: "'TTT 513: Kick Up Your Heels'"
 date: '2020-05-10T05:44:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/heels.jpg"
-thumbnail: "/images/heels.jpg"
+image: "/images/heels.jpg"
 images: ["/images/heels.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt513.mp3"
 ---

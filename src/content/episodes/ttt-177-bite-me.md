@@ -2,8 +2,7 @@
 title: "'TTT 177: Bite Me'"
 date: '2010-08-05T04:33:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bite.jpg"
-thumbnail: "/images/bite.jpg"
+image: "/images/bite.jpg"
 images: ["/images/bite.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt177.mp3"
 ---

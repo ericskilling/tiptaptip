@@ -2,8 +2,7 @@
 title: "'TTT 29: Ladies Night'"
 date: '2008-09-30T04:35:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/lnight1.jpg"
-thumbnail: "/images/lnight1.jpg"
+image: "/images/lnight1.jpg"
 images: ["/images/lnight1.jpg"]
 podcast_file: "http://archive.org/download/ttt29/ttt29.mp3"
 ---

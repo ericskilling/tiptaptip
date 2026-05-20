@@ -2,8 +2,7 @@
 title: "'TTT 59: We''re Done Professionally'"
 date: '2009-02-07T05:25:12+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ka-ra-o-ke.jpg"
-thumbnail: "/images/ka-ra-o-ke.jpg"
+image: "/images/ka-ra-o-ke.jpg"
 images: ["/images/ka-ra-o-ke.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt59.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 404: Tag! You''re It!'"
 date: '2015-01-19T05:19:22+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tag_youre_it2.jpg"
-thumbnail: "/images/tag_youre_it2.jpg"
+image: "/images/tag_youre_it2.jpg"
 images: ["/images/tag_youre_it2.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt404.mp3"
 ---

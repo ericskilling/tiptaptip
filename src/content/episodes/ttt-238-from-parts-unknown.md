@@ -2,8 +2,7 @@
 title: "'TTT 238: From Parts Unknown'"
 date: '2011-05-09T04:15:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/unknown.jpg"
-thumbnail: "/images/unknown.jpg"
+image: "/images/unknown.jpg"
 images: ["/images/unknown.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt238.mp3"
 ---

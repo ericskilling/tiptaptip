@@ -2,8 +2,7 @@
 title: "'TTT 293: Culturally Insensitive'"
 date: '2012-03-01T05:23:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/culture.jpg"
-thumbnail: "/images/culture.jpg"
+image: "/images/culture.jpg"
 images: ["/images/culture.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt293.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 523: Anatomically Incorrect'"
 date: '2021-01-10T21:52:28+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/correct.jpg"
-thumbnail: "/images/correct.jpg"
+image: "/images/correct.jpg"
 images: ["/images/correct.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt523.mp3"
 ---

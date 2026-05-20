@@ -2,8 +2,7 @@
 title: "'TTT 494: Killing It'"
 date: '2019-03-26T01:17:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/killing.jpg"
-thumbnail: "/images/killing.jpg"
+image: "/images/killing.jpg"
 images: ["/images/killing.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt494.mp3"
 ---

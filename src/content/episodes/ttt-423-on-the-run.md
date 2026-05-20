@@ -2,8 +2,7 @@
 title: "'TTT 423: On The Run'"
 date: '2015-09-13T23:06:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ontherun.jpg"
-thumbnail: "/images/ontherun.jpg"
+image: "/images/ontherun.jpg"
 images: ["/images/ontherun.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt423.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 241: Side Effects'"
 date: '2011-05-22T22:09:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/space.jpg"
-thumbnail: "/images/space.jpg"
+image: "/images/space.jpg"
 images: ["/images/space.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt241.mp3"
 ---

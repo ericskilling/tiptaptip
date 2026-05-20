@@ -2,8 +2,7 @@
 title: "'TTT 403: Stepping Out'"
 date: '2015-01-11T04:59:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/partytime.jpg"
-thumbnail: "/images/partytime.jpg"
+image: "/images/partytime.jpg"
 images: ["/images/partytime.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt403.mp3"
 ---

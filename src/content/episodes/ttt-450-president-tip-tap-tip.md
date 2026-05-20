@@ -2,8 +2,7 @@
 title: "'TTT 450: President Tip Tap Tip'"
 date: '2017-01-22T00:03:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/riot.jpg"
-thumbnail: "/images/riot.jpg"
+image: "/images/riot.jpg"
 images: ["/images/riot.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt450.mp3"
 ---

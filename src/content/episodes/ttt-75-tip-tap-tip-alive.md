@@ -2,8 +2,7 @@
 title: "'TTT 75: Tip Tap Tip Alive!'"
 date: '2009-04-09T04:46:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bumpit.gif"
-thumbnail: "/images/bumpit.gif"
+image: "/images/bumpit.gif"
 images: ["/images/bumpit.gif"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt75.mp3"
 ---

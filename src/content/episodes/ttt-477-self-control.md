@@ -2,8 +2,7 @@
 title: "'TTT 477: Self-Control'"
 date: '2018-04-30T03:27:24+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/control.jpg"
-thumbnail: "/images/control.jpg"
+image: "/images/control.jpg"
 images: ["/images/control.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt477.mp3"
 ---

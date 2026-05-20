@@ -2,8 +2,7 @@
 title: "'TTT 106: Whip Your Titties Out'"
 date: '2009-08-21T04:44:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/whip1.jpg"
-thumbnail: "/images/whip1.jpg"
+image: "/images/whip1.jpg"
 images: ["/images/whip1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt106.mp3"
 ---

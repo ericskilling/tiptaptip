@@ -2,8 +2,7 @@
 title: "'TTT 82: Tip Tap Tip Power!'"
 date: '2009-05-06T04:42:00+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/brandpower.jpg"
-thumbnail: "/images/brandpower.jpg"
+image: "/images/brandpower.jpg"
 images: ["/images/brandpower.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt82.mp3"
 ---

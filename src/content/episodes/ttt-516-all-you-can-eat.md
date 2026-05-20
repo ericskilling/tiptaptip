@@ -2,8 +2,7 @@
 title: "'TTT 516: All You Can Eat'"
 date: '2020-08-23T21:19:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/eat.jpg"
-thumbnail: "/images/eat.jpg"
+image: "/images/eat.jpg"
 images: ["/images/eat.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt516.mp3"
 ---

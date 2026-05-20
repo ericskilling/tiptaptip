@@ -2,8 +2,7 @@
 title: "'TTT 435: Vintage Violence'"
 date: '2016-04-26T00:28:21+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/violence.jpg"
-thumbnail: "/images/violence.jpg"
+image: "/images/violence.jpg"
 images: ["/images/violence.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt435.mp3"
 ---

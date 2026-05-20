@@ -2,8 +2,7 @@
 title: "'TTT 281: Forced Out'"
 date: '2011-12-12T05:31:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/forced.jpg"
-thumbnail: "/images/forced.jpg"
+image: "/images/forced.jpg"
 images: ["/images/forced.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt281.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 525: Take it to the Limit'"
 date: '2021-02-15T23:00:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/limit.jpg"
-thumbnail: "/images/limit.jpg"
+image: "/images/limit.jpg"
 images: ["/images/limit.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt525.mp3"
 ---

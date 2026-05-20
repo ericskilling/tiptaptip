@@ -2,8 +2,7 @@
 title: "'TTT 259: When Fantasy Meets Reality'"
 date: '2011-08-18T04:10:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fantasy.jpg"
-thumbnail: "/images/fantasy.jpg"
+image: "/images/fantasy.jpg"
 images: ["/images/fantasy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt259.mp3"
 ---

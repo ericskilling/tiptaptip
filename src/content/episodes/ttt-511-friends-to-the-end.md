@@ -2,8 +2,7 @@
 title: "'TTT 511: Friends To The End'"
 date: '2020-04-03T19:33:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/friends.jpg"
-thumbnail: "/images/friends.jpg"
+image: "/images/friends.jpg"
 images: ["/images/friends.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt511.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 512: Cut & Run'"
 date: '2020-04-20T02:55:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cut-run.jpg"
-thumbnail: "/images/cut-run.jpg"
+image: "/images/cut-run.jpg"
 images: ["/images/cut-run.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt512.mp3"
 ---

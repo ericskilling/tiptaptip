@@ -2,8 +2,7 @@
 title: "'TTT 184: Double Date'"
 date: '2010-09-13T04:53:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/date.jpg"
-thumbnail: "/images/date.jpg"
+image: "/images/date.jpg"
 images: ["/images/date.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt184.mp3"
 ---

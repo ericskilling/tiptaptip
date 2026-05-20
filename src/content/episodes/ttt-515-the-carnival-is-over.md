@@ -2,8 +2,7 @@
 title: "'TTT 515: The Carnival is Over'"
 date: '2020-08-03T04:55:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/over.jpg"
-thumbnail: "/images/over.jpg"
+image: "/images/over.jpg"
 images: ["/images/over.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt515.mp3"
 ---

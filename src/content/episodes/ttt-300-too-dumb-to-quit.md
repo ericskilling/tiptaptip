@@ -2,8 +2,7 @@
 title: "'TTT 300: Too Dumb To Quit'"
 date: '2012-04-07T05:16:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/toodumb.jpg"
-thumbnail: "/images/toodumb.jpg"
+image: "/images/toodumb.jpg"
 images: ["/images/toodumb.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt300.mp3"
 ---

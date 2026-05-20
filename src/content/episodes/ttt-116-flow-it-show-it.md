@@ -2,8 +2,7 @@
 title: "'TTT 116: Flow It, Show It'"
 date: '2009-10-07T04:59:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hair9.jpg"
-thumbnail: "/images/hair9.jpg"
+image: "/images/hair9.jpg"
 images: ["/images/hair9.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt116.mp3"
 ---

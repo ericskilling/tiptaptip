@@ -2,8 +2,7 @@
 title: "'TTT 334: Cuddle Up'"
 date: '2013-01-01T23:50:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cuddleup.jpg"
-thumbnail: "/images/cuddleup.jpg"
+image: "/images/cuddleup.jpg"
 images: ["/images/cuddleup.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt334.mp3"
 ---

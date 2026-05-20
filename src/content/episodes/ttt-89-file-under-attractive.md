@@ -2,8 +2,7 @@
 title: "'TTT 89: File Under Attractive'"
 date: '2009-06-07T16:12:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/attraction.jpg"
-thumbnail: "/images/attraction.jpg"
+image: "/images/attraction.jpg"
 images: ["/images/attraction.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt89.mp3"
 ---

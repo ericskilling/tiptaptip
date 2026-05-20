@@ -2,8 +2,7 @@
 title: "'TTT 46: Crying Our Eyes Out'"
 date: '2008-12-10T05:05:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gingerbread1.jpg"
-thumbnail: "/images/gingerbread1.jpg"
+image: "/images/gingerbread1.jpg"
 images: ["/images/gingerbread1.jpg"]
 podcast_file: "https://tiptaptip.com/files/audio/dirtyPromo.mp3"
 ---

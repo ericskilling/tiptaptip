@@ -2,8 +2,7 @@
 title: "'TTT 145: It''s So Easy'"
 date: '2010-02-18T05:41:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/myname.jpg"
-thumbnail: "/images/myname.jpg"
+image: "/images/myname.jpg"
 images: ["/images/myname.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt145.mp3"
 ---

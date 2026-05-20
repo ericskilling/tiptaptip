@@ -2,8 +2,7 @@
 title: "'TTT 429: New Adventures'"
 date: '2016-02-08T05:01:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/new_adventures.jpg"
-thumbnail: "/images/new_adventures.jpg"
+image: "/images/new_adventures.jpg"
 images: ["/images/new_adventures.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt429.mp3"
 ---

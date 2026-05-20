@@ -2,8 +2,7 @@
 title: "'TTT 467: It''s Okay To Cry'"
 date: '2017-11-11T17:56:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/okaytocry.jpg"
-thumbnail: "/images/okaytocry.jpg"
+image: "/images/okaytocry.jpg"
 images: ["/images/okaytocry.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt467.mp3"
 ---

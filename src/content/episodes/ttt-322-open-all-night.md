@@ -2,8 +2,7 @@
 title: "'TTT 322: Open All Night'"
 date: '2012-08-26T06:56:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/allnight.jpg"
-thumbnail: "/images/allnight.jpg"
+image: "/images/allnight.jpg"
 images: ["/images/allnight.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt322.mp3"
 ---

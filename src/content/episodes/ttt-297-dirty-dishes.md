@@ -2,8 +2,7 @@
 title: "'TTT 297: Dirty Dishes'"
 date: '2012-03-22T04:32:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dish.jpg"
-thumbnail: "/images/dish.jpg"
+image: "/images/dish.jpg"
 images: ["/images/dish.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt297.mp3"
 ---

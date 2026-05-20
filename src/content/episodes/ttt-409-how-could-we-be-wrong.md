@@ -2,8 +2,7 @@
 title: "'TTT 409: How Could We Be Wrong?'"
 date: '2015-03-23T03:12:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/how_could_I_be_wrong.jpg"
-thumbnail: "/images/how_could_I_be_wrong.jpg"
+image: "/images/how_could_I_be_wrong.jpg"
 images: ["/images/how_could_I_be_wrong.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt409.mp3"
 ---

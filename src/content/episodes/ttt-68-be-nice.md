@@ -2,8 +2,7 @@
 title: "'TTT 68: Be Nice'"
 date: '2009-03-16T03:40:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/slap.jpg"
-thumbnail: "/images/slap.jpg"
+image: "/images/slap.jpg"
 images: ["/images/slap.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt68.mp3"
 ---

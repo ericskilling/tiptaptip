@@ -2,8 +2,7 @@
 title: "'TTT 533: Art For Art''s Sake'"
 date: '2022-01-09T04:08:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fine-art.jpg"
-thumbnail: "/images/fine-art.jpg"
+image: "/images/fine-art.jpg"
 images: ["/images/fine-art.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt533.mp3"
 ---

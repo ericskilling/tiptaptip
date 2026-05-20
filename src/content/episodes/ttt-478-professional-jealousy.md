@@ -2,8 +2,7 @@
 title: "'TTT 478: Professional Jealousy'"
 date: '2018-05-20T22:57:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ohno.jpg"
-thumbnail: "/images/ohno.jpg"
+image: "/images/ohno.jpg"
 images: ["/images/ohno.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt478.mp3"
 ---

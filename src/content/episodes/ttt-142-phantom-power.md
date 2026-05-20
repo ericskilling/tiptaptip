@@ -2,8 +2,7 @@
 title: "'TTT 142: Phantom Power'"
 date: '2010-02-04T06:53:05+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/phantom.jpg"
-thumbnail: "/images/phantom.jpg"
+image: "/images/phantom.jpg"
 images: ["/images/phantom.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt142.mp3"
 ---

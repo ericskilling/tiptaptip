@@ -2,8 +2,7 @@
 title: "'TTT 335: Watch Your Ass!'"
 date: '2013-01-10T14:19:33+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/watchass1.jpg"
-thumbnail: "/images/watchass1.jpg"
+image: "/images/watchass1.jpg"
 images: ["/images/watchass1.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt335.mp3"
 ---

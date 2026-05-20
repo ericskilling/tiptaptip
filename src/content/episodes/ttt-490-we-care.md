@@ -2,8 +2,7 @@
 title: "'TTT 490: We Care'"
 date: '2019-01-19T08:37:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/care.jpg"
-thumbnail: "/images/care.jpg"
+image: "/images/care.jpg"
 images: ["/images/care.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt490.mp3"
 ---

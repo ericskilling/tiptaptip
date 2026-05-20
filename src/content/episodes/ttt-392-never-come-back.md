@@ -2,8 +2,7 @@
 title: "'TTT 392: Never Come Back'"
 date: '2014-08-09T23:49:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/never_come_back.jpg"
-thumbnail: "/images/never_come_back.jpg"
+image: "/images/never_come_back.jpg"
 images: ["/images/never_come_back.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt392.mp3"
 ---

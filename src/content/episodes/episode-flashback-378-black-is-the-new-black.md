@@ -2,8 +2,7 @@
 title: "'Episode Flashback —  378: Black Is The New Black'"
 date: '2018-08-19T23:50:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/blackblack.jpg"
-thumbnail: "/images/blackblack.jpg"
+image: "/images/blackblack.jpg"
 images: ["/images/blackblack.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt378.mp3"
 ---

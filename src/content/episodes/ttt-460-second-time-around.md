@@ -2,8 +2,7 @@
 title: "'TTT 460: Second Time Around'"
 date: '2017-07-04T04:10:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/secondtime.jpg"
-thumbnail: "/images/secondtime.jpg"
+image: "/images/secondtime.jpg"
 images: ["/images/secondtime.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt460.mp3"
 ---

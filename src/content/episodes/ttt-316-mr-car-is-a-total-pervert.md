@@ -2,8 +2,7 @@
 title: "'TTT 316: Mr. Car Is A Total Pervert'"
 date: '2012-07-09T13:18:24+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/mistercar.jpg"
-thumbnail: "/images/mistercar.jpg"
+image: "/images/mistercar.jpg"
 images: ["/images/mistercar.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt316.mp3"
 ---

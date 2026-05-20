@@ -2,8 +2,7 @@
 title: "'TTT 206: Generalizations'"
 date: '2010-12-30T04:01:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/menwomen.jpg"
-thumbnail: "/images/menwomen.jpg"
+image: "/images/menwomen.jpg"
 images: ["/images/menwomen.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt206.mp3"
 ---

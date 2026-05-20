@@ -2,8 +2,7 @@
 title: "'TTT 103: Trouble Every Day'"
 date: '2009-08-10T04:29:33+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/poster.jpg"
-thumbnail: "/images/poster.jpg"
+image: "/images/poster.jpg"
 images: ["/images/poster.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt103.mp3"
 ---

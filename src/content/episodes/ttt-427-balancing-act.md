@@ -2,8 +2,7 @@
 title: "'TTT 427: Balancing Act'"
 date: '2016-01-05T05:12:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/balance.jpg"
-thumbnail: "/images/balance.jpg"
+image: "/images/balance.jpg"
 images: ["/images/balance.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt427.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 482: Career Opportunities'"
 date: '2018-07-15T06:00:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/career.jpg"
-thumbnail: "/images/career.jpg"
+image: "/images/career.jpg"
 images: ["/images/career.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt482.mp3"
 ---

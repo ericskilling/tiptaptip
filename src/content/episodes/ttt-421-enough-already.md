@@ -2,8 +2,7 @@
 title: "'TTT 421: Enough Already!'"
 date: '2015-08-23T02:07:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/enoughalready.jpg"
-thumbnail: "/images/enoughalready.jpg"
+image: "/images/enoughalready.jpg"
 images: ["/images/enoughalready.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/Enough_Already_Eric_Skillings_Summer_2015_Mix.m4a"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 146: Dinner For Two'"
 date: '2010-02-25T06:09:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dinner.jpg"
-thumbnail: "/images/dinner.jpg"
+image: "/images/dinner.jpg"
 images: ["/images/dinner.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt146.mp3"
 ---

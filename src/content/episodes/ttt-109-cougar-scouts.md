@@ -2,8 +2,7 @@
 title: "'TTT 109: Cougar Scouts'"
 date: '2009-09-03T04:32:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cougar1.jpg"
-thumbnail: "/images/cougar1.jpg"
+image: "/images/cougar1.jpg"
 images: ["/images/cougar1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt109.mp3"
 ---

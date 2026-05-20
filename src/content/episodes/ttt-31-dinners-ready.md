@@ -2,8 +2,7 @@
 title: "'TTT 31: Dinner''s Ready'"
 date: '2008-10-07T03:42:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dinner-is-ready1.jpg"
-thumbnail: "/images/dinner-is-ready1.jpg"
+image: "/images/dinner-is-ready1.jpg"
 images: ["/images/dinner-is-ready1.jpg"]
 podcast_file: "http://archive.org/download/ttt31/ttt31.mp3"
 ---

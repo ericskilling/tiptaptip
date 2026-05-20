@@ -2,8 +2,7 @@
 title: "'TTT 510: Descent Into Chaos'"
 date: '2020-03-10T02:47:38+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/chaos.jpg"
-thumbnail: "/images/chaos.jpg"
+image: "/images/chaos.jpg"
 images: ["/images/chaos.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt510.mp3"
 ---

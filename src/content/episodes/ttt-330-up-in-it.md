@@ -2,8 +2,7 @@
 title: "'TTT 330: Up In It'"
 date: '2012-11-23T05:01:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/upinit.jpg"
-thumbnail: "/images/upinit.jpg"
+image: "/images/upinit.jpg"
 images: ["/images/upinit.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt330.mp3"
 ---

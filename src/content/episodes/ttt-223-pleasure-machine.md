@@ -2,8 +2,7 @@
 title: "'TTT 223: Pleasure Machine'"
 date: '2011-03-07T05:26:24+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/front.jpg"
-thumbnail: "/images/front.jpg"
+image: "/images/front.jpg"
 images: ["/images/front.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt223.mp3"
 ---

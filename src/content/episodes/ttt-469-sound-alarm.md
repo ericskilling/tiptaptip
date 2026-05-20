@@ -2,8 +2,7 @@
 title: "'TTT 469: Sound The Alarm!'"
 date: '2017-12-17T21:35:19+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sound.jpg"
-thumbnail: "/images/sound.jpg"
+image: "/images/sound.jpg"
 images: ["/images/sound.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt469.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 530: Pants Optional'"
 date: '2021-07-02T00:47:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/optional.jpg"
-thumbnail: "/images/optional.jpg"
+image: "/images/optional.jpg"
 images: ["/images/optional.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt530.mp3"
 ---

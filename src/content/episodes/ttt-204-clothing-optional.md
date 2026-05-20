@@ -2,8 +2,7 @@
 title: "'TTT 204: Clothing Optional'"
 date: '2010-12-16T04:14:00+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/nudisttt.jpg"
-thumbnail: "/images/nudisttt.jpg"
+image: "/images/nudisttt.jpg"
 images: ["/images/nudisttt.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt204.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 550: Against The Rules'"
 date: '2024-05-06T01:02:26+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gravy.jpg"
-thumbnail: "/images/gravy.jpg"
+image: "/images/gravy.jpg"
 images: ["/images/gravy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt550.mp3"
 ---

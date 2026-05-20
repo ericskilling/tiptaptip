@@ -2,8 +2,7 @@
 title: "'TTT 257: Teamwork'"
 date: '2011-08-11T04:14:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/teamwork.jpg"
-thumbnail: "/images/teamwork.jpg"
+image: "/images/teamwork.jpg"
 images: ["/images/teamwork.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt257.mp3"
 ---

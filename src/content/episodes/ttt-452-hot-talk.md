@@ -2,8 +2,7 @@
 title: "'TTT 452: Hot Talk'"
 date: '2017-02-21T05:20:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hottalk.jpeg"
-thumbnail: "/images/hottalk.jpeg"
+image: "/images/hottalk.jpeg"
 images: ["/images/hottalk.jpeg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt452.mp3"
 ---

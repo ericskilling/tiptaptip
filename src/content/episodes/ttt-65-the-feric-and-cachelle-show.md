@@ -2,8 +2,7 @@
 title: "'TTT 65: The Feric and Cachelle Show'"
 date: '2009-03-03T05:08:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/imposter.jpg"
-thumbnail: "/images/imposter.jpg"
+image: "/images/imposter.jpg"
 images: ["/images/imposter.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt65.mp3"
 ---

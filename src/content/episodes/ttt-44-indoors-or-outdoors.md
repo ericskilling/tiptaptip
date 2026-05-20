@@ -2,8 +2,7 @@
 title: "'TTT 44: Indoors or Outdoors'"
 date: '2008-12-02T04:50:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cushionfort1.jpg"
-thumbnail: "/images/cushionfort1.jpg"
+image: "/images/cushionfort1.jpg"
 images: ["/images/cushionfort1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt44.mp3"
 ---

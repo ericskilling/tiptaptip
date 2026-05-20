@@ -2,8 +2,7 @@
 title: "'TTT 528: No Hard Feelings'"
 date: '2021-05-09T21:46:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/feel.jpg"
-thumbnail: "/images/feel.jpg"
+image: "/images/feel.jpg"
 images: ["/images/feel.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt528.mp3"
 ---

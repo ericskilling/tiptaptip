@@ -2,8 +2,7 @@
 title: "'TTT 317: Bringing Up Baby'"
 date: '2012-07-15T02:45:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/baby.jpg"
-thumbnail: "/images/baby.jpg"
+image: "/images/baby.jpg"
 images: ["/images/baby.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt317.mp3"
 ---

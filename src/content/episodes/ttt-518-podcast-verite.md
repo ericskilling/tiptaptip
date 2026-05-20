@@ -2,8 +2,7 @@
 title: "'TTT 518: Podcast Vérité'"
 date: '2020-09-07T23:24:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/verite.jpg"
-thumbnail: "/images/verite.jpg"
+image: "/images/verite.jpg"
 images: ["/images/verite.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt518.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 43: Fight! Fight! Fight!'"
 date: '2008-11-29T04:55:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/babyfight1.jpg"
-thumbnail: "/images/babyfight1.jpg"
+image: "/images/babyfight1.jpg"
 images: ["/images/babyfight1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt43.mp3"
 ---

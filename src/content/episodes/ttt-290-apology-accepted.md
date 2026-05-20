@@ -2,8 +2,7 @@
 title: "'TTT 290: Apology Accepted'"
 date: '2012-02-09T05:18:05+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sorry.jpg"
-thumbnail: "/images/sorry.jpg"
+image: "/images/sorry.jpg"
 images: ["/images/sorry.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt290.mp3"
 ---

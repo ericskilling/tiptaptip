@@ -2,8 +2,7 @@
 title: "'TTT 182: Sweater Weather'"
 date: '2010-08-30T04:40:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sweater11.jpg"
-thumbnail: "/images/sweater11.jpg"
+image: "/images/sweater11.jpg"
 images: ["/images/sweater11.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt182.mp3"
 ---

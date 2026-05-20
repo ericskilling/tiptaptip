@@ -2,8 +2,7 @@
 title: "'TTT 487: Previous Engagements'"
 date: '2018-11-13T00:58:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/previous-engagements.jpg"
-thumbnail: "/images/previous-engagements.jpg"
+image: "/images/previous-engagements.jpg"
 images: ["/images/previous-engagements.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt487.mp3"
 ---

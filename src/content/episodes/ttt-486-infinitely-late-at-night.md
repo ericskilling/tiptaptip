@@ -2,8 +2,7 @@
 title: "'TTT 486: Infinitely Late at Night'"
 date: '2018-10-21T22:36:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/latenight.jpg"
-thumbnail: "/images/latenight.jpg"
+image: "/images/latenight.jpg"
 images: ["/images/latenight.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt486.mp3"
 ---

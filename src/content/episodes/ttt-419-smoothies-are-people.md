@@ -2,8 +2,7 @@
 title: "'TTT 419: Smoothies Are People'"
 date: '2015-08-09T22:25:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/smoothies.jpg"
-thumbnail: "/images/smoothies.jpg"
+image: "/images/smoothies.jpg"
 images: ["/images/smoothies.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt419.mp3"
 ---

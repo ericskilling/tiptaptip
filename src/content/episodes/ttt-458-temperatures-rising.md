@@ -2,8 +2,7 @@
 title: "'TTT 458: Temperature''s Rising'"
 date: '2017-05-07T19:25:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/temperature.jpg"
-thumbnail: "/images/temperature.jpg"
+image: "/images/temperature.jpg"
 images: ["/images/temperature.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt458.mp3"
 ---

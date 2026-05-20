@@ -2,8 +2,7 @@
 title: "'TTT 143: Lets Go Crazy!'"
 date: '2010-02-11T05:41:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/crazy.jpg"
-thumbnail: "/images/crazy.jpg"
+image: "/images/crazy.jpg"
 images: ["/images/crazy.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt143.mp3"
 ---

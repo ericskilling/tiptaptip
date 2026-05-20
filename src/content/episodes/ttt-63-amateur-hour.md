@@ -2,8 +2,7 @@
 title: "'TTT 63: Amateur Hour'"
 date: '2009-02-23T04:47:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/haircomp.jpg"
-thumbnail: "/images/haircomp.jpg"
+image: "/images/haircomp.jpg"
 images: ["/images/haircomp.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt63.mp3"
 ---

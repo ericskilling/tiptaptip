@@ -2,8 +2,7 @@
 title: "'TTT 532: Spooky Ooky'"
 date: '2021-10-24T17:36:27+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ooky.jpg"
-thumbnail: "/images/ooky.jpg"
+image: "/images/ooky.jpg"
 images: ["/images/ooky.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt532.mp3"
 ---

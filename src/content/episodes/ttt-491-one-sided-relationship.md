@@ -2,8 +2,7 @@
 title: "'TTT 491: One-Sided Relationship'"
 date: '2019-02-04T23:27:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/green.jpg"
-thumbnail: "/images/green.jpg"
+image: "/images/green.jpg"
 images: ["/images/green.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt491.mp3"
 ---

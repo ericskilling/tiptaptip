@@ -2,8 +2,7 @@
 title: "'TTT 205: Group Activities'"
 date: '2010-12-20T05:21:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/activity.jpg"
-thumbnail: "/images/activity.jpg"
+image: "/images/activity.jpg"
 images: ["/images/activity.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt205.mp3"
 ---

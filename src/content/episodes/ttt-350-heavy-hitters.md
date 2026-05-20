@@ -2,8 +2,7 @@
 title: "'TTT 350: Heavy Hitters'"
 date: '2013-05-05T22:47:19+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/heavy_hitters.jpg"
-thumbnail: "/images/heavy_hitters.jpg"
+image: "/images/heavy_hitters.jpg"
 images: ["/images/heavy_hitters.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt350.mp3"
 ---

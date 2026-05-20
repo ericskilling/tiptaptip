@@ -2,8 +2,7 @@
 title: "'TTT 291: Hug Life'"
 date: '2012-02-20T05:04:28+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/huglife.jpg"
-thumbnail: "/images/huglife.jpg"
+image: "/images/huglife.jpg"
 images: ["/images/huglife.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt291-1.mp3"
 ---

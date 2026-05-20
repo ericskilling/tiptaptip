@@ -2,8 +2,7 @@
 title: "'TTT 94: Get Out Now!'"
 date: '2009-07-03T04:57:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/monstercism.jpg"
-thumbnail: "/images/monstercism.jpg"
+image: "/images/monstercism.jpg"
 images: ["/images/monstercism.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt94.mp3"
 ---

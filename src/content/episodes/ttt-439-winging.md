@@ -2,8 +2,7 @@
 title: "'TTT 439: Winging It'"
 date: '2016-06-13T23:46:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wingingit.jpg"
-thumbnail: "/images/wingingit.jpg"
+image: "/images/wingingit.jpg"
 images: ["/images/wingingit.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt439.mp3"
 ---

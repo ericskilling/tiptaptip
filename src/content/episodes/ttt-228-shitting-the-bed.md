@@ -2,8 +2,7 @@
 title: "'TTT 228: Shitting The Bed'"
 date: '2011-03-28T04:31:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/lawless.jpg"
-thumbnail: "/images/lawless.jpg"
+image: "/images/lawless.jpg"
 images: ["/images/lawless.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt228.mp3"
 ---

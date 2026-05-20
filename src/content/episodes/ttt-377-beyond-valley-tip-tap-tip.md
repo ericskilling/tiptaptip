@@ -2,8 +2,7 @@
 title: "'TTT 377: Beyond The Valley Of Tip Tap Tip'"
 date: '2014-02-23T21:53:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/beyond_ttt.jpg"
-thumbnail: "/images/beyond_ttt.jpg"
+image: "/images/beyond_ttt.jpg"
 images: ["/images/beyond_ttt.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt377.mp3"
 ---

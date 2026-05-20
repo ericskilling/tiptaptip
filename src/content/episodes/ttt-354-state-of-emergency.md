@@ -2,8 +2,7 @@
 title: "'TTT 354: State Of Emergency'"
 date: '2013-06-23T21:01:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/emergency.jpg"
-thumbnail: "/images/emergency.jpg"
+image: "/images/emergency.jpg"
 images: ["/images/emergency.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt354.mp3"
 ---

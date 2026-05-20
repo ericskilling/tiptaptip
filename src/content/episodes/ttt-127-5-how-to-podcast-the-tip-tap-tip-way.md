@@ -2,8 +2,7 @@
 title: "'TTT 127.5: How To Podcast The Tip Tap Tip Way'"
 date: '2009-11-27T22:24:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/curtain1.jpg"
-thumbnail: "/images/curtain1.jpg"
+image: "/images/curtain1.jpg"
 images: ["/images/curtain1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt127.5.mp3"
 ---

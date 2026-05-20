@@ -2,8 +2,7 @@
 title: "'TTT 359: Private Property'"
 date: '2013-08-11T21:54:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/private_property.jpg"
-thumbnail: "/images/private_property.jpg"
+image: "/images/private_property.jpg"
 images: ["/images/private_property.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt359.mp3"
 ---

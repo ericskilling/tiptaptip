@@ -2,8 +2,7 @@
 title: "'TTT 158: Taking One For The Team'"
 date: '2010-04-29T04:38:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/mslk.jpg"
-thumbnail: "/images/mslk.jpg"
+image: "/images/mslk.jpg"
 images: ["/images/mslk.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt158.mp3"
 ---

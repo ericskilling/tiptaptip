@@ -2,8 +2,7 @@
 title: "'TTT 555: Interchangeable Parts'"
 date: '2025-02-16T17:08:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/podbot-1.jpg"
-thumbnail: "/images/podbot-1.jpg"
+image: "/images/podbot-1.jpg"
 images: ["/images/podbot-1.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt555.mp3"
 ---

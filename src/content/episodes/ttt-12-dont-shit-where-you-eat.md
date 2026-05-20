@@ -2,8 +2,7 @@
 title: "'TTT 12: Don''t Shit Where You Eat'"
 date: '2008-08-08T05:26:03+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ipod-hat-makes-you-look-stupid1.jpg"
-thumbnail: "/images/ipod-hat-makes-you-look-stupid1.jpg"
+image: "/images/ipod-hat-makes-you-look-stupid1.jpg"
 images: ["/images/ipod-hat-makes-you-look-stupid1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt12DontShitWhereYouEat/ttt12.mp3"
 ---

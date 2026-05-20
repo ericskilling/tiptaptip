@@ -2,8 +2,7 @@
 title: "'TTT 386: Personal Opinions'"
 date: '2014-06-02T01:00:05+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/personal_opinions.jpg"
-thumbnail: "/images/personal_opinions.jpg"
+image: "/images/personal_opinions.jpg"
 images: ["/images/personal_opinions.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt386.mp3"
 ---

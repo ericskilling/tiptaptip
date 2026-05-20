@@ -2,8 +2,7 @@
 title: "'TTT 367: Dangle A Carrot'"
 date: '2013-10-27T22:04:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dangle_a_carrot.jpg"
-thumbnail: "/images/dangle_a_carrot.jpg"
+image: "/images/dangle_a_carrot.jpg"
 images: ["/images/dangle_a_carrot.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt367.mp3"
 ---

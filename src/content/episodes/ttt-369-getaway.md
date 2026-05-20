@@ -2,8 +2,7 @@
 title: "'TTT 369: Getaway'"
 date: '2013-11-24T22:01:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/getaway_small.jpg"
-thumbnail: "/images/getaway_small.jpg"
+image: "/images/getaway_small.jpg"
 images: ["/images/getaway_small.jpg"]
 podcast_file: "http://archive.org/download/ttt369/ttt369.m4a"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 406: Last Chance To Dance'"
 date: '2015-02-16T05:27:38+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/last_chance.jpg"
-thumbnail: "/images/last_chance.jpg"
+image: "/images/last_chance.jpg"
 images: ["/images/last_chance.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt406.mp3"
 ---

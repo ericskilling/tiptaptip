@@ -2,8 +2,7 @@
 title: "'TTT 493: Key Takeaways'"
 date: '2019-03-11T01:40:33+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/take.jpg"
-thumbnail: "/images/take.jpg"
+image: "/images/take.jpg"
 images: ["/images/take.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt493.mp3"
 ---

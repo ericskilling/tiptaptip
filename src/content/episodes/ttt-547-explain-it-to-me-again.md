@@ -2,8 +2,7 @@
 title: "'TTT 547: Explain It To Me Again'"
 date: '2023-11-02T13:24:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/spaghetti.jpg"
-thumbnail: "/images/spaghetti.jpg"
+image: "/images/spaghetti.jpg"
 images: ["/images/spaghetti.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt547a.mp3"
 ---

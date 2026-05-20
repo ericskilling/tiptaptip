@@ -2,8 +2,7 @@
 title: "'TTT 368: Balls To The Wall'"
 date: '2013-11-12T03:28:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/balls.jpg"
-thumbnail: "/images/balls.jpg"
+image: "/images/balls.jpg"
 images: ["/images/balls.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt368.mp3"
 ---

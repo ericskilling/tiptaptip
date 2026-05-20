@@ -2,8 +2,7 @@
 title: "'TTT 438: Fit To Be Tied'"
 date: '2016-05-24T03:58:32+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fittobetied.jpg"
-thumbnail: "/images/fittobetied.jpg"
+image: "/images/fittobetied.jpg"
 images: ["/images/fittobetied.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt438.mp3"
 ---

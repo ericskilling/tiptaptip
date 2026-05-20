@@ -2,8 +2,7 @@
 title: "'TTT 483: That Happy Feeling'"
 date: '2018-09-03T23:05:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/happyfeel.jpg"
-thumbnail: "/images/happyfeel.jpg"
+image: "/images/happyfeel.jpg"
 images: ["/images/happyfeel.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt483.mp3"
 ---

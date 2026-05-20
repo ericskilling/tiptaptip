@@ -2,8 +2,7 @@
 title: "'TTT 6: Unicorn Lee Roth'"
 date: '2008-07-18T04:53:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/simpsons1.jpg"
-thumbnail: "/images/simpsons1.jpg"
+image: "/images/simpsons1.jpg"
 images: ["/images/simpsons1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt6UnicornLeeRoth/ttt6.mp3"
 ---

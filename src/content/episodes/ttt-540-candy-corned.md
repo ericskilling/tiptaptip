@@ -2,8 +2,7 @@
 title: "'TTT 540: Candy Corned'"
 date: '2022-10-31T00:16:45+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/corned.jpg"
-thumbnail: "/images/corned.jpg"
+image: "/images/corned.jpg"
 images: ["/images/corned.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt540.mp3"
 ---

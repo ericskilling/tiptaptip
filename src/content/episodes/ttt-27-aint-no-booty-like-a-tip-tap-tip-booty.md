@@ -2,8 +2,7 @@
 title: "'TTT 27: Ain''t no booty like a Tip Tap Tip booty!'"
 date: '2008-09-23T04:34:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/3letters1.jpg"
-thumbnail: "/images/3letters1.jpg"
+image: "/images/3letters1.jpg"
 images: ["/images/3letters1.jpg"]
 podcast_file: "http://archive.org/download/ttt27/ttt27.mp3"
 ---

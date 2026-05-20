@@ -2,8 +2,7 @@
 title: "'TTT 287: Life Imitates Art'"
 date: '2012-01-26T05:02:02+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/lifeart.jpg"
-thumbnail: "/images/lifeart.jpg"
+image: "/images/lifeart.jpg"
 images: ["/images/lifeart.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt287.mp3"
 ---

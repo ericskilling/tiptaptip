@@ -2,8 +2,7 @@
 title: "'TTT 393: Lock The Doors'"
 date: '2014-08-25T03:49:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/world_financial_group_scam_lies.jpg"
-thumbnail: "/images/world_financial_group_scam_lies.jpg"
+image: "/images/world_financial_group_scam_lies.jpg"
 images: ["/images/world_financial_group_scam_lies.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt393.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 111: The Power Of Love'"
 date: '2009-09-11T04:24:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/power.jpg"
-thumbnail: "/images/power.jpg"
+image: "/images/power.jpg"
 images: ["/images/power.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt111.mp3"
 ---

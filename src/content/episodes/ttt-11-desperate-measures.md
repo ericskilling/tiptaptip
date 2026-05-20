@@ -2,8 +2,7 @@
 title: "'TTT 11: Desperate Measures'"
 date: '2008-08-06T04:45:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/radio4601.jpg"
-thumbnail: "/images/radio4601.jpg"
+image: "/images/radio4601.jpg"
 images: ["/images/radio4601.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt11DesperateMeasures/ttt11.mp3"
 ---

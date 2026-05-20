@@ -2,8 +2,7 @@
 title: "'TTT 375: Gold And Diamonds'"
 date: '2014-01-26T21:14:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gold-diamonds.jpg"
-thumbnail: "/images/gold-diamonds.jpg"
+image: "/images/gold-diamonds.jpg"
 images: ["/images/gold-diamonds.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt375.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 235: Disagreeable'"
 date: '2011-04-27T04:33:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/disagreeable.jpg"
-thumbnail: "/images/disagreeable.jpg"
+image: "/images/disagreeable.jpg"
 images: ["/images/disagreeable.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt235.mp3"
 ---

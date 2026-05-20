@@ -2,8 +2,7 @@
 title: "'TTT 284: Mysteries Of The Universe'"
 date: '2012-01-12T06:38:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/vermin.jpg"
-thumbnail: "/images/vermin.jpg"
+image: "/images/vermin.jpg"
 images: ["/images/vermin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt284-1.mp3"
 ---

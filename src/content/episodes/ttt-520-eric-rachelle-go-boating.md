@@ -2,8 +2,7 @@
 title: "'TTT 520: Eric & Rachelle Go Boating'"
 date: '2020-11-08T21:50:23+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/boat.jpg"
-thumbnail: "/images/boat.jpg"
+image: "/images/boat.jpg"
 images: ["/images/boat.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt520.mp3"
 ---

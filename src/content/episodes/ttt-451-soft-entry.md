@@ -2,8 +2,7 @@
 title: "'TTT 451: Soft Entry'"
 date: '2017-02-04T19:29:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/softentry.jpg"
-thumbnail: "/images/softentry.jpg"
+image: "/images/softentry.jpg"
 images: ["/images/softentry.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt451.mp3"
 ---

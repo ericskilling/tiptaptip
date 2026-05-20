@@ -2,8 +2,7 @@
 title: "'TTT 62: World Famous'"
 date: '2009-02-20T05:23:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ev2008winners.jpg"
-thumbnail: "/images/ev2008winners.jpg"
+image: "/images/ev2008winners.jpg"
 images: ["/images/ev2008winners.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt62.mp3"
 ---

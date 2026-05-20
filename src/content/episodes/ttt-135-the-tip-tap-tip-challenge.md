@@ -2,8 +2,7 @@
 title: "'TTT 135: The Tip Tap Tip Challenge'"
 date: '2010-01-04T01:57:02+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/challenge.jpg"
-thumbnail: "/images/challenge.jpg"
+image: "/images/challenge.jpg"
 images: ["/images/challenge.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt135.mp3"
 ---

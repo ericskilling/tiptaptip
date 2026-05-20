@@ -2,8 +2,7 @@
 title: "'TTT 159: Bend From The Hips'"
 date: '2010-05-06T04:30:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bend.jpg"
-thumbnail: "/images/bend.jpg"
+image: "/images/bend.jpg"
 images: ["/images/bend.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt159.mp3"
 ---

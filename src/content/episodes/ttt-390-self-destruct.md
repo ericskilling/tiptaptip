@@ -2,8 +2,7 @@
 title: "'TTT 390: Self Destruct'"
 date: '2014-07-21T04:12:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/self_destruct.jpg"
-thumbnail: "/images/self_destruct.jpg"
+image: "/images/self_destruct.jpg"
 images: ["/images/self_destruct.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt390.mp3"
 ---

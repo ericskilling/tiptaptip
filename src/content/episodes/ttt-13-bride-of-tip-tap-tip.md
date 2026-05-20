@@ -2,8 +2,7 @@
 title: "'TTT 13: Bride of Tip Tap Tip'"
 date: '2008-08-12T04:19:14+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/chucky1.jpg"
-thumbnail: "/images/chucky1.jpg"
+image: "/images/chucky1.jpg"
 images: ["/images/chucky1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt13BrideOfTipTapTip/ttt13.mp3"
 ---

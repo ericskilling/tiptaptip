@@ -2,8 +2,7 @@
 title: "'TTT 14: Pizza Party Bubblebath'"
 date: '2008-08-13T04:31:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pizza1.jpg"
-thumbnail: "/images/pizza1.jpg"
+image: "/images/pizza1.jpg"
 images: ["/images/pizza1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt14PizzaPartyBubblebath/ttt14.mp3"
 ---

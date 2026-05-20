@@ -2,8 +2,7 @@
 title: "'Episode Flashback —  005: Cleanse Me Up, Cleanse Me Down'"
 date: '2018-07-29T02:18:19+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sludge.jpg"
-thumbnail: "/images/sludge.jpg"
+image: "/images/sludge.jpg"
 images: ["/images/sludge.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt-flashback-ttt005.mp3"
 ---

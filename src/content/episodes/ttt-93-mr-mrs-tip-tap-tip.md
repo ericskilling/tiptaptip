@@ -2,8 +2,7 @@
 title: "'TTT 93: Mr. & Mrs. Tip Tap Tip'"
 date: '2009-06-30T04:05:26+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wedding1.jpg"
-thumbnail: "/images/wedding1.jpg"
+image: "/images/wedding1.jpg"
 images: ["/images/wedding1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt93.mp3"
 ---

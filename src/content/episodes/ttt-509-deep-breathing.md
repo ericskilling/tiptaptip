@@ -2,8 +2,7 @@
 title: "'TTT 509: Deep Breathing'"
 date: '2020-03-01T23:49:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/breathe.jpg"
-thumbnail: "/images/breathe.jpg"
+image: "/images/breathe.jpg"
 images: ["/images/breathe.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt509.mp3"
 ---

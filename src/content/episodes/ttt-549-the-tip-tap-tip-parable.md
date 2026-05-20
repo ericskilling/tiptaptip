@@ -2,8 +2,7 @@
 title: "'TTT 549: The Tip Tap Tip Parable'"
 date: '2024-03-03T23:56:46+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/parable2.jpg"
-thumbnail: "/images/parable2.jpg"
+image: "/images/parable2.jpg"
 images: ["/images/parable2.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt549.mp3"
 ---

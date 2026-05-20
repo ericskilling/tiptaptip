@@ -2,8 +2,7 @@
 title: "'TTT 2: Eric Ruins The Show'"
 date: '2008-07-07T19:03:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/20080506-poutine1.jpg"
-thumbnail: "/images/20080506-poutine1.jpg"
+image: "/images/20080506-poutine1.jpg"
 images: ["/images/20080506-poutine1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt2EricRuinsTheShow/ttt2.mp3"
 ---

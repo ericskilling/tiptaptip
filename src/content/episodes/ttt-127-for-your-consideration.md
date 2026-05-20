@@ -2,8 +2,7 @@
 title: "'TTT 127: For Your Consideration'"
 date: '2009-11-26T05:38:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/consideration1.jpg"
-thumbnail: "/images/consideration1.jpg"
+image: "/images/consideration1.jpg"
 images: ["/images/consideration1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt127.mp3"
 ---

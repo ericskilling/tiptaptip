@@ -2,8 +2,7 @@
 title: "'TTT 553: Buddy'"
 date: '2024-10-14T20:07:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/buddy.jpg"
-thumbnail: "/images/buddy.jpg"
+image: "/images/buddy.jpg"
 images: ["/images/buddy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt553.mp3"
 ---

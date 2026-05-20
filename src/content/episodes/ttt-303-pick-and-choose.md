@@ -2,8 +2,7 @@
 title: "'TTT 303: Pick And Choose'"
 date: '2012-04-19T04:13:14+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pick.jpg"
-thumbnail: "/images/pick.jpg"
+image: "/images/pick.jpg"
 images: ["/images/pick.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt303.mp3"
 ---

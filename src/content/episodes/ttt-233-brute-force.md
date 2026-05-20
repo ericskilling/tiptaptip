@@ -2,8 +2,7 @@
 title: "'TTT 233: Brute Force'"
 date: '2011-04-18T04:20:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hammer.jpg"
-thumbnail: "/images/hammer.jpg"
+image: "/images/hammer.jpg"
 images: ["/images/hammer.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt233.mp3"
 ---

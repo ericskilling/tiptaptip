@@ -2,8 +2,7 @@
 title: "'TTT 461: Team Tip Tap Tip'"
 date: '2017-07-22T05:25:26+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/teamwork.jpg"
-thumbnail: "/images/teamwork.jpg"
+image: "/images/teamwork.jpg"
 images: ["/images/teamwork.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt461.mp3"
 ---

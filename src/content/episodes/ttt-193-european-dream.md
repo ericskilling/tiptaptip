@@ -2,8 +2,7 @@
 title: "'TTT 193: European Dream'"
 date: '2010-10-21T03:01:04+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/euro.jpg"
-thumbnail: "/images/euro.jpg"
+image: "/images/euro.jpg"
 images: ["/images/euro.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt193.mp3"
 ---

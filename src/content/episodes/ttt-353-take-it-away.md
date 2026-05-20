@@ -2,8 +2,7 @@
 title: "'TTT 353: Take It Away'"
 date: '2013-06-09T22:42:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/takeitaway.jpg"
-thumbnail: "/images/takeitaway.jpg"
+image: "/images/takeitaway.jpg"
 images: ["/images/takeitaway.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt353.mp3"
 ---

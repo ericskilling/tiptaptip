@@ -2,8 +2,7 @@
 title: "'TTT 7: Weekend/Weak End'"
 date: '2008-07-22T04:42:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/p-29091-39021-smallpet1.jpg"
-thumbnail: "/images/p-29091-39021-smallpet1.jpg"
+image: "/images/p-29091-39021-smallpet1.jpg"
 images: ["/images/p-29091-39021-smallpet1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt7WeekendweakEnd/ttt7.mp3"
 ---

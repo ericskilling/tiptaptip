@@ -2,8 +2,7 @@
 title: "'TTT 337: A Nerd Is A Nerd Is A Nerd'"
 date: '2013-01-28T01:04:33+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/anerdisanerdisanerd.jpg"
-thumbnail: "/images/anerdisanerdisanerd.jpg"
+image: "/images/anerdisanerdisanerd.jpg"
 images: ["/images/anerdisanerdisanerd.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt337.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 476: Strap On!'"
 date: '2018-04-14T05:51:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/strap.jpg"
-thumbnail: "/images/strap.jpg"
+image: "/images/strap.jpg"
 images: ["/images/strap.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt476.mp3"
 ---

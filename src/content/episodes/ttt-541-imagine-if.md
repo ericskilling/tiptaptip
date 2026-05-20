@@ -2,8 +2,7 @@
 title: "'TTT 541: Imagine If'"
 date: '2023-01-16T02:39:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/jelly.jpg"
-thumbnail: "/images/jelly.jpg"
+image: "/images/jelly.jpg"
 images: ["/images/jelly.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt541.mp3"
 ---

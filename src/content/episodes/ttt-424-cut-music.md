@@ -2,8 +2,7 @@
 title: "'TTT 424: Cut To Music!'"
 date: '2015-12-07T04:40:22+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cut_to_music.jpg"
-thumbnail: "/images/cut_to_music.jpg"
+image: "/images/cut_to_music.jpg"
 images: ["/images/cut_to_music.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt424.mp3"
 ---

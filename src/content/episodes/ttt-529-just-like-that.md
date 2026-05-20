@@ -2,8 +2,7 @@
 title: "'TTT 529: Just Like That'"
 date: '2021-05-23T23:17:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/likethat.jpg"
-thumbnail: "/images/likethat.jpg"
+image: "/images/likethat.jpg"
 images: ["/images/likethat.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt529.mp3"
 ---

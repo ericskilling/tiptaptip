@@ -2,8 +2,7 @@
 title: "'TTT 488: I Love Your Ass'"
 date: '2018-12-09T04:20:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ass.jpg"
-thumbnail: "/images/ass.jpg"
+image: "/images/ass.jpg"
 images: ["/images/ass.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt488.mp3"
 ---

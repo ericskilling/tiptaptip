@@ -2,8 +2,7 @@
 title: "'TTT 26: Bathroom Humor'"
 date: '2008-09-18T05:03:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/toilet1.jpg"
-thumbnail: "/images/toilet1.jpg"
+image: "/images/toilet1.jpg"
 images: ["/images/toilet1.jpg"]
 podcast_file: "http://archive.org/download/ttt26/ttt26.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 496: Fundamental Differences'"
 date: '2019-05-01T02:25:38+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fundamental.jpg"
-thumbnail: "/images/fundamental.jpg"
+image: "/images/fundamental.jpg"
 images: ["/images/fundamental.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt496.mp3"
 ---

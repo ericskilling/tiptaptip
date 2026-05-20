@@ -2,8 +2,7 @@
 title: "'TTT 282: Christmas Crackers'"
 date: '2011-12-20T05:40:32+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cracker.jpg"
-thumbnail: "/images/cracker.jpg"
+image: "/images/cracker.jpg"
 images: ["/images/cracker.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt282.mp3"
 ---

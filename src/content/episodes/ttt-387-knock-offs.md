@@ -2,8 +2,7 @@
 title: "'TTT 387: Knock Offs'"
 date: '2014-06-15T22:01:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/knockoffs.jpg"
-thumbnail: "/images/knockoffs.jpg"
+image: "/images/knockoffs.jpg"
 images: ["/images/knockoffs.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt387.mp3"
 ---

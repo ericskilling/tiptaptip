@@ -2,8 +2,7 @@
 title: "'TTT 321: Easy Peasy'"
 date: '2012-08-20T03:58:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/peasy.jpg"
-thumbnail: "/images/peasy.jpg"
+image: "/images/peasy.jpg"
 images: ["/images/peasy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt321.mp3"
 ---

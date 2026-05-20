@@ -2,8 +2,7 @@
 title: "'TTT 417: Wrong Party!'"
 date: '2015-06-22T03:45:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/oops.jpg"
-thumbnail: "/images/oops.jpg"
+image: "/images/oops.jpg"
 images: ["/images/oops.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt417.mp3"
 ---

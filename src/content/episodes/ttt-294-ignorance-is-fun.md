@@ -2,8 +2,7 @@
 title: "'TTT 294: Ignorance Is Fun'"
 date: '2012-03-05T05:28:19+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ignorance.jpg"
-thumbnail: "/images/ignorance.jpg"
+image: "/images/ignorance.jpg"
 images: ["/images/ignorance.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt294.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 357: Careful Consideration'"
 date: '2013-07-15T03:49:38+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/careful_consideration.jpg"
-thumbnail: "/images/careful_consideration.jpg"
+image: "/images/careful_consideration.jpg"
 images: ["/images/careful_consideration.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt357.mp3"
 ---

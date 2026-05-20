@@ -2,8 +2,7 @@
 title: "'TTT 394: For The Ladies'"
 date: '2014-09-07T21:44:21+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/for_the_ladies.jpg"
-thumbnail: "/images/for_the_ladies.jpg"
+image: "/images/for_the_ladies.jpg"
 images: ["/images/for_the_ladies.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt394.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 168: Fact Checking'"
 date: '2010-06-21T04:26:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/band.jpg"
-thumbnail: "/images/band.jpg"
+image: "/images/band.jpg"
 images: ["/images/band.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt168.mp3"
 ---

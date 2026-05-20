@@ -2,8 +2,7 @@
 title: "'TTT 169: Skin Diving'"
 date: '2010-06-29T04:26:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/skin.jpg"
-thumbnail: "/images/skin.jpg"
+image: "/images/skin.jpg"
 images: ["/images/skin.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt169.mp3"
 ---

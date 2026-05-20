@@ -2,8 +2,7 @@
 title: "'REWIND - TTT 68: Be Nice'"
 date: '2011-07-18T03:45:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/slap.jpg"
-thumbnail: "/images/slap.jpg"
+image: "/images/slap.jpg"
 images: ["/images/slap.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt68rewind.mp3"
 ---

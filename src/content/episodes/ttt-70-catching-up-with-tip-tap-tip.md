@@ -2,8 +2,7 @@
 title: "'TTT 70: Catching Up With Tip Tap Tip'"
 date: '2009-03-23T04:16:00+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/protest.jpg"
-thumbnail: "/images/protest.jpg"
+image: "/images/protest.jpg"
 images: ["/images/protest.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt70.mp3"
 ---

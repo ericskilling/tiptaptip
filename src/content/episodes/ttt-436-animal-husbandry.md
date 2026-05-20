@@ -2,8 +2,7 @@
 title: "'TTT 436: Animal Husbandry'"
 date: '2016-05-09T02:32:02+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/animal_husbandry.jpg"
-thumbnail: "/images/animal_husbandry.jpg"
+image: "/images/animal_husbandry.jpg"
 images: ["/images/animal_husbandry.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt436.mp3"
 ---

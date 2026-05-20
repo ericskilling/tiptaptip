@@ -2,8 +2,7 @@
 title: "'TTT 484: Pardon The Interruption'"
 date: '2018-09-17T01:40:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pardon.jpg"
-thumbnail: "/images/pardon.jpg"
+image: "/images/pardon.jpg"
 images: ["/images/pardon.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt484.mp3"
 ---

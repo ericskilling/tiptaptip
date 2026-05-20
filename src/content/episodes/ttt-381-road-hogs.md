@@ -2,8 +2,7 @@
 title: "'TTT 381: Road Hogs'"
 date: '2014-04-21T04:23:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/roadhogs.jpg"
-thumbnail: "/images/roadhogs.jpg"
+image: "/images/roadhogs.jpg"
 images: ["/images/roadhogs.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt381.mp3"
 ---

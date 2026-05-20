@@ -2,8 +2,7 @@
 title: "'TTT 342: Phoning It In'"
 date: '2013-03-10T22:06:05+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/phoningitin.jpg"
-thumbnail: "/images/phoningitin.jpg"
+image: "/images/phoningitin.jpg"
 images: ["/images/phoningitin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt342.mp3"
 ---

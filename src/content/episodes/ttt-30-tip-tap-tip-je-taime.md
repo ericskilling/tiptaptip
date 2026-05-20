@@ -2,8 +2,7 @@
 title: "'TTT 30: Tip Tap Tip je t''aime'"
 date: '2008-10-02T03:12:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/blindness1.jpg"
-thumbnail: "/images/blindness1.jpg"
+image: "/images/blindness1.jpg"
 images: ["/images/blindness1.jpg"]
 podcast_file: "http://archive.org/download/ttt30/ttt30.mp3"
 ---

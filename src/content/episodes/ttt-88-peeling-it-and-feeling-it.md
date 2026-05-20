@@ -2,8 +2,7 @@
 title: "'TTT 88: Peeling It And Feeling It'"
 date: '2009-06-02T04:28:25+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/burn.jpg"
-thumbnail: "/images/burn.jpg"
+image: "/images/burn.jpg"
 images: ["/images/burn.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt88.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 264: Was It Something I Said?'"
 date: '2011-09-05T06:28:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/something.jpg"
-thumbnail: "/images/something.jpg"
+image: "/images/something.jpg"
 images: ["/images/something.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt264.mp3"
 ---

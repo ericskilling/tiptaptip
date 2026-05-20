@@ -2,8 +2,7 @@
 title: "'TTT 558: Play Dates'"
 date: '2025-10-05T18:00:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gadoue.jpg"
-thumbnail: "/images/gadoue.jpg"
+image: "/images/gadoue.jpg"
 images: ["/images/gadoue.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/TTT558.mp3"
 ---

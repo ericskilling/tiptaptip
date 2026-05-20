@@ -2,8 +2,7 @@
 title: "'TTT 358: Alert The Authorities!'"
 date: '2013-07-29T03:30:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/alert_the_auhtorities.jpg"
-thumbnail: "/images/alert_the_auhtorities.jpg"
+image: "/images/alert_the_auhtorities.jpg"
 images: ["/images/alert_the_auhtorities.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt358.mp3"
 ---

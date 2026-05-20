@@ -2,8 +2,7 @@
 title: "'TTT 531: Hot Dog!'"
 date: '2021-08-30T01:13:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/diggity.jpg"
-thumbnail: "/images/diggity.jpg"
+image: "/images/diggity.jpg"
 images: ["/images/diggity.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt531.mp3"
 ---

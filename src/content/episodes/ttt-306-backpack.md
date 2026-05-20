@@ -2,8 +2,7 @@
 title: "'TTT 306: Backpack!'"
 date: '2012-05-07T05:06:21+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/packback.png"
-thumbnail: "/images/packback.png"
+image: "/images/packback.png"
 images: ["/images/packback.png"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt306.mp3"
 ---

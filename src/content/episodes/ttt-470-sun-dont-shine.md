@@ -2,8 +2,7 @@
 title: "'TTT 470: Where The Sun Don''t Shine'"
 date: '2017-12-30T07:26:29+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sunshine.jpg"
-thumbnail: "/images/sunshine.jpg"
+image: "/images/sunshine.jpg"
 images: ["/images/sunshine.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/TTT470.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 49: Pancakes'"
 date: '2008-12-22T02:54:16+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pancakes1.jpg"
-thumbnail: "/images/pancakes1.jpg"
+image: "/images/pancakes1.jpg"
 images: ["/images/pancakes1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt49.mp3"
 ---

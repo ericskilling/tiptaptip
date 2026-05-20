@@ -2,8 +2,7 @@
 title: "'TTT 443: The Number One Podcast In Heaven'"
 date: '2016-09-06T04:14:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/numberone.jpg"
-thumbnail: "/images/numberone.jpg"
+image: "/images/numberone.jpg"
 images: ["/images/numberone.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt443.mp3"
 ---

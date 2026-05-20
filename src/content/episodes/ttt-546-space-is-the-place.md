@@ -2,8 +2,7 @@
 title: "'TTT 546: Space Is The Place'"
 date: '2023-07-16T23:47:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/space.jpg"
-thumbnail: "/images/space.jpg"
+image: "/images/space.jpg"
 images: ["/images/space.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt546.mp3"
 ---

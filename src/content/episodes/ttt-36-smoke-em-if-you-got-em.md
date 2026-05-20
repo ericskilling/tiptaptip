@@ -2,8 +2,7 @@
 title: "'TTT 36: Smoke ''Em If You Got ''Em'"
 date: '2008-10-28T04:04:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/smoking-bloke1.jpg"
-thumbnail: "/images/smoking-bloke1.jpg"
+image: "/images/smoking-bloke1.jpg"
 images: ["/images/smoking-bloke1.jpg"]
 podcast_file: "http://archive.org/download/ttt36/ttt36.mp3"
 ---

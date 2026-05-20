@@ -2,8 +2,7 @@
 title: "'TTT 38: Who''s Nailin'' Tip Tap Tip?'"
 date: '2008-11-10T04:39:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/swearwords1.jpg"
-thumbnail: "/images/swearwords1.jpg"
+image: "/images/swearwords1.jpg"
 images: ["/images/swearwords1.jpg"]
 podcast_file: "http://archive.org/download/ttt38/ttt38.mp3"
 ---

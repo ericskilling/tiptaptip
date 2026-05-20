@@ -2,8 +2,7 @@
 title: "'TTT 411: Robophobic'"
 date: '2015-04-19T23:20:02+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/robotfriends.jpg"
-thumbnail: "/images/robotfriends.jpg"
+image: "/images/robotfriends.jpg"
 images: ["/images/robotfriends.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt411.mp3"
 ---

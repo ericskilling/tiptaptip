@@ -2,8 +2,7 @@
 title: "'TTT 305: The Shit Shack'"
 date: '2012-05-03T04:47:14+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/shack.jpg"
-thumbnail: "/images/shack.jpg"
+image: "/images/shack.jpg"
 images: ["/images/shack.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt305.mp3"
 ---

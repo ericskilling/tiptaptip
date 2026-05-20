@@ -2,8 +2,7 @@
 title: "'TTT 339: Frontin'''"
 date: '2013-02-17T01:33:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/frontin.jpg"
-thumbnail: "/images/frontin.jpg"
+image: "/images/frontin.jpg"
 images: ["/images/frontin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt339.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 15: Gone Eatin'''"
 date: '2008-08-18T04:07:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bologna1.jpg"
-thumbnail: "/images/bologna1.jpg"
+image: "/images/bologna1.jpg"
 images: ["/images/bologna1.jpg"]
 podcast_file: "http://archive.org/download/ttt15_201512/ttt15.mp3"
 ---

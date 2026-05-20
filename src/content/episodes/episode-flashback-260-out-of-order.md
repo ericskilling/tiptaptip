@@ -2,8 +2,7 @@
 title: "'Episode Flashback —  260: Out Of Order'"
 date: '2018-08-08T13:00:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/order.jpg"
-thumbnail: "/images/order.jpg"
+image: "/images/order.jpg"
 images: ["/images/order.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt-summer-break-2018-ttt260.output.mp3"
 ---

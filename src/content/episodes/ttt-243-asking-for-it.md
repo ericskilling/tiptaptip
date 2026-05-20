@@ -2,8 +2,7 @@
 title: "'TTT 243: Asking For It'"
 date: '2011-05-30T04:12:55+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/asking.jpg"
-thumbnail: "/images/asking.jpg"
+image: "/images/asking.jpg"
 images: ["/images/asking.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt243.mp3"
 ---

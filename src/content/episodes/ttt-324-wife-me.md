@@ -2,8 +2,7 @@
 title: "'TTT 324: Wife Me'"
 date: '2012-09-19T02:03:12+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wifeme.jpg"
-thumbnail: "/images/wifeme.jpg"
+image: "/images/wifeme.jpg"
 images: ["/images/wifeme.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt324.mp3"
 ---

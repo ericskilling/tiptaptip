@@ -2,8 +2,7 @@
 title: "'TTT 267: Quiet Please'"
 date: '2011-09-19T04:13:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/quiet.jpg"
-thumbnail: "/images/quiet.jpg"
+image: "/images/quiet.jpg"
 images: ["/images/quiet.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt267.mp3"
 ---

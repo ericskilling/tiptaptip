@@ -2,8 +2,7 @@
 title: "'TTT 77: Say My Name'"
 date: '2009-04-17T04:33:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/beyonce-knowles-3.jpg"
-thumbnail: "/images/beyonce-knowles-3.jpg"
+image: "/images/beyonce-knowles-3.jpg"
 images: ["/images/beyonce-knowles-3.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt77.mp3"
 ---

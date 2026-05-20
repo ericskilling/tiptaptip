@@ -2,8 +2,7 @@
 title: "'TTT 67: Buy It Now! Buy It Now!'"
 date: '2009-03-13T04:37:33+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/thriller2.jpg"
-thumbnail: "/images/thriller2.jpg"
+image: "/images/thriller2.jpg"
 images: ["/images/thriller2.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt67.mp3"
 ---

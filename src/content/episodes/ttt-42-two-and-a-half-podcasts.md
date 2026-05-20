@@ -2,8 +2,7 @@
 title: "'TTT 42: Two and a Half Podcasts'"
 date: '2008-11-25T04:38:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/chainsaw1.jpg"
-thumbnail: "/images/chainsaw1.jpg"
+image: "/images/chainsaw1.jpg"
 images: ["/images/chainsaw1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt42.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 69: The Entertainers'"
 date: '2009-03-21T05:46:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/balloontwisterscott.jpg"
-thumbnail: "/images/balloontwisterscott.jpg"
+image: "/images/balloontwisterscott.jpg"
 images: ["/images/balloontwisterscott.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt69.mp3"
 ---

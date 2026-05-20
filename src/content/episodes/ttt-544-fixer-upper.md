@@ -2,8 +2,7 @@
 title: "'TTT 544: Fixer Upper'"
 date: '2023-04-23T23:37:23+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fix.jpg"
-thumbnail: "/images/fix.jpg"
+image: "/images/fix.jpg"
 images: ["/images/fix.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt544.mp3"
 ---

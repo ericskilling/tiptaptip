@@ -2,8 +2,7 @@
 title: "'TTT 236: Modern History'"
 date: '2011-05-02T04:08:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/modern.jpg"
-thumbnail: "/images/modern.jpg"
+image: "/images/modern.jpg"
 images: ["/images/modern.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt236.mp3"
 ---

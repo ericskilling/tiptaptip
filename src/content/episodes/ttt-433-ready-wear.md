@@ -2,8 +2,7 @@
 title: "'TTT 433: Ready To Wear'"
 date: '2016-04-04T23:31:21+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/readytowear.jpg"
-thumbnail: "/images/readytowear.jpg"
+image: "/images/readytowear.jpg"
 images: ["/images/readytowear.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt433.mp3"
 ---

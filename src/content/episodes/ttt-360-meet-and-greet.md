@@ -2,8 +2,7 @@
 title: "'TTT 360: Meet And Greet'"
 date: '2013-08-18T20:58:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/meet-and-greet.jpg"
-thumbnail: "/images/meet-and-greet.jpg"
+image: "/images/meet-and-greet.jpg"
 images: ["/images/meet-and-greet.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt360.mp3"
 ---

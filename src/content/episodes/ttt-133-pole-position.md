@@ -2,8 +2,7 @@
 title: "'TTT 133: Pole Position'"
 date: '2009-12-28T05:51:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pole.jpg"
-thumbnail: "/images/pole.jpg"
+image: "/images/pole.jpg"
 images: ["/images/pole.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt133.mp3"
 ---

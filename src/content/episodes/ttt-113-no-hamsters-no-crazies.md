@@ -2,8 +2,7 @@
 title: "'TTT 113: No Hamsters, No Crazies'"
 date: '2009-09-23T04:40:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/video.jpg"
-thumbnail: "/images/video.jpg"
+image: "/images/video.jpg"
 images: ["/images/video.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt113.mp3"
 ---

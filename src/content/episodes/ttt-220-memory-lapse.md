@@ -2,8 +2,7 @@
 title: "'TTT 220: Memory Lapse'"
 date: '2011-02-24T05:23:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/memory.jpg"
-thumbnail: "/images/memory.jpg"
+image: "/images/memory.jpg"
 images: ["/images/memory.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt220.mp3"
 ---

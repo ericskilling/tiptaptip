@@ -2,8 +2,7 @@
 title: "'TTT 221: Hope For The Hopeless'"
 date: '2011-02-28T01:43:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/moldova.jpg"
-thumbnail: "/images/moldova.jpg"
+image: "/images/moldova.jpg"
 images: ["/images/moldova.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt221.mp3"
 ---

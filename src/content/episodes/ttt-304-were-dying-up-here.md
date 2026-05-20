@@ -2,8 +2,7 @@
 title: "'TTT 304: We''re Dying Up Here'"
 date: '2012-04-26T03:43:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hot.jpg"
-thumbnail: "/images/hot.jpg"
+image: "/images/hot.jpg"
 images: ["/images/hot.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt304.mp3"
 ---

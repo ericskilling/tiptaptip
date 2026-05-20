@@ -2,8 +2,7 @@
 title: "'TTT 374: Tip Tap Tip Are Talent'"
 date: '2014-01-19T22:58:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tiptaptiparetalent.jpg"
-thumbnail: "/images/tiptaptiparetalent.jpg"
+image: "/images/tiptaptiparetalent.jpg"
 images: ["/images/tiptaptiparetalent.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt374.mp3"
 ---

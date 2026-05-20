@@ -2,8 +2,7 @@
 title: "'TTT 352: Funnel Vision'"
 date: '2013-05-25T22:59:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/funnel_vision.jpg"
-thumbnail: "/images/funnel_vision.jpg"
+image: "/images/funnel_vision.jpg"
 images: ["/images/funnel_vision.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt352.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 33: Breaking The Law!'"
 date: '2008-10-16T03:52:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/goodeatins1.jpg"
-thumbnail: "/images/goodeatins1.jpg"
+image: "/images/goodeatins1.jpg"
 images: ["/images/goodeatins1.jpg"]
 podcast_file: "http://archive.org/download/ttt33/ttt33.mp3"
 ---

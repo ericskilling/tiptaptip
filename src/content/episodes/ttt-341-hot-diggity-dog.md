@@ -2,8 +2,7 @@
 title: "'TTT 341: Hot Diggity Dog'"
 date: '2013-03-03T01:35:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hotdiggitydog.jpg"
-thumbnail: "/images/hotdiggitydog.jpg"
+image: "/images/hotdiggitydog.jpg"
 images: ["/images/hotdiggitydog.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt341.mp3"
 ---

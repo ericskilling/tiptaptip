@@ -2,8 +2,7 @@
 title: "'TTT 251: Existential Crisis'"
 date: '2011-07-04T04:05:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/crisis.jpg"
-thumbnail: "/images/crisis.jpg"
+image: "/images/crisis.jpg"
 images: ["/images/crisis.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt251.mp3"
 ---

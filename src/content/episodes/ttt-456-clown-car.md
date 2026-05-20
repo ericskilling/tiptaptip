@@ -2,8 +2,7 @@
 title: "'TTT 456: Clown Car'"
 date: '2017-04-18T03:53:45+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/car.jpg"
-thumbnail: "/images/car.jpg"
+image: "/images/car.jpg"
 images: ["/images/car.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt456.mp3"
 ---

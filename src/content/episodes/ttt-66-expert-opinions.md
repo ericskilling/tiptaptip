@@ -2,8 +2,7 @@
 title: "'TTT 66: Expert Opinions'"
 date: '2009-03-08T22:25:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/expert.jpg"
-thumbnail: "/images/expert.jpg"
+image: "/images/expert.jpg"
 images: ["/images/expert.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt66.mp3"
 ---

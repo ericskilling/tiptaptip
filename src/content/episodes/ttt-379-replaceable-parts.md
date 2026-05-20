@@ -2,8 +2,7 @@
 title: "'TTT 379: Replaceable Parts'"
 date: '2014-03-23T21:19:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/parts.jpg"
-thumbnail: "/images/parts.jpg"
+image: "/images/parts.jpg"
 images: ["/images/parts.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt379.mp3"
 ---

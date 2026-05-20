@@ -2,8 +2,7 @@
 title: "'TTT 453: Hold On'"
 date: '2017-03-07T01:02:27+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/holdingon.jpg"
-thumbnail: "/images/holdingon.jpg"
+image: "/images/holdingon.jpg"
 images: ["/images/holdingon.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt453.mp3"
 ---

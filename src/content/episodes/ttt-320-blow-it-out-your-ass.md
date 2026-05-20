@@ -2,8 +2,7 @@
 title: "'TTT 320: Blow It Out Your Ass'"
 date: '2012-08-12T05:23:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/yourass.jpg"
-thumbnail: "/images/yourass.jpg"
+image: "/images/yourass.jpg"
 images: ["/images/yourass.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt320.mp3"
 ---

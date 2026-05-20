@@ -2,8 +2,7 @@
 title: "'TTT 492: Emotionally Fragile'"
 date: '2019-02-19T02:37:22+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fragile.jpg"
-thumbnail: "/images/fragile.jpg"
+image: "/images/fragile.jpg"
 images: ["/images/fragile.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt492.mp3"
 ---

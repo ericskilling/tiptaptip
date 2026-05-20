@@ -2,8 +2,7 @@
 title: "'TTT 466: Nothing Personal'"
 date: '2017-10-15T19:49:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/nothingpersonal.jpg"
-thumbnail: "/images/nothingpersonal.jpg"
+image: "/images/nothingpersonal.jpg"
 images: ["/images/nothingpersonal.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt466.mp3"
 ---

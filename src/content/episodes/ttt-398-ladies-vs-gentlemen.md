@@ -2,8 +2,7 @@
 title: "'TTT 398: Ladies Vs. Gentlemen'"
 date: '2014-10-20T03:49:16+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ladies_vs_gentlemen.jpg"
-thumbnail: "/images/ladies_vs_gentlemen.jpg"
+image: "/images/ladies_vs_gentlemen.jpg"
 images: ["/images/ladies_vs_gentlemen.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt398.mp3"
 ---

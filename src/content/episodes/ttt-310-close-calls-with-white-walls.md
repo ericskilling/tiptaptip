@@ -2,8 +2,7 @@
 title: "'TTT 310: Close Calls With White Walls'"
 date: '2012-06-07T02:11:26+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/walls.jpg"
-thumbnail: "/images/walls.jpg"
+image: "/images/walls.jpg"
 images: ["/images/walls.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt310.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 329: Truckin'' & Suckin'''"
 date: '2012-11-09T05:07:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/truckin.jpg"
-thumbnail: "/images/truckin.jpg"
+image: "/images/truckin.jpg"
 images: ["/images/truckin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt329.mp3"
 ---

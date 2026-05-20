@@ -2,8 +2,7 @@
 title: "'TTT 255: Let''s Kiss And Make Up'"
 date: '2011-07-28T04:18:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/kiss.jpg"
-thumbnail: "/images/kiss.jpg"
+image: "/images/kiss.jpg"
 images: ["/images/kiss.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt255.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 517: How Does Your Garden Grow?'"
 date: '2020-09-01T03:04:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/grow.jpg"
-thumbnail: "/images/grow.jpg"
+image: "/images/grow.jpg"
 images: ["/images/grow.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt517.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 23: Answer The Question!!!'"
 date: '2008-09-09T04:49:27+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/parara1.jpg"
-thumbnail: "/images/parara1.jpg"
+image: "/images/parara1.jpg"
 images: ["/images/parara1.jpg"]
 podcast_file: "http://archive.org/download/ttt23/ttt23.mp3"
 ---

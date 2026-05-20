@@ -2,8 +2,7 @@
 title: "'TTT 318: Top That!'"
 date: '2012-07-22T05:02:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/top.jpg"
-thumbnail: "/images/top.jpg"
+image: "/images/top.jpg"
 images: ["/images/top.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt318.mp3"
 ---

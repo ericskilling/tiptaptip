@@ -2,8 +2,7 @@
 title: "'TTT 396: Sharing Is Caring'"
 date: '2014-09-29T03:11:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sharing_is_caring.jpg"
-thumbnail: "/images/sharing_is_caring.jpg"
+image: "/images/sharing_is_caring.jpg"
 images: ["/images/sharing_is_caring.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt396.mp3"
 ---

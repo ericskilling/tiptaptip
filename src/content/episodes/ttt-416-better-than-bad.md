@@ -2,8 +2,7 @@
 title: "'TTT 416: Better Than Bad'"
 date: '2015-06-09T02:35:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/betterthanbad.jpg"
-thumbnail: "/images/betterthanbad.jpg"
+image: "/images/betterthanbad.jpg"
 images: ["/images/betterthanbad.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt416.mp3"
 ---

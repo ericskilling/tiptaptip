@@ -2,8 +2,7 @@
 title: "'TTT 426: Hey Everyone! It''s Christmas!'"
 date: '2015-12-22T05:07:25+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hey_everyone_its_christmas.jpg"
-thumbnail: "/images/hey_everyone_its_christmas.jpg"
+image: "/images/hey_everyone_its_christmas.jpg"
 images: ["/images/hey_everyone_its_christmas.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt426.mp3"
 ---

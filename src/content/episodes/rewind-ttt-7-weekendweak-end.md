@@ -2,8 +2,7 @@
 title: "'REWIND - TTT 7: Weekend/Weak End'"
 date: '2010-11-18T18:30:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/weak.jpg"
-thumbnail: "/images/weak.jpg"
+image: "/images/weak.jpg"
 images: ["/images/weak.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt7rewind.mp3"
 ---

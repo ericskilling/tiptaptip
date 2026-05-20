@@ -2,8 +2,7 @@
 title: "'TTT 218: Cats Me To The End Of Love'"
 date: '2011-02-17T05:38:59+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cats.jpg"
-thumbnail: "/images/cats.jpg"
+image: "/images/cats.jpg"
 images: ["/images/cats.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt218.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 351: Knobs And Dials'"
 date: '2013-05-14T04:49:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/knobs.jpg"
-thumbnail: "/images/knobs.jpg"
+image: "/images/knobs.jpg"
 images: ["/images/knobs.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt351.mp3"
 ---

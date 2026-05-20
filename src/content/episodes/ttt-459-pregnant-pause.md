@@ -2,8 +2,7 @@
 title: "'TTT 459: Pregnant Pause'"
 date: '2017-05-19T02:55:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pause.jpg"
-thumbnail: "/images/pause.jpg"
+image: "/images/pause.jpg"
 images: ["/images/pause.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt459.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 277: Eager Beaver'"
 date: '2011-11-10T14:32:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/eager.jpg"
-thumbnail: "/images/eager.jpg"
+image: "/images/eager.jpg"
 images: ["/images/eager.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt277.mp3"
 ---

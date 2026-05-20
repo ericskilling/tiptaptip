@@ -2,8 +2,7 @@
 title: "'TTT 222: Queen Of The Galaxy'"
 date: '2011-03-03T05:22:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/barb.jpg"
-thumbnail: "/images/barb.jpg"
+image: "/images/barb.jpg"
 images: ["/images/barb.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt222.mp3"
 ---

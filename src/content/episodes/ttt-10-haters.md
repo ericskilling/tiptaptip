@@ -2,8 +2,7 @@
 title: "'TTT 10: Haters!'"
 date: '2008-07-31T04:48:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/haters1.jpg"
-thumbnail: "/images/haters1.jpg"
+image: "/images/haters1.jpg"
 images: ["/images/haters1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt10Haters/ttt10.mp3"
 ---

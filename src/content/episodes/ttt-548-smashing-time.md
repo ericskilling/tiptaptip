@@ -2,8 +2,7 @@
 title: "'TTT 548: Smashing Time'"
 date: '2024-01-23T15:49:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/smashing.jpg"
-thumbnail: "/images/smashing.jpg"
+image: "/images/smashing.jpg"
 images: ["/images/smashing.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt548.mp3"
 ---

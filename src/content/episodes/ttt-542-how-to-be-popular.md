@@ -2,8 +2,7 @@
 title: "'TTT 542: How To Be Popular'"
 date: '2023-02-06T00:50:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/popular.jpg"
-thumbnail: "/images/popular.jpg"
+image: "/images/popular.jpg"
 images: ["/images/popular.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt542.mp3"
 ---

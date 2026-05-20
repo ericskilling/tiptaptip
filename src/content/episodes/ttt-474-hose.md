@@ -2,8 +2,7 @@
 title: "'TTT 474: Hose Down'"
 date: '2018-03-05T02:39:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/down.jpg"
-thumbnail: "/images/down.jpg"
+image: "/images/down.jpg"
 images: ["/images/down.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt474.mp3"
 ---

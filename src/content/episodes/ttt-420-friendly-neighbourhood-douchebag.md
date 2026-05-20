@@ -2,8 +2,7 @@
 title: "'TTT 420: Friendly Neighbourhood Douchebag'"
 date: '2015-08-17T00:49:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/funneighbour.jpg"
-thumbnail: "/images/funneighbour.jpg"
+image: "/images/funneighbour.jpg"
 images: ["/images/funneighbour.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt420.mp3"
 ---

@@ -424,6 +424,14 @@
     line-height: 1.05;
   }
 
+  .episode-hero-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 1.5rem;
+    margin: 1rem 0;
+  }
+
   .episode-description {
     margin-top: 1rem;
     max-width: 60ch;

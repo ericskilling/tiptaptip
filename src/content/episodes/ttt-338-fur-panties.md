@@ -2,8 +2,7 @@
 title: "'TTT 338: Fur Panties'"
 date: '2013-02-04T01:20:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/furpanties.jpg"
-thumbnail: "/images/furpanties.jpg"
+image: "/images/furpanties.jpg"
 images: ["/images/furpanties.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt338.mp3"
 ---

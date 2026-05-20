@@ -2,8 +2,7 @@
 title: "'TTT 58: Green Is The Color Of My True Love''s Hair'"
 date: '2009-02-03T05:15:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/greenhair.jpg"
-thumbnail: "/images/greenhair.jpg"
+image: "/images/greenhair.jpg"
 images: ["/images/greenhair.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt58.mp3"
 ---

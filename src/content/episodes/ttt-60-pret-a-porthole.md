@@ -2,8 +2,7 @@
 title: "'TTT 60: Prêt-à-Porthole'"
 date: '2009-02-12T05:20:03+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/trekchoke.jpg"
-thumbnail: "/images/trekchoke.jpg"
+image: "/images/trekchoke.jpg"
 images: ["/images/trekchoke.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt60.mp3"
 ---

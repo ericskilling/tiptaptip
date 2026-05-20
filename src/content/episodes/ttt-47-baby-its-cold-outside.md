@@ -2,8 +2,7 @@
 title: "'TTT 47: Baby, It''s Cold Outside'"
 date: '2008-12-14T05:33:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tttglitter1.gif"
-thumbnail: "/images/tttglitter1.gif"
+image: "/images/tttglitter1.gif"
 images: ["/images/tttglitter1.gif"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt47.mp3"
 ---

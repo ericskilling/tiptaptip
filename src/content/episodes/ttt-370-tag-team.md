@@ -2,8 +2,7 @@
 title: "'TTT 370: Tag Team'"
 date: '2013-12-01T21:44:55+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tagteam.jpg"
-thumbnail: "/images/tagteam.jpg"
+image: "/images/tagteam.jpg"
 images: ["/images/tagteam.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt370.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 121: At The Hop'"
 date: '2009-10-28T04:18:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/bunny.jpg"
-thumbnail: "/images/bunny.jpg"
+image: "/images/bunny.jpg"
 images: ["/images/bunny.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt121.mp3"
 ---

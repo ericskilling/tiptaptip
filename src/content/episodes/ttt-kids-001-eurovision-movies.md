@@ -2,8 +2,7 @@
 title: "'TTT Kids 001: Eurovision & Movies'"
 date: '2019-05-20T05:06:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ttt-kids-icon.jpg"
-thumbnail: "/images/ttt-kids-icon.jpg"
+image: "/images/ttt-kids-icon.jpg"
 images: ["/images/ttt-kids-icon.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/tttkids001.mp3"
 ---

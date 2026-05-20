@@ -2,8 +2,7 @@
 title: "'TTT 481: Oh Man, The Future!'"
 date: '2018-06-28T23:26:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/thefuture.jpg"
-thumbnail: "/images/thefuture.jpg"
+image: "/images/thefuture.jpg"
 images: ["/images/thefuture.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt481.mp3"
 ---

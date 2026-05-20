@@ -2,8 +2,7 @@
 title: "'TTT 202: Just Say Maybe'"
 date: '2010-12-09T03:43:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/biebswaters.jpg"
-thumbnail: "/images/biebswaters.jpg"
+image: "/images/biebswaters.jpg"
 images: ["/images/biebswaters.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt202.mp3"
 ---

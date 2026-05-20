@@ -2,8 +2,7 @@
 title: "'TTT 155: Spirited Discussions'"
 date: '2010-04-17T07:59:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/discuss.jpg"
-thumbnail: "/images/discuss.jpg"
+image: "/images/discuss.jpg"
 images: ["/images/discuss.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt155.mp3"
 ---

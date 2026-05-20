@@ -2,8 +2,7 @@
 title: "'TTT 463: A Glass Of Champagne'"
 date: '2017-08-26T22:19:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/helloagain.jpg"
-thumbnail: "/images/helloagain.jpg"
+image: "/images/helloagain.jpg"
 images: ["/images/helloagain.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt463.mp3"
 ---

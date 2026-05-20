@@ -2,8 +2,7 @@
 title: "'TTT 459.1: Zero Calorie Podcast'"
 date: '2017-06-11T23:15:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tic-tap.jpg"
-thumbnail: "/images/tic-tap.jpg"
+image: "/images/tic-tap.jpg"
 images: ["/images/tic-tap.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt459-1.mp3"
 ---

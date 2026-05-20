@@ -2,8 +2,7 @@
 title: "'TTT 345: Amateur Hour'"
 date: '2013-03-31T03:54:26+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/amateur_hour.jpg"
-thumbnail: "/images/amateur_hour.jpg"
+image: "/images/amateur_hour.jpg"
 images: ["/images/amateur_hour.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt345.mp3"
 ---

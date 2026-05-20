@@ -2,8 +2,7 @@
 title: "'REWIND - TTT 32: Kick To The Balls'"
 date: '2010-11-22T01:53:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/balls.jpg"
-thumbnail: "/images/balls.jpg"
+image: "/images/balls.jpg"
 images: ["/images/balls.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt32rewind.mp3"
 ---

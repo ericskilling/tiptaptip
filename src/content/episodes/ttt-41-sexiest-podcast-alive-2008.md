@@ -2,8 +2,7 @@
 title: "'TTT 41: Sexiest Podcast Alive 2008'"
 date: '2008-11-20T04:34:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/goldblum1.jpg"
-thumbnail: "/images/goldblum1.jpg"
+image: "/images/goldblum1.jpg"
 images: ["/images/goldblum1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt41.mp3"
 ---

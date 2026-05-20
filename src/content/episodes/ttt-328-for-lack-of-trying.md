@@ -2,8 +2,7 @@
 title: "'TTT 328: For Lack Of Trying'"
 date: '2012-11-02T04:38:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/littlethings.jpg"
-thumbnail: "/images/littlethings.jpg"
+image: "/images/littlethings.jpg"
 images: ["/images/littlethings.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt328.mp3"
 ---

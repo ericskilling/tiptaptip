@@ -2,8 +2,7 @@
 title: "'TTT 288: Time To Get Alone'"
 date: '2012-02-02T05:27:27+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/badturtles.jpg"
-thumbnail: "/images/badturtles.jpg"
+image: "/images/badturtles.jpg"
 images: ["/images/badturtles.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt288.mp3"
 ---

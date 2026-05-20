@@ -2,8 +2,7 @@
 title: "'TTT 413: Car Crazy'"
 date: '2015-05-12T04:41:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/car_crazy.jpg"
-thumbnail: "/images/car_crazy.jpg"
+image: "/images/car_crazy.jpg"
 images: ["/images/car_crazy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt413.mp3"
 ---

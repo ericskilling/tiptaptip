@@ -2,8 +2,7 @@
 title: "'TTT 557: Around The World'"
 date: '2025-05-22T00:39:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/jj-euro2025.jpg"
-thumbnail: "/images/jj-euro2025.jpg"
+image: "/images/jj-euro2025.jpg"
 images: ["/images/jj-euro2025.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt557.mp3"
 ---

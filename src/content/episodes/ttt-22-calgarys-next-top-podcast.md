@@ -2,8 +2,7 @@
 title: "'TTT 22: Calgary''s Next Top Podcast'"
 date: '2008-09-05T04:50:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/newkids1.jpg"
-thumbnail: "/images/newkids1.jpg"
+image: "/images/newkids1.jpg"
 images: ["/images/newkids1.jpg"]
 podcast_file: "http://archive.org/download/ttt22/ttt22.mp3"
 ---

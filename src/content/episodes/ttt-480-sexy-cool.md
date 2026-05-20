@@ -2,8 +2,7 @@
 title: "'TTT 480: Sexy Cool'"
 date: '2018-06-09T04:35:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cool.jpg"
-thumbnail: "/images/cool.jpg"
+image: "/images/cool.jpg"
 images: ["/images/cool.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt480.mp3"
 ---

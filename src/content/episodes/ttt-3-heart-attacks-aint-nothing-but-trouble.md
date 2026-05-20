@@ -2,8 +2,7 @@
 title: "'TTT 3: Heart Attacks Ain''t Nothing But Trouble'"
 date: '2008-07-09T05:36:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/heart_attacks.jpg"
-thumbnail: "/images/heart_attacks.jpg"
+image: "/images/heart_attacks.jpg"
 images: ["/images/heart_attacks.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt3HeartAttacksAintNothingButTrouble/ttt3.mp3"
 ---

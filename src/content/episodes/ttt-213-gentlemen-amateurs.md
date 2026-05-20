@@ -2,8 +2,7 @@
 title: "'TTT 213: Gentlemen Amateurs'"
 date: '2011-01-31T05:24:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gentlemen.jpg"
-thumbnail: "/images/gentlemen.jpg"
+image: "/images/gentlemen.jpg"
 images: ["/images/gentlemen.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt213.mp3"
 ---

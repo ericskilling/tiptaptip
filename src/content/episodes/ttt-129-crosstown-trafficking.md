@@ -2,8 +2,7 @@
 title: "'TTT 129: Crosstown Trafficking'"
 date: '2009-12-04T04:55:58+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cuddle.jpg"
-thumbnail: "/images/cuddle.jpg"
+image: "/images/cuddle.jpg"
 images: ["/images/cuddle.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt129.mp3"
 ---

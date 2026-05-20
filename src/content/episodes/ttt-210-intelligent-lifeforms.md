@@ -2,8 +2,7 @@
 title: "'TTT 210: Intelligent Lifeforms'"
 date: '2011-01-13T04:47:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/lifeform.jpg"
-thumbnail: "/images/lifeform.jpg"
+image: "/images/lifeform.jpg"
 images: ["/images/lifeform.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt210.mp3"
 ---

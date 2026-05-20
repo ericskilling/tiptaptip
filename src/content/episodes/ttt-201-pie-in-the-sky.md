@@ -2,8 +2,7 @@
 title: "'TTT 201: Pie In The Sky'"
 date: '2010-12-02T05:00:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pie.jpg"
-thumbnail: "/images/pie.jpg"
+image: "/images/pie.jpg"
 images: ["/images/pie.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt201.mp3"
 ---

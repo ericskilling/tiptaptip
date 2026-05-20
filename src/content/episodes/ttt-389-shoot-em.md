@@ -2,8 +2,7 @@
 title: "'TTT 389: Shoot ''Em Up'"
 date: '2014-07-07T03:30:29+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/shooters.jpg"
-thumbnail: "/images/shooters.jpg"
+image: "/images/shooters.jpg"
 images: ["/images/shooters.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt389.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 507 :  For The Love of The Show'"
 date: '2020-01-20T00:36:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/show.jpg"
-thumbnail: "/images/show.jpg"
+image: "/images/show.jpg"
 images: ["/images/show.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt507.mp3"
 ---

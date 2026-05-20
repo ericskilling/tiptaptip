@@ -2,8 +2,7 @@
 title: "'TTT 28: Between Love and Hate'"
 date: '2008-09-26T03:48:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/nancy_grace-web1.jpg"
-thumbnail: "/images/nancy_grace-web1.jpg"
+image: "/images/nancy_grace-web1.jpg"
 images: ["/images/nancy_grace-web1.jpg"]
 podcast_file: "http://archive.org/download/ttt28/ttt28.mp3"
 ---

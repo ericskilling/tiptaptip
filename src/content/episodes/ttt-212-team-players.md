@@ -2,8 +2,7 @@
 title: "'TTT 212: Team Players'"
 date: '2011-01-24T05:21:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/team.jpg"
-thumbnail: "/images/team.jpg"
+image: "/images/team.jpg"
 images: ["/images/team.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt212.mp3"
 ---

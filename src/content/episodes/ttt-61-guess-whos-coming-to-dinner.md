@@ -2,8 +2,7 @@
 title: "'TTT 61: Guess Who''s Coming To Dinner?'"
 date: '2009-02-16T06:36:14+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/free-drinks.jpg"
-thumbnail: "/images/free-drinks.jpg"
+image: "/images/free-drinks.jpg"
 images: ["/images/free-drinks.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt61.mp3"
 ---

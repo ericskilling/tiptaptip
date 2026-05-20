@@ -2,8 +2,7 @@
 title: "'TTT 266: Dick Pics'"
 date: '2011-09-15T04:46:55+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dick.jpg"
-thumbnail: "/images/dick.jpg"
+image: "/images/dick.jpg"
 images: ["/images/dick.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt266.mp3"
 ---

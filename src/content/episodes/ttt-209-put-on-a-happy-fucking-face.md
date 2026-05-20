@@ -2,8 +2,7 @@
 title: "'TTT 209: Put On A Happy Fucking Face!'"
 date: '2011-01-10T05:17:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tanagra.jpg"
-thumbnail: "/images/tanagra.jpg"
+image: "/images/tanagra.jpg"
 images: ["/images/tanagra.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt209.mp3"
 ---

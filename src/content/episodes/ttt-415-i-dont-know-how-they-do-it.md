@@ -2,8 +2,7 @@
 title: "'TTT 415: I Don''t Know How They Do It'"
 date: '2015-05-31T20:28:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/idontknowhowtheydoit.jpg"
-thumbnail: "/images/idontknowhowtheydoit.jpg"
+image: "/images/idontknowhowtheydoit.jpg"
 images: ["/images/idontknowhowtheydoit.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt415.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 247: Tits For Everybody!'"
 date: '2011-06-16T04:24:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/riot.jpg"
-thumbnail: "/images/riot.jpg"
+image: "/images/riot.jpg"
 images: ["/images/riot.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt247.mp3"
 ---

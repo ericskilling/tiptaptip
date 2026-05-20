@@ -2,8 +2,7 @@
 title: "'TTT 536: Quitters Always Win'"
 date: '2022-05-08T23:34:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/quitter.jpg"
-thumbnail: "/images/quitter.jpg"
+image: "/images/quitter.jpg"
 images: ["/images/quitter.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt536.mp3"
 ---

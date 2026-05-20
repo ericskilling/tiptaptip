@@ -2,8 +2,7 @@
 title: "'TTT 391: Shove It In Your Face!'"
 date: '2014-07-29T04:07:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/in_your_face.jpg"
-thumbnail: "/images/in_your_face.jpg"
+image: "/images/in_your_face.jpg"
 images: ["/images/in_your_face.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt391.mp3"
 ---

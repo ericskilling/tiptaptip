@@ -2,8 +2,7 @@
 title: "'TTT 402: Family Friendly'"
 date: '2014-12-13T23:25:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/family_friendly.jpg"
-thumbnail: "/images/family_friendly.jpg"
+image: "/images/family_friendly.jpg"
 images: ["/images/family_friendly.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt402-1.mp3"
 ---

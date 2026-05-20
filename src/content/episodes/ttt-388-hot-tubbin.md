@@ -2,8 +2,7 @@
 title: "'TTT 388: Hot Tubbin'''"
 date: '2014-06-29T20:12:49+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hot_tubbin.jpg"
-thumbnail: "/images/hot_tubbin.jpg"
+image: "/images/hot_tubbin.jpg"
 images: ["/images/hot_tubbin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt388.mp3"
 ---

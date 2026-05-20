@@ -2,8 +2,7 @@
 title: "'TTT 35: Sing Your Stupid Heart Out, Stupid!'"
 date: '2008-10-22T04:36:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/eurovision1.jpg"
-thumbnail: "/images/eurovision1.jpg"
+image: "/images/eurovision1.jpg"
 images: ["/images/eurovision1.jpg"]
 podcast_file: "http://archive.org/download/ttt35/ttt35.mp3"
 ---

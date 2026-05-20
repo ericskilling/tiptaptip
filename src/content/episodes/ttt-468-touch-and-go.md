@@ -2,8 +2,7 @@
 title: "'TTT 468: Touch And Go'"
 date: '2017-11-25T03:43:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/touchandgo.jpg"
-thumbnail: "/images/touchandgo.jpg"
+image: "/images/touchandgo.jpg"
 images: ["/images/touchandgo.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt468.mp3"
 ---

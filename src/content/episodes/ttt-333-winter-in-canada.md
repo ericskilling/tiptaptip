@@ -2,8 +2,7 @@
 title: "'TTT 333: Winter In Canada'"
 date: '2012-12-16T23:37:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/vinter.jpg"
-thumbnail: "/images/vinter.jpg"
+image: "/images/vinter.jpg"
 images: ["/images/vinter.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt333.mp3"
 ---

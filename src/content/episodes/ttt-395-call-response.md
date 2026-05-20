@@ -2,8 +2,7 @@
 title: "'TTT 395: Call And Response'"
 date: '2014-09-22T02:16:23+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/call_and_response.jpg"
-thumbnail: "/images/call_and_response.jpg"
+image: "/images/call_and_response.jpg"
 images: ["/images/call_and_response.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt395.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 383: Miracle Makers'"
 date: '2014-05-04T20:19:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/miracle.jpg"
-thumbnail: "/images/miracle.jpg"
+image: "/images/miracle.jpg"
 images: ["/images/miracle.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt383.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 229: Spring In Your Step'"
 date: '2011-03-31T04:16:29+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/christian.jpg"
-thumbnail: "/images/christian.jpg"
+image: "/images/christian.jpg"
 images: ["/images/christian.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt229v2.mp3"
 ---

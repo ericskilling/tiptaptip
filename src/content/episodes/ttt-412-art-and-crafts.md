@@ -2,8 +2,7 @@
 title: "'TTT 412: Arts And Crafts'"
 date: '2015-05-04T01:26:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/crafts.jpg"
-thumbnail: "/images/crafts.jpg"
+image: "/images/crafts.jpg"
 images: ["/images/crafts.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt412.mp3"
 ---

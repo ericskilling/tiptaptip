@@ -2,8 +2,7 @@
 title: "'TTT 347: Vicious Creatures'"
 date: '2013-04-15T00:34:24+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/vicious_creatures.jpg"
-thumbnail: "/images/vicious_creatures.jpg"
+image: "/images/vicious_creatures.jpg"
 images: ["/images/vicious_creatures.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt347.mp3"
 ---

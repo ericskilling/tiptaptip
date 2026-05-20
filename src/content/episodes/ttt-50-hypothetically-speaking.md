@@ -2,8 +2,7 @@
 title: "'TTT 50: Hypothetically Speaking'"
 date: '2008-12-28T03:10:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dogthief1.jpg"
-thumbnail: "/images/dogthief1.jpg"
+image: "/images/dogthief1.jpg"
 images: ["/images/dogthief1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt50.mp3"
 ---

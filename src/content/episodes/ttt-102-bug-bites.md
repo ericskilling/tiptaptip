@@ -2,8 +2,7 @@
 title: "'TTT 102: Bug Bites'"
 date: '2009-08-05T04:35:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/lotsofhairSM.jpg"
-thumbnail: "/images/lotsofhairSM.jpg"
+image: "/images/lotsofhairSM.jpg"
 images: ["/images/lotsofhairSM.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt102.mp3"
 ---

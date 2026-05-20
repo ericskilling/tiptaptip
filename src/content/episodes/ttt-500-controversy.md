@@ -2,8 +2,7 @@
 title: "'TTT 500: Controversy!'"
 date: '2019-07-14T22:50:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/controversy.jpg"
-thumbnail: "/images/controversy.jpg"
+image: "/images/controversy.jpg"
 images: ["/images/controversy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/TTT500.mp3"
 ---

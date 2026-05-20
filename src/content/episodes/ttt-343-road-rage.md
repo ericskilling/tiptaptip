@@ -2,8 +2,7 @@
 title: "'TTT 343: Road Rage'"
 date: '2013-03-19T02:24:05+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/roadrage.jpg"
-thumbnail: "/images/roadrage.jpg"
+image: "/images/roadrage.jpg"
 images: ["/images/roadrage.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt343.mp3"
 ---

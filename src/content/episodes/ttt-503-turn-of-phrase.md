@@ -2,8 +2,7 @@
 title: "'TTT 503: Turn of Phrase'"
 date: '2019-09-16T23:13:14+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/busy.jpg"
-thumbnail: "/images/busy.jpg"
+image: "/images/busy.jpg"
 images: ["/images/busy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt503.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 346: Life Changing'"
 date: '2013-04-07T22:24:28+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/life-changing.jpg"
-thumbnail: "/images/life-changing.jpg"
+image: "/images/life-changing.jpg"
 images: ["/images/life-changing.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt346.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 276: Automatic Lovers'"
 date: '2011-11-07T02:50:59+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/lover.jpg"
-thumbnail: "/images/lover.jpg"
+image: "/images/lover.jpg"
 images: ["/images/lover.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt276.mp3"
 ---

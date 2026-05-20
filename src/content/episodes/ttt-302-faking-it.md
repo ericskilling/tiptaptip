@@ -2,8 +2,7 @@
 title: "'TTT 302: Faking It'"
 date: '2012-04-16T04:26:55+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fake.jpg"
-thumbnail: "/images/fake.jpg"
+image: "/images/fake.jpg"
 images: ["/images/fake.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt302.mp3"
 ---

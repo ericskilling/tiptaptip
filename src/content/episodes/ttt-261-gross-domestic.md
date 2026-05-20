@@ -2,8 +2,7 @@
 title: "'TTT 261: Gross Domestic'"
 date: '2011-08-25T04:17:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gross.jpg"
-thumbnail: "/images/gross.jpg"
+image: "/images/gross.jpg"
 images: ["/images/gross.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt261.mp3"
 ---

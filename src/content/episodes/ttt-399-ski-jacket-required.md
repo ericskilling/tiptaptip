@@ -2,8 +2,7 @@
 title: "'TTT 399: No Ski Jacket Required'"
 date: '2014-11-02T04:03:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/no_jacket_required.jpg"
-thumbnail: "/images/no_jacket_required.jpg"
+image: "/images/no_jacket_required.jpg"
 images: ["/images/no_jacket_required.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt399.mp3"
 ---

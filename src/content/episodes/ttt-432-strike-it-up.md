@@ -2,8 +2,7 @@
 title: "'TTT 432: Strike It Up'"
 date: '2016-03-22T00:58:32+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/strikeitup.jpg"
-thumbnail: "/images/strikeitup.jpg"
+image: "/images/strikeitup.jpg"
 images: ["/images/strikeitup.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt432.mp3"
 ---

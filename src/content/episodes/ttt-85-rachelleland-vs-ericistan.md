@@ -2,8 +2,7 @@
 title: "'TTT 85: Rachelleland vs. Ericistan'"
 date: '2009-05-19T04:46:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/rachelle-leah-m4.jpg"
-thumbnail: "/images/rachelle-leah-m4.jpg"
+image: "/images/rachelle-leah-m4.jpg"
 images: ["/images/rachelle-leah-m4.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt85.mp3"
 ---

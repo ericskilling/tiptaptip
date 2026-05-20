@@ -6,7 +6,7 @@ interface Props {
 }
 
 const { episode } = Astro.props;
-const { title, date, episode_image, podcast_file } = episode.data;
+const { title, date, image, podcast_file } = episode.data;
 
 const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -19,8 +19,8 @@ const episodeNumber = episode.id.match(/(\d+)/)?.[1] || '';
 ---
 
 <article class="episode-card">
-  {episode_image && (
-    <img src={episode_image} alt={title} class="episode-image" />
+  {image && (
+    <img src={image} alt={title} class="episode-image" />
   )}
 
   <div class="episode-info">

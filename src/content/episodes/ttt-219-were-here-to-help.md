@@ -2,8 +2,7 @@
 title: "'TTT 219: We''re Here To Help'"
 date: '2011-02-21T05:40:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/help.jpg"
-thumbnail: "/images/help.jpg"
+image: "/images/help.jpg"
 images: ["/images/help.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt219.mp3"
 ---

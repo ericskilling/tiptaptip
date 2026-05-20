@@ -2,8 +2,7 @@
 title: "'TTT 216: Cock Lollies'"
 date: '2011-02-10T06:01:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/weather.jpg"
-thumbnail: "/images/weather.jpg"
+image: "/images/weather.jpg"
 images: ["/images/weather.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt216.mp3"
 ---

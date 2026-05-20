@@ -2,8 +2,7 @@
 title: "'TTT 501: Stop Thief!'"
 date: '2019-08-06T03:35:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/stop.jpg"
-thumbnail: "/images/stop.jpg"
+image: "/images/stop.jpg"
 images: ["/images/stop.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt501.mp3"
 ---

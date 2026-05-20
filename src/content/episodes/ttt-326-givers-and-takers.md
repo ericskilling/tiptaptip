@@ -2,8 +2,7 @@
 title: "'TTT 326: Givers And Takers'"
 date: '2012-10-10T02:27:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/funxmas.jpg"
-thumbnail: "/images/funxmas.jpg"
+image: "/images/funxmas.jpg"
 images: ["/images/funxmas.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt326.mp3"
 ---

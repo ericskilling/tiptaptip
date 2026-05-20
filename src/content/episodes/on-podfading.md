@@ -2,8 +2,7 @@
 title: "On Podfading"
 date: '2010-06-01T00:59:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wife.jpg"
-thumbnail: "/images/wife.jpg"
+image: "/images/wife.jpg"
 images: ["/images/wife.jpg"]
 ---
 

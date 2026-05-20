@@ -2,8 +2,7 @@
 title: "'TTT 154: The Hunger'"
 date: '2010-04-12T04:44:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dog.jpg"
-thumbnail: "/images/dog.jpg"
+image: "/images/dog.jpg"
 images: ["/images/dog.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt154.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 397: Quiet On The Set!'"
 date: '2014-10-14T03:44:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/keep_quiet.jpg"
-thumbnail: "/images/keep_quiet.jpg"
+image: "/images/keep_quiet.jpg"
 images: ["/images/keep_quiet.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt397.mp3"
 ---

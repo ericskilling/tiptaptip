@@ -2,8 +2,7 @@
 title: "'TTT 18: Hell Bent For Elves'"
 date: '2008-08-25T04:15:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/elfears1.jpg"
-thumbnail: "/images/elfears1.jpg"
+image: "/images/elfears1.jpg"
 images: ["/images/elfears1.jpg"]
 podcast_file: "http://archive.org/download/ttt18/ttt18.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 554: Wishful Thinking'"
 date: '2024-12-16T02:28:54+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wishful.jpg"
-thumbnail: "/images/wishful.jpg"
+image: "/images/wishful.jpg"
 images: ["/images/wishful.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt554.mp3"
 ---

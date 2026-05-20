@@ -2,8 +2,7 @@
 title: "'TTT 495: Downhill Slide'"
 date: '2019-04-09T02:01:55+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/slide.jpg"
-thumbnail: "/images/slide.jpg"
+image: "/images/slide.jpg"
 images: ["/images/slide.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt495.mp3"
 ---

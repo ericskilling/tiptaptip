@@ -2,8 +2,7 @@
 title: "'TTT 472: Get Sucked'"
 date: '2018-02-07T03:21:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sucked.jpg"
-thumbnail: "/images/sucked.jpg"
+image: "/images/sucked.jpg"
 images: ["/images/sucked.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt472.mp3"
 ---

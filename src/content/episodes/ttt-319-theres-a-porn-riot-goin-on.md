@@ -2,8 +2,7 @@
 title: "'TTT 319: There''s A Porn Riot Goin'' On'"
 date: '2012-07-29T04:01:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/pornriot.jpg"
-thumbnail: "/images/pornriot.jpg"
+image: "/images/pornriot.jpg"
 images: ["/images/pornriot.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt319.mp3"
 ---

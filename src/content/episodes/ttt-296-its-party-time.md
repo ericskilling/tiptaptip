@@ -2,8 +2,7 @@
 title: "'TTT 296: It''s Party Time'"
 date: '2012-03-15T04:49:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/party.jpg"
-thumbnail: "/images/party.jpg"
+image: "/images/party.jpg"
 images: ["/images/party.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt296.mp3"
 ---

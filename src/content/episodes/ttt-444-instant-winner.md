@@ -2,8 +2,7 @@
 title: "'TTT 444: Instant Winner'"
 date: '2016-09-27T00:10:22+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/instantwinner.jpg"
-thumbnail: "/images/instantwinner.jpg"
+image: "/images/instantwinner.jpg"
 images: ["/images/instantwinner.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt444.mp3"
 ---

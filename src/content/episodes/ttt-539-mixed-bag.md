@@ -2,8 +2,7 @@
 title: "'TTT 539: Mixed Bag'"
 date: '2022-09-11T22:47:12+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/mixed.jpg"
-thumbnail: "/images/mixed.jpg"
+image: "/images/mixed.jpg"
 images: ["/images/mixed.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt539.mp3"
 ---

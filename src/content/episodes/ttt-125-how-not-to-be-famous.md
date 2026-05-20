@@ -2,8 +2,7 @@
 title: "'TTT 125: How Not To Be Famous'"
 date: '2009-11-17T05:49:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/famous.jpg"
-thumbnail: "/images/famous.jpg"
+image: "/images/famous.jpg"
 images: ["/images/famous.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt125.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 348: Remote Control'"
 date: '2013-04-24T04:28:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/remote_control.jpg"
-thumbnail: "/images/remote_control.jpg"
+image: "/images/remote_control.jpg"
 images: ["/images/remote_control.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt348.mp3"
 ---

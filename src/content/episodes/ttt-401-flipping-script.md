@@ -2,8 +2,7 @@
 title: "'TTT 401: Flipping The Script'"
 date: '2014-11-30T17:00:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/flipping.jpg"
-thumbnail: "/images/flipping.jpg"
+image: "/images/flipping.jpg"
 images: ["/images/flipping.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt401.mp3"
 ---

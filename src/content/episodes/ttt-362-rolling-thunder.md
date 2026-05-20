@@ -2,8 +2,7 @@
 title: "'TTT 362: Rolling Thunder'"
 date: '2013-09-08T23:59:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/1986.jpg"
-thumbnail: "/images/1986.jpg"
+image: "/images/1986.jpg"
 images: ["/images/1986.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/tt362.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 485: Background Noise'"
 date: '2018-10-09T02:11:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/background.jpg"
-thumbnail: "/images/background.jpg"
+image: "/images/background.jpg"
 images: ["/images/background.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt485.mp3"
 ---

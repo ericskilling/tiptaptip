@@ -2,8 +2,7 @@
 title: "'TTT 527: Surprise!'"
 date: '2021-03-29T23:53:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wow.jpg"
-thumbnail: "/images/wow.jpg"
+image: "/images/wow.jpg"
 images: ["/images/wow.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt527.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 498: Novel Approach'"
 date: '2019-06-09T05:05:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/romance.jpg"
-thumbnail: "/images/romance.jpg"
+image: "/images/romance.jpg"
 images: ["/images/romance.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt498.mp3"
 ---

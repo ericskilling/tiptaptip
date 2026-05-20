@@ -2,8 +2,7 @@
 title: "'REWIND - TTT 183: Hot Or Cold'"
 date: '2014-12-28T19:23:36+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hotcold.jpg"
-thumbnail: "/images/hotcold.jpg"
+image: "/images/hotcold.jpg"
 images: ["/images/hotcold.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt183rewind.mp3"
 ---

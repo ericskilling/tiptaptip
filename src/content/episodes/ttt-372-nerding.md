@@ -2,8 +2,7 @@
 title: "'TTT 372: Nerding Out'"
 date: '2013-12-29T11:13:12+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/nerds.jpg"
-thumbnail: "/images/nerds.jpg"
+image: "/images/nerds.jpg"
 images: ["/images/nerds.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt372-1.mp3"
 ---

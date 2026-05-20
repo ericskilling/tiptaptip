@@ -2,8 +2,7 @@
 title: "'TTT 132: Inappropriate Behaviour'"
 date: '2009-12-23T05:33:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/mate.jpg"
-thumbnail: "/images/mate.jpg"
+image: "/images/mate.jpg"
 images: ["/images/mate.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt132.mp3"
 ---

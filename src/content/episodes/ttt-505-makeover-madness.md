@@ -2,8 +2,7 @@
 title: "'TTT 505: Makeover Madness!'"
 date: '2019-11-11T03:56:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/makeover.jpg"
-thumbnail: "/images/makeover.jpg"
+image: "/images/makeover.jpg"
 images: ["/images/makeover.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt505.mp3"
 ---

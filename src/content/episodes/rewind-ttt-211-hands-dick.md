@@ -2,8 +2,7 @@
 title: "'REWIND - TTT 211: All Hands On Dick'"
 date: '2015-01-04T19:23:38+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dick.jpg"
-thumbnail: "/images/dick.jpg"
+image: "/images/dick.jpg"
 images: ["/images/dick.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt211rewind.mp3"
 ---

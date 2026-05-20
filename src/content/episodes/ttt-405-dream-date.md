@@ -2,8 +2,7 @@
 title: "'TTT 405: Dream Date'"
 date: '2015-01-27T05:16:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dream_date.jpg"
-thumbnail: "/images/dream_date.jpg"
+image: "/images/dream_date.jpg"
 images: ["/images/dream_date.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt405.mp3"
 ---

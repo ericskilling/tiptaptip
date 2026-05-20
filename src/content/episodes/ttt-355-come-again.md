@@ -2,8 +2,7 @@
 title: "'TTT 355: Come Again?'"
 date: '2013-07-01T00:14:52+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/comeagain.jpg"
-thumbnail: "/images/comeagain.jpg"
+image: "/images/comeagain.jpg"
 images: ["/images/comeagain.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt355.mp3"
 ---

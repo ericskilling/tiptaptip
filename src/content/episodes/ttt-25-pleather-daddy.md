@@ -2,8 +2,7 @@
 title: "'TTT 25: Pleather Daddy'"
 date: '2008-09-16T02:24:31+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wordle1.jpg"
-thumbnail: "/images/wordle1.jpg"
+image: "/images/wordle1.jpg"
 images: ["/images/wordle1.jpg"]
 podcast_file: "http://archive.org/download/ttt25/ttt25.mp3"
 ---

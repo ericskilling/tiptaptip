@@ -2,8 +2,7 @@
 title: "'TTT 457: Mondo Tip Tap Tip'"
 date: '2017-04-24T02:04:53+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/mondo.jpg"
-thumbnail: "/images/mondo.jpg"
+image: "/images/mondo.jpg"
 images: ["/images/mondo.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt457.mp3"
 ---

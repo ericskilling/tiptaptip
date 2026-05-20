@@ -2,8 +2,7 @@
 title: "'TTT 552: Scream and Shout'"
 date: '2024-07-14T23:01:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/scream.jpg"
-thumbnail: "/images/scream.jpg"
+image: "/images/scream.jpg"
 images: ["/images/scream.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt522.mp3"
 ---

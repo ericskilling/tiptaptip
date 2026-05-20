@@ -2,8 +2,7 @@
 title: "'TTT 262: Buddy Up'"
 date: '2011-08-29T04:19:59+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/buddy.jpg"
-thumbnail: "/images/buddy.jpg"
+image: "/images/buddy.jpg"
 images: ["/images/buddy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt262.mp3"
 ---

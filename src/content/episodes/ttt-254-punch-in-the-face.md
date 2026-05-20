@@ -2,8 +2,7 @@
 title: "'TTT 254: Punch In The Face'"
 date: '2011-07-21T04:31:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/face.jpg"
-thumbnail: "/images/face.jpg"
+image: "/images/face.jpg"
 images: ["/images/face.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt254.mp3"
 ---

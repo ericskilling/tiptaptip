@@ -2,8 +2,7 @@
 title: "'TTT 250: Rachelle Is Right'"
 date: '2011-06-30T04:16:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wrong.jpg"
-thumbnail: "/images/wrong.jpg"
+image: "/images/wrong.jpg"
 images: ["/images/wrong.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt250.mp3"
 ---

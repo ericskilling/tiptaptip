@@ -2,8 +2,7 @@
 title: "'TTT 273: Tip Tap Tip For Sale'"
 date: '2011-10-20T04:26:51+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sale.jpg"
-thumbnail: "/images/sale.jpg"
+image: "/images/sale.jpg"
 images: ["/images/sale.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt273.mp3"
 ---

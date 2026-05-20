@@ -2,8 +2,7 @@
 title: "'TTT 249: Psych Out!'"
 date: '2011-06-23T04:31:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dutchheywagon.jpg"
-thumbnail: "/images/dutchheywagon.jpg"
+image: "/images/dutchheywagon.jpg"
 images: ["/images/dutchheywagon.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt249.mp3"
 ---

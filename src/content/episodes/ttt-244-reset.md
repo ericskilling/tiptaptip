@@ -2,8 +2,7 @@
 title: "'TTT 244: RESET!!!'"
 date: '2011-06-02T04:03:07+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/earthboom.jpg"
-thumbnail: "/images/earthboom.jpg"
+image: "/images/earthboom.jpg"
 images: ["/images/earthboom.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt244.mp3"
 ---

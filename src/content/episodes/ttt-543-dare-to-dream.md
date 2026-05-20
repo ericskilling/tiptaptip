@@ -2,8 +2,7 @@
 title: "'TTT 543: Dare To Dream'"
 date: '2023-03-12T20:51:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/dreamy.jpg"
-thumbnail: "/images/dreamy.jpg"
+image: "/images/dreamy.jpg"
 images: ["/images/dreamy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt543.mp3"
 ---

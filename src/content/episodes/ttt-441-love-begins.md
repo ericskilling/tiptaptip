@@ -2,8 +2,7 @@
 title: "'TTT 441: Where Love Begins'"
 date: '2016-07-28T00:51:01+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wherelovebegins.jpg"
-thumbnail: "/images/wherelovebegins.jpg"
+image: "/images/wherelovebegins.jpg"
 images: ["/images/wherelovebegins.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt441.mp3"
 ---

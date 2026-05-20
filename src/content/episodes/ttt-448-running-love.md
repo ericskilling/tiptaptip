@@ -2,8 +2,7 @@
 title: "'TTT 448: Running For Love'"
 date: '2016-12-21T02:21:47+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/runninglove.jpg"
-thumbnail: "/images/runninglove.jpg"
+image: "/images/runninglove.jpg"
 images: ["/images/runninglove.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt448.mp3"
 ---

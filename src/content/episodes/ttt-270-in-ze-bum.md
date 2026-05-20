@@ -2,8 +2,7 @@
 title: "'TTT 270: In Ze Bum'"
 date: '2011-10-06T04:17:00+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/zebum.jpg"
-thumbnail: "/images/zebum.jpg"
+image: "/images/zebum.jpg"
 images: ["/images/zebum.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt270.mp3"
 ---

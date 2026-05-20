@@ -2,8 +2,7 @@
 title: "'TTT 197: Off Topic'"
 date: '2010-11-04T03:03:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/topic.jpg"
-thumbnail: "/images/topic.jpg"
+image: "/images/topic.jpg"
 images: ["/images/topic.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt197.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 534: Tip Tap Tip To Go!'"
 date: '2022-02-07T22:42:57+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/food.jpg"
-thumbnail: "/images/food.jpg"
+image: "/images/food.jpg"
 images: ["/images/food.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt534.mp3"
 ---

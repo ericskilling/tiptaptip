@@ -2,8 +2,7 @@
 title: "'TTT 186: Tip Tap Tip Time'"
 date: '2010-09-23T04:26:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/shorts.jpg"
-thumbnail: "/images/shorts.jpg"
+image: "/images/shorts.jpg"
 images: ["/images/shorts.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt186.mp3"
 ---

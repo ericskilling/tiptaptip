@@ -2,8 +2,7 @@
 title: "'TTT 74: Take Out'"
 date: '2009-04-05T08:47:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/takeout.jpg"
-thumbnail: "/images/takeout.jpg"
+image: "/images/takeout.jpg"
 images: ["/images/takeout.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt74.mp3"
 ---

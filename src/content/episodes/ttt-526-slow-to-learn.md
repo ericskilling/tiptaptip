@@ -2,8 +2,7 @@
 title: "'TTT 526: Slow To Learn'"
 date: '2021-03-08T00:54:27+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/slow.jpg"
-thumbnail: "/images/slow.jpg"
+image: "/images/slow.jpg"
 images: ["/images/slow.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt526.mp3"
 ---

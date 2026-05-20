@@ -2,8 +2,7 @@
 title: "'TTT 274: Chocolate & Peanut Butter'"
 date: '2011-10-24T03:58:37+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/sweep.jpg"
-thumbnail: "/images/sweep.jpg"
+image: "/images/sweep.jpg"
 images: ["/images/sweep.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt274.mp3"
 ---

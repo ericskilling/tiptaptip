@@ -2,8 +2,7 @@
 title: "'TTT 446: Nice Buns'"
 date: '2016-10-31T22:32:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/buns.jpg"
-thumbnail: "/images/buns.jpg"
+image: "/images/buns.jpg"
 images: ["/images/buns.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt446.mp3"
 ---

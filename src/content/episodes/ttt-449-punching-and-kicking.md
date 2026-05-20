@@ -2,8 +2,7 @@
 title: "'TTT 449: Punching And Kicking'"
 date: '2017-01-02T01:29:20+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/punching.jpg"
-thumbnail: "/images/punching.jpg"
+image: "/images/punching.jpg"
 images: ["/images/punching.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt449.mp3"
 ---

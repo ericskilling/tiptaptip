@@ -2,8 +2,7 @@
 title: "'TTT 269: We''re The Fucking Best!'"
 date: '2011-09-29T04:23:19+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/thefuckingbest.jpg"
-thumbnail: "/images/thefuckingbest.jpg"
+image: "/images/thefuckingbest.jpg"
 images: ["/images/thefuckingbest.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt269.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 414: Internet Hoggers'"
 date: '2015-05-18T02:30:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/internethoggers.jpg"
-thumbnail: "/images/internethoggers.jpg"
+image: "/images/internethoggers.jpg"
 images: ["/images/internethoggers.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt414.mp3"
 ---

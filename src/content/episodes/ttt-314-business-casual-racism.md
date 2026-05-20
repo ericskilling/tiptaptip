@@ -2,8 +2,7 @@
 title: "'TTT 314: Business Casual Racism'"
 date: '2012-06-27T07:47:29+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/casual.jpg"
-thumbnail: "/images/casual.jpg"
+image: "/images/casual.jpg"
 images: ["/images/casual.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt313.mp3"
 ---

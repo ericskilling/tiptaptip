@@ -2,8 +2,7 @@
 title: "'TTT 40: Homemaking'"
 date: '2008-11-18T04:07:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/homemaker1.jpg"
-thumbnail: "/images/homemaker1.jpg"
+image: "/images/homemaker1.jpg"
 images: ["/images/homemaker1.jpg"]
 podcast_file: "http://archive.org/download/ttt40/ttt40.mp3"
 ---

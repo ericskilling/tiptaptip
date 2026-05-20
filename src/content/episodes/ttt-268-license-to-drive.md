@@ -2,8 +2,7 @@
 title: "'TTT 268: License To Drive'"
 date: '2011-09-22T04:36:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/drive.jpg"
-thumbnail: "/images/drive.jpg"
+image: "/images/drive.jpg"
 images: ["/images/drive.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt268.mp3"
 ---

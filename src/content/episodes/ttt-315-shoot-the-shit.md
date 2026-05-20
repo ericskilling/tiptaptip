@@ -2,8 +2,7 @@
 title: "'TTT 315: Shoot The Shit'"
 date: '2012-07-04T12:17:41+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/limitedreleasepodcast.jpg"
-thumbnail: "/images/limitedreleasepodcast.jpg"
+image: "/images/limitedreleasepodcast.jpg"
 images: ["/images/limitedreleasepodcast.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt315.mp3"
 ---

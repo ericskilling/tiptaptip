@@ -2,8 +2,7 @@
 title: "'TTT 9: Bear Hugz'"
 date: '2008-07-27T04:57:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/angrybearrex_468x3291.jpg"
-thumbnail: "/images/angrybearrex_468x3291.jpg"
+image: "/images/angrybearrex_468x3291.jpg"
 images: ["/images/angrybearrex_468x3291.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt9BearHugz/ttt9.mp3"
 ---

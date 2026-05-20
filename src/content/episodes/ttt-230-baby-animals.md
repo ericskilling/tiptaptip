@@ -2,8 +2,7 @@
 title: "'TTT 230: Baby Animals'"
 date: '2011-04-04T04:13:02+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/baby.jpg"
-thumbnail: "/images/baby.jpg"
+image: "/images/baby.jpg"
 images: ["/images/baby.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt230.mp3"
 ---

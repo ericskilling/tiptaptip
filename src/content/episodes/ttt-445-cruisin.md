@@ -2,8 +2,7 @@
 title: "'TTT 445: Cruisin'''"
 date: '2016-10-12T02:53:39+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/crusin.jpg"
-thumbnail: "/images/crusin.jpg"
+image: "/images/crusin.jpg"
 images: ["/images/crusin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt445.mp3"
 ---

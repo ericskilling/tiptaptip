@@ -2,8 +2,7 @@
 title: "'TTT 422: Move It!'"
 date: '2015-08-30T23:16:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/iliketomoveit.jpg"
-thumbnail: "/images/iliketomoveit.jpg"
+image: "/images/iliketomoveit.jpg"
 images: ["/images/iliketomoveit.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt422.mp3"
 ---

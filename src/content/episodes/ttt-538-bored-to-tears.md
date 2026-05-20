@@ -2,8 +2,7 @@
 title: "'TTT 538: Bored To Tears'"
 date: '2022-07-03T21:22:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/tears.jpg"
-thumbnail: "/images/tears.jpg"
+image: "/images/tears.jpg"
 images: ["/images/tears.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt538.mp3"
 ---

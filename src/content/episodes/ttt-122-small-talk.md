@@ -2,8 +2,7 @@
 title: "'TTT 122: Small Talk'"
 date: '2009-11-04T05:37:06+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/talk.jpg"
-thumbnail: "/images/talk.jpg"
+image: "/images/talk.jpg"
 images: ["/images/talk.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt122.mp3"
 ---

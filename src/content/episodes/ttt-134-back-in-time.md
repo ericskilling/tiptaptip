@@ -2,8 +2,7 @@
 title: "'TTT 134: Back In Time'"
 date: '2009-12-30T23:34:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/rewind.jpg"
-thumbnail: "/images/rewind.jpg"
+image: "/images/rewind.jpg"
 images: ["/images/rewind.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt134.mp3"
 ---

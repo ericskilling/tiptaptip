@@ -2,8 +2,7 @@
 title: "'TTT 447: Checking Out'"
 date: '2016-11-24T01:54:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/checkingout.jpg"
-thumbnail: "/images/checkingout.jpg"
+image: "/images/checkingout.jpg"
 images: ["/images/checkingout.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt447.mp3"
 ---

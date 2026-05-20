@@ -2,8 +2,7 @@
 title: "'TTT 340: Built For Speed'"
 date: '2013-02-22T14:22:32+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/builtforspeed.jpg"
-thumbnail: "/images/builtforspeed.jpg"
+image: "/images/builtforspeed.jpg"
 images: ["/images/builtforspeed.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt340.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 4: Live! From the Stampede!'"
 date: '2008-07-13T23:07:34+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/deep-fried-oreos1.jpg"
-thumbnail: "/images/deep-fried-oreos1.jpg"
+image: "/images/deep-fried-oreos1.jpg"
 images: ["/images/deep-fried-oreos1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt4LiveFromTheStampede/ttt4.mp3"
 ---

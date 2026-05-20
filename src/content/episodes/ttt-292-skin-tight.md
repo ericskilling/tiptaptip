@@ -2,8 +2,7 @@
 title: "'TTT 292: Skin Tight'"
 date: '2012-02-23T05:24:38+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/skin.jpg"
-thumbnail: "/images/skin.jpg"
+image: "/images/skin.jpg"
 images: ["/images/skin.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt292.mp3"
 ---

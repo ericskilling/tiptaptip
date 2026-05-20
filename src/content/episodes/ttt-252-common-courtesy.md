@@ -2,8 +2,7 @@
 title: "'TTT 252: Common Courtesy'"
 date: '2011-07-07T04:27:09+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/common.jpg"
-thumbnail: "/images/common.jpg"
+image: "/images/common.jpg"
 images: ["/images/common.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt252.mp3"
 ---

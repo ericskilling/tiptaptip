@@ -2,8 +2,7 @@
 title: "'TTT 24: Soldiering On'"
 date: '2008-09-11T04:54:45+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/monkeybot1.jpg"
-thumbnail: "/images/monkeybot1.jpg"
+image: "/images/monkeybot1.jpg"
 images: ["/images/monkeybot1.jpg"]
 podcast_file: "http://archive.org/download/ttt24/ttt24.mp3"
 ---

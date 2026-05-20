@@ -2,8 +2,7 @@
 title: "'TTT 289: A Cork In The Ocean'"
 date: '2012-02-06T05:17:10+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/cork.jpg"
-thumbnail: "/images/cork.jpg"
+image: "/images/cork.jpg"
 images: ["/images/cork.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt289.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 271: Message Received'"
 date: '2011-10-13T05:10:00+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/message.jpg"
-thumbnail: "/images/message.jpg"
+image: "/images/message.jpg"
 images: ["/images/message.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt271.mp3"
 ---

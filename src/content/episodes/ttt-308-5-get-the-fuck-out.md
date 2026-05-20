@@ -2,8 +2,7 @@
 title: "'TTT 308.5: Get The Fuck Out!'"
 date: '2012-05-24T03:28:43+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/getout.jpg"
-thumbnail: "/images/getout.jpg"
+image: "/images/getout.jpg"
 images: ["/images/getout.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt308.5.mp3"
 ---

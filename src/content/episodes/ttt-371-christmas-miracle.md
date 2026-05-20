@@ -2,8 +2,7 @@
 title: "'TTT 371: Christmas Miracle'"
 date: '2013-12-23T06:42:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/christmasmiracle.jpg"
-thumbnail: "/images/christmasmiracle.jpg"
+image: "/images/christmasmiracle.jpg"
 images: ["/images/christmasmiracle.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt371.mp3"
 ---

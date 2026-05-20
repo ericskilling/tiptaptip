@@ -2,8 +2,7 @@
 title: "'TTT 344: Battle Of The Sexes'"
 date: '2013-03-24T22:25:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/battleofthesexes.jpg"
-thumbnail: "/images/battleofthesexes.jpg"
+image: "/images/battleofthesexes.jpg"
 images: ["/images/battleofthesexes.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt344.mp3"
 ---

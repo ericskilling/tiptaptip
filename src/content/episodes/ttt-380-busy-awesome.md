@@ -2,8 +2,7 @@
 title: "'TTT 380: Busy Being Awesome'"
 date: '2014-03-30T22:05:23+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/beingawesome.jpg"
-thumbnail: "/images/beingawesome.jpg"
+image: "/images/beingawesome.jpg"
 images: ["/images/beingawesome.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt380.mp3"
 ---

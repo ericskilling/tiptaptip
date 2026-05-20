@@ -2,8 +2,7 @@
 title: "'TTT 424: Buy And Sell'"
 date: '2016-04-19T01:38:17+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/buyandsell.jpg"
-thumbnail: "/images/buyandsell.jpg"
+image: "/images/buyandsell.jpg"
 images: ["/images/buyandsell.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt434.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 442: Feel Good'"
 date: '2016-08-17T01:50:11+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/feelgood.jpg"
-thumbnail: "/images/feelgood.jpg"
+image: "/images/feelgood.jpg"
 images: ["/images/feelgood.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt442.mp3"
 ---

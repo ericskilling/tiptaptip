@@ -2,8 +2,7 @@
 title: "'TTT 260: Out Of Order'"
 date: '2011-08-22T04:19:40+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/order.jpg"
-thumbnail: "/images/order.jpg"
+image: "/images/order.jpg"
 images: ["/images/order.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt260.mp3"
 ---

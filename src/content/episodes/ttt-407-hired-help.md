@@ -2,8 +2,7 @@
 title: "'TTT 407: Hired Help'"
 date: '2015-03-01T22:58:16+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/hired-help.jpg"
-thumbnail: "/images/hired-help.jpg"
+image: "/images/hired-help.jpg"
 images: ["/images/hired-help.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt407a.mp3"
 ---

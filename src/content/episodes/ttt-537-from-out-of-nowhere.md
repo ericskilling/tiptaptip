@@ -2,8 +2,7 @@
 title: "'TTT 537: From Out Of Nowhere'"
 date: '2022-05-16T00:20:56+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/nowhere.jpg"
-thumbnail: "/images/nowhere.jpg"
+image: "/images/nowhere.jpg"
 images: ["/images/nowhere.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt537.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 64: Losing Our Shit'"
 date: '2009-02-27T05:49:32+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/losingshit.jpg"
-thumbnail: "/images/losingshit.jpg"
+image: "/images/losingshit.jpg"
 images: ["/images/losingshit.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt64.mp3"
 ---

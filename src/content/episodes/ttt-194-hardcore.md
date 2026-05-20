@@ -2,8 +2,7 @@
 title: "'TTT 194: Hardcore'"
 date: '2010-10-25T04:36:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/puppet.jpg"
-thumbnail: "/images/puppet.jpg"
+image: "/images/puppet.jpg"
 images: ["/images/puppet.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt194.mp3"
 ---

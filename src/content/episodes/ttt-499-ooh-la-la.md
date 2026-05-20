@@ -2,8 +2,7 @@
 title: "'TTT 499: Ooh La La!'"
 date: '2019-06-24T02:24:50+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/oohlala.jpg"
-thumbnail: "/images/oohlala.jpg"
+image: "/images/oohlala.jpg"
 images: ["/images/oohlala.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt499.mp3"
 ---

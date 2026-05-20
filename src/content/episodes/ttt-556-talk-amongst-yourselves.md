@@ -2,8 +2,7 @@
 title: "'TTT 556: Talk Amongst Yourselves'"
 date: '2025-04-28T01:59:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/talkamongstyourselves.jpg"
-thumbnail: "/images/talkamongstyourselves.jpg"
+image: "/images/talkamongstyourselves.jpg"
 images: ["/images/talkamongstyourselves.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/TTT556-2.mp3"
 ---

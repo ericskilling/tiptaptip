@@ -2,8 +2,7 @@
 title: "'TTT 265: Imperfect Strangers'"
 date: '2011-09-12T04:38:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/imperfect.jpg"
-thumbnail: "/images/imperfect.jpg"
+image: "/images/imperfect.jpg"
 images: ["/images/imperfect.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt265.mp3"
 ---

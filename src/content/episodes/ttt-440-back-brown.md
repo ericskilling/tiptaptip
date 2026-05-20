@@ -2,8 +2,7 @@
 title: "'TTT 440: Back In Brown'"
 date: '2016-07-20T03:31:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/backbrown.jpg"
-thumbnail: "/images/backbrown.jpg"
+image: "/images/backbrown.jpg"
 images: ["/images/backbrown.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt440.mp3"
 ---

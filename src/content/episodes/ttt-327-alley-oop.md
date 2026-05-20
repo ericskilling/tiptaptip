@@ -2,8 +2,7 @@
 title: "'TTT 327: Alley Oop'"
 date: '2012-10-22T00:01:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/oopoop.jpg"
-thumbnail: "/images/oopoop.jpg"
+image: "/images/oopoop.jpg"
 images: ["/images/oopoop.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt327.mp3"
 ---

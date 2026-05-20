@@ -2,8 +2,7 @@
 title: "'TTT 301: Too Easy'"
 date: '2012-04-12T04:45:21+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/easy.jpg"
-thumbnail: "/images/easy.jpg"
+image: "/images/easy.jpg"
 images: ["/images/easy.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt301.mp3"
 ---

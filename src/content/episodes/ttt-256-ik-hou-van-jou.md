@@ -2,8 +2,7 @@
 title: "'TTT 256: Ik Hou Van Jou'"
 date: '2011-08-04T03:55:48+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/ikhouvanjou.jpg"
-thumbnail: "/images/ikhouvanjou.jpg"
+image: "/images/ikhouvanjou.jpg"
 images: ["/images/ikhouvanjou.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt256.mp3"
 ---

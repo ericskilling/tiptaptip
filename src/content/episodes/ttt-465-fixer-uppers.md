@@ -2,8 +2,7 @@
 title: "'TTT 465: Fixer-Uppers'"
 date: '2017-10-04T01:01:33+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/fixer-upper.jpg"
-thumbnail: "/images/fixer-upper.jpg"
+image: "/images/fixer-upper.jpg"
 images: ["/images/fixer-upper.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt465.mp3"
 ---

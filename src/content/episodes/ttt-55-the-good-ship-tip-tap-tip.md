@@ -2,8 +2,7 @@
 title: "'TTT 55: The Good Ship Tip Tap Tip'"
 date: '2009-01-18T14:01:13+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/darcy1.jpg"
-thumbnail: "/images/darcy1.jpg"
+image: "/images/darcy1.jpg"
 images: ["/images/darcy1.jpg"]
 podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt55.mp3"
 ---

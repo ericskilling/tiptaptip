@@ -2,8 +2,7 @@
 title: "'TTT 545: Barbarism Begins At Home'"
 date: '2023-06-19T00:52:35+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/home.jpg"
-thumbnail: "/images/home.jpg"
+image: "/images/home.jpg"
 images: ["/images/home.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt545.mp3"
 ---

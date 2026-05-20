@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 
 const { episode } = Astro.props;
 const { Content } = await render(episode);
-const { title, date, author, tags, episode_image, podcast_file, images } = episode.data;
+const { title, date, author, tags, image, podcast_file, images } = episode.data;
 const description = (episode.data as { description?: string }).description;
 
 const formattedDate = date.toLocaleDateString('en-US', {
@@ -31,6 +31,8 @@ const episodeNumber = episode.id.match(/(\d+)/)?.[1] || '';
       <span class="episode-pill">Episode {episodeNumber}</span>
       <h1>{title}</h1>
       {description && <p class="episode-description">{description}</p>}
+
+      {image && <img src={image} alt={title} class="episode-hero-image" />}
 
       <div class="episode-meta">
         <time datetime={date.toISOString()}>{formattedDate}</time>

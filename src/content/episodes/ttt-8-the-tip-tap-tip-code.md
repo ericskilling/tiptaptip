@@ -2,8 +2,7 @@
 title: "'TTT 8: The Tip Tap Tip Code'"
 date: '2008-07-24T05:34:30+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/code1.jpg"
-thumbnail: "/images/code1.jpg"
+image: "/images/code1.jpg"
 images: ["/images/code1.jpg"]
 podcast_file: "http://www.archive.org/download/Ttt8TheTipTapTipCode/ttt8.mp3"
 ---

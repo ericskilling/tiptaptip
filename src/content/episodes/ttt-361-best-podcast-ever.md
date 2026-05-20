@@ -2,8 +2,7 @@
 title: "'TTT 361: Best Podcast Ever!'"
 date: '2013-09-01T21:23:18+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/gaga_goat.jpg"
-thumbnail: "/images/gaga_goat.jpg"
+image: "/images/gaga_goat.jpg"
 images: ["/images/gaga_goat.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt361.mp3"
 ---

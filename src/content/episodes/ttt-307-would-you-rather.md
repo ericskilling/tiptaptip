@@ -2,8 +2,7 @@
 title: "'TTT 307: Would You Rather?'"
 date: '2012-05-10T04:48:29+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/wouldyourather.jpg"
-thumbnail: "/images/wouldyourather.jpg"
+image: "/images/wouldyourather.jpg"
 images: ["/images/wouldyourather.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt307.mp3"
 ---

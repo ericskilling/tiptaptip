@@ -2,8 +2,7 @@
 title: "'TTT 363: Tough Ticket To Tip Tap Tip'"
 date: '2013-09-23T01:11:08+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/touch_ticket.jpg"
-thumbnail: "/images/touch_ticket.jpg"
+image: "/images/touch_ticket.jpg"
 images: ["/images/touch_ticket.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt363.mp3"
 ---

@@ -2,8 +2,7 @@
 title: "'TTT 431: Soldiers Of Fun'"
 date: '2016-03-06T23:11:42+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/soldiers_of_fun.jpg"
-thumbnail: "/images/soldiers_of_fun.jpg"
+image: "/images/soldiers_of_fun.jpg"
 images: ["/images/soldiers_of_fun.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt431.mp3"
 ---

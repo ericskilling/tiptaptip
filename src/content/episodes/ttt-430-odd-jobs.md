@@ -2,8 +2,7 @@
 title: "'TTT 430: Odd Jobs'"
 date: '2016-02-22T05:15:15+00:00'
 author: ["eric","rachelle"]
-episode_image: "/images/oddjobs.jpg"
-thumbnail: "/images/oddjobs.jpg"
+image: "/images/oddjobs.jpg"
 images: ["/images/oddjobs.jpg"]
 podcast_file: "https://archive.org/download/tiptaptip/ttt430.mp3"
 ---
