@@ -94,13 +94,18 @@
   .sidebar-brand {
     display: grid;
     gap: 1rem;
+    align-content: start;
   }
 
   .sidebar-logo {
+    display: inline-block;
     font-size: clamp(2rem, 2.5vw, 2.6rem);
     font-weight: 800;
     letter-spacing: -0.03em;
     color: #fff;
+    text-decoration: none;
+    line-height: 1.2;
+    height: auto !important;
   }
 
   .sidebar-blurb {
@@ -115,14 +120,17 @@
 
   .sidebar-link {
     display: block;
+    width: 100%;
     padding: 0.85rem 1rem;
-    border-radius: 9999px;
+    border-radius: 9999px !important;
     background: rgba(255, 255, 255, 0.03);
     border: 1px solid transparent;
     color: var(--text);
     font-size: 0.95rem;
     font-weight: 600;
     line-height: 1.25;
+    text-align: left;
+    box-sizing: border-box;
     transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
   }
 
