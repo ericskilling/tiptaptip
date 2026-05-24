@@ -4,7 +4,9 @@ import EpisodeCard from '../../components/EpisodeCard.astro';
 import { getCollection } from 'astro:content';
 
 const episodes = await getCollection('episodes');
-const sortedEpisodes = episodes.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+// Filter out episodes without valid dates and sort by date descending
+const validEpisodes = episodes.filter(episode => episode.data.date);
+const sortedEpisodes = validEpisodes.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
 
 <BaseLayout title="All Episodes">

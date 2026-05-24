@@ -8,11 +8,12 @@ interface Props {
 const { episode } = Astro.props;
 const { title, date, image, podcast_file } = episode.data;
 
-const formattedDate = date.toLocaleDateString('en-US', {
+// Safely format date if it exists
+const formattedDate = date ? date.toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
-});
+}) : '';
 
 const slug = episode.id.replace(/\.(md|mdx)$/, '');
 const episodeNumber = episode.id.match(/(\d+)/)?.[1] || '';
@@ -23,16 +24,18 @@ const episodeNumber = episode.id.match(/(\d+)/)?.[1] || '';
     <img src={image} alt={title} class="episode-image" />
   )}
 
-  <div class="episode-info">
-    <span class="episode-pill">Ep. {episodeNumber}</span>
-    <h3>
-      <a href={`/episodes/${slug}`}>{title}</a>
-    </h3>
-    <time datetime={date.toISOString()}>{formattedDate}</time>
-    {podcast_file && (
-      <a href={podcast_file} class="secondary-link" download>
-        Download
-      </a>
-    )}
-  </div>
+    <div class="episode-info">
+     <span class="episode-pill">Ep. {episodeNumber}</span>
+     <h3>
+       <a href={`/episodes/${slug}`}>{title}</a>
+     </h3>
+     {date && (
+       <time datetime={date.toISOString()}>{formattedDate}</time>
+     )}
+     {podcast_file && (
+       <a href={podcast_file} class="secondary-link" download>
+         Download
+       </a>
+     )}
+   </div>
 </article>
