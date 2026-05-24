@@ -3879,6 +3879,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".md"] };
+"ttt-563-bangaranga-your-head.md": {
+	id: "ttt-563-bangaranga-your-head.md";
+  slug: "ttt-563-bangaranga-your-head";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".md"] };
 "ttt-57-fashion-cookie.md": {
 	id: "ttt-57-fashion-cookie.md";
   slug: "ttt-57-fashion-cookie";
