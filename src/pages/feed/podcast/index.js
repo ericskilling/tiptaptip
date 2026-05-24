@@ -16,7 +16,8 @@ export async function GET() {
         link: `/episodes/${e.id}/`,
       };
     })
-    .sort((a, b) => new Date(b.pubDate).valueOf() - new Date(a.pubDate).valueOf());
+    .sort((a, b) => new Date(b.pubDate).valueOf() - new Date(a.pubDate).valueOf())
+    .slice(0, 100);
 
   return rss({
     title: 'Tip Tap Tip Podcast',
