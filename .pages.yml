@@ -1,0 +1,45 @@
+content:
+  - name: Episodes
+    label: Episodes
+    type: collection
+    path: src/content/episodes
+    filename: "{slug}"
+    extension: md
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: author
+        label: Author
+        type: list
+        default: ["eric", "rachelle"]
+      - name: tags
+        label: Tags
+        type: list
+        default: []
+      - name: description
+        label: Description
+        type: text
+      - name: image
+        label: Featured Image
+        type: image
+      - name: images
+        label: Gallery Images
+        type: list
+        field:
+          type: image
+      - name: podcast_file
+        label: Podcast Audio URL
+        type: string
+      - name: body
+        label: Content
+        type: rich-text
+
+media:
+  input: public/images
+  output: /images
