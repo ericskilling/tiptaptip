@@ -6,7 +6,7 @@ export async function GET() {
   const siteUrl = 'https://tiptaptip.com';
   
   const items = episodes
-    .filter(e => e.data.title)
+    .filter(e => e.data.title && e.data.date)
     .map(e => {
       const num = e.id.match(/(\d+)/)?.[1] || '';
       return {
@@ -16,7 +16,14 @@ export async function GET() {
         link: `/episodes/${e.id}/`,
       };
     })
-    .sort((a, b) => new Date(b.pubDate).valueOf() - new Date(a.pubDate).valueOf())
+    .sort((a, b) => {
+      const dateA = new Date(a.pubDate).valueOf();
+      const dateB = new Date(b.pubDate).valueOf();
+      // Handle invalid dates by putting them at the end
+      if (isNaN(dateA)) return 1;
+      if (isNaN(dateB)) return -1;
+      return dateB - dateA;
+    })
     .slice(0, 100);
 
   return rss({
