@@ -17,10 +17,11 @@ const { src, title } = Astro.props;
 
 <style>
   .audio-player {
-    background: #f0f0f0;
+    background: var(--panel);
     padding: 1rem;
-    border-radius: 8px;
+    border-radius: 1rem;
     margin: 1rem 0;
+    border: 1px solid var(--border);
   }
 
   audio {
@@ -29,7 +30,17 @@ const { src, title } = Astro.props;
 
   .now-playing {
     font-size: 0.875rem;
-    color: #666;
+    color: var(--muted);
     margin-top: 0.5rem;
+  }
+
+  @media (max-width: 639px) {
+    .audio-player {
+      padding: 0.875rem;
+    }
+    
+    .now-playing {
+      font-size: 0.8rem;
+    }
   }
 </style>
