@@ -1,28 +1,44 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
+async function getFileSize(url) {
+  try {
+    const response = await fetch(url);
+    const contentLength = response.headers.get('content-length');
+    return contentLength ? parseInt(contentLength, 10) : 0;
+  } catch {
+    return 0;
+  }
+}
+
 export async function GET() {
   const episodes = await getCollection('episodes');
   const siteUrl = 'https://tiptaptip.com';
 
-  const items = episodes
-    .filter(e => e.data.title && e.data.date && e.data.podcast_file)
-    .map(e => {
-      const num = e.id.match(/(\d+)/)?.[1] || '';
-      const description = e.data.description?.trim();
-      return {
-        title: `Ep. ${num}: ${e.data.title}`,
-        pubDate: new Date(e.data.date),
-        ...(description ? { description } : {}),
-        link: `${siteUrl}/episodes/${e.id}/`,
-        enclosure: e.data.podcast_file
-          ? {
-              url: e.data.podcast_file,
-              type: 'audio/mpeg',
-            }
-          : undefined,
-      };
-    })
+  const items = (
+    await Promise.all(
+      episodes
+        .filter(e => e.data.title && e.data.date && e.data.podcast_file)
+        .map(async e => {
+          const num = e.id.match(/(\d+)/)?.[1] || '';
+          const description = e.data.description?.trim();
+          const length = await getFileSize(e.data.podcast_file);
+          return {
+            title: `Ep. ${num}: ${e.data.title}`,
+            pubDate: new Date(e.data.date),
+            ...(description ? { description } : {}),
+            link: `${siteUrl}/episodes/${e.id}/`,
+            ...(length > 0 ? {
+              enclosure: {
+                url: e.data.podcast_file,
+                length,
+                type: 'audio/mpeg',
+              },
+            } : {}),
+          };
+        })
+    )
+  )
     .sort((a, b) => {
       const dateA = new Date(a.pubDate).valueOf();
       const dateB = new Date(b.pubDate).valueOf();

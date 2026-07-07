@@ -3886,6 +3886,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".md"] };
+"ttt-564-oh-canada-in-eurovision.md": {
+	id: "ttt-564-oh-canada-in-eurovision.md";
+  slug: "ttt-564-oh-canada-in-eurovision";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".md"] };
 "ttt-57-fashion-cookie.md": {
 	id: "ttt-57-fashion-cookie.md";
   slug: "ttt-57-fashion-cookie";
