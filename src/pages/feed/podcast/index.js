@@ -9,11 +9,11 @@ export async function GET() {
     .filter(e => e.data.title && e.data.date && e.data.podcast_file)
     .map(e => {
       const num = e.id.match(/(\d+)/)?.[1] || '';
-      const description = (e.data.description || (e.body || '').slice(0, 200) || `Tip Tap Tip Episode ${num}`).replace(/\\/g, '');
+      const description = e.data.description?.trim();
       return {
         title: `Ep. ${num}: ${e.data.title}`,
         pubDate: new Date(e.data.date),
-        description,
+        ...(description ? { description } : {}),
         link: `${siteUrl}/episodes/${e.id}/`,
         enclosure: e.data.podcast_file
           ? {
