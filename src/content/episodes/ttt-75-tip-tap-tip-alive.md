@@ -4,7 +4,7 @@ date: '2009-04-09T04:46:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/bumpit.gif"
 images: ["/images/bumpit.gif"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt75.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt75.mp3"
 ---
 
 Tip Tap Tip Alive! No synopsis necessary.

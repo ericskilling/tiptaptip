@@ -4,7 +4,7 @@ date: '2008-11-03T09:21:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/workplace1.jpg"
 images: ["/images/workplace1.jpg"]
-podcast_file: "http://archive.org/download/ttt37/ttt37.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt37.mp3"
 ---
 
 Live from a Vancouver hotel room!!!

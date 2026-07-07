@@ -4,7 +4,7 @@ date: '2010-09-09T04:31:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/hotcold.jpg"
 images: ["/images/hotcold.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt183.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt183.mp3"
 ---
 
 **Episode Links:**

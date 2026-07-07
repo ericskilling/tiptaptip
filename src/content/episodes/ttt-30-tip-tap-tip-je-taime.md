@@ -4,7 +4,7 @@ date: '2008-10-02T03:12:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/blindness1.jpg"
 images: ["/images/blindness1.jpg"]
-podcast_file: "http://archive.org/download/ttt30/ttt30.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt30.mp3"
 ---
 
 Jenn from Squidpod joins us and classes up the joint. We discuss torturous workouts and the degradation of grammar and handwriting in Australia.

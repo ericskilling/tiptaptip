@@ -4,7 +4,7 @@ date: '2008-07-18T04:53:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/simpsons1.jpg"
 images: ["/images/simpsons1.jpg"]
-podcast_file: "http://www.archive.org/download/Ttt6UnicornLeeRoth/ttt6.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt6.mp3"
 ---
 
 Calgary's best podcast welcomes our very first guest host.

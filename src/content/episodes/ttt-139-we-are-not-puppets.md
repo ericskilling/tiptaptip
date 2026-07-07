@@ -4,7 +4,7 @@ date: '2010-01-23T05:53:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/puppets1.jpg"
 images: ["/images/puppets1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt139.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt139.mp3"
 ---
 
 Pull our strings.

@@ -4,7 +4,7 @@ date: '2009-05-22T04:11:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/troi.jpg"
 images: ["/images/troi.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt86.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt86.mp3"
 ---
 
 Do as we say! Now!

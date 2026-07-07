@@ -4,7 +4,7 @@ date: '2009-12-28T05:51:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/pole.jpg"
 images: ["/images/pole.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt133.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt133.mp3"
 ---
 
 ![](/images/pole.jpg)

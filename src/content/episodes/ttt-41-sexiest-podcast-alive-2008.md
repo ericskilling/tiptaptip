@@ -4,7 +4,7 @@ date: '2008-11-20T04:34:39+00:00'
 author: ["eric","rachelle"]
 image: "/images/goldblum1.jpg"
 images: ["/images/goldblum1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt41.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt41.mp3"
 ---
 
 In this episode Rachelle and our guest Christa discuss the sexiest man alive. Eric tries his best to rein in the gigglefest, fails, and drinks more wine.

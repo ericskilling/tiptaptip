@@ -4,7 +4,7 @@ date: '2010-03-22T03:59:28+00:00'
 author: ["eric","rachelle"]
 image: "/images/pheasant.jpg"
 images: ["/images/pheasant.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt150.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt150.mp3"
 ---
 
 Back In The Saddle

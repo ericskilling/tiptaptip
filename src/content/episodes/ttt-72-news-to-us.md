@@ -4,7 +4,7 @@ date: '2009-03-30T02:34:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/newslady.jpg"
 images: ["/images/newslady.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt72.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt72.mp3"
 ---
 
 Eric would totally bang Nancy Grace. Rachelle has no problem punching a tongue-biting prostitute.

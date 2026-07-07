@@ -4,7 +4,7 @@ date: '2009-11-27T22:24:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/curtain1.jpg"
 images: ["/images/curtain1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt127.5.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt127.5.mp3"
 ---
 
 In this special episode Eric discusses the ins and outs of how an episode of Tip Tap Tip comes together. Rachelle can't bothered for this techy bullshit.

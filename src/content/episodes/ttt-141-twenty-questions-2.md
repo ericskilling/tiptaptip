@@ -4,7 +4,7 @@ date: '2010-02-01T02:29:59+00:00'
 author: ["eric","rachelle"]
 image: "/images/twenty1.jpg"
 images: ["/images/twenty1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt141.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt141.mp3"
 ---
 
 Oh pretty baby.

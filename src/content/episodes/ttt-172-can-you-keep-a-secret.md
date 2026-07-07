@@ -4,7 +4,7 @@ date: '2010-07-12T05:17:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/secret.jpg"
 images: ["/images/secret.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt172.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt172.mp3"
 ---
 
 Shhhh.....

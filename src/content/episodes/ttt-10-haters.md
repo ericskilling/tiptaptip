@@ -4,7 +4,7 @@ date: '2008-07-31T04:48:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/haters1.jpg"
 images: ["/images/haters1.jpg"]
-podcast_file: "http://www.archive.org/download/Ttt10Haters/ttt10.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt10.mp3"
 ---
 
 **UPDATE:** We're back but are too tired to record a show tonight. I know, I know. I'm a damn liar. We didn't even record errant squirrel noises while camping. We will definitely be getting you a few shows this week with the first coming at you tomorrow.

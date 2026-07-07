@@ -4,7 +4,7 @@ date: '2010-04-29T04:38:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/mslk.jpg"
 images: ["/images/mslk.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt158.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt158.mp3"
 ---
 
 ![](/images/mslk.jpg)

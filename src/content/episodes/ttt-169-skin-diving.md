@@ -4,7 +4,7 @@ date: '2010-06-29T04:26:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/skin.jpg"
 images: ["/images/skin.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt169.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt169.mp3"
 ---
 
 Under the sea.

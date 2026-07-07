@@ -4,7 +4,7 @@ date: '2010-02-04T06:53:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/phantom.jpg"
 images: ["/images/phantom.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt142.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt142.mp3"
 ---
 
 Turn me on.

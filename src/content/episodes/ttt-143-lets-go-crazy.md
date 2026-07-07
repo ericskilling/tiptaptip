@@ -4,7 +4,7 @@ date: '2010-02-11T05:41:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/crazy.jpg"
 images: ["/images/crazy.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt143.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt143.mp3"
 ---
 
 Party like it's Aught-9!

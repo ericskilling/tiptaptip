@@ -4,7 +4,7 @@ date: '2009-02-20T05:23:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/ev2008winners.jpg"
 images: ["/images/ev2008winners.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt62.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt62.mp3"
 ---
 
 Fuck! It's nearly four months away and Eric is already going Eurovision crazy and subjecting everyone to the worst Europe has to offer. And what was the reason Rachelle agreed to marry him again?

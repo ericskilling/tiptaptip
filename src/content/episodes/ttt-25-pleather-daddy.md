@@ -4,7 +4,7 @@ date: '2008-09-16T02:24:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/wordle1.jpg"
 images: ["/images/wordle1.jpg"]
-podcast_file: "http://archive.org/download/ttt25/ttt25.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt25.mp3"
 ---
 
 Rachelle gives us more business ideas to chew on like having a third party anonymously mail a turd to someone you don't like for a nominal fee. Eric is in expert negotiator when it comes to hippies in trees. During the day, both are undercover cops posing as students at a local high school.

@@ -4,7 +4,7 @@ date: '2009-08-18T04:29:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/birds.jpg"
 images: ["/images/birds.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt105.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt105.mp3"
 ---
 
 Rachelle reads from her dirty books

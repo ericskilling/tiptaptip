@@ -4,7 +4,7 @@ date: '2009-12-04T04:55:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/cuddle.jpg"
 images: ["/images/cuddle.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt129.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt129.mp3"
 ---
 
 ![cuddle](/images/cuddle.jpg)

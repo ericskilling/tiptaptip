@@ -4,7 +4,7 @@ date: '2008-07-16T04:23:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/cleanse.jpg"
 images: ["/images/cleanse.jpg"]
-podcast_file: "http://www.archive.org/download/Ttt5CleanseMeUpCleanseMeDown/ttt5.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt5.mp3"
 ---
 
 We're cleaning out our innards starting Saturday. Join us. In the meantime, it's all donuts and beer.

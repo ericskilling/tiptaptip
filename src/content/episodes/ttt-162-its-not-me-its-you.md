@@ -4,7 +4,7 @@ date: '2010-05-21T04:32:03+00:00'
 author: ["eric","rachelle"]
 image: "/images/fire.jpg"
 images: ["/images/fire.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt162.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt162.mp3"
 ---
 
 [![](/images/fire.jpg)](/images/fire.jpg) Let's have a fireside chat.

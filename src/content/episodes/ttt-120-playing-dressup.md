@@ -4,7 +4,7 @@ date: '2009-10-24T05:01:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/jcol.jpg"
 images: ["/images/jcol.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt120.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt120.mp3"
 ---
 
 Muffintops aren't for eating.

@@ -4,7 +4,7 @@ date: '2010-06-21T04:26:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/band.jpg"
 images: ["/images/band.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt168.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt168.mp3"
 ---
 
 Fly by night.

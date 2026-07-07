@@ -4,7 +4,7 @@ date: '2009-12-23T05:33:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/mate.jpg"
 images: ["/images/mate.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt132.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt132.mp3"
 ---
 
 Behave yourself!

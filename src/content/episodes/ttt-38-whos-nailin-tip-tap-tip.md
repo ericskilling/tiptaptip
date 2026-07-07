@@ -4,7 +4,7 @@ date: '2008-11-10T04:39:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/swearwords1.jpg"
 images: ["/images/swearwords1.jpg"]
-podcast_file: "http://archive.org/download/ttt38/ttt38.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt38.mp3"
 ---
 
 Holy Fucking Shitballs!! I know this is the first episode we've put out in 7 days but Rachelle's being all business owner-y and Eric's watching Sarah Palin pornography so get off our backs.

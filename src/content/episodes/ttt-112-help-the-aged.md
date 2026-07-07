@@ -4,7 +4,7 @@ date: '2009-09-16T04:39:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/aged-new.jpg"
 images: ["/images/aged-new.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt112.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt112.mp3"
 ---
 
 Someone's needing a makeover.

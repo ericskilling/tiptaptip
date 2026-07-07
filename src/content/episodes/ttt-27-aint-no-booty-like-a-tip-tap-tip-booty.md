@@ -4,7 +4,7 @@ date: '2008-09-23T04:34:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/3letters1.jpg"
 images: ["/images/3letters1.jpg"]
-podcast_file: "http://archive.org/download/ttt27/ttt27.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt27.mp3"
 ---
 
 Things must be going pretty good for us as we received our first fan letter. Next thing you know we'll be making outrageous demands on our rider like having a choir of eunuchs sing the Celine Dion version of AC/DC's "You shook me all night". Dare to dream.

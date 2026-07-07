@@ -4,7 +4,7 @@ date: '2010-08-01T15:00:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/rough.jpg"
 images: ["/images/rough.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt176-5.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt176-5.mp3"
 ---
 
 Rawr!

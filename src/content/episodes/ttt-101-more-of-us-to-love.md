@@ -4,7 +4,7 @@ date: '2009-07-30T04:22:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/LoveKiss.jpg"
 images: ["/images/LoveKiss.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt101.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt101.mp3"
 ---
 
 Whole lotta Tip Tap Tip love

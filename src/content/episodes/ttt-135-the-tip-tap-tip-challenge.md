@@ -4,7 +4,7 @@ date: '2010-01-04T01:57:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/challenge.jpg"
 images: ["/images/challenge.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt135.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt135.mp3"
 ---
 
 Are you man/woman enough?

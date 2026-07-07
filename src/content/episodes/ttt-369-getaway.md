@@ -4,7 +4,7 @@ date: '2013-11-24T22:01:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/getaway_small.jpg"
 images: ["/images/getaway_small.jpg"]
-podcast_file: "http://archive.org/download/ttt369/ttt369.m4a"
+podcast_file: "https://archive.org/download/tiptaptip/ttt369.m4a"
 ---
 
 Another mix because why not. Yeah!

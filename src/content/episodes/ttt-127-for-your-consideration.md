@@ -4,7 +4,7 @@ date: '2009-11-26T05:38:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/consideration1.jpg"
 images: ["/images/consideration1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt127.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt127.mp3"
 ---
 
 Party time!

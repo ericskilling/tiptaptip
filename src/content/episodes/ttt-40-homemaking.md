@@ -4,7 +4,7 @@ date: '2008-11-18T04:07:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/homemaker1.jpg"
 images: ["/images/homemaker1.jpg"]
-podcast_file: "http://archive.org/download/ttt40/ttt40.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt40.mp3"
 ---
 
 Rachelle came back from her retreat on a domestic high and is wanting to make meals all week. Too bad Eric got face-fucked with food on Saturday and is still full. Sometimes things don't work out the way you expect.

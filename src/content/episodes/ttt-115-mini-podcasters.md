@@ -4,7 +4,7 @@ date: '2009-10-01T04:42:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/pops.jpg"
 images: ["/images/pops.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt115.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt115.mp3"
 ---
 
 Pop goes the world.

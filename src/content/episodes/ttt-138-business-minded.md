@@ -4,7 +4,7 @@ date: '2010-01-19T05:41:03+00:00'
 author: ["eric","rachelle"]
 image: "/images/jambalaya.jpg"
 images: ["/images/jambalaya.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt138.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt138.mp3"
 ---
 
 ![](/images/jambalaya.jpg)

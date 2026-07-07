@@ -4,7 +4,7 @@ date: '2010-03-04T06:56:40+00:00'
 author: ["eric","rachelle"]
 image: "/images/comingup.jpg"
 images: ["/images/comingup.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt147.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt147.mp3"
 ---
 
 Life Is Good.

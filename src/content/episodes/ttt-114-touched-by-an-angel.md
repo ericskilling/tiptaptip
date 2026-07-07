@@ -4,7 +4,7 @@ date: '2009-09-26T05:57:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/superawesome.jpg"
 images: ["/images/superawesome.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt114.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt114.mp3"
 ---
 
 Tip Tap Tip Assemble!

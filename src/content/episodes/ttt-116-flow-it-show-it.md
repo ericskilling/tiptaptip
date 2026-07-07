@@ -4,7 +4,7 @@ date: '2009-10-07T04:59:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/hair9.jpg"
 images: ["/images/hair9.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt116.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt116.mp3"
 ---
 
 Flow it, show it, Long as God can grow it

@@ -4,7 +4,7 @@ date: '2009-05-01T04:42:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/mask_of_vulcan.jpg"
 images: ["/images/mask_of_vulcan.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt81.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt81.mp3"
 ---
 
 In which love comes knocking on our door.

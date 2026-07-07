@@ -4,7 +4,7 @@ date: '2010-04-12T04:44:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/dog.jpg"
 images: ["/images/dog.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt154.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt154.mp3"
 ---
 
 ![](/images/dog.jpg)

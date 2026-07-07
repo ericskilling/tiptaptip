@@ -4,7 +4,7 @@ date: '2009-07-23T04:35:13+00:00'
 author: ["eric","rachelle"]
 image: "/images/mcqueen.jpg"
 images: ["/images/mcqueen.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt99.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt99.mp3"
 ---
 
 I have no excuse now, hippies!

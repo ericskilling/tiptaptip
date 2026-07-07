@@ -4,7 +4,7 @@ date: '2010-09-30T04:47:24+00:00'
 author: ["eric","rachelle"]
 image: "/images/pissing.jpg"
 images: ["/images/pissing.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt188.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt188.mp3"
 ---
 
 Tell me why. Tell me why.

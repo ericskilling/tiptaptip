@@ -4,7 +4,7 @@ date: '2010-07-19T04:20:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/strutter.jpg"
 images: ["/images/strutter.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt174.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt174.mp3"
 ---
 
 Walking and talking.

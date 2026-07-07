@@ -4,7 +4,7 @@ date: '2008-08-18T04:07:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/bologna1.jpg"
 images: ["/images/bologna1.jpg"]
-podcast_file: "http://archive.org/download/ttt15_201512/ttt15.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt15.mp3"
 ---
 
 In this extra-sweaty episode Eric & Rachelle discuss Gold vs. Dignity, Glamping, and why Dungeon Masters don't necessarily make the best debate coaches. Also, Eric discusses his unnatural love of London Drugs. Rachelle rolls her eyes.

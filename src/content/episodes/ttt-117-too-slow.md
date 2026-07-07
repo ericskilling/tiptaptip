@@ -4,7 +4,7 @@ date: '2009-10-11T04:53:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/HFE_Too_Slow_4.JPG"
 images: ["/images/HFE_Too_Slow_4.JPG"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt117.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt117.mp3"
 ---
 
 Want some apples?

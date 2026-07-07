@@ -4,7 +4,7 @@ date: '2010-06-03T04:24:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/jason.jpg"
 images: ["/images/jason.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt164.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt164.mp3"
 ---
 
 Shake your money maker.

@@ -4,7 +4,7 @@ date: '2009-08-29T04:57:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/marilyn.jpg"
 images: ["/images/marilyn.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt108.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt108.mp3"
 ---
 
 ![marilyn](/images/marilyn.jpg)

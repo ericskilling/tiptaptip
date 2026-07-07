@@ -4,7 +4,7 @@ date: '2009-10-16T04:37:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/shitsandwich.jpg"
 images: ["/images/shitsandwich.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt118.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt118.mp3"
 ---
 
 When life gives you shit, make a shit-ade

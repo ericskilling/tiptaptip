@@ -4,7 +4,7 @@ date: '2008-11-14T05:14:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/badgelv1.jpg"
 images: ["/images/badgelv1.jpg"]
-podcast_file: "http://archive.org/download/ttt39/ttt39.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt39.mp3"
 ---
 
 Rachelle's going away for the weekend so Eric is only hours away from getting drunk and passing out on delivery pizza in his "indoor clothes" with the menu screen of "The Waterboy" repeating on the TV. Enjoy the show.

@@ -4,7 +4,7 @@ date: '2008-07-13T23:07:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/deep-fried-oreos1.jpg"
 images: ["/images/deep-fried-oreos1.jpg"]
-podcast_file: "http://www.archive.org/download/Ttt4LiveFromTheStampede/ttt4.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt4.mp3"
 ---
 
 Recorded this episode live from the 2008 Calgary Stampede after eating deep-fried everything. It will take a cleanse or three to get back to normal.

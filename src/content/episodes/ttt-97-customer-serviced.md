@@ -4,7 +4,7 @@ date: '2009-07-16T04:27:12+00:00'
 author: ["eric","rachelle"]
 image: "/images/service.jpg"
 images: ["/images/service.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt97.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt97.mp3"
 ---
 
 ![service](/images/service.jpg)

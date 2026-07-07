@@ -4,7 +4,7 @@ date: '2008-08-13T04:31:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/pizza1.jpg"
 images: ["/images/pizza1.jpg"]
-podcast_file: "http://www.archive.org/download/Ttt14PizzaPartyBubblebath/ttt14.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt14.mp3"
 ---
 
 Shane joins us in the Tip Tap Tip "studio" only because we fed him pizza before the show. In return he gives us his take on hotel management and super-powers.

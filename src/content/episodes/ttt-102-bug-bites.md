@@ -4,7 +4,7 @@ date: '2009-08-05T04:35:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/lotsofhairSM.jpg"
 images: ["/images/lotsofhairSM.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt102.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt102.mp3"
 ---
 
 The things we do...

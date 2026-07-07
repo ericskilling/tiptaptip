@@ -4,7 +4,7 @@ date: '2008-10-28T04:04:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/smoking-bloke1.jpg"
 images: ["/images/smoking-bloke1.jpg"]
-podcast_file: "http://archive.org/download/ttt36/ttt36.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt36.mp3"
 ---
 
 Eric tortures Rachelle by playing some of the worst of Eurovision over the last few years. Shane astounds us with his impressions which are light years ahead of the shitty ones that we do. All we had to do was feed him dinner (again!)

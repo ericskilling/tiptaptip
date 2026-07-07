@@ -4,7 +4,7 @@ date: '2008-08-22T03:30:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/dinner1.jpg"
 images: ["/images/dinner1.jpg"]
-podcast_file: "http://archive.org/download/ttt17/ttt17.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt17.mp3"
 ---
 
 Rachelle's sick on the couch with the flu or something so Eric decides to put up an episode regardless.

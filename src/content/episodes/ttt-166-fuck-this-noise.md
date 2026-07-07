@@ -4,7 +4,7 @@ date: '2010-06-10T04:50:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/surra.jpg"
 images: ["/images/surra.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt166.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt166.mp3"
 ---
 
 Boom, Baby, Boom!

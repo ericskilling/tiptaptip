@@ -4,7 +4,7 @@ date: '2009-06-16T04:25:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/belv1.jpg"
 images: ["/images/belv1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt91.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt91.mp3"
 ---
 
 It's not stealing if they deserve it.

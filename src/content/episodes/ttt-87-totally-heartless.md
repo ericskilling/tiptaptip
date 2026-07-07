@@ -4,7 +4,7 @@ date: '2009-05-29T03:51:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/graphic-image-of-seal-clubbing.jpg"
 images: ["/images/graphic-image-of-seal-clubbing.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt87.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt87.mp3"
 ---
 
 ![club](/images/graphic-image-of-seal-clubbing.jpg)

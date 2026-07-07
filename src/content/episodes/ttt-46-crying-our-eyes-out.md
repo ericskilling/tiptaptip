@@ -4,7 +4,7 @@ date: '2008-12-10T05:05:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/gingerbread1.jpg"
 images: ["/images/gingerbread1.jpg"]
-podcast_file: "https://tiptaptip.com/files/audio/dirtyPromo.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt45.mp3"
 ---
 
 There's no worse feeling than being snubbed by your peers. That's why this episode is an all-out Kleenex fest. Once the crying is done, we get on to much important matters like which parts of our bodies we'd change were we given the opportunity. Guess which one of us wants ass implants.

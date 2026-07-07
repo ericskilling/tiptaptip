@@ -4,7 +4,7 @@ date: '2010-09-20T04:03:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/surprise.jpg"
 images: ["/images/surprise.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt185.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt185.mp3"
 ---
 
 Everything I do, I do it for you.

@@ -4,7 +4,7 @@ date: '2010-05-10T04:39:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/professionals.jpg"
 images: ["/images/professionals.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt160.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt160.mp3"
 ---
 
 Open up and say ahhh....

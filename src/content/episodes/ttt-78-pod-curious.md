@@ -4,7 +4,7 @@ date: '2009-04-21T04:35:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/eric-denisecrosby-motorcity-224x3001.jpg"
 images: ["/images/eric-denisecrosby-motorcity-224x3001.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt78.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt78.mp3"
 ---
 
 Eric - "Fuck Andrew Lloyd Webber and his technicolor bullshit-coat!"

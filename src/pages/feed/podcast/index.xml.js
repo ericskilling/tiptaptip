@@ -53,6 +53,9 @@ export async function GET() {
     description: 'A podcast about technology, geek culture, and Eurovision.',
     site: siteUrl,
     items,
+    xmlns: {
+      itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd',
+    },
     customData: `
       <language>en-us</language>
       <itunes:author>Eric & Rachelle</itunes:author>

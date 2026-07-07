@@ -4,7 +4,7 @@ date: '2009-09-11T04:24:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/power.jpg"
 images: ["/images/power.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt111.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt111.mp3"
 ---
 
 'Cause I'm Your lady.....

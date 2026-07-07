@@ -4,7 +4,7 @@ date: '2010-08-16T04:55:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/pop.jpg"
 images: ["/images/pop.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt179.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt179.mp3"
 ---
 
 Lights, Camera, Go fuck yourself!

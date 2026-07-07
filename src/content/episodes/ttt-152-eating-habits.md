@@ -4,7 +4,7 @@ date: '2010-03-31T04:53:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/food.jpg"
 images: ["/images/food.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/tt152.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt152.mp3"
 ---
 
 Meat isn't murder, it's fun!

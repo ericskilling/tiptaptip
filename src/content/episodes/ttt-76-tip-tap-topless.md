@@ -4,7 +4,7 @@ date: '2009-04-14T04:00:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/mic-podcast-had.jpg"
 images: ["/images/mic-podcast-had.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt76.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt76.mp3"
 ---
 
 Is it a bit breezy in here?

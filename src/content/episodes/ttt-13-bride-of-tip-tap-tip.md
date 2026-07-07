@@ -4,7 +4,7 @@ date: '2008-08-12T04:19:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/chucky1.jpg"
 images: ["/images/chucky1.jpg"]
-podcast_file: "http://www.archive.org/download/Ttt13BrideOfTipTapTip/ttt13.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt13.mp3"
 ---
 
 Eric thinks Jennifer Tilly is smoking hot. Rachelle doesn't get it. Then again, Eric Doesn't get Rachelle's obsession with Colin Firth in riding boots. However, we both agree that cats in costumes are awesome and that piss bottles are gross.

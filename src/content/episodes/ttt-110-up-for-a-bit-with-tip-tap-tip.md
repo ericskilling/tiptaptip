@@ -4,7 +4,7 @@ date: '2009-09-09T04:47:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/upforabit.jpg"
 images: ["/images/upforabit.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt110.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt110.mp3"
 ---
 
 Contest: Win A Date With Shane - Details in this episode.

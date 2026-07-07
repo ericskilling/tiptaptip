@@ -4,7 +4,7 @@ date: '2009-07-11T04:53:32+00:00'
 author: ["eric","rachelle"]
 image: "/images/whatsup.jpg"
 images: ["/images/whatsup.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt96.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt96.mp3"
 ---
 
 ![whatsup](/images/whatsup.jpg)

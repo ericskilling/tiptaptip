@@ -4,7 +4,7 @@ date: '2009-08-21T04:44:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/whip1.jpg"
 images: ["/images/whip1.jpg"]
-podcast_file: "http://media.libsyn.com/media/tiptaptip/ttt106.mp3"
+podcast_file: "https://archive.org/download/tiptaptip/ttt106.mp3"
 ---
 
 Oh dear me! We've really in for it now.
