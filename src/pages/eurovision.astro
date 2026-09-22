@@ -1,0 +1,92 @@
+---
+title: Eurovision | Tip Tap Tip Show
+description: Calgary's Eurovision experts since 2009. Watch our annual contest predictions, reaction videos, and deep dives.
+---
+
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EpisodeCard from '../components/EpisodeCard.astro';
+import { getCollection } from 'astro:content';
+
+// Fetch all episodes
+const allEpisodes = await getCollection('episodes');
+
+// Filter for Eurovision-related episodes
+const eurovisionEpisodes = allEpisodes
+  .filter(ep => {
+    const text = `${ep.data.title || ''} ${ep.body || ''}`.toLowerCase();
+    return text.includes('eurovision') ||
+           text.includes('esc') ||
+           ep.data.title?.toLowerCase().includes('euro') ||
+           ep.data.image?.toLowerCase().includes('euro') ||
+           ep.data.images?.some(img => img.toLowerCase().includes('euro'));
+  })
+  .filter(ep => ep.data.date && ep.data.title)
+  .sort((a, b) => {
+    const dateA = new Date(a.data.date).valueOf();
+    const dateB = new Date(b.data.date).valueOf();
+    return dateB - dateA;
+  })
+  .slice(0, 5);
+
+const eurovisionEpisodeCount = allEpisodes.filter(ep => {
+  const text = `${ep.data.title || ''} ${ep.body || ''}`.toLowerCase();
+  return text.includes('eurovision') ||
+         text.includes('esc') ||
+         ep.data.title?.toLowerCase().includes('euro') ||
+         ep.data.image?.toLowerCase().includes('euro') ||
+         ep.data.images?.some(img => img.toLowerCase().includes('euro'));
+}).length;
+---
+
+<BaseLayout title="Eurovision" description="Calgary's Eurovision experts since 2009. Watch our annual contest predictions, reaction videos, and deep dives.">
+
+# Eurovision HQ
+
+**Calgary's longest-running Eurovision coverage — since 2009 ({eurovisionEpisodeCount} episodes and counting).**
+
+---
+
+## About This Section
+
+Rachelle and Eric have been dissecting the Eurovision Song Contest on Tip Tap Tip every year since 2009. We're unofficially Calgary's Eurovision experts — and we'd like to make it official.
+
+---
+
+## Latest Coverage
+
+<div class="episodes-grid">
+  {eurovisionEpisodes.map((episode) => (
+    <EpisodeCard episode={episode} />
+  ))}
+</div>
+
+{!eurovisionEpisodes.length && (
+  <p>No Eurovision episodes found. <a href="/episodes">Browse all episodes</a>.</p>
+)}
+
+---
+
+## For Media Requests
+
+Need Calgary-based Eurovision commentary? We've got 15 years of archive footage and hot takes ready to go.
+
+**Contact:** [hello@tiptaptip.com](mailto:hello@tiptaptip.com)
+
+We can provide:
+- Pre-recorded segments for broadcast
+- Live commentary during the contest final
+- Written analysis and predictions
+- Historical context comparing entries across decades
+- Local Calgary connection angles (immigrant communities, cultural events)
+
+---
+
+## What We Offer:
+
+✓ Annual contest prediction video (March)
+✓ Live reaction coverage during the broadcast (May)
+✓ Post-contest analysis and "what went wrong" deep dives
+✓ Historical context comparing this year's entries to past decades
+✓ Local Calgary connection angles (immigrant communities, cultural events)
+
+</BaseLayout>

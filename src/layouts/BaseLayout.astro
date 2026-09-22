@@ -16,6 +16,7 @@ const currentPath = Astro.url.pathname;
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/episodes', label: 'Episodes' },
+  { href: '/eurovision', label: 'Eurovision' },
   { href: '/about', label: 'About' },
   { href: '/subscribe', label: 'Subscribe' },
 ];
@@ -65,6 +66,13 @@ const isActive = (href: string) =>
           <p class="card-eyebrow">What we do</p>
           <p>
             Fresh episodes, strange conversations, and the best of the Eurovision underground.
+          </p>
+        </div>
+
+        <div class="sidebar-card">
+          <p class="card-eyebrow">Eurovision</p>
+          <p>
+            Calgary's resident Eurovision experts since 2009.
           </p>
         </div>
 
