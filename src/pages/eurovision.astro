@@ -1,25 +1,27 @@
 ---
-title: Eurovision | Tip Tap Tip Show
-description: Calgary's Eurovision experts since 2009. Watch our annual contest predictions, reaction videos, and deep dives.
----
-
 import BaseLayout from '../layouts/BaseLayout.astro';
 import EpisodeCard from '../components/EpisodeCard.astro';
 import { getCollection } from 'astro:content';
 
+const pageTitle = "Eurovision | Tip Tap Tip Show";
+const pageDescription = "Calgary's Eurovision experts since 2009. Listen to our annual contest predictions, reaction videos, and deep dives.";
+
 // Fetch all episodes
 const allEpisodes = await getCollection('episodes');
 
+// Helper function to check for Eurovision content
+const isEurovisionEpisode = (ep) => {
+  const text = `${ep.data.title || ''} ${ep.body || ''}`.toLowerCase();
+  return text.includes('eurovision') ||
+         text.includes('esc') ||
+         ep.data.title?.toLowerCase().includes('euro') ||
+         ep.data.image?.toLowerCase().includes('euro') ||
+         ep.data.images?.some(img => img.toLowerCase().includes('euro'));
+};
+
 // Filter for Eurovision-related episodes
 const eurovisionEpisodes = allEpisodes
-  .filter(ep => {
-    const text = `${ep.data.title || ''} ${ep.body || ''}`.toLowerCase();
-    return text.includes('eurovision') ||
-           text.includes('esc') ||
-           ep.data.title?.toLowerCase().includes('euro') ||
-           ep.data.image?.toLowerCase().includes('euro') ||
-           ep.data.images?.some(img => img.toLowerCase().includes('euro'));
-  })
+  .filter(isEurovisionEpisode)
   .filter(ep => ep.data.date && ep.data.title)
   .sort((a, b) => {
     const dateA = new Date(a.data.date).valueOf();
@@ -28,14 +30,7 @@ const eurovisionEpisodes = allEpisodes
   })
   .slice(0, 5);
 
-const eurovisionEpisodeCount = allEpisodes.filter(ep => {
-  const text = `${ep.data.title || ''} ${ep.body || ''}`.toLowerCase();
-  return text.includes('eurovision') ||
-         text.includes('esc') ||
-         ep.data.title?.toLowerCase().includes('euro') ||
-         ep.data.image?.toLowerCase().includes('euro') ||
-         ep.data.images?.some(img => img.toLowerCase().includes('euro'));
-}).length;
+const eurovisionEpisodeCount = allEpisodes.filter(isEurovisionEpisode).length;
 ---
 
 <BaseLayout title="Eurovision" description="Calgary's Eurovision experts since 2009. Watch our annual contest predictions, reaction videos, and deep dives.">
