@@ -1,5 +1,5 @@
 ---
-title: "'TTT 503: Turn of Phrase'"
+title: 'TTT 503: Turn of Phrase'
 date: '2019-09-16T23:13:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/busy.jpg"

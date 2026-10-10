@@ -1,5 +1,5 @@
 ---
-title: "'TTT 461: Team Tip Tap Tip'"
+title: 'TTT 461: Team Tip Tap Tip'
 date: '2017-07-22T05:25:26+00:00'
 author: ["eric","rachelle"]
 image: "/images/teamwork.jpg"

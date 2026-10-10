@@ -1,5 +1,5 @@
 ---
-title: "'TTT 489: Lower Your Voice'"
+title: 'TTT 489: Lower Your Voice'
 date: '2018-12-29T03:17:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/lower.jpg"

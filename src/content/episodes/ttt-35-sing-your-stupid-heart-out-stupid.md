@@ -1,5 +1,5 @@
 ---
-title: "'TTT 35: Sing Your Stupid Heart Out, Stupid!'"
+title: 'TTT 35: Sing Your Stupid Heart Out, Stupid!'
 date: '2008-10-22T04:36:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/eurovision1.jpg"

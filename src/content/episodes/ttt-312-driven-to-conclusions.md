@@ -1,5 +1,5 @@
 ---
-title: "'TTT 312: Driven To Conclusions'"
+title: 'TTT 312: Driven To Conclusions'
 date: '2012-06-18T02:50:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/rush.jpg"

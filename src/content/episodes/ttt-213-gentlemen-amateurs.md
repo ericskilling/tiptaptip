@@ -1,5 +1,5 @@
 ---
-title: "'TTT 213: Gentlemen Amateurs'"
+title: 'TTT 213: Gentlemen Amateurs'
 date: '2011-01-31T05:24:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/gentlemen.jpg"

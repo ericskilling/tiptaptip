@@ -1,5 +1,5 @@
 ---
-title: "'TTT 421: Enough Already!'"
+title: 'TTT 421: Enough Already!'
 date: '2015-08-23T02:07:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/enoughalready.jpg"

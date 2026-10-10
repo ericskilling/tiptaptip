@@ -1,5 +1,5 @@
 ---
-title: "'TTT 6: Unicorn Lee Roth'"
+title: 'TTT 6: Unicorn Lee Roth'
 date: '2008-07-18T04:53:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/simpsons1.jpg"

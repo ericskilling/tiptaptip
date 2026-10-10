@@ -1,5 +1,5 @@
 ---
-title: "'TTT 336: High Fantasy'"
+title: 'TTT 336: High Fantasy'
 date: '2013-01-18T04:48:13+00:00'
 author: ["eric","rachelle"]
 image: "/images/fantasy.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 550: Against The Rules'"
+title: 'TTT 550: Against The Rules'
 date: '2024-05-06T01:02:26+00:00'
 author: ["eric","rachelle"]
 image: "/images/gravy.jpg"

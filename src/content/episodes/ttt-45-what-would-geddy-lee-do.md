@@ -1,5 +1,5 @@
 ---
-title: "'TTT 45: What Would Geddy Lee Do?'"
+title: 'TTT 45: What Would Geddy Lee Do?'
 date: '2008-12-06T06:19:28+00:00'
 author: ["eric","rachelle"]
 image: "/images/rush1.jpg"

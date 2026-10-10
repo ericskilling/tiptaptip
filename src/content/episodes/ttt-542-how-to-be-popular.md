@@ -1,5 +1,5 @@
 ---
-title: "'TTT 542: How To Be Popular'"
+title: 'TTT 542: How To Be Popular'
 date: '2023-02-06T00:50:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/popular.jpg"

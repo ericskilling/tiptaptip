@@ -1,5 +1,5 @@
 ---
-title: "'TTT 28: Between Love and Hate'"
+title: 'TTT 28: Between Love and Hate'
 date: '2008-09-26T03:48:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/nancy_grace-web1.jpg"

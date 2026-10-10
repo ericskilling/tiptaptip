@@ -1,5 +1,5 @@
 ---
-title: "'TTT 481: Oh Man, The Future!'"
+title: 'TTT 481: Oh Man, The Future!'
 date: '2018-06-28T23:26:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/thefuture.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 253: Does Not Compute'"
+title: 'TTT 253: Does Not Compute'
 date: '2011-07-14T04:17:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/compute.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 220: Memory Lapse'"
+title: 'TTT 220: Memory Lapse'
 date: '2011-02-24T05:23:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/memory.jpg"

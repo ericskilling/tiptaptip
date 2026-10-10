@@ -1,5 +1,5 @@
 ---
-title: "'TTT 226: Nerd On Nerd Action'"
+title: 'TTT 226: Nerd On Nerd Action'
 date: '2011-03-21T04:30:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/nerdonnerd.jpg"

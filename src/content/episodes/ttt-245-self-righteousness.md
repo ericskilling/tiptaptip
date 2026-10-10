@@ -1,5 +1,5 @@
 ---
-title: "'TTT 245: Self-Righteousness'"
+title: 'TTT 245: Self-Righteousness'
 date: '2011-06-06T04:16:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/selfrighteous.jpg"

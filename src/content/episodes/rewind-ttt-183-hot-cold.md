@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 183: Hot Or Cold'"
+title: 'REWIND - TTT 183: Hot Or Cold'
 date: '2014-12-28T19:23:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/hotcold.jpg"

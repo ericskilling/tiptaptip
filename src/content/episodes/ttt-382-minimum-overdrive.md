@@ -1,5 +1,5 @@
 ---
-title: "'TTT 382: Minimum Overdrive'"
+title: 'TTT 382: Minimum Overdrive'
 date: '2014-04-21T04:31:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/minimumoverdrive.jpg"

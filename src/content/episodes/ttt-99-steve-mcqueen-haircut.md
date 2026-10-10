@@ -1,5 +1,5 @@
 ---
-title: "'TTT 99: Steve McQueen Haircut'"
+title: 'TTT 99: Steve McQueen Haircut'
 date: '2009-07-23T04:35:13+00:00'
 author: ["eric","rachelle"]
 image: "/images/mcqueen.jpg"

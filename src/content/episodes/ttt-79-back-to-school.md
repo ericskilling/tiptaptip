@@ -1,5 +1,5 @@
 ---
-title: "'TTT 79: Back To School'"
+title: 'TTT 79: Back To School'
 date: '2009-04-24T04:56:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/student-filmmaking.jpg"

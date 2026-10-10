@@ -1,5 +1,5 @@
 ---
-title: "'TTT 326: Givers And Takers'"
+title: 'TTT 326: Givers And Takers'
 date: '2012-10-10T02:27:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/funxmas.jpg"

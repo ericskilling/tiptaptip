@@ -1,5 +1,5 @@
 ---
-title: "'TTT TV 1: Flashing Lights'"
+title: 'TTT TV 1: Flashing Lights'
 date: '2009-05-28T03:58:28+00:00'
 author: ["eric","rachelle"]
 image: "/images/electronic_flashing_lights.jpg"

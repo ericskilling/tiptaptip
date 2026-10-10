@@ -1,5 +1,5 @@
 ---
-title: "'TTT 457: Mondo Tip Tap Tip'"
+title: 'TTT 457: Mondo Tip Tap Tip'
 date: '2017-04-24T02:04:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/mondo.jpg"

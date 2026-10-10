@@ -1,5 +1,5 @@
 ---
-title: "'TTT 424: Buy And Sell'"
+title: 'TTT 424: Buy And Sell'
 date: '2016-04-19T01:38:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/buyandsell.jpg"

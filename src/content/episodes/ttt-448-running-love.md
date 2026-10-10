@@ -1,5 +1,5 @@
 ---
-title: "'TTT 448: Running For Love'"
+title: 'TTT 448: Running For Love'
 date: '2016-12-21T02:21:47+00:00'
 author: ["eric","rachelle"]
 image: "/images/runninglove.jpg"

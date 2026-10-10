@@ -1,5 +1,5 @@
 ---
-title: "'TTT 37: Workplace Violence'"
+title: 'TTT 37: Workplace Violence'
 date: '2008-11-03T09:21:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/workplace1.jpg"

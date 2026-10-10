@@ -1,5 +1,5 @@
 ---
-title: "'TTT 467: It''s Okay To Cry'"
+title: 'TTT 467: It''s Okay To Cry'
 date: '2017-11-11T17:56:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/okaytocry.jpg"

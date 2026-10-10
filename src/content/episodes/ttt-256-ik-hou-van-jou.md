@@ -1,5 +1,5 @@
 ---
-title: "'TTT 256: Ik Hou Van Jou'"
+title: 'TTT 256: Ik Hou Van Jou'
 date: '2011-08-04T03:55:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/ikhouvanjou.jpg"

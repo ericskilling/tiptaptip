@@ -1,5 +1,5 @@
 ---
-title: "'TTT 380: Busy Being Awesome'"
+title: 'TTT 380: Busy Being Awesome'
 date: '2014-03-30T22:05:23+00:00'
 author: ["eric","rachelle"]
 image: "/images/beingawesome.jpg"

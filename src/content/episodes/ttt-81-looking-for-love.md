@@ -1,5 +1,5 @@
 ---
-title: "'TTT 81: Looking For Love'"
+title: 'TTT 81: Looking For Love'
 date: '2009-05-01T04:42:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/mask_of_vulcan.jpg"

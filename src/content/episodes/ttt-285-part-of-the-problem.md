@@ -1,5 +1,5 @@
 ---
-title: "'TTT 285: Part Of The Problem'"
+title: 'TTT 285: Part Of The Problem'
 date: '2012-01-16T07:06:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/cog.jpg"

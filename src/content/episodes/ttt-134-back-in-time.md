@@ -1,5 +1,5 @@
 ---
-title: "'TTT 134: Back In Time'"
+title: 'TTT 134: Back In Time'
 date: '2009-12-30T23:34:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/rewind.jpg"

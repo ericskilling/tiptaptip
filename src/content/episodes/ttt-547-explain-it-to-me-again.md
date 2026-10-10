@@ -1,5 +1,5 @@
 ---
-title: "'TTT 547: Explain It To Me Again'"
+title: 'TTT 547: Explain It To Me Again'
 date: '2023-11-02T13:24:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/spaghetti.jpg"

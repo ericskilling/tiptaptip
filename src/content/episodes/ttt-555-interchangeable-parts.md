@@ -1,5 +1,5 @@
 ---
-title: "'TTT 555: Interchangeable Parts'"
+title: 'TTT 555: Interchangeable Parts'
 date: '2025-02-16T17:08:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/podbot-1.jpg"

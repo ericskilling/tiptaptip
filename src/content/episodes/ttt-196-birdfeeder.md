@@ -1,5 +1,5 @@
 ---
-title: "'TTT 196: Birdfeeder'"
+title: 'TTT 196: Birdfeeder'
 date: '2010-11-01T05:07:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/horsebird.jpg"

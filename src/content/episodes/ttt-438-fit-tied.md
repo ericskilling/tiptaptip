@@ -1,5 +1,5 @@
 ---
-title: "'TTT 438: Fit To Be Tied'"
+title: 'TTT 438: Fit To Be Tied'
 date: '2016-05-24T03:58:32+00:00'
 author: ["eric","rachelle"]
 image: "/images/fittobetied.jpg"

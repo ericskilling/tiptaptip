@@ -1,5 +1,5 @@
 ---
-title: "'TTT 297: Dirty Dishes'"
+title: 'TTT 297: Dirty Dishes'
 date: '2012-03-22T04:32:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/dish.jpg"

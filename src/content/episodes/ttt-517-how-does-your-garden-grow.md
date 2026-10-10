@@ -1,5 +1,5 @@
 ---
-title: "'TTT 517: How Does Your Garden Grow?'"
+title: 'TTT 517: How Does Your Garden Grow?'
 date: '2020-09-01T03:04:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/grow.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 208: Tip Tap Tip Sell Out'"
+title: 'TTT 208: Tip Tap Tip Sell Out'
 date: '2011-01-06T04:19:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/pegasi.jpg"

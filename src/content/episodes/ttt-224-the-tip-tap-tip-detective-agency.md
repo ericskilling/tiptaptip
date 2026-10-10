@@ -1,5 +1,5 @@
 ---
-title: "'TTT 224: The Tip Tap Tip Detective Agency'"
+title: 'TTT 224: The Tip Tap Tip Detective Agency'
 date: '2011-03-13T23:34:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/detect.jpg"

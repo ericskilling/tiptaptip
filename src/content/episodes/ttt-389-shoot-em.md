@@ -1,5 +1,5 @@
 ---
-title: "'TTT 389: Shoot ''Em Up'"
+title: 'TTT 389: Shoot ''Em Up'
 date: '2014-07-07T03:30:29+00:00'
 author: ["eric","rachelle"]
 image: "/images/shooters.jpg"

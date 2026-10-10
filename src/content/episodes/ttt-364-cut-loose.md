@@ -1,5 +1,5 @@
 ---
-title: "'TTT 364: Cut Loose'"
+title: 'TTT 364: Cut Loose'
 date: '2013-09-30T03:17:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/cut_loose.jpg"

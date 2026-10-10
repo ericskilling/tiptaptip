@@ -1,5 +1,5 @@
 ---
-title: "'TTT 188: Pissing Match'"
+title: 'TTT 188: Pissing Match'
 date: '2010-09-30T04:47:24+00:00'
 author: ["eric","rachelle"]
 image: "/images/pissing.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 509: Deep Breathing'"
+title: 'TTT 509: Deep Breathing'
 date: '2020-03-01T23:49:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/breathe.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 492: Emotionally Fragile'"
+title: 'TTT 492: Emotionally Fragile'
 date: '2019-02-19T02:37:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/fragile.jpg"

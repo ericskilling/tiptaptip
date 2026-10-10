@@ -1,5 +1,5 @@
 ---
-title: "'TTT 512: Cut & Run'"
+title: 'TTT 512: Cut & Run'
 date: '2020-04-20T02:55:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/cut-run.jpg"

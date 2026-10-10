@@ -1,5 +1,5 @@
 ---
-title: "'TTT 454: Life Lessons'"
+title: 'TTT 454: Life Lessons'
 date: '2017-03-14T02:41:25+00:00'
 author: ["eric","rachelle"]
 image: "/images/lessons.jpg"

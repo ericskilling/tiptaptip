@@ -1,5 +1,5 @@
 ---
-title: "'TTT 34: Little April Bloggers'"
+title: 'TTT 34: Little April Bloggers'
 date: '2008-10-20T05:07:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/aprilbloggers1.jpg"

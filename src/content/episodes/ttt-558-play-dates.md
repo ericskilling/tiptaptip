@@ -1,5 +1,5 @@
 ---
-title: "'TTT 558: Play Dates'"
+title: 'TTT 558: Play Dates'
 date: '2025-10-05T18:00:40+00:00'
 author: ["eric","rachelle"]
 image: "/images/gadoue.jpg"

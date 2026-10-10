@@ -1,5 +1,5 @@
 ---
-title: "'TTT 516: All You Can Eat'"
+title: 'TTT 516: All You Can Eat'
 date: '2020-08-23T21:19:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/eat.jpg"

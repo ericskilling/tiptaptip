@@ -1,5 +1,5 @@
 ---
-title: "'TTT 24: Soldiering On'"
+title: 'TTT 24: Soldiering On'
 date: '2008-09-11T04:54:45+00:00'
 author: ["eric","rachelle"]
 image: "/images/monkeybot1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 218: Cats Me To The End Of Love'"
+title: 'TTT 218: Cats Me To The End Of Love'
 date: '2011-02-17T05:38:59+00:00'
 author: ["eric","rachelle"]
 image: "/images/cats.jpg"

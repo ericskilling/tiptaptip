@@ -1,5 +1,5 @@
 ---
-title: "'TTT 204: Clothing Optional'"
+title: 'TTT 204: Clothing Optional'
 date: '2010-12-16T04:14:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/nudisttt.jpg"

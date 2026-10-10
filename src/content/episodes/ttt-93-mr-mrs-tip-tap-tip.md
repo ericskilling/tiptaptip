@@ -1,5 +1,5 @@
 ---
-title: "'TTT 93: Mr. & Mrs. Tip Tap Tip'"
+title: 'TTT 93: Mr. & Mrs. Tip Tap Tip'
 date: '2009-06-30T04:05:26+00:00'
 author: ["eric","rachelle"]
 image: "/images/wedding1.jpg"

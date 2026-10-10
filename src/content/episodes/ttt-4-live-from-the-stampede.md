@@ -1,5 +1,5 @@
 ---
-title: "'TTT 4: Live! From the Stampede!'"
+title: 'TTT 4: Live! From the Stampede!'
 date: '2008-07-13T23:07:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/deep-fried-oreos1.jpg"

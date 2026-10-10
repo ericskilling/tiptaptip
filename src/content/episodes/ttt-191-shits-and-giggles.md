@@ -1,5 +1,5 @@
 ---
-title: "'TTT 191: Shits And Giggles'"
+title: 'TTT 191: Shits And Giggles'
 date: '2010-10-14T04:48:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/shits.jpg"

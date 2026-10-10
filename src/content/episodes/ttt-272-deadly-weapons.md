@@ -1,5 +1,5 @@
 ---
-title: "'TTT 272: Deadly Weapons'"
+title: 'TTT 272: Deadly Weapons'
 date: '2011-10-16T22:30:13+00:00'
 author: ["eric","rachelle"]
 image: "/images/weapons.jpg"

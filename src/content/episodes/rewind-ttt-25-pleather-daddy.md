@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 25: Pleather Daddy'"
+title: 'REWIND - TTT 25: Pleather Daddy'
 date: '2011-07-25T03:30:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/pleather.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 223: Pleasure Machine'"
+title: 'TTT 223: Pleasure Machine'
 date: '2011-03-07T05:26:24+00:00'
 author: ["eric","rachelle"]
 image: "/images/front.jpg"

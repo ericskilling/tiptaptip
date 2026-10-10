@@ -1,5 +1,5 @@
 ---
-title: "'TTT 144: Form Fitting'"
+title: 'TTT 144: Form Fitting'
 date: '2010-02-15T05:46:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/sonia.jpg"

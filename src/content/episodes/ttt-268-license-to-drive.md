@@ -1,5 +1,5 @@
 ---
-title: "'TTT 268: License To Drive'"
+title: 'TTT 268: License To Drive'
 date: '2011-09-22T04:36:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/drive.jpg"

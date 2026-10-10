@@ -1,5 +1,5 @@
 ---
-title: "'TTT 158: Taking One For The Team'"
+title: 'TTT 158: Taking One For The Team'
 date: '2010-04-29T04:38:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/mslk.jpg"

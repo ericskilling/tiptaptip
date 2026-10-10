@@ -1,5 +1,5 @@
 ---
-title: "'TTT 52: Mystic Pizza Cake'"
+title: 'TTT 52: Mystic Pizza Cake'
 date: '2009-01-06T04:42:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/cakes1.jpg"

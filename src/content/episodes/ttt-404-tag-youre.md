@@ -1,5 +1,5 @@
 ---
-title: "'TTT 404: Tag! You''re It!'"
+title: 'TTT 404: Tag! You''re It!'
 date: '2015-01-19T05:19:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/tag_youre_it2.jpg"

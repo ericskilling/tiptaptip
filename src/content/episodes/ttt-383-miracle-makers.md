@@ -1,5 +1,5 @@
 ---
-title: "'TTT 383: Miracle Makers'"
+title: 'TTT 383: Miracle Makers'
 date: '2014-05-04T20:19:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/miracle.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 320: Blow It Out Your Ass'"
+title: 'TTT 320: Blow It Out Your Ass'
 date: '2012-08-12T05:23:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/yourass.jpg"

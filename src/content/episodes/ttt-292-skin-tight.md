@@ -1,5 +1,5 @@
 ---
-title: "'TTT 292: Skin Tight'"
+title: 'TTT 292: Skin Tight'
 date: '2012-02-23T05:24:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/skin.jpg"

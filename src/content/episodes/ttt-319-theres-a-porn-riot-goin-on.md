@@ -1,5 +1,5 @@
 ---
-title: "'TTT 319: There''s A Porn Riot Goin'' On'"
+title: 'TTT 319: There''s A Porn Riot Goin'' On'
 date: '2012-07-29T04:01:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/pornriot.jpg"

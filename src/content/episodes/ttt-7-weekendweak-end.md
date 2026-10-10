@@ -1,5 +1,5 @@
 ---
-title: "'TTT 7: Weekend/Weak End'"
+title: 'TTT 7: Weekend/Weak End'
 date: '2008-07-22T04:42:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/p-29091-39021-smallpet1.jpg"

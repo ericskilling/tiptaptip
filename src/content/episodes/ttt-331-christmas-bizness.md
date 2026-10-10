@@ -1,5 +1,5 @@
 ---
-title: "'TTT 331: Christmas Bizness'"
+title: 'TTT 331: Christmas Bizness'
 date: '2012-11-29T05:47:20+00:00'
 author: ["eric","rachelle"]
 image: "/images/jinglettt.jpg"

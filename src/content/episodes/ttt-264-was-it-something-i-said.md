@@ -1,5 +1,5 @@
 ---
-title: "'TTT 264: Was It Something I Said?'"
+title: 'TTT 264: Was It Something I Said?'
 date: '2011-09-05T06:28:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/something.jpg"

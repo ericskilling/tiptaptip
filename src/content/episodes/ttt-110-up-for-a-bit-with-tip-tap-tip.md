@@ -1,5 +1,5 @@
 ---
-title: "'TTT 110: Up For A Bit With Tip Tap Tip'"
+title: 'TTT 110: Up For A Bit With Tip Tap Tip'
 date: '2009-09-09T04:47:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/upforabit.jpg"

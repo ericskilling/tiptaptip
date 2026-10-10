@@ -1,5 +1,5 @@
 ---
-title: "'TTT 61: Guess Who''s Coming To Dinner?'"
+title: 'TTT 61: Guess Who''s Coming To Dinner?'
 date: '2009-02-16T06:36:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/free-drinks.jpg"

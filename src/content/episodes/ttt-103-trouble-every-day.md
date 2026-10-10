@@ -1,5 +1,5 @@
 ---
-title: "'TTT 103: Trouble Every Day'"
+title: 'TTT 103: Trouble Every Day'
 date: '2009-08-10T04:29:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/poster.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 451: Soft Entry'"
+title: 'TTT 451: Soft Entry'
 date: '2017-02-04T19:29:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/softentry.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 275: Animal Kingdom'"
+title: 'TTT 275: Animal Kingdom'
 date: '2011-10-31T04:22:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/animal.jpg"

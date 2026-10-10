@@ -1,5 +1,5 @@
 ---
-title: "'TTT 181: Pillow Talk'"
+title: 'TTT 181: Pillow Talk'
 date: '2010-08-26T04:50:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/pillow.jpg"

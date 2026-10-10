@@ -1,5 +1,5 @@
 ---
-title: "'TTT 540: Candy Corned'"
+title: 'TTT 540: Candy Corned'
 date: '2022-10-31T00:16:45+00:00'
 author: ["eric","rachelle"]
 image: "/images/corned.jpg"

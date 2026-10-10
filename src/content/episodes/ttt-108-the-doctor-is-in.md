@@ -1,5 +1,5 @@
 ---
-title: "'TTT 108: The Doctor Is In'"
+title: 'TTT 108: The Doctor Is In'
 date: '2009-08-29T04:57:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/marilyn.jpg"

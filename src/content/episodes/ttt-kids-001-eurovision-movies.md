@@ -1,5 +1,5 @@
 ---
-title: "'TTT Kids 001: Eurovision & Movies'"
+title: 'TTT Kids 001: Eurovision & Movies'
 date: '2019-05-20T05:06:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/ttt-kids-icon.jpg"

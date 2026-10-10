@@ -1,5 +1,5 @@
 ---
-title: "'TTT 214: Concrete Streets & Executive Suites'"
+title: 'TTT 214: Concrete Streets & Executive Suites'
 date: '2011-02-03T05:18:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/pimp.jpg"

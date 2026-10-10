@@ -1,5 +1,5 @@
 ---
-title: "'TTT 1: Lobster Pants'"
+title: 'TTT 1: Lobster Pants'
 date: '2008-07-04T02:04:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/adult_red_lobster_costume1.jpg"

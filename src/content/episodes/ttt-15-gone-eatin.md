@@ -1,5 +1,5 @@
 ---
-title: "'TTT 15: Gone Eatin'''"
+title: 'TTT 15: Gone Eatin'''
 date: '2008-08-18T04:07:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/bologna1.jpg"

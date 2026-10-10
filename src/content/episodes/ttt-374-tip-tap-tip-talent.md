@@ -1,5 +1,5 @@
 ---
-title: "'TTT 374: Tip Tap Tip Are Talent'"
+title: 'TTT 374: Tip Tap Tip Are Talent'
 date: '2014-01-19T22:58:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/tiptaptiparetalent.jpg"

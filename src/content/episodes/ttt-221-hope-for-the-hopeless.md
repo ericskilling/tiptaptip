@@ -1,5 +1,5 @@
 ---
-title: "'TTT 221: Hope For The Hopeless'"
+title: 'TTT 221: Hope For The Hopeless'
 date: '2011-02-28T01:43:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/moldova.jpg"

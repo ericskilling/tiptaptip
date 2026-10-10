@@ -1,5 +1,5 @@
 ---
-title: "'TTT 500: Controversy!'"
+title: 'TTT 500: Controversy!'
 date: '2019-07-14T22:50:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/controversy.jpg"

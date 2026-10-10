@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 211: All Hands On Dick'"
+title: 'REWIND - TTT 211: All Hands On Dick'
 date: '2015-01-04T19:23:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/dick.jpg"

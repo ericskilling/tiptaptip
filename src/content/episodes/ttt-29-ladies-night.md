@@ -1,5 +1,5 @@
 ---
-title: "'TTT 29: Ladies Night'"
+title: 'TTT 29: Ladies Night'
 date: '2008-09-30T04:35:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/lnight1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 468: Touch And Go'"
+title: 'TTT 468: Touch And Go'
 date: '2017-11-25T03:43:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/touchandgo.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 124: God Hates Tip Tap Tip'"
+title: 'TTT 124: God Hates Tip Tap Tip'
 date: '2009-11-12T06:09:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/sad_man1.jpg"

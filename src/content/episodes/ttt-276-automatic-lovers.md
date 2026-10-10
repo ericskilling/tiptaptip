@@ -1,5 +1,5 @@
 ---
-title: "'TTT 276: Automatic Lovers'"
+title: 'TTT 276: Automatic Lovers'
 date: '2011-11-07T02:50:59+00:00'
 author: ["eric","rachelle"]
 image: "/images/lover.jpg"

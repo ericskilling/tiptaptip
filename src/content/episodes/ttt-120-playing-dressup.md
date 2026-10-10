@@ -1,5 +1,5 @@
 ---
-title: "'TTT 120: Playing Dress-Up'"
+title: 'TTT 120: Playing Dress-Up'
 date: '2009-10-24T05:01:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/jcol.jpg"

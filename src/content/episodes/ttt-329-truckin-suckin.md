@@ -1,5 +1,5 @@
 ---
-title: "'TTT 329: Truckin'' & Suckin'''"
+title: 'TTT 329: Truckin'' & Suckin'''
 date: '2012-11-09T05:07:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/truckin.jpg"

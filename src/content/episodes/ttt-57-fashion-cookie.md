@@ -1,5 +1,5 @@
 ---
-title: "'TTT 57: Fashion Cookie'"
+title: 'TTT 57: Fashion Cookie'
 date: '2009-01-26T05:12:12+00:00'
 author: ["eric","rachelle"]
 image: "/images/wiiiiii.png"

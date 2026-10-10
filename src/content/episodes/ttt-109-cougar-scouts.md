@@ -1,5 +1,5 @@
 ---
-title: "'TTT 109: Cougar Scouts'"
+title: 'TTT 109: Cougar Scouts'
 date: '2009-09-03T04:32:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/cougar1.jpg"

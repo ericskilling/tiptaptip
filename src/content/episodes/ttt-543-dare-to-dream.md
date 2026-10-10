@@ -1,5 +1,5 @@
 ---
-title: "'TTT 543: Dare To Dream'"
+title: 'TTT 543: Dare To Dream'
 date: '2023-03-12T20:51:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/dreamy.jpg"

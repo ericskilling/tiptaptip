@@ -1,5 +1,5 @@
 ---
-title: "'TTT 441: Where Love Begins'"
+title: 'TTT 441: Where Love Begins'
 date: '2016-07-28T00:51:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/wherelovebegins.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 303: Pick And Choose'"
+title: 'TTT 303: Pick And Choose'
 date: '2012-04-19T04:13:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/pick.jpg"

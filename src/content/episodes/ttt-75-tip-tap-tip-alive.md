@@ -1,5 +1,5 @@
 ---
-title: "'TTT 75: Tip Tap Tip Alive!'"
+title: 'TTT 75: Tip Tap Tip Alive!'
 date: '2009-04-09T04:46:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/bumpit.gif"

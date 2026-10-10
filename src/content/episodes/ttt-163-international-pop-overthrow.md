@@ -1,5 +1,5 @@
 ---
-title: "'TTT 163: International Pop Overthrow'"
+title: 'TTT 163: International Pop Overthrow'
 date: '2010-05-27T04:19:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/euro.jpg"

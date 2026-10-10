@@ -1,5 +1,5 @@
 ---
-title: "'TTT 135: The Tip Tap Tip Challenge'"
+title: 'TTT 135: The Tip Tap Tip Challenge'
 date: '2010-01-04T01:57:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/challenge.jpg"

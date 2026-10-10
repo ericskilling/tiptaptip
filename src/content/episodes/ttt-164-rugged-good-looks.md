@@ -1,5 +1,5 @@
 ---
-title: "'TTT 164: Rugged Good Looks'"
+title: 'TTT 164: Rugged Good Looks'
 date: '2010-06-03T04:24:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/jason.jpg"

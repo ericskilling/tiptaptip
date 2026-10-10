@@ -1,5 +1,5 @@
 ---
-title: "'TTT 212: Team Players'"
+title: 'TTT 212: Team Players'
 date: '2011-01-24T05:21:39+00:00'
 author: ["eric","rachelle"]
 image: "/images/team.jpg"

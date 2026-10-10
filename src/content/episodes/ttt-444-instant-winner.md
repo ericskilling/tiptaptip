@@ -1,5 +1,5 @@
 ---
-title: "'TTT 444: Instant Winner'"
+title: 'TTT 444: Instant Winner'
 date: '2016-09-27T00:10:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/instantwinner.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 53: Lovemakers'"
+title: 'TTT 53: Lovemakers'
 date: '2009-01-09T04:52:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/mantracker1.jpg"

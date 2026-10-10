@@ -1,5 +1,5 @@
 ---
-title: "'TTT 378: Black Is The New Black'"
+title: 'TTT 378: Black Is The New Black'
 date: '2014-03-02T21:22:23+00:00'
 author: ["eric","rachelle"]
 image: "/images/blackblack.jpg"

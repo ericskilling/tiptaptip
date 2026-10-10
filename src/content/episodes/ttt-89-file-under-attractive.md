@@ -1,5 +1,5 @@
 ---
-title: "'TTT 89: File Under Attractive'"
+title: 'TTT 89: File Under Attractive'
 date: '2009-06-07T16:12:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/attraction.jpg"

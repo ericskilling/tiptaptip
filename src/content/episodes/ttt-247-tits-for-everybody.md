@@ -1,5 +1,5 @@
 ---
-title: "'TTT 247: Tits For Everybody!'"
+title: 'TTT 247: Tits For Everybody!'
 date: '2011-06-16T04:24:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/riot.jpg"

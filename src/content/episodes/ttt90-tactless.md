@@ -1,5 +1,5 @@
 ---
-title: "'TTT 90: Tactless'"
+title: 'TTT 90: Tactless'
 date: '2009-06-10T03:36:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/wave.png"

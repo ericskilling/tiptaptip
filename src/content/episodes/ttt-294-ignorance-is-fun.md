@@ -1,5 +1,5 @@
 ---
-title: "'TTT 294: Ignorance Is Fun'"
+title: 'TTT 294: Ignorance Is Fun'
 date: '2012-03-05T05:28:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/ignorance.jpg"

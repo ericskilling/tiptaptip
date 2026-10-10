@@ -1,5 +1,5 @@
 ---
-title: "'TTT 412: Arts And Crafts'"
+title: 'TTT 412: Arts And Crafts'
 date: '2015-05-04T01:26:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/crafts.jpg"

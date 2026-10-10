@@ -1,5 +1,5 @@
 ---
-title: "'TTT 400: Holiday Road'"
+title: 'TTT 400: Holiday Road'
 date: '2014-11-17T04:35:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/holiday_road.jpg"

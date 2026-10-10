@@ -1,5 +1,5 @@
 ---
-title: "'TTT 471: Cause For Concern'"
+title: 'TTT 471: Cause For Concern'
 date: '2018-01-21T06:55:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/concern.jpg"

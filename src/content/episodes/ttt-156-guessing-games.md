@@ -1,5 +1,5 @@
 ---
-title: "'TTT 156: Guessing Games'"
+title: 'TTT 156: Guessing Games'
 date: '2010-04-22T04:32:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/guess.jpg"

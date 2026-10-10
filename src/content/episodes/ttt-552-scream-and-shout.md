@@ -1,5 +1,5 @@
 ---
-title: "'TTT 552: Scream and Shout'"
+title: 'TTT 552: Scream and Shout'
 date: '2024-07-14T23:01:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/scream.jpg"

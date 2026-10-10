@@ -1,5 +1,5 @@
 ---
-title: "'TTT 227: For Love And Money'"
+title: 'TTT 227: For Love And Money'
 date: '2011-03-24T04:21:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/fish.jpg"

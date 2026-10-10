@@ -1,5 +1,5 @@
 ---
-title: "'TTT 556: Talk Amongst Yourselves'"
+title: 'TTT 556: Talk Amongst Yourselves'
 date: '2025-04-28T01:59:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/talkamongstyourselves.jpg"

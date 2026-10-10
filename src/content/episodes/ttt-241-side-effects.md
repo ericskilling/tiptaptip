@@ -1,5 +1,5 @@
 ---
-title: "'TTT 241: Side Effects'"
+title: 'TTT 241: Side Effects'
 date: '2011-05-22T22:09:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/space.jpg"

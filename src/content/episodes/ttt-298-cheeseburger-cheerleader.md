@@ -1,5 +1,5 @@
 ---
-title: "'TTT 298: Cheeseburger Cheerleader'"
+title: 'TTT 298: Cheeseburger Cheerleader'
 date: '2012-03-26T04:06:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/cheese.jpg"

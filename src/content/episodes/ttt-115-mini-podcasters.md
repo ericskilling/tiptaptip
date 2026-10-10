@@ -1,5 +1,5 @@
 ---
-title: "'TTT 115: Mini Podcasters'"
+title: 'TTT 115: Mini Podcasters'
 date: '2009-10-01T04:42:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/pops.jpg"

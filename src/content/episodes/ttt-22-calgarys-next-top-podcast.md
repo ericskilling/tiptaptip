@@ -1,5 +1,5 @@
 ---
-title: "'TTT 22: Calgary''s Next Top Podcast'"
+title: 'TTT 22: Calgary''s Next Top Podcast'
 date: '2008-09-05T04:50:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/newkids1.jpg"

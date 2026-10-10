@@ -1,5 +1,5 @@
 ---
-title: "'TTT 314: Business Casual Racism'"
+title: 'TTT 314: Business Casual Racism'
 date: '2012-06-27T07:47:29+00:00'
 author: ["eric","rachelle"]
 image: "/images/casual.jpg"

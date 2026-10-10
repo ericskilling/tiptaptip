@@ -1,5 +1,5 @@
 ---
-title: "'TTT 44: Indoors or Outdoors'"
+title: 'TTT 44: Indoors or Outdoors'
 date: '2008-12-02T04:50:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/cushionfort1.jpg"

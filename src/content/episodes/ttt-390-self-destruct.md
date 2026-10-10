@@ -1,5 +1,5 @@
 ---
-title: "'TTT 390: Self Destruct'"
+title: 'TTT 390: Self Destruct'
 date: '2014-07-21T04:12:47+00:00'
 author: ["eric","rachelle"]
 image: "/images/self_destruct.jpg"

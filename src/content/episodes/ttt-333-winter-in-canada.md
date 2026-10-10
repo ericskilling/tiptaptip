@@ -1,5 +1,5 @@
 ---
-title: "'TTT 333: Winter In Canada'"
+title: 'TTT 333: Winter In Canada'
 date: '2012-12-16T23:37:39+00:00'
 author: ["eric","rachelle"]
 image: "/images/vinter.jpg"

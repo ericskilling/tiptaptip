@@ -1,5 +1,5 @@
 ---
-title: "'TTT 308: Sweaty Palms'"
+title: 'TTT 308: Sweaty Palms'
 date: '2012-05-17T04:05:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/palms.jpg"

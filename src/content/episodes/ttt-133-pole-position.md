@@ -1,5 +1,5 @@
 ---
-title: "'TTT 133: Pole Position'"
+title: 'TTT 133: Pole Position'
 date: '2009-12-28T05:51:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/pole.jpg"

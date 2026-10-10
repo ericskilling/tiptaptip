@@ -1,5 +1,5 @@
 ---
-title: "'TTT 210: Intelligent Lifeforms'"
+title: 'TTT 210: Intelligent Lifeforms'
 date: '2011-01-13T04:47:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/lifeform.jpg"

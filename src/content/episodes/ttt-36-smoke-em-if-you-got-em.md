@@ -1,5 +1,5 @@
 ---
-title: "'TTT 36: Smoke ''Em If You Got ''Em'"
+title: 'TTT 36: Smoke ''Em If You Got ''Em'
 date: '2008-10-28T04:04:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/smoking-bloke1.jpg"

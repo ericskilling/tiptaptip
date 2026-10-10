@@ -1,5 +1,5 @@
 ---
-title: "'TTT 126: Sexual Education'"
+title: 'TTT 126: Sexual Education'
 date: '2009-11-22T05:28:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/education1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 246: Shit-Eating Grins'"
+title: 'TTT 246: Shit-Eating Grins'
 date: '2011-06-09T04:27:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/grins.jpg"

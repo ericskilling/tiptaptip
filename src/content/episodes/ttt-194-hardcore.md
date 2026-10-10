@@ -1,5 +1,5 @@
 ---
-title: "'TTT 194: Hardcore'"
+title: 'TTT 194: Hardcore'
 date: '2010-10-25T04:36:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/puppet.jpg"

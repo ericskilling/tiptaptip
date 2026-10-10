@@ -1,5 +1,5 @@
 ---
-title: "'TTT 350: Heavy Hitters'"
+title: 'TTT 350: Heavy Hitters'
 date: '2013-05-05T22:47:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/heavy_hitters.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 65: The Feric and Cachelle Show'"
+title: 'TTT 65: The Feric and Cachelle Show'
 date: '2009-03-03T05:08:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/imposter.jpg"

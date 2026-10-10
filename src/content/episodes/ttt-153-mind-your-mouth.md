@@ -1,5 +1,5 @@
 ---
-title: "'TTT 153: Mind Your Mouth'"
+title: 'TTT 153: Mind Your Mouth'
 date: '2010-04-08T04:50:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/mouth.jpg"

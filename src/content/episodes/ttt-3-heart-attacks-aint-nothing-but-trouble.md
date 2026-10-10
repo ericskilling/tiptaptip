@@ -1,5 +1,5 @@
 ---
-title: "'TTT 3: Heart Attacks Ain''t Nothing But Trouble'"
+title: 'TTT 3: Heart Attacks Ain''t Nothing But Trouble'
 date: '2008-07-09T05:36:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/heart_attacks.jpg"

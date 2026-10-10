@@ -1,5 +1,5 @@
 ---
-title: "'TTT 375: Gold And Diamonds'"
+title: 'TTT 375: Gold And Diamonds'
 date: '2014-01-26T21:14:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/gold-diamonds.jpg"

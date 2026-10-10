@@ -1,5 +1,5 @@
 ---
-title: "'TTT 525: Take it to the Limit'"
+title: 'TTT 525: Take it to the Limit'
 date: '2021-02-15T23:00:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/limit.jpg"

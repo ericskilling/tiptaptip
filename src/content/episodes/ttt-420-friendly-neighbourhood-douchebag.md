@@ -1,5 +1,5 @@
 ---
-title: "'TTT 420: Friendly Neighbourhood Douchebag'"
+title: 'TTT 420: Friendly Neighbourhood Douchebag'
 date: '2015-08-17T00:49:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/funneighbour.jpg"

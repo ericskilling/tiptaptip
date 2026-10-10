@@ -1,5 +1,5 @@
 ---
-title: "'TTT 117: Too Slow!'"
+title: 'TTT 117: Too Slow!'
 date: '2009-10-11T04:53:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/HFE_Too_Slow_4.JPG"

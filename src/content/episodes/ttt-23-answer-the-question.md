@@ -1,5 +1,5 @@
 ---
-title: "'TTT 23: Answer The Question!!!'"
+title: 'TTT 23: Answer The Question!!!'
 date: '2008-09-09T04:49:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/parara1.jpg"

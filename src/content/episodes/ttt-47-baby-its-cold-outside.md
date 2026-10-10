@@ -1,5 +1,5 @@
 ---
-title: "'TTT 47: Baby, It''s Cold Outside'"
+title: 'TTT 47: Baby, It''s Cold Outside'
 date: '2008-12-14T05:33:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/tttglitter1.gif"

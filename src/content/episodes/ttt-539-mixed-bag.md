@@ -1,5 +1,5 @@
 ---
-title: "'TTT 539: Mixed Bag'"
+title: 'TTT 539: Mixed Bag'
 date: '2022-09-11T22:47:12+00:00'
 author: ["eric","rachelle"]
 image: "/images/mixed.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 13: Bride of Tip Tap Tip'"
+title: 'TTT 13: Bride of Tip Tap Tip'
 date: '2008-08-12T04:19:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/chucky1.jpg"

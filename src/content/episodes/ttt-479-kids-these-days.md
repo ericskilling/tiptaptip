@@ -1,5 +1,5 @@
 ---
-title: "'TTT 479: Kids These Days'"
+title: 'TTT 479: Kids These Days'
 date: '2018-05-27T22:57:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/kids.jpg"

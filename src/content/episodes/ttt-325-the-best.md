@@ -1,5 +1,5 @@
 ---
-title: "'TTT 325: The Best'"
+title: 'TTT 325: The Best'
 date: '2012-10-01T05:21:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/best.jpg"

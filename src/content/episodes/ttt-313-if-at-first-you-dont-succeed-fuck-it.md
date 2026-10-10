@@ -1,5 +1,5 @@
 ---
-title: "'TTT 313: If At First You Don''t Succeed, Fuck It!'"
+title: 'TTT 313: If At First You Don''t Succeed, Fuck It!'
 date: '2012-06-20T13:21:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/fuckit.jpg"

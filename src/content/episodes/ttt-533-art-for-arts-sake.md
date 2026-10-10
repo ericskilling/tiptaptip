@@ -1,5 +1,5 @@
 ---
-title: "'TTT 533: Art For Art''s Sake'"
+title: 'TTT 533: Art For Art''s Sake'
 date: '2022-01-09T04:08:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/fine-art.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 97: Customer Serviced'"
+title: 'TTT 97: Customer Serviced'
 date: '2009-07-16T04:27:12+00:00'
 author: ["eric","rachelle"]
 image: "/images/service.jpg"

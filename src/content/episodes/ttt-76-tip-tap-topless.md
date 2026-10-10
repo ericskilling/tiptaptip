@@ -1,5 +1,5 @@
 ---
-title: "'TTT 76: Tip Tap Topless'"
+title: 'TTT 76: Tip Tap Topless'
 date: '2009-04-14T04:00:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/mic-podcast-had.jpg"

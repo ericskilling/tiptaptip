@@ -1,5 +1,5 @@
 ---
-title: "'TTT 401: Flipping The Script'"
+title: 'TTT 401: Flipping The Script'
 date: '2014-11-30T17:00:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/flipping.jpg"

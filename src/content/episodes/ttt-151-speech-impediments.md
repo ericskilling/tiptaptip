@@ -1,5 +1,5 @@
 ---
-title: "'TTT 151: Speech Impediments'"
+title: 'TTT 151: Speech Impediments'
 date: '2010-03-25T04:44:13+00:00'
 author: ["eric","rachelle"]
 image: "/images/laos1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 209: Put On A Happy Fucking Face!'"
+title: 'TTT 209: Put On A Happy Fucking Face!'
 date: '2011-01-10T05:17:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/tanagra.jpg"

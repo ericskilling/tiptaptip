@@ -1,5 +1,5 @@
 ---
-title: "'TTT 229: Spring In Your Step'"
+title: 'TTT 229: Spring In Your Step'
 date: '2011-03-31T04:16:29+00:00'
 author: ["eric","rachelle"]
 image: "/images/christian.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 66: Expert Opinions'"
+title: 'TTT 66: Expert Opinions'
 date: '2009-03-08T22:25:47+00:00'
 author: ["eric","rachelle"]
 image: "/images/expert.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 309: Seventy-Seventh Heaven'"
+title: 'TTT 309: Seventy-Seventh Heaven'
 date: '2012-05-31T02:36:40+00:00'
 author: ["eric","rachelle"]
 image: "/images/gapage.jpg"

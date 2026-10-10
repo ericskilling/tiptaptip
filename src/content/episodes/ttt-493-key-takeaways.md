@@ -1,5 +1,5 @@
 ---
-title: "'TTT 493: Key Takeaways'"
+title: 'TTT 493: Key Takeaways'
 date: '2019-03-11T01:40:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/take.jpg"

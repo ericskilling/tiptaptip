@@ -1,5 +1,5 @@
 ---
-title: "'TTT 154: The Hunger'"
+title: 'TTT 154: The Hunger'
 date: '2010-04-12T04:44:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/dog.jpg"

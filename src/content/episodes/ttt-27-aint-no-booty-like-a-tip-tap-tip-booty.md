@@ -1,5 +1,5 @@
 ---
-title: "'TTT 27: Ain''t no booty like a Tip Tap Tip booty!'"
+title: 'TTT 27: Ain''t no booty like a Tip Tap Tip booty!'
 date: '2008-09-23T04:34:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/3letters1.jpg"

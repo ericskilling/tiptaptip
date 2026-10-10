@@ -1,5 +1,5 @@
 ---
-title: "'TTT 248: That''s Entertainment'"
+title: 'TTT 248: That''s Entertainment'
 date: '2011-06-20T04:32:45+00:00'
 author: ["eric","rachelle"]
 image: "/images/tassels.jpg"

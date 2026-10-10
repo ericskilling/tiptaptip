@@ -1,5 +1,5 @@
 ---
-title: "'TTT 70: Catching Up With Tip Tap Tip'"
+title: 'TTT 70: Catching Up With Tip Tap Tip'
 date: '2009-03-23T04:16:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/protest.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 530: Pants Optional'"
+title: 'TTT 530: Pants Optional'
 date: '2021-07-02T00:47:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/optional.jpg"

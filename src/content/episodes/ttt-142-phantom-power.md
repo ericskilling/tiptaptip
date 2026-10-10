@@ -1,5 +1,5 @@
 ---
-title: "'TTT 142: Phantom Power'"
+title: 'TTT 142: Phantom Power'
 date: '2010-02-04T06:53:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/phantom.jpg"

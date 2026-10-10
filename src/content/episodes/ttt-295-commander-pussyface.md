@@ -1,5 +1,5 @@
 ---
-title: "'TTT 295: Commander Pussyface'"
+title: 'TTT 295: Commander Pussyface'
 date: '2012-03-08T05:16:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/commander.jpg"

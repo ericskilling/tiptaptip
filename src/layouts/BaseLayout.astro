@@ -9,7 +9,7 @@ interface Props {
 
 const {
   title,
-  description = 'A podcast about technology, geek culture, and Eurovision.',
+  description = 'Opinions on everything, answers for nothing, and the best of Eurovision.',
 } = Astro.props;
 
 const currentPath = Astro.url.pathname;
@@ -44,9 +44,9 @@ const isActive = (href: string) =>
     <div class="page-shell">
       <aside class="sidebar">
         <div class="sidebar-brand">
-          <a href="/" class="sidebar-logo">Tip Tap Tip</a>
+          <a href="/" class="sidebar-logo"><img src="/images/ttt-logo.png"></a>
           <p class="sidebar-blurb">
-            A podcast about technology, geek culture, and Eurovision.
+            Opinions on everything, answers for nothing, and the best of Eurovision.
           </p>
         </div>
 
@@ -62,12 +62,7 @@ const isActive = (href: string) =>
           ))}
         </nav>
 
-        <div class="sidebar-card">
-          <p class="card-eyebrow">What we do</p>
-          <p>
-            Fresh episodes, strange conversations, and the best of the Eurovision underground.
-          </p>
-        </div>
+   
 
         <div class="sidebar-card">
           <p class="card-eyebrow">Eurovision</p>
@@ -87,20 +82,20 @@ const isActive = (href: string) =>
       </aside>
 
       <main class="content">
-        <header class="content-header">
-          <div>
+       <!--  <header class="content-header">
+         <div>
             <span class="eyebrow">Podcast</span>
             <h1>{title}</h1>
             <p>{description}</p>
           </div>
-        </header>
+        </header>-->
 
         <div class="content-body">
           <slot />
         </div>
 
         <footer class="site-footer">
-          <p>&copy; {new Date().getFullYear()} Tip Tap. Built with the Starpod-inspired theme.</p>
+          <p>&copy; {new Date().getFullYear()} Tip Tap Tip. Powered by robots.</p>
         </footer>
       </main>
     </div>

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 362: Rolling Thunder'"
+title: 'TTT 362: Rolling Thunder'
 date: '2013-09-08T23:59:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/1986.jpg"

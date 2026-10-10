@@ -1,5 +1,5 @@
 ---
-title: "'TTT 82: Tip Tap Tip Power!'"
+title: 'TTT 82: Tip Tap Tip Power!'
 date: '2009-05-06T04:42:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/brandpower.jpg"

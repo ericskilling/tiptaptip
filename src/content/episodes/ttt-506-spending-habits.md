@@ -1,5 +1,5 @@
 ---
-title: "'TTT 506: Spending Habits'"
+title: 'TTT 506: Spending Habits'
 date: '2019-12-02T02:11:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/spend.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 340: Built For Speed'"
+title: 'TTT 340: Built For Speed'
 date: '2013-02-22T14:22:32+00:00'
 author: ["eric","rachelle"]
 image: "/images/builtforspeed.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 519: Pizza Party'"
+title: 'TTT 519: Pizza Party'
 date: '2020-10-18T23:24:44+00:00'
 author: ["eric","rachelle"]
 image: "/images/pizza.jpg"

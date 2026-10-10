@@ -1,5 +1,5 @@
 ---
-title: "'TTT 290: Apology Accepted'"
+title: 'TTT 290: Apology Accepted'
 date: '2012-02-09T05:18:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/sorry.jpg"

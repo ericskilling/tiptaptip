@@ -1,5 +1,5 @@
 ---
-title: "'TTT 104: Claudia Schiffer'"
+title: 'TTT 104: Claudia Schiffer'
 date: '2009-08-14T04:30:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/dorian_gray_1.jpg"

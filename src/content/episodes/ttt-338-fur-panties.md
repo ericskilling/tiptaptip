@@ -1,5 +1,5 @@
 ---
-title: "'TTT 338: Fur Panties'"
+title: 'TTT 338: Fur Panties'
 date: '2013-02-04T01:20:39+00:00'
 author: ["eric","rachelle"]
 image: "/images/furpanties.jpg"

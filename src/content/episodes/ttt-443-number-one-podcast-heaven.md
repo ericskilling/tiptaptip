@@ -1,5 +1,5 @@
 ---
-title: "'TTT 443: The Number One Podcast In Heaven'"
+title: 'TTT 443: The Number One Podcast In Heaven'
 date: '2016-09-06T04:14:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/numberone.jpg"

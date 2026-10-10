@@ -1,5 +1,5 @@
 ---
-title: "'Episode Flashback —  005: Cleanse Me Up, Cleanse Me Down'"
+title: 'Episode Flashback —  005: Cleanse Me Up, Cleanse Me Down'
 date: '2018-07-29T02:18:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/sludge.jpg"

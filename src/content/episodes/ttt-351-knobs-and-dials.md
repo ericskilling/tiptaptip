@@ -1,5 +1,5 @@
 ---
-title: "'TTT 351: Knobs And Dials'"
+title: 'TTT 351: Knobs And Dials'
 date: '2013-05-14T04:49:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/knobs.jpg"

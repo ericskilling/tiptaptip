@@ -1,5 +1,5 @@
 ---
-title: "'TTT 12: Don''t Shit Where You Eat'"
+title: 'TTT 12: Don''t Shit Where You Eat'
 date: '2008-08-08T05:26:03+00:00'
 author: ["eric","rachelle"]
 image: "/images/ipod-hat-makes-you-look-stupid1.jpg"

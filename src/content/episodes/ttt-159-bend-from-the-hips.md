@@ -1,5 +1,5 @@
 ---
-title: "'TTT 159: Bend From The Hips'"
+title: 'TTT 159: Bend From The Hips'
 date: '2010-05-06T04:30:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/bend.jpg"

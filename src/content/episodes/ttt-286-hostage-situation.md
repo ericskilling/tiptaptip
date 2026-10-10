@@ -1,5 +1,5 @@
 ---
-title: "'TTT 286: Hostage Situation'"
+title: 'TTT 286: Hostage Situation'
 date: '2012-01-23T05:19:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/american.jpg"

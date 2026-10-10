@@ -1,5 +1,5 @@
 ---
-title: "'TTT 538: Bored To Tears'"
+title: 'TTT 538: Bored To Tears'
 date: '2022-07-03T21:22:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/tears.jpg"

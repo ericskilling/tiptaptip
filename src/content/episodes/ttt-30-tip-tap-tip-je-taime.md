@@ -1,5 +1,5 @@
 ---
-title: "'TTT 30: Tip Tap Tip je t''aime'"
+title: 'TTT 30: Tip Tap Tip je t''aime'
 date: '2008-10-02T03:12:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/blindness1.jpg"

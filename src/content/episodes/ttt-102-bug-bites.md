@@ -1,5 +1,5 @@
 ---
-title: "'TTT 102: Bug Bites'"
+title: 'TTT 102: Bug Bites'
 date: '2009-08-05T04:35:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/lotsofhairSM.jpg"

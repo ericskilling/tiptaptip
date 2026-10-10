@@ -1,5 +1,5 @@
 ---
-title: "'TTT 60: Prêt-à-Porthole'"
+title: 'TTT 60: Prêt-à-Porthole'
 date: '2009-02-12T05:20:03+00:00'
 author: ["eric","rachelle"]
 image: "/images/trekchoke.jpg"

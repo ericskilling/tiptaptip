@@ -1,5 +1,5 @@
 ---
-title: "'TTT 39: All Systems Lactivated!'"
+title: 'TTT 39: All Systems Lactivated!'
 date: '2008-11-14T05:14:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/badgelv1.jpg"

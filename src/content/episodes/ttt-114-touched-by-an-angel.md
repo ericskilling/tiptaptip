@@ -1,5 +1,5 @@
 ---
-title: "'TTT 114: Touched By An Angel'"
+title: 'TTT 114: Touched By An Angel'
 date: '2009-09-26T05:57:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/superawesome.jpg"

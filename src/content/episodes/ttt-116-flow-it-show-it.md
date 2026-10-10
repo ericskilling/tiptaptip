@@ -1,5 +1,5 @@
 ---
-title: "'TTT 116: Flow It, Show It'"
+title: 'TTT 116: Flow It, Show It'
 date: '2009-10-07T04:59:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/hair9.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 337: A Nerd Is A Nerd Is A Nerd'"
+title: 'TTT 337: A Nerd Is A Nerd Is A Nerd'
 date: '2013-01-28T01:04:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/anerdisanerdisanerd.jpg"

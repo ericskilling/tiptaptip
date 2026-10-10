@@ -1,5 +1,5 @@
 ---
-title: "'TTT 77: Say My Name'"
+title: 'TTT 77: Say My Name'
 date: '2009-04-17T04:33:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/beyonce-knowles-3.jpg"

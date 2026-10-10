@@ -1,5 +1,5 @@
 ---
-title: "'TTT 33: Breaking The Law!'"
+title: 'TTT 33: Breaking The Law!'
 date: '2008-10-16T03:52:20+00:00'
 author: ["eric","rachelle"]
 image: "/images/goodeatins1.jpg"

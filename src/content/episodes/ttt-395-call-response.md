@@ -1,5 +1,5 @@
 ---
-title: "'TTT 395: Call And Response'"
+title: 'TTT 395: Call And Response'
 date: '2014-09-22T02:16:23+00:00'
 author: ["eric","rachelle"]
 image: "/images/call_and_response.jpg"

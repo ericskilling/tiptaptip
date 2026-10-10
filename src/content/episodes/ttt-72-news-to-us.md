@@ -1,5 +1,5 @@
 ---
-title: "'TTT 72: News To Us'"
+title: 'TTT 72: News To Us'
 date: '2009-03-30T02:34:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/newslady.jpg"

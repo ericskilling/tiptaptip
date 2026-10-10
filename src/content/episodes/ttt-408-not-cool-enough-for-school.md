@@ -1,5 +1,5 @@
 ---
-title: "'TTT 408: Not Cool Enough For School'"
+title: 'TTT 408: Not Cool Enough For School'
 date: '2015-03-16T03:48:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/juniorhigh_square.jpg"

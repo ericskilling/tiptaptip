@@ -1,5 +1,5 @@
 ---
-title: "'TTT 344: Battle Of The Sexes'"
+title: 'TTT 344: Battle Of The Sexes'
 date: '2013-03-24T22:25:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/battleofthesexes.jpg"

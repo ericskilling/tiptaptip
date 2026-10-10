@@ -1,5 +1,5 @@
 ---
-title: "'TTT 20: Making Up, Making Out'"
+title: 'TTT 20: Making Up, Making Out'
 date: '2008-08-31T04:43:23+00:00'
 author: ["eric","rachelle"]
 image: "/images/makingup1.jpg"

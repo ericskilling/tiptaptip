@@ -1,5 +1,5 @@
 ---
-title: "'TTT 211: All Hands On Dick'"
+title: 'TTT 211: All Hands On Dick'
 date: '2011-01-20T03:29:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/dick.jpg"

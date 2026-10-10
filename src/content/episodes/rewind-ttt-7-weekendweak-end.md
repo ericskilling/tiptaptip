@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 7: Weekend/Weak End'"
+title: 'REWIND - TTT 7: Weekend/Weak End'
 date: '2010-11-18T18:30:56+00:00'
 author: ["eric","rachelle"]
 image: "/images/weak.jpg"

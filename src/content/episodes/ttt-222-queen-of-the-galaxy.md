@@ -1,5 +1,5 @@
 ---
-title: "'TTT 222: Queen Of The Galaxy'"
+title: 'TTT 222: Queen Of The Galaxy'
 date: '2011-03-03T05:22:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/barb.jpg"

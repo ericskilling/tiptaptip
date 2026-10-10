@@ -1,5 +1,5 @@
 ---
-title: "'TTT 354: State Of Emergency'"
+title: 'TTT 354: State Of Emergency'
 date: '2013-06-23T21:01:56+00:00'
 author: ["eric","rachelle"]
 image: "/images/emergency.jpg"

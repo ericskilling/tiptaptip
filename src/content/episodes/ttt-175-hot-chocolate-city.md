@@ -1,5 +1,5 @@
 ---
-title: "'TTT 175: Hot Chocolate City'"
+title: 'TTT 175: Hot Chocolate City'
 date: '2010-07-22T05:00:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/city.jpg"

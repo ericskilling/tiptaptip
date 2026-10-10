@@ -1,5 +1,5 @@
 ---
-title: "'TTT 315: Shoot The Shit'"
+title: 'TTT 315: Shoot The Shit'
 date: '2012-07-04T12:17:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/limitedreleasepodcast.jpg"

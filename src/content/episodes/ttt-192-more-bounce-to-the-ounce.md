@@ -1,5 +1,5 @@
 ---
-title: "'TTT 192: More Bounce To The Ounce'"
+title: 'TTT 192: More Bounce To The Ounce'
 date: '2010-10-18T04:26:56+00:00'
 author: ["eric","rachelle"]
 image: "/images/bounce.jpg"

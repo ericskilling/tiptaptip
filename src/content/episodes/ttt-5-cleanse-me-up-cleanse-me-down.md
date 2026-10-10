@@ -1,5 +1,5 @@
 ---
-title: "'TTT 5: Cleanse me up, Cleanse me down'"
+title: 'TTT 5: Cleanse me up, Cleanse me down'
 date: '2008-07-16T04:23:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/cleanse.jpg"

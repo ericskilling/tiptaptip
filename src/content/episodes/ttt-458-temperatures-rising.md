@@ -1,5 +1,5 @@
 ---
-title: "'TTT 458: Temperature''s Rising'"
+title: 'TTT 458: Temperature''s Rising'
 date: '2017-05-07T19:25:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/temperature.jpg"

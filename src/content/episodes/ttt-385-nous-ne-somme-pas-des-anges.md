@@ -1,5 +1,5 @@
 ---
-title: "'TTT 385: Nous Ne Somme Pas Des Anges'"
+title: 'TTT 385: Nous Ne Somme Pas Des Anges'
 date: '2014-05-25T21:06:47+00:00'
 author: ["eric","rachelle"]
 image: "/images/angels.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 515: The Carnival is Over'"
+title: 'TTT 515: The Carnival is Over'
 date: '2020-08-03T04:55:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/over.jpg"

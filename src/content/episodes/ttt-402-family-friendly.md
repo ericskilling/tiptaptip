@@ -1,5 +1,5 @@
 ---
-title: "'TTT 402: Family Friendly'"
+title: 'TTT 402: Family Friendly'
 date: '2014-12-13T23:25:40+00:00'
 author: ["eric","rachelle"]
 image: "/images/family_friendly.jpg"

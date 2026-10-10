@@ -1,5 +1,5 @@
 ---
-title: "'TTT 176: The Other C-Word'"
+title: 'TTT 176: The Other C-Word'
 date: '2010-07-28T04:34:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/wars.jpg"

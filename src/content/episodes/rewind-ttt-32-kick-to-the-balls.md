@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 32: Kick To The Balls'"
+title: 'REWIND - TTT 32: Kick To The Balls'
 date: '2010-11-22T01:53:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/balls.jpg"

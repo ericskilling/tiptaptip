@@ -1,5 +1,5 @@
 ---
-title: "'TTT 86: Parenting Advice'"
+title: 'TTT 86: Parenting Advice'
 date: '2009-05-22T04:11:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/troi.jpg"

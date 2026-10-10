@@ -1,5 +1,5 @@
 ---
-title: "'TTT 2: Eric Ruins The Show'"
+title: 'TTT 2: Eric Ruins The Show'
 date: '2008-07-07T19:03:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/20080506-poutine1.jpg"

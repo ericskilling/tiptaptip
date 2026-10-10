@@ -1,5 +1,5 @@
 ---
-title: "'TTT 287: Life Imitates Art'"
+title: 'TTT 287: Life Imitates Art'
 date: '2012-01-26T05:02:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/lifeart.jpg"

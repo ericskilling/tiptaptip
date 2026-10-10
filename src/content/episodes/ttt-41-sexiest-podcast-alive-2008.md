@@ -1,5 +1,5 @@
 ---
-title: "'TTT 41: Sexiest Podcast Alive 2008'"
+title: 'TTT 41: Sexiest Podcast Alive 2008'
 date: '2008-11-20T04:34:39+00:00'
 author: ["eric","rachelle"]
 image: "/images/goldblum1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 419: Smoothies Are People'"
+title: 'TTT 419: Smoothies Are People'
 date: '2015-08-09T22:25:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/smoothies.jpg"

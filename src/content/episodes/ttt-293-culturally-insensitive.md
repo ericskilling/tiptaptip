@@ -1,5 +1,5 @@
 ---
-title: "'TTT 293: Culturally Insensitive'"
+title: 'TTT 293: Culturally Insensitive'
 date: '2012-03-01T05:23:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/culture.jpg"

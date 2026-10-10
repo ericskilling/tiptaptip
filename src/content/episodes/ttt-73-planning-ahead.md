@@ -1,5 +1,5 @@
 ---
-title: "'TTT 73: Planning Ahead'"
+title: 'TTT 73: Planning Ahead'
 date: '2009-04-02T04:21:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/basics.jpg"

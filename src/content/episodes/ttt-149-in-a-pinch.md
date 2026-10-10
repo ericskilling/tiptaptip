@@ -1,5 +1,5 @@
 ---
-title: "'TTT 149: In A Pinch'"
+title: 'TTT 149: In A Pinch'
 date: '2010-03-18T05:05:20+00:00'
 author: ["eric","rachelle"]
 image: "/images/pinch.jpg"

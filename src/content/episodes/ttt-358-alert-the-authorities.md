@@ -1,5 +1,5 @@
 ---
-title: "'TTT 358: Alert The Authorities!'"
+title: 'TTT 358: Alert The Authorities!'
 date: '2013-07-29T03:30:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/alert_the_auhtorities.jpg"

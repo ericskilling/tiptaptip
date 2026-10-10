@@ -1,5 +1,5 @@
 ---
-title: "'TTT 321: Easy Peasy'"
+title: 'TTT 321: Easy Peasy'
 date: '2012-08-20T03:58:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/peasy.jpg"

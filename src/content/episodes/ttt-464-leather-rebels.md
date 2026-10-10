@@ -1,5 +1,5 @@
 ---
-title: "'TTT 464: Leather Rebels'"
+title: 'TTT 464: Leather Rebels'
 date: '2017-09-09T03:38:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/tiptapmetal.jpg"

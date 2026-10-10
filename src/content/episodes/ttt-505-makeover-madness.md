@@ -1,5 +1,5 @@
 ---
-title: "'TTT 505: Makeover Madness!'"
+title: 'TTT 505: Makeover Madness!'
 date: '2019-11-11T03:56:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/makeover.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 92: The Melting Pot'"
+title: 'TTT 92: The Melting Pot'
 date: '2009-06-23T01:22:55+00:00'
 author: ["eric","rachelle"]
 image: "/images/smack.jpg"

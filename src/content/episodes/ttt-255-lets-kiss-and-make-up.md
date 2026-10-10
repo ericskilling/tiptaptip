@@ -1,5 +1,5 @@
 ---
-title: "'TTT 255: Let''s Kiss And Make Up'"
+title: 'TTT 255: Let''s Kiss And Make Up'
 date: '2011-07-28T04:18:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/kiss.jpg"

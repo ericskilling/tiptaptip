@@ -1,5 +1,5 @@
 ---
-title: "'TTT 244: RESET!!!'"
+title: 'TTT 244: RESET!!!'
 date: '2011-06-02T04:03:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/earthboom.jpg"

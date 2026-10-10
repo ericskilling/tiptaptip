@@ -1,5 +1,5 @@
 ---
-title: "'TTT 138: Business Minded'"
+title: 'TTT 138: Business Minded'
 date: '2010-01-19T05:41:03+00:00'
 author: ["eric","rachelle"]
 image: "/images/jambalaya.jpg"

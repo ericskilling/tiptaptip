@@ -1,5 +1,5 @@
 ---
-title: "'TTT 230: Baby Animals'"
+title: 'TTT 230: Baby Animals'
 date: '2011-04-04T04:13:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/baby.jpg"

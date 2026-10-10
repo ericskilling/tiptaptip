@@ -1,5 +1,5 @@
 ---
-title: "'TTT 300: Too Dumb To Quit'"
+title: 'TTT 300: Too Dumb To Quit'
 date: '2012-04-07T05:16:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/toodumb.jpg"

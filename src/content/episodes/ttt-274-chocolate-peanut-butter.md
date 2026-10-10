@@ -1,5 +1,5 @@
 ---
-title: "'TTT 274: Chocolate & Peanut Butter'"
+title: 'TTT 274: Chocolate & Peanut Butter'
 date: '2011-10-24T03:58:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/sweep.jpg"

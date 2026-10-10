@@ -1,5 +1,5 @@
 ---
-title: "'TTT 69: The Entertainers'"
+title: 'TTT 69: The Entertainers'
 date: '2009-03-21T05:46:48+00:00'
 author: ["eric","rachelle"]
 image: "/images/balloontwisterscott.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 87: Totally Heartless'"
+title: 'TTT 87: Totally Heartless'
 date: '2009-05-29T03:51:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/graphic-image-of-seal-clubbing.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 67: Buy It Now! Buy It Now!'"
+title: 'TTT 67: Buy It Now! Buy It Now!'
 date: '2009-03-13T04:37:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/thriller2.jpg"

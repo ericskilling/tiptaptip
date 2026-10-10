@@ -1,5 +1,5 @@
 ---
-title: "'TTT 242: Dutch Angles'"
+title: 'TTT 242: Dutch Angles'
 date: '2011-05-26T03:48:15+00:00'
 author: ["eric","rachelle"]
 image: "/images/dutch.jpg"

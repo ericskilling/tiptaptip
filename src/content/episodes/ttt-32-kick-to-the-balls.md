@@ -1,5 +1,5 @@
 ---
-title: "'TTT 32: Kick To The Balls'"
+title: 'TTT 32: Kick To The Balls'
 date: '2008-10-11T04:02:32+00:00'
 author: ["eric","rachelle"]
 image: "/images/heelballs1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 549: The Tip Tap Tip Parable'"
+title: 'TTT 549: The Tip Tap Tip Parable'
 date: '2024-03-03T23:56:46+00:00'
 author: ["eric","rachelle"]
 image: "/images/parable2.jpg"

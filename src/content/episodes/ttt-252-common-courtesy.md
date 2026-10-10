@@ -1,5 +1,5 @@
 ---
-title: "'TTT 252: Common Courtesy'"
+title: 'TTT 252: Common Courtesy'
 date: '2011-07-07T04:27:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/common.jpg"

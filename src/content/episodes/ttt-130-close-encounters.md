@@ -1,5 +1,5 @@
 ---
-title: "'TTT 130: Close Encounters'"
+title: 'TTT 130: Close Encounters'
 date: '2009-12-10T05:30:24+00:00'
 author: ["eric","rachelle"]
 image: "/images/potato1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 189: Tight Squeeze'"
+title: 'TTT 189: Tight Squeeze'
 date: '2010-10-04T03:44:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/bowies.jpg"

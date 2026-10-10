@@ -1,5 +1,5 @@
 ---
-title: "'TTT 398: Ladies Vs. Gentlemen'"
+title: 'TTT 398: Ladies Vs. Gentlemen'
 date: '2014-10-20T03:49:16+00:00'
 author: ["eric","rachelle"]
 image: "/images/ladies_vs_gentlemen.jpg"

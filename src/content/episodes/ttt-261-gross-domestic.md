@@ -1,5 +1,5 @@
 ---
-title: "'TTT 261: Gross Domestic'"
+title: 'TTT 261: Gross Domestic'
 date: '2011-08-25T04:17:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/gross.jpg"

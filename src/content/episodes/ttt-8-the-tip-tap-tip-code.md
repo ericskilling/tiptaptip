@@ -1,5 +1,5 @@
 ---
-title: "'TTT 8: The Tip Tap Tip Code'"
+title: 'TTT 8: The Tip Tap Tip Code'
 date: '2008-07-24T05:34:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/code1.jpg"

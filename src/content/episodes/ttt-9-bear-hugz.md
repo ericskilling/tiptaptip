@@ -1,5 +1,5 @@
 ---
-title: "'TTT 9: Bear Hugz'"
+title: 'TTT 9: Bear Hugz'
 date: '2008-07-27T04:57:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/angrybearrex_468x3291.jpg"

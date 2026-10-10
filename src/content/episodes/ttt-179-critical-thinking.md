@@ -1,5 +1,5 @@
 ---
-title: "'TTT 179: Critical Thinking'"
+title: 'TTT 179: Critical Thinking'
 date: '2010-08-16T04:55:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/pop.jpg"

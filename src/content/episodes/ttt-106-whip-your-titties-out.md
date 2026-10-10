@@ -1,5 +1,5 @@
 ---
-title: "'TTT 106: Whip Your Titties Out'"
+title: 'TTT 106: Whip Your Titties Out'
 date: '2009-08-21T04:44:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/whip1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 259: When Fantasy Meets Reality'"
+title: 'TTT 259: When Fantasy Meets Reality'
 date: '2011-08-18T04:10:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/fantasy.jpg"

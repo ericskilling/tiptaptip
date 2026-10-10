@@ -1,5 +1,5 @@
 ---
-title: "'TTT 557: Around The World'"
+title: 'TTT 557: Around The World'
 date: '2025-05-22T00:39:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/jj-euro2025.jpg"

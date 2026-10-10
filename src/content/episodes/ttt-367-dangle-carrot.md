@@ -1,5 +1,5 @@
 ---
-title: "'TTT 367: Dangle A Carrot'"
+title: 'TTT 367: Dangle A Carrot'
 date: '2013-10-27T22:04:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/dangle_a_carrot.jpg"

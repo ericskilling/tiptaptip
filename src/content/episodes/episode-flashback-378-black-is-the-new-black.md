@@ -1,5 +1,5 @@
 ---
-title: "'Episode Flashback —  378: Black Is The New Black'"
+title: 'Episode Flashback —  378: Black Is The New Black'
 date: '2018-08-19T23:50:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/blackblack.jpg"

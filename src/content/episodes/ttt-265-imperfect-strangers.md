@@ -1,5 +1,5 @@
 ---
-title: "'TTT 265: Imperfect Strangers'"
+title: 'TTT 265: Imperfect Strangers'
 date: '2011-09-12T04:38:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/imperfect.jpg"

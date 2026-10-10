@@ -1,5 +1,5 @@
 ---
-title: "'TTT 139: We Are Not Puppets'"
+title: 'TTT 139: We Are Not Puppets'
 date: '2010-01-23T05:53:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/puppets1.jpg"

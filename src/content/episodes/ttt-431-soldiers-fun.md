@@ -1,5 +1,5 @@
 ---
-title: "'TTT 431: Soldiers Of Fun'"
+title: 'TTT 431: Soldiers Of Fun'
 date: '2016-03-06T23:11:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/soldiers_of_fun.jpg"

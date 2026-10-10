@@ -1,5 +1,5 @@
 ---
-title: "'TTT 495: Downhill Slide'"
+title: 'TTT 495: Downhill Slide'
 date: '2019-04-09T02:01:55+00:00'
 author: ["eric","rachelle"]
 image: "/images/slide.jpg"

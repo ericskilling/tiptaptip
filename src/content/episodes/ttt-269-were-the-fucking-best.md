@@ -1,5 +1,5 @@
 ---
-title: "'TTT 269: We''re The Fucking Best!'"
+title: 'TTT 269: We''re The Fucking Best!'
 date: '2011-09-29T04:23:19+00:00'
 author: ["eric","rachelle"]
 image: "/images/thefuckingbest.jpg"

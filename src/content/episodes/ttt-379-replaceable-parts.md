@@ -1,5 +1,5 @@
 ---
-title: "'TTT 379: Replaceable Parts'"
+title: 'TTT 379: Replaceable Parts'
 date: '2014-03-23T21:19:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/parts.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 17: My Dinner with Tip Tap Tip'"
+title: 'TTT 17: My Dinner with Tip Tap Tip'
 date: '2008-08-22T03:30:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/dinner1.jpg"

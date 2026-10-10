@@ -1,5 +1,5 @@
 ---
-title: "'TTT 463: A Glass Of Champagne'"
+title: 'TTT 463: A Glass Of Champagne'
 date: '2017-08-26T22:19:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/helloagain.jpg"

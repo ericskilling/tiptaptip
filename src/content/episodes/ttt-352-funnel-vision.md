@@ -1,5 +1,5 @@
 ---
-title: "'TTT 352: Funnel Vision'"
+title: 'TTT 352: Funnel Vision'
 date: '2013-05-25T22:59:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/funnel_vision.jpg"

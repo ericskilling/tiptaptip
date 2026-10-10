@@ -1,5 +1,5 @@
 ---
-title: "'TTT 200: Mango Tango'"
+title: 'TTT 200: Mango Tango'
 date: '2010-11-29T05:20:39+00:00'
 author: ["eric","rachelle"]
 image: "/images/tango.jpg"

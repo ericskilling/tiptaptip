@@ -7,5 +7,5 @@ description: Because one Eurovision Song Contest wasn't enough, we're covering t
 image: "/images/orchestra.jpg"
 images: ["/images/orchestra.jpg"]
 podcast_file: https://archive.org/download/tiptaptip/ttt566.mp3
-title: '''TTT 566: The Tip Tap Tip Orchestra'''
+title: 'TTT 566: The Tip Tap Tip Orchestra'
 ---

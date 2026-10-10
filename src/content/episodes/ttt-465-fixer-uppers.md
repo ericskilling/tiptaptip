@@ -1,5 +1,5 @@
 ---
-title: "'TTT 465: Fixer-Uppers'"
+title: 'TTT 465: Fixer-Uppers'
 date: '2017-10-04T01:01:33+00:00'
 author: ["eric","rachelle"]
 image: "/images/fixer-upper.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 10: Haters!'"
+title: 'TTT 10: Haters!'
 date: '2008-07-31T04:48:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/haters1.jpg"

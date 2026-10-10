@@ -1,5 +1,5 @@
 ---
-title: "'TTT 520: Eric & Rachelle Go Boating'"
+title: 'TTT 520: Eric & Rachelle Go Boating'
 date: '2020-11-08T21:50:23+00:00'
 author: ["eric","rachelle"]
 image: "/images/boat.jpg"

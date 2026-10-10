@@ -1,5 +1,5 @@
 ---
-title: "'TTT 127.5: How To Podcast The Tip Tap Tip Way'"
+title: 'TTT 127.5: How To Podcast The Tip Tap Tip Way'
 date: '2009-11-27T22:24:06+00:00'
 author: ["eric","rachelle"]
 image: "/images/curtain1.jpg"

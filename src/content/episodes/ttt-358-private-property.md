@@ -1,5 +1,5 @@
 ---
-title: "'TTT 359: Private Property'"
+title: 'TTT 359: Private Property'
 date: '2013-08-11T21:54:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/private_property.jpg"

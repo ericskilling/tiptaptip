@@ -1,5 +1,5 @@
 ---
-title: "'TTT 554: Wishful Thinking'"
+title: 'TTT 554: Wishful Thinking'
 date: '2024-12-16T02:28:54+00:00'
 author: ["eric","rachelle"]
 image: "/images/wishful.jpg"

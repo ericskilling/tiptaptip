@@ -1,5 +1,5 @@
 ---
-title: "'TTT 514: Weirded Out'"
+title: 'TTT 514: Weirded Out'
 date: '2020-06-07T20:19:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/weird.jpg"

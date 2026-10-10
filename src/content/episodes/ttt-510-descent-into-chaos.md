@@ -1,5 +1,5 @@
 ---
-title: "'TTT 510: Descent Into Chaos'"
+title: 'TTT 510: Descent Into Chaos'
 date: '2020-03-10T02:47:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/chaos.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 98: Miss Podcasting 2009'"
+title: 'TTT 98: Miss Podcasting 2009'
 date: '2009-07-21T04:29:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/tiara1.jpg"

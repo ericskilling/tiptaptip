@@ -1,5 +1,5 @@
 ---
-title: "'TTT 111: The Power Of Love'"
+title: 'TTT 111: The Power Of Love'
 date: '2009-09-11T04:24:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/power.jpg"

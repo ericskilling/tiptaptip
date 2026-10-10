@@ -1,5 +1,5 @@
 ---
-title: "'TTT 19: Grammatically Correct'"
+title: 'TTT 19: Grammatically Correct'
 date: '2008-08-27T05:25:59+00:00'
 author: ["eric","rachelle"]
 image: "/images/grammar1.jpg"

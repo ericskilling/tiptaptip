@@ -1,5 +1,5 @@
 ---
-title: "'TTT 435: Vintage Violence'"
+title: 'TTT 435: Vintage Violence'
 date: '2016-04-26T00:28:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/violence.jpg"

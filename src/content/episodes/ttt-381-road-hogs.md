@@ -1,5 +1,5 @@
 ---
-title: "'TTT 381: Road Hogs'"
+title: 'TTT 381: Road Hogs'
 date: '2014-04-21T04:23:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/roadhogs.jpg"

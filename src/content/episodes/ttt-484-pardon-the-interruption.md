@@ -1,5 +1,5 @@
 ---
-title: "'TTT 484: Pardon The Interruption'"
+title: 'TTT 484: Pardon The Interruption'
 date: '2018-09-17T01:40:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/pardon.jpg"

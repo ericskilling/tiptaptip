@@ -1,5 +1,5 @@
 ---
-title: "'TTT 113: No Hamsters, No Crazies'"
+title: 'TTT 113: No Hamsters, No Crazies'
 date: '2009-09-23T04:40:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/video.jpg"

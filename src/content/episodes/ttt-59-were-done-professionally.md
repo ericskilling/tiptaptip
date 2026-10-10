@@ -1,5 +1,5 @@
 ---
-title: "'TTT 59: We''re Done Professionally'"
+title: 'TTT 59: We''re Done Professionally'
 date: '2009-02-07T05:25:12+00:00'
 author: ["eric","rachelle"]
 image: "/images/ka-ra-o-ke.jpg"

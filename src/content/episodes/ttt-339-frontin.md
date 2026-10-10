@@ -1,5 +1,5 @@
 ---
-title: "'TTT 339: Frontin'''"
+title: 'TTT 339: Frontin'''
 date: '2013-02-17T01:33:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/frontin.jpg"

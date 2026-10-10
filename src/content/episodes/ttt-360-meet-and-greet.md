@@ -1,5 +1,5 @@
 ---
-title: "'TTT 360: Meet And Greet'"
+title: 'TTT 360: Meet And Greet'
 date: '2013-08-18T20:58:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/meet-and-greet.jpg"

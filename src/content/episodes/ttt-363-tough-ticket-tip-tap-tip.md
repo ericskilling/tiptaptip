@@ -1,5 +1,5 @@
 ---
-title: "'TTT 363: Tough Ticket To Tip Tap Tip'"
+title: 'TTT 363: Tough Ticket To Tip Tap Tip'
 date: '2013-09-23T01:11:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/touch_ticket.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 43: Fight! Fight! Fight!'"
+title: 'TTT 43: Fight! Fight! Fight!'
 date: '2008-11-29T04:55:43+00:00'
 author: ["eric","rachelle"]
 image: "/images/babyfight1.jpg"

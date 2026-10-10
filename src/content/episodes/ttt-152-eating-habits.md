@@ -1,5 +1,5 @@
 ---
-title: "'TTT 152: Eating Habits'"
+title: 'TTT 152: Eating Habits'
 date: '2010-03-31T04:53:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/food.jpg"

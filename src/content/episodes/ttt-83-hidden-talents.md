@@ -1,5 +1,5 @@
 ---
-title: "'TTT 83: Hidden Talents'"
+title: 'TTT 83: Hidden Talents'
 date: '2009-05-08T05:10:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/talent.jpg"

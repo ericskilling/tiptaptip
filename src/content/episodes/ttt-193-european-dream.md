@@ -1,5 +1,5 @@
 ---
-title: "'TTT 193: European Dream'"
+title: 'TTT 193: European Dream'
 date: '2010-10-21T03:01:04+00:00'
 author: ["eric","rachelle"]
 image: "/images/euro.jpg"

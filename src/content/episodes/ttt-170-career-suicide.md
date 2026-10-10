@@ -1,5 +1,5 @@
 ---
-title: "'TTT 170: Career Suicide'"
+title: 'TTT 170: Career Suicide'
 date: '2010-07-03T05:18:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/career.jpg"

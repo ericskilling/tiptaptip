@@ -1,5 +1,5 @@
 ---
-title: "'TTT 168: Fact Checking'"
+title: 'TTT 168: Fact Checking'
 date: '2010-06-21T04:26:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/band.jpg"

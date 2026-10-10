@@ -1,5 +1,5 @@
 ---
-title: "'TTT 409: How Could We Be Wrong?'"
+title: 'TTT 409: How Could We Be Wrong?'
 date: '2015-03-23T03:12:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/how_could_I_be_wrong.jpg"

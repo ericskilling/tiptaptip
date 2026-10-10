@@ -1,5 +1,5 @@
 ---
-title: "'TTT 491: One-Sided Relationship'"
+title: 'TTT 491: One-Sided Relationship'
 date: '2019-02-04T23:27:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/green.jpg"

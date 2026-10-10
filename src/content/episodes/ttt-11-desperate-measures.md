@@ -1,5 +1,5 @@
 ---
-title: "'TTT 11: Desperate Measures'"
+title: 'TTT 11: Desperate Measures'
 date: '2008-08-06T04:45:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/radio4601.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 237: Willfully Uninformed'"
+title: 'TTT 237: Willfully Uninformed'
 date: '2011-05-05T04:18:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/stupid.jpg"

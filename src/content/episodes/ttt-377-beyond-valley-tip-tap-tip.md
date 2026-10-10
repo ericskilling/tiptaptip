@@ -1,5 +1,5 @@
 ---
-title: "'TTT 377: Beyond The Valley Of Tip Tap Tip'"
+title: 'TTT 377: Beyond The Valley Of Tip Tap Tip'
 date: '2014-02-23T21:53:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/beyond_ttt.jpg"

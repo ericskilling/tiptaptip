@@ -1,5 +1,5 @@
 ---
-title: "'TTT 50: Hypothetically Speaking'"
+title: 'TTT 50: Hypothetically Speaking'
 date: '2008-12-28T03:10:52+00:00'
 author: ["eric","rachelle"]
 image: "/images/dogthief1.jpg"

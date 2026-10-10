@@ -1,5 +1,5 @@
 ---
-title: "'TTT 384: Capital F.U.N.'"
+title: 'TTT 384: Capital F.U.N.'
 date: '2014-05-20T00:12:20+00:00'
 author: ["eric","rachelle"]
 image: "/images/capital_f_u_n.jpg"

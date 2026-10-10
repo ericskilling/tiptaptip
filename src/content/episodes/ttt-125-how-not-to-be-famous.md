@@ -1,5 +1,5 @@
 ---
-title: "'TTT 125: How Not To Be Famous'"
+title: 'TTT 125: How Not To Be Famous'
 date: '2009-11-17T05:49:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/famous.jpg"

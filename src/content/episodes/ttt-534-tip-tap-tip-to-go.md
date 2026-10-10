@@ -1,5 +1,5 @@
 ---
-title: "'TTT 534: Tip Tap Tip To Go!'"
+title: 'TTT 534: Tip Tap Tip To Go!'
 date: '2022-02-07T22:42:57+00:00'
 author: ["eric","rachelle"]
 image: "/images/food.jpg"

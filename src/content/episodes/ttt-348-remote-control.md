@@ -1,5 +1,5 @@
 ---
-title: "'TTT 348: Remote Control'"
+title: 'TTT 348: Remote Control'
 date: '2013-04-24T04:28:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/remote_control.jpg"

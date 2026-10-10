@@ -1,5 +1,5 @@
 ---
-title: "'TTT 201: Pie In The Sky'"
+title: 'TTT 201: Pie In The Sky'
 date: '2010-12-02T05:00:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/pie.jpg"

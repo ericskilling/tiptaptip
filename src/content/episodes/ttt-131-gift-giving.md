@@ -1,5 +1,5 @@
 ---
-title: "'TTT 131: Gift Giving'"
+title: 'TTT 131: Gift Giving'
 date: '2009-12-16T05:14:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/giving.jpg"

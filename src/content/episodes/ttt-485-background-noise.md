@@ -1,5 +1,5 @@
 ---
-title: "'TTT 485: Background Noise'"
+title: 'TTT 485: Background Noise'
 date: '2018-10-09T02:11:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/background.jpg"

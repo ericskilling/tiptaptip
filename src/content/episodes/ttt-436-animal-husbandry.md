@@ -1,5 +1,5 @@
 ---
-title: "'TTT 436: Animal Husbandry'"
+title: 'TTT 436: Animal Husbandry'
 date: '2016-05-09T02:32:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/animal_husbandry.jpg"

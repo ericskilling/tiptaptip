@@ -1,5 +1,5 @@
 ---
-title: "'TTT 231: Here Come The Judges'"
+title: 'TTT 231: Here Come The Judges'
 date: '2011-04-07T04:23:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/herecomes.jpg"

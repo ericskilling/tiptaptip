@@ -1,5 +1,5 @@
 ---
-title: "'TTT 545: Barbarism Begins At Home'"
+title: 'TTT 545: Barbarism Begins At Home'
 date: '2023-06-19T00:52:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/home.jpg"

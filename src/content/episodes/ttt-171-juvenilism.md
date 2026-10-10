@@ -1,5 +1,5 @@
 ---
-title: "'TTT 171: Juvenilism'"
+title: 'TTT 171: Juvenilism'
 date: '2010-07-08T04:35:16+00:00'
 author: ["eric","rachelle"]
 image: "/images/science1.jpg"

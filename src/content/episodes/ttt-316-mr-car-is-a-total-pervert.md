@@ -1,5 +1,5 @@
 ---
-title: "'TTT 316: Mr. Car Is A Total Pervert'"
+title: 'TTT 316: Mr. Car Is A Total Pervert'
 date: '2012-07-09T13:18:24+00:00'
 author: ["eric","rachelle"]
 image: "/images/mistercar.jpg"

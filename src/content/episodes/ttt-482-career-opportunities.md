@@ -1,5 +1,5 @@
 ---
-title: "'TTT 482: Career Opportunities'"
+title: 'TTT 482: Career Opportunities'
 date: '2018-07-15T06:00:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/career.jpg"

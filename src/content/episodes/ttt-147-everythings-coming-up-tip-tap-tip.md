@@ -1,5 +1,5 @@
 ---
-title: "'TTT 147: Everything''s Coming Up Tip Tap Tip'"
+title: 'TTT 147: Everything''s Coming Up Tip Tap Tip'
 date: '2010-03-04T06:56:40+00:00'
 author: ["eric","rachelle"]
 image: "/images/comingup.jpg"

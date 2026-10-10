@@ -1,5 +1,5 @@
 ---
-title: "'TTT 518: Podcast Vérité'"
+title: 'TTT 518: Podcast Vérité'
 date: '2020-09-07T23:24:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/verite.jpg"

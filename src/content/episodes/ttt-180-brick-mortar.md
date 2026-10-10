@@ -1,5 +1,5 @@
 ---
-title: "'TTT 180: Brick & Mortar'"
+title: 'TTT 180: Brick & Mortar'
 date: '2010-08-19T05:48:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/shane.jpg"

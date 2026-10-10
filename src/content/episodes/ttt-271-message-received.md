@@ -1,5 +1,5 @@
 ---
-title: "'TTT 271: Message Received'"
+title: 'TTT 271: Message Received'
 date: '2011-10-13T05:10:00+00:00'
 author: ["eric","rachelle"]
 image: "/images/message.jpg"

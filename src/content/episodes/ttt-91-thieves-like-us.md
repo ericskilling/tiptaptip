@@ -1,5 +1,5 @@
 ---
-title: "'TTT 91: Thieves Like Us'"
+title: 'TTT 91: Thieves Like Us'
 date: '2009-06-16T04:25:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/belv1.jpg"

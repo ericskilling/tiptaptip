@@ -1,5 +1,5 @@
 ---
-title: "'TTT 228: Shitting The Bed'"
+title: 'TTT 228: Shitting The Bed'
 date: '2011-03-28T04:31:47+00:00'
 author: ["eric","rachelle"]
 image: "/images/lawless.jpg"

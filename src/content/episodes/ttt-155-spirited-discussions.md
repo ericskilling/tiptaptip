@@ -1,5 +1,5 @@
 ---
-title: "'TTT 155: Spirited Discussions'"
+title: 'TTT 155: Spirited Discussions'
 date: '2010-04-17T07:59:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/discuss.jpg"

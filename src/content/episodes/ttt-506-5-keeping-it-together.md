@@ -1,5 +1,5 @@
 ---
-title: "'TTT 506.5: Keeping it Together'"
+title: 'TTT 506.5: Keeping it Together'
 date: '2020-01-06T05:15:59+00:00'
 author: ["eric","rachelle"]
 image: "/images/keeping.jpg"

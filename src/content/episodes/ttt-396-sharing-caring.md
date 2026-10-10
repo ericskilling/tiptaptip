@@ -1,5 +1,5 @@
 ---
-title: "'TTT 396: Sharing Is Caring'"
+title: 'TTT 396: Sharing Is Caring'
 date: '2014-09-29T03:11:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/sharing_is_caring.jpg"

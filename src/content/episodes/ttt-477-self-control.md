@@ -1,5 +1,5 @@
 ---
-title: "'TTT 477: Self-Control'"
+title: 'TTT 477: Self-Control'
 date: '2018-04-30T03:27:24+00:00'
 author: ["eric","rachelle"]
 image: "/images/control.jpg"

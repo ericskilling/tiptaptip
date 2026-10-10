@@ -1,5 +1,5 @@
 ---
-title: "'TTT 361: Best Podcast Ever!'"
+title: 'TTT 361: Best Podcast Ever!'
 date: '2013-09-01T21:23:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/gaga_goat.jpg"

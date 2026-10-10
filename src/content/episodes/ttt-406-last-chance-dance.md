@@ -1,5 +1,5 @@
 ---
-title: "'TTT 406: Last Chance To Dance'"
+title: 'TTT 406: Last Chance To Dance'
 date: '2015-02-16T05:27:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/last_chance.jpg"

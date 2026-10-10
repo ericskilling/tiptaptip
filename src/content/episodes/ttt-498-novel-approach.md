@@ -1,5 +1,5 @@
 ---
-title: "'TTT 498: Novel Approach'"
+title: 'TTT 498: Novel Approach'
 date: '2019-06-09T05:05:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/romance.jpg"

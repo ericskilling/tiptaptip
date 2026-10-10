@@ -1,5 +1,5 @@
 ---
-title: "'TTT 342: Phoning It In'"
+title: 'TTT 342: Phoning It In'
 date: '2013-03-10T22:06:05+00:00'
 author: ["eric","rachelle"]
 image: "/images/phoningitin.jpg"

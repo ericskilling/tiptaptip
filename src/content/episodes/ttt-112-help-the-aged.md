@@ -1,5 +1,5 @@
 ---
-title: "'TTT 112: Help The Aged'"
+title: 'TTT 112: Help The Aged'
 date: '2009-09-16T04:39:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/aged-new.jpg"

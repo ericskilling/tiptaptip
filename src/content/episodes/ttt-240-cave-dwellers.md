@@ -1,5 +1,5 @@
 ---
-title: "'TTT 240: Cave Dwellers'"
+title: 'TTT 240: Cave Dwellers'
 date: '2011-05-19T23:46:55+00:00'
 author: ["eric","rachelle"]
 image: "/images/cave.jpg"

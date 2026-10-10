@@ -1,5 +1,5 @@
 ---
-title: "'TTT 62: World Famous'"
+title: 'TTT 62: World Famous'
 date: '2009-02-20T05:23:36+00:00'
 author: ["eric","rachelle"]
 image: "/images/ev2008winners.jpg"

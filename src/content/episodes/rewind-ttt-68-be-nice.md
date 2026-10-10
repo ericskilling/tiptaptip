@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 68: Be Nice'"
+title: 'REWIND - TTT 68: Be Nice'
 date: '2011-07-18T03:45:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/slap.jpg"

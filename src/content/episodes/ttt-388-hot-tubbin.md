@@ -1,5 +1,5 @@
 ---
-title: "'TTT 388: Hot Tubbin'''"
+title: 'TTT 388: Hot Tubbin'''
 date: '2014-06-29T20:12:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/hot_tubbin.jpg"

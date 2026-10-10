@@ -1,5 +1,5 @@
 ---
-title: "'TTT 85: Rachelleland vs. Ericistan'"
+title: 'TTT 85: Rachelleland vs. Ericistan'
 date: '2009-05-19T04:46:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/rachelle-leah-m4.jpg"

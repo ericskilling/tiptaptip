@@ -1,5 +1,5 @@
 ---
-title: "'TTT 288: Time To Get Alone'"
+title: 'TTT 288: Time To Get Alone'
 date: '2012-02-02T05:27:27+00:00'
 author: ["eric","rachelle"]
 image: "/images/badturtles.jpg"

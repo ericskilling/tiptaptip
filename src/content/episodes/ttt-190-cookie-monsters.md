@@ -1,5 +1,5 @@
 ---
-title: "'TTT 190: Cookie Monsters'"
+title: 'TTT 190: Cookie Monsters'
 date: '2010-10-07T13:49:29+00:00'
 author: ["eric","rachelle"]
 image: "/images/monsters.jpg"

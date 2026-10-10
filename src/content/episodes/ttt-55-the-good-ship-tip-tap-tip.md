@@ -1,5 +1,5 @@
 ---
-title: "'TTT 55: The Good Ship Tip Tap Tip'"
+title: 'TTT 55: The Good Ship Tip Tap Tip'
 date: '2009-01-18T14:01:13+00:00'
 author: ["eric","rachelle"]
 image: "/images/darcy1.jpg"

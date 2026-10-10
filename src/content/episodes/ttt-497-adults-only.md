@@ -1,5 +1,5 @@
 ---
-title: "'TTT 497: Adults Only'"
+title: 'TTT 497: Adults Only'
 date: '2019-05-20T05:34:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/adults.jpg"

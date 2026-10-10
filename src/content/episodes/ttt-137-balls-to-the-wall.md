@@ -1,5 +1,5 @@
 ---
-title: "'TTT 137: Balls To The Wall'"
+title: 'TTT 137: Balls To The Wall'
 date: '2010-01-11T05:42:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/dfr.jpg"

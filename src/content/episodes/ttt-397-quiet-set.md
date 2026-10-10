@@ -1,5 +1,5 @@
 ---
-title: "'TTT 397: Quiet On The Set!'"
+title: 'TTT 397: Quiet On The Set!'
 date: '2014-10-14T03:44:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/keep_quiet.jpg"

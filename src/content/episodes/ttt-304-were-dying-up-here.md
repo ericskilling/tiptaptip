@@ -1,5 +1,5 @@
 ---
-title: "'TTT 304: We''re Dying Up Here'"
+title: 'TTT 304: We''re Dying Up Here'
 date: '2012-04-26T03:43:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/hot.jpg"

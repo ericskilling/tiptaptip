@@ -1,5 +1,5 @@
 ---
-title: "'TTT 317: Bringing Up Baby'"
+title: 'TTT 317: Bringing Up Baby'
 date: '2012-07-15T02:45:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/baby.jpg"

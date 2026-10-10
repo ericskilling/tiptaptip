@@ -1,5 +1,5 @@
 ---
-title: "'TTT 376: Neighbourhood Watch'"
+title: 'TTT 376: Neighbourhood Watch'
 date: '2014-02-16T23:24:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/neighbourhood_watch.jpg"

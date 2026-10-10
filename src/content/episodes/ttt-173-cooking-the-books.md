@@ -1,5 +1,5 @@
 ---
-title: "'TTT 173: Cooking The Books'"
+title: 'TTT 173: Cooking The Books'
 date: '2010-07-15T04:49:02+00:00'
 author: ["eric","rachelle"]
 image: "/images/books.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 507 :  For The Love of The Show'"
+title: 'TTT 507 :  For The Love of The Show'
 date: '2020-01-20T00:36:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/show.jpg"

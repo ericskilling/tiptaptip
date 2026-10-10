@@ -1,5 +1,5 @@
 ---
-title: "'TTT 456: Clown Car'"
+title: 'TTT 456: Clown Car'
 date: '2017-04-18T03:53:45+00:00'
 author: ["eric","rachelle"]
 image: "/images/car.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 521: According To Plan'"
+title: 'TTT 521: According To Plan'
 date: '2020-12-07T00:53:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/plan.jpg"

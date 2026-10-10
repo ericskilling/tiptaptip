@@ -1,5 +1,5 @@
 ---
-title: "'TTT 58: Green Is The Color Of My True Love''s Hair'"
+title: 'TTT 58: Green Is The Color Of My True Love''s Hair'
 date: '2009-02-03T05:15:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/greenhair.jpg"

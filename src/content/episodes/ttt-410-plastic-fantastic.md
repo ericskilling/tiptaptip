@@ -1,5 +1,5 @@
 ---
-title: "'TTT 410: Plastic Fantastic'"
+title: 'TTT 410: Plastic Fantastic'
 date: '2015-03-29T23:05:55+00:00'
 author: ["eric","rachelle"]
 image: "/images/plastic_fantastic.jpg"

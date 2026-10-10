@@ -1,5 +1,5 @@
 ---
-title: "'TTT 216: Cock Lollies'"
+title: 'TTT 216: Cock Lollies'
 date: '2011-02-10T06:01:08+00:00'
 author: ["eric","rachelle"]
 image: "/images/weather.jpg"

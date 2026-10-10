@@ -1,5 +1,5 @@
 ---
-title: "'TTT 42: Two and a Half Podcasts'"
+title: 'TTT 42: Two and a Half Podcasts'
 date: '2008-11-25T04:38:50+00:00'
 author: ["eric","rachelle"]
 image: "/images/chainsaw1.jpg"

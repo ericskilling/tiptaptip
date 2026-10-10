@@ -1,5 +1,5 @@
 ---
-title: "'TTT 536: Quitters Always Win'"
+title: 'TTT 536: Quitters Always Win'
 date: '2022-05-08T23:34:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/quitter.jpg"

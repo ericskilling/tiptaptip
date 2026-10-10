@@ -1,5 +1,5 @@
 ---
-title: "'TTT 496: Fundamental Differences'"
+title: 'TTT 496: Fundamental Differences'
 date: '2019-05-01T02:25:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/fundamental.jpg"

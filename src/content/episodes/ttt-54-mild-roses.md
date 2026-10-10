@@ -1,5 +1,5 @@
 ---
-title: "'TTT 54: Mild Roses'"
+title: 'TTT 54: Mild Roses'
 date: '2009-01-14T04:30:35+00:00'
 author: ["eric","rachelle"]
 image: "/images/wildroses1.jpg"

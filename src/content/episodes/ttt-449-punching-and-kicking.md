@@ -1,5 +1,5 @@
 ---
-title: "'TTT 449: Punching And Kicking'"
+title: 'TTT 449: Punching And Kicking'
 date: '2017-01-02T01:29:20+00:00'
 author: ["eric","rachelle"]
 image: "/images/punching.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 160: Consummate Professionals'"
+title: 'TTT 160: Consummate Professionals'
 date: '2010-05-10T04:39:51+00:00'
 author: ["eric","rachelle"]
 image: "/images/professionals.jpg"

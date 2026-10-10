@@ -1,5 +1,5 @@
 ---
-title: "'TTT 203: Little Hearts'"
+title: 'TTT 203: Little Hearts'
 date: '2010-12-13T05:04:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/hamster.jpg"

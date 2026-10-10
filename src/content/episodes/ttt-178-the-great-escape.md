@@ -1,5 +1,5 @@
 ---
-title: "'TTT 178: The Great Escape'"
+title: 'TTT 178: The Great Escape'
 date: '2010-08-12T04:30:41+00:00'
 author: ["eric","rachelle"]
 image: "/images/escape.jpg"

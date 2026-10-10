@@ -1,5 +1,5 @@
 ---
-title: "'TTT 478: Professional Jealousy'"
+title: 'TTT 478: Professional Jealousy'
 date: '2018-05-20T22:57:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/ohno.jpg"

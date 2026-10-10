@@ -1,5 +1,5 @@
 ---
-title: "'TTT 470: Where The Sun Don''t Shine'"
+title: 'TTT 470: Where The Sun Don''t Shine'
 date: '2017-12-30T07:26:29+00:00'
 author: ["eric","rachelle"]
 image: "/images/sunshine.jpg"

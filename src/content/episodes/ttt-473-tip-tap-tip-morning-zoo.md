@@ -1,5 +1,5 @@
 ---
-title: "'TTT 473: The Tip Tap Tip Morning Zoo'"
+title: 'TTT 473: The Tip Tap Tip Morning Zoo'
 date: '2018-02-25T03:38:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/bananas.jpg"

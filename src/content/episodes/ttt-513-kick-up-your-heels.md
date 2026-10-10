@@ -1,5 +1,5 @@
 ---
-title: "'TTT 513: Kick Up Your Heels'"
+title: 'TTT 513: Kick Up Your Heels'
 date: '2020-05-10T05:44:37+00:00'
 author: ["eric","rachelle"]
 image: "/images/heels.jpg"

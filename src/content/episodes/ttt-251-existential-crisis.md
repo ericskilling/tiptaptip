@@ -1,5 +1,5 @@
 ---
-title: "'TTT 251: Existential Crisis'"
+title: 'TTT 251: Existential Crisis'
 date: '2011-07-04T04:05:53+00:00'
 author: ["eric","rachelle"]
 image: "/images/crisis.jpg"

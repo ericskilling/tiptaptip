@@ -1,5 +1,5 @@
 ---
-title: "'TTT 195: Cold Leatherette'"
+title: 'TTT 195: Cold Leatherette'
 date: '2010-10-28T03:01:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/leather.jpg"

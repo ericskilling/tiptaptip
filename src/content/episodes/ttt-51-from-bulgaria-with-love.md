@@ -1,5 +1,5 @@
 ---
-title: "'TTT 51: From Bulgaria With Love'"
+title: 'TTT 51: From Bulgaria With Love'
 date: '2008-12-31T06:09:58+00:00'
 author: ["eric","rachelle"]
 image: "/images/bulgaria1.gif"

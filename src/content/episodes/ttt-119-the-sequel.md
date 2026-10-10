@@ -1,5 +1,5 @@
 ---
-title: "'TTT 119: The Sequel'"
+title: 'TTT 119: The Sequel'
 date: '2009-10-21T04:47:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/sequel.jpg"

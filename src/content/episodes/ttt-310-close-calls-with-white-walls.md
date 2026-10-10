@@ -1,5 +1,5 @@
 ---
-title: "'TTT 310: Close Calls With White Walls'"
+title: 'TTT 310: Close Calls With White Walls'
 date: '2012-06-07T02:11:26+00:00'
 author: ["eric","rachelle"]
 image: "/images/walls.jpg"

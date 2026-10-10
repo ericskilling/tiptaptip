@@ -1,5 +1,5 @@
 ---
-title: "'TTT 25: Pleather Daddy'"
+title: 'TTT 25: Pleather Daddy'
 date: '2008-09-16T02:24:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/wordle1.jpg"

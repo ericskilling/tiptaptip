@@ -1,5 +1,5 @@
 ---
-title: "'TTT 14: Pizza Party Bubblebath'"
+title: 'TTT 14: Pizza Party Bubblebath'
 date: '2008-08-13T04:31:07+00:00'
 author: ["eric","rachelle"]
 image: "/images/pizza1.jpg"

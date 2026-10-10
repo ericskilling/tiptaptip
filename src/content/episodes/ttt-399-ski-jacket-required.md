@@ -1,5 +1,5 @@
 ---
-title: "'TTT 399: No Ski Jacket Required'"
+title: 'TTT 399: No Ski Jacket Required'
 date: '2014-11-02T04:03:31+00:00'
 author: ["eric","rachelle"]
 image: "/images/no_jacket_required.jpg"

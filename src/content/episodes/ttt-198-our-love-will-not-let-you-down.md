@@ -1,5 +1,5 @@
 ---
-title: "'TTT 198: Our Love Will Not Let You Down'"
+title: 'TTT 198: Our Love Will Not Let You Down'
 date: '2010-11-11T04:14:45+00:00'
 author: ["eric","rachelle"]
 image: "/images/adonispalin.jpg"

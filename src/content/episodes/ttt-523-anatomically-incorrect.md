@@ -1,5 +1,5 @@
 ---
-title: "'TTT 523: Anatomically Incorrect'"
+title: 'TTT 523: Anatomically Incorrect'
 date: '2021-01-10T21:52:28+00:00'
 author: ["eric","rachelle"]
 image: "/images/correct.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 254: Punch In The Face'"
+title: 'TTT 254: Punch In The Face'
 date: '2011-07-21T04:31:42+00:00'
 author: ["eric","rachelle"]
 image: "/images/face.jpg"

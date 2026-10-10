@@ -1,5 +1,5 @@
 ---
-title: "'TTT 426: Hey Everyone! It''s Christmas!'"
+title: 'TTT 426: Hey Everyone! It''s Christmas!'
 date: '2015-12-22T05:07:25+00:00'
 author: ["eric","rachelle"]
 image: "/images/hey_everyone_its_christmas.jpg"

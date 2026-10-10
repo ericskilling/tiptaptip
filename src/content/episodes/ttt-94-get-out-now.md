@@ -1,5 +1,5 @@
 ---
-title: "'TTT 94: Get Out Now!'"
+title: 'TTT 94: Get Out Now!'
 date: '2009-07-03T04:57:40+00:00'
 author: ["eric","rachelle"]
 image: "/images/monstercism.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 21: Provocateurs'"
+title: 'TTT 21: Provocateurs'
 date: '2008-09-03T04:58:21+00:00'
 author: ["eric","rachelle"]
 image: "/images/artisfun1.jpg"

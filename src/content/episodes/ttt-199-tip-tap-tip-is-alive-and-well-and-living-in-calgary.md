@@ -1,5 +1,5 @@
 ---
-title: "'TTT 199: Tip Tap Tip Is Alive And Well And Living In Calgary'"
+title: 'TTT 199: Tip Tap Tip Is Alive And Well And Living In Calgary'
 date: '2010-11-15T05:26:16+00:00'
 author: ["eric","rachelle"]
 image: "/images/boom.jpg"

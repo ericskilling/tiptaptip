@@ -1,5 +1,5 @@
 ---
-title: "'TTT 561: Get on the Bus'"
+title: 'TTT 561: Get on the Bus'
 date: '2026-04-08T03:04:44+00:00'
 author: ["eric","rachelle"]
 description: "Spring has sprung. Or something. In this episode, Ward has his segment (Geometry Dash); Eric has his segment (making stuff out of cardboard); and Rachelle has her segment (all the funny stuff)."

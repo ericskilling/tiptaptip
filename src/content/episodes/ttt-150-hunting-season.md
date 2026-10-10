@@ -1,5 +1,5 @@
 ---
-title: "'TTT 150: Hunting Season'"
+title: 'TTT 150: Hunting Season'
 date: '2010-03-22T03:59:28+00:00'
 author: ["eric","rachelle"]
 image: "/images/pheasant.jpg"

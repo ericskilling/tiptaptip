@@ -1,5 +1,5 @@
 ---
-title: "'TTT 40: Homemaking'"
+title: 'TTT 40: Homemaking'
 date: '2008-11-18T04:07:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/homemaker1.jpg"

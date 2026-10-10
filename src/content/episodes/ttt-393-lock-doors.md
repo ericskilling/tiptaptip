@@ -1,5 +1,5 @@
 ---
-title: "'TTT 393: Lock The Doors'"
+title: 'TTT 393: Lock The Doors'
 date: '2014-08-25T03:49:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/world_financial_group_scam_lies.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 328: For Lack Of Trying'"
+title: 'TTT 328: For Lack Of Trying'
 date: '2012-11-02T04:38:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/littlethings.jpg"

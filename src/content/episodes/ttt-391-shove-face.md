@@ -1,5 +1,5 @@
 ---
-title: "'TTT 391: Shove It In Your Face!'"
+title: 'TTT 391: Shove It In Your Face!'
 date: '2014-07-29T04:07:10+00:00'
 author: ["eric","rachelle"]
 image: "/images/in_your_face.jpg"

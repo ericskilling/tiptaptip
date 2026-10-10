@@ -1,5 +1,5 @@
 ---
-title: "'TTT 528: No Hard Feelings'"
+title: 'TTT 528: No Hard Feelings'
 date: '2021-05-09T21:46:34+00:00'
 author: ["eric","rachelle"]
 image: "/images/feel.jpg"

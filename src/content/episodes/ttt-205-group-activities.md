@@ -1,5 +1,5 @@
 ---
-title: "'TTT 205: Group Activities'"
+title: 'TTT 205: Group Activities'
 date: '2010-12-20T05:21:17+00:00'
 author: ["eric","rachelle"]
 image: "/images/activity.jpg"

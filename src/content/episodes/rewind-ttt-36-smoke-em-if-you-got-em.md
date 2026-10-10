@@ -1,5 +1,5 @@
 ---
-title: "'REWIND - TTT 36: Smoke ''Em If You Got ''Em'"
+title: 'REWIND - TTT 36: Smoke ''Em If You Got ''Em'
 date: '2010-11-25T01:54:01+00:00'
 author: ["eric","rachelle"]
 image: "/images/smoke.jpg"

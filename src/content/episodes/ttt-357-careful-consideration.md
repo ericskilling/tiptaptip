@@ -1,5 +1,5 @@
 ---
-title: "'TTT 357: Careful Consideration'"
+title: 'TTT 357: Careful Consideration'
 date: '2013-07-15T03:49:38+00:00'
 author: ["eric","rachelle"]
 image: "/images/careful_consideration.jpg"

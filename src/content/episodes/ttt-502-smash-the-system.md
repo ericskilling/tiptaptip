@@ -1,5 +1,5 @@
 ---
-title: "'TTT 502: Smash The System!'"
+title: 'TTT 502: Smash The System!'
 date: '2019-08-25T23:43:14+00:00'
 author: ["eric","rachelle"]
 image: "/images/smash2.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "'TTT 38: Who''s Nailin'' Tip Tap Tip?'"
+title: 'TTT 38: Who''s Nailin'' Tip Tap Tip?'
 date: '2008-11-10T04:39:18+00:00'
 author: ["eric","rachelle"]
 image: "/images/swearwords1.jpg"

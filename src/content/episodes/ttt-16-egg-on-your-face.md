@@ -1,5 +1,5 @@
 ---
-title: "'TTT 16: Egg On Your Face'"
+title: 'TTT 16: Egg On Your Face'
 date: '2008-08-20T04:12:22+00:00'
 author: ["eric","rachelle"]
 image: "/images/egg-on-face11.jpg"

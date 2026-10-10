@@ -1,5 +1,5 @@
 ---
-title: "'TTT 284: Mysteries Of The Universe'"
+title: 'TTT 284: Mysteries Of The Universe'
 date: '2012-01-12T06:38:11+00:00'
 author: ["eric","rachelle"]
 image: "/images/vermin.jpg"

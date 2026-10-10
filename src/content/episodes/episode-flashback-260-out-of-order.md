@@ -1,5 +1,5 @@
 ---
-title: "'Episode Flashback —  260: Out Of Order'"
+title: 'Episode Flashback —  260: Out Of Order'
 date: '2018-08-08T13:00:49+00:00'
 author: ["eric","rachelle"]
 image: "/images/order.jpg"

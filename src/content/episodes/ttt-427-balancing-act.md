@@ -1,5 +1,5 @@
 ---
-title: "'TTT 427: Balancing Act'"
+title: 'TTT 427: Balancing Act'
 date: '2016-01-05T05:12:09+00:00'
 author: ["eric","rachelle"]
 image: "/images/balance.jpg"

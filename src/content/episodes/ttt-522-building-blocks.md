@@ -1,5 +1,5 @@
 ---
-title: "'TTT 522: Building Blocks'"
+title: 'TTT 522: Building Blocks'
 date: '2020-12-14T04:03:59+00:00'
 author: ["eric","rachelle"]
 image: "/images/blocks.jpg"

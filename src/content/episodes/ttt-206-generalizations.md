@@ -1,5 +1,5 @@
 ---
-title: "'TTT 206: Generalizations'"
+title: 'TTT 206: Generalizations'
 date: '2010-12-30T04:01:30+00:00'
 author: ["eric","rachelle"]
 image: "/images/menwomen.jpg"

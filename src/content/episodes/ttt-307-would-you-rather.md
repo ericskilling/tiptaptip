@@ -1,5 +1,5 @@
 ---
-title: "'TTT 307: Would You Rather?'"
+title: 'TTT 307: Would You Rather?'
 date: '2012-05-10T04:48:29+00:00'
 author: ["eric","rachelle"]
 image: "/images/wouldyourather.jpg"
